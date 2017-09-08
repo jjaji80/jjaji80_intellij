@@ -830,11 +830,11 @@
         <mark key="^" line="5767" column="0" />
         <mark key="." line="5767" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1504791564828">
-        <mark key="[" line="350" column="44" />
-        <mark key="]" line="351" column="35" />
-        <mark key="." line="351" column="35" />
-        <mark key="^" line="351" column="35" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1504856162016">
+        <mark key="[" line="351" column="20" />
+        <mark key="]" line="351" column="34" />
+        <mark key="." line="351" column="34" />
+        <mark key="^" line="351" column="34" />
       </file>
       <file name="$USER_HOME$/git/p1-doc/議事録/20170323.md" timestamp="1490340746149">
         <mark key="[" line="77" column="2" />
@@ -969,7 +969,7 @@
         <text>orInputAmOsWgForm</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1 == random.nextInt(100)</text>
       </register>
       <register name="/" type="4">
         <text>24</text>
@@ -978,31 +978,31 @@
         <text encoding="base64">c2hvd1JlYWR5Tm90aWNlIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gIlNFIiArIHRhcmdldERhdGUuc3Vic3RyaW5nKDQsIDUpICsgdGFyZ2V0RGF0ZS5zdWJzdHJpbmcoNSwgNykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCByYW5kb20gPSBSYW5kb20oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gIlNFIiArIHRhcmdldERhdGUuc3Vic3RyaW5nKDQsIDUpICsgdGFyZ2V0RGF0ZS5zdWJzdHJpbmcoNSwgNykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ZvcnR1bmV0ZWxsZXJfdGVsJyA9PiAkYm9va2luZy0+c2NoZWR1bGUtPmZvcnR1bmV0ZWxsZXItPnRlbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkZ2xvYmFsX21lc3NhZ2UgJiYgJHNob3dSZWFkeU5vdGljZSApewoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ZvcnR1bmV0ZWxsZXJfdGVsJyA9PiAkYm9va2luZy0+c2NoZWR1bGUtPmZvcnR1bmV0ZWxsZXItPnRlbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TW9iaWxlQ29udHJvbGxlcuOBrldlYlZpZXfjga7nlLvpnaLjgpJzcOmFjeS4i+OBq+OBmeOCi+W/heimgeOBjOOBguOCiwo=</text>
+        <text encoding="base64">ICAgICAgICBpZigkZ2xvYmFsX21lc3NhZ2UgJiYgJHNob3dSZWFkeU5vdGljZSApewoKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGVOb3coKQo=</text>
+        <text encoding="base64">TW9iaWxlQ29udHJvbGxlcuOBrldlYlZpZXfjga7nlLvpnaLjgpJzcOmFjeS4i+OBq+OBmeOCi+W/heimgeOBjOOBguOCiwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8JCQkJCVRvYXN0Lm1ha2VUZXh0KENsaWVudEFjdGl2aXR5LnRoaXMsIHJlc3VsdC5nZXRTdHJpbmcoImFuZHJvaWQiKSwgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKTsKCQkJCQlTdHJpbmcgaG9nZSA9IHJlc3VsdC5nZXRTdHJpbmcoImFuZHJvaWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGVOb3coKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlUb2FzdC5tYWtlVGV4dChDbGllbnRBY3Rpdml0eS50aGlzLCBFbHNhVXRpbC5nZXRWZXJzaW9uTmFtZShnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSksIFRvYXN0LkxFTkdUSF9MT05HKS5zaG93KCk7Cg==</text>
+        <text encoding="base64">Ly8JCQkJCVRvYXN0Lm1ha2VUZXh0KENsaWVudEFjdGl2aXR5LnRoaXMsIHJlc3VsdC5nZXRTdHJpbmcoImFuZHJvaWQiKSwgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKTsKCQkJCQlTdHJpbmcgaG9nZSA9IHJlc3VsdC5nZXRTdHJpbmcoImFuZHJvaWQiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlUb2FzdC5tYWtlVGV4dChDbGllbnRBY3Rpdml0eS50aGlzLCBFbHNhVXRpbC5nZXRWZXJzaW9uTmFtZShnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSksIFRvYXN0LkxFTkdUSF9MT05HKS5zaG93KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/172.31.4.112/localhost</text>
