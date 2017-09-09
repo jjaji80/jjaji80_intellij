@@ -76,11 +76,11 @@
         <mark key="." line="18" column="78" />
         <mark key="^" line="18" column="78" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/webroot/version.json" timestamp="1504689011494">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="16" />
-        <mark key="^" line="2" column="16" />
-        <mark key="." line="2" column="16" />
+      <file name="$USER_HOME$/git/utel/app/webroot/version.json" timestamp="1504943459640">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Staging/const.php" timestamp="1504244069925">
         <mark key="[" line="3" column="47" />
@@ -122,10 +122,6 @@
         <mark key="]" line="3" column="30" />
         <mark key="." line="3" column="30" />
         <mark key="^" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/config/Migrations/20170908080601_AddReadyColumnsToFortunetellers.php" timestamp="1504858504346">
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="15" column="36" />
       </file>
       <file name="$USER_HOME$/git/docs/pending/nursery_school/ja/make.sh" timestamp="1493198040769">
         <mark key="[" line="1" column="127" />
@@ -397,10 +393,6 @@
         <mark key="]" line="40" column="43" />
         <mark key="^" line="61" column="18" />
         <mark key="." line="61" column="18" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Layout/fortuneteller.ctp" timestamp="1504846125963">
-        <mark key="[" line="69" column="33" />
-        <mark key="]" line="69" column="48" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Client.php" timestamp="1504666281636">
         <mark key="'" line="317" column="61" />
@@ -1002,7 +994,7 @@
         <text>orInputAmOsWgForm</text>
       </register>
       <register name="-" type="4">
-        <text>clientProfile.name</text>
+        <text>&quot;1.32&quot;</text>
       </register>
       <register name="/" type="4">
         <text>GCM</text>
