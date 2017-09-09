@@ -1289,7 +1289,9 @@
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="7a706b" />
+      </value>
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
@@ -1772,6 +1774,11 @@
     <option name="LOCALE.STRING_LITERAL">
       <value>
         <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
+    <option name="LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="5b8a96" />
       </value>
     </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
@@ -12110,6 +12117,11 @@
     <option name="Object">
       <value>
         <option name="FOREGROUND" value="b58800" />
+      </value>
+    </option>
+    <option name="PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="73833f" />
       </value>
     </option>
     <option name="PHP_COMMENT">
