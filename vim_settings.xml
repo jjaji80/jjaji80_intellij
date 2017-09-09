@@ -721,12 +721,13 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1504919678492">
-        <mark key="a" line="163" column="4" />
-        <mark key="'" line="319" column="48" />
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="210" column="122" />
-        <mark key="." line="162" column="0" />
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1504934242365">
+        <mark key="a" line="741" column="56" />
+        <mark key="'" line="351" column="67" />
+        <mark key="[" line="745" column="37" />
+        <mark key="]" line="746" column="63" />
+        <mark key="." line="746" column="63" />
+        <mark key="^" line="746" column="63" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/tag/TagRepository.java" timestamp="1504090902665">
         <mark key="[" line="31" column="77" />
@@ -881,8 +882,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="30" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/SummaryController.java" />
-      <jump line="9" column="35" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/hosts" />
       <jump line="123" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Config/Env/Production/const.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Config/const.php" />
@@ -981,6 +980,8 @@
       <jump line="344" column="31" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
       <jump line="184" column="24" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="317" column="48" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="168" column="8" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="351" column="67" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -997,49 +998,51 @@
         <text>orInputAmOsWgForm</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>ireba</text>
+        <text encoding="base64">XDxjbGllbnRQcm9maWxlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXB1YmxpYyBJbnRlZ2VyIHN0YXR1czsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVG9hCg==</text>
+        <text encoding="base64">ICAgICAgICBGaXJlYmFzZUNyYXNoLnJlcG9ydChuZXcgRXhjZXB0aW9uKCk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>String.format(&quot;Device has encountered an error and has stopped&quot; +
+                &quot; listening for incoming connections: %s&quot;, error))</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJTVEFUVVMgTUVTU0FHRT0iICsgcmVzcG9uc2VFbnRpdHkuZ2V0Qm9keSgpLm1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBGaXJlYmFzZUNyYXNoLnJlcG9ydChuZXcgRXhjZXB0aW9uKFN0cmluZy5mb3JtYXQoKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBib29sZWFuIHN1Y2Nlc3M7Cg==</text>
+      <register name="4" type="4">
+        <text>&quot;Device has encountered an error and has stopped&quot; +
+                &quot; listening for incoming connections: %s&quot;, error))</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBJZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVG9hCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGaXJlYmFzZUNyYXNoLnJlcG9ydChuZXcgRXhjZXB0aW9uKCJ0ZXN0IikpOwogICAgICAgIFRvYXN0Lm1ha2VUZXh0KENsaWVudEFjdGl2aXR5LnRoaXMsICLmnIDmlrDjg5Djg7zjgrjjg6fjg7PjgYzlhazplovjgZXjgozjgb7jgZfjgZ/jga7jgafjgIHjgqLjg4Pjg5fjg4fjg7zjg4jjgpLjgYrpoZjjgYTjgZfjgb7jgZnjgIIiLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJTVEFUVVMgTUVTU0FHRT0iICsgcmVzcG9uc2VFbnRpdHkuZ2V0Qm9keSgpLm1lc3NhZ2UpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBib29sZWFuIHN1Y2Nlc3M7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBJZwo=</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>70</text>
       </register>
     </registers>
     <search>
-      <last-search>ireba</last-search>
+      <last-search encoding="base64">XDxjbGllbnRQcm9maWxlXD4=</last-search>
       <last-offset />
-      <last-pattern>ireba</last-pattern>
+      <last-pattern encoding="base64">XDxjbGllbnRQcm9maWxlXD4=</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.31.4.112</last-substitute>
       <last-dir>1</last-dir>
@@ -1047,7 +1050,6 @@
     </search>
     <history>
       <history-search>
-        <entry>172.31.4.112</entry>
         <entry encoding="base64">XDx0ZXJtRmlsdGVyM1w+</entry>
         <entry encoding="base64">XDxiYXNlVXJpXD4=</entry>
         <entry encoding="base64">XDxpc3N1ZV90aWNrZXRcPg==</entry>
@@ -1067,10 +1069,9 @@
         <entry encoding="base64">XDxjbG9zZVBlcmNlbnRcPg==</entry>
         <entry encoding="base64">XDxwb3NpdGlvbkJ1eVNlbGxSYXRlXD4=</entry>
         <entry>ireba</entry>
+        <entry encoding="base64">XDxjbGllbnRQcm9maWxlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>52</entry>
-        <entry>%d</entry>
         <entry>%s/^A//g</entry>
         <entry>%s/\^A//g</entry>
         <entry>%s/\\0//g</entry>
@@ -1088,7 +1089,9 @@
         <entry>%s/172.31.21.107/localhost/</entry>
         <entry>%s/172.31.21.107/localhost</entry>
         <entry>%s/172.31.4.112/localhost</entry>
+        <entry>742</entry>
         <entry>1</entry>
+        <entry>70</entry>
       </history-cmd>
       <history-expr />
       <history-input />
