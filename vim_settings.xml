@@ -435,12 +435,12 @@
         <mark key="." line="1" column="55" />
         <mark key="^" line="1" column="55" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" timestamp="1504912448851">
-        <mark key="'" line="397" column="23" />
-        <mark key="[" line="29" column="76" />
-        <mark key="]" line="29" column="79" />
-        <mark key="." line="29" column="79" />
-        <mark key="^" line="29" column="79" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" timestamp="1505055781275">
+        <mark key="'" line="400" column="23" />
+        <mark key="[" line="51" column="9" />
+        <mark key="]" line="51" column="14" />
+        <mark key="." line="51" column="14" />
+        <mark key="^" line="51" column="14" />
       </file>
       <file name="$USER_HOME$/git/docs/pending/nursery_school/en/make.sh" timestamp="1493198062413">
         <mark key="[" line="1" column="53" />
@@ -689,7 +689,6 @@
         <mark key="." line="7" column="25" />
         <mark key="^" line="7" column="25" />
       </file>
-      <file name="/google-services.json" timestamp="1504937193503" />
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" timestamp="1504185446554">
         <mark key="'" line="18" column="21" />
         <mark key="[" line="15" column="8" />
@@ -857,12 +856,12 @@
         <mark key="^" line="5767" column="0" />
         <mark key="." line="5767" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1504912757339">
-        <mark key="'" line="345" column="31" />
-        <mark key="[" line="357" column="30" />
-        <mark key="]" line="357" column="70" />
-        <mark key="." line="357" column="70" />
-        <mark key="^" line="357" column="70" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1505056284047">
+        <mark key="'" line="349" column="31" />
+        <mark key="[" line="338" column="19" />
+        <mark key="]" line="338" column="19" />
+        <mark key="." line="338" column="19" />
+        <mark key="^" line="338" column="21" />
       </file>
       <file name="$USER_HOME$/git/p1-doc/議事録/20170323.md" timestamp="1490340746149">
         <mark key="[" line="77" column="2" />
@@ -994,7 +993,7 @@
         <text>orInputAmOsWgForm</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Mjg1MTgg</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>&quot;20&quot;</text>
@@ -1003,37 +1002,31 @@
         <text>Microphone permissions needed. Please allow in App Settings for additional functionality.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">44OX44OD44K344Ol6YCa55+l5Y+X5L+h5pmC44Gr44CBamF2YXNjcmlwdOOCkuOCreODg+OCrwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBSZXF1aXJlc0FwaShhcGkgPSBCdWlsZC5WRVJTSU9OX0NPREVTLkpFTExZX0JFQU5fTVIxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVmaW5lKCdHQ01fQVBJX0tFWScsJ0FJemFTeUJZVE9pZEJKSzN0eU80dTRCZERDMTFTa2l4dTZBZnhlbycpLAo=</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBDb2lubWEK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>Bundle params = new Bundle();
-        params.putString(FirebaseAnalytics.Param.ITEM_ID, &quot;10&quot;);
-        params.putString(FirebaseAnalytics.Param.ITEM_NAME, );
-        params.putString(FirebaseAnalytics.Param.CONTENT_TYPE, &quot;text&quot;);
-        mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, params);</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB3aGwK</text>
       </register>
-      <register name="7" type="4">
-        <text>String.format(&quot;Device has encountered an error and has stopped&quot; +
-                &quot; listening for incoming connections: %s&quot;, error)</text>
+      <register name="7" type="2">
+        <text encoding="base64">44OX44OD44K344Ol6YCa55+l5Y+X5L+h5pmC44Gr44CBamF2YXNjcmlwdOOCkuOCreODg+OCrwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>String.format(&quot;Device has encountered an error and has stopped&quot; +
-                &quot; listening for incoming connections: %s&quot;, error)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBSZXF1aXJlc0FwaShhcGkgPSBCdWlsZC5WRVJTSU9OX0NPREVTLkpFTExZX0JFQU5fTVIxKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgZGVmaW5lKCdHQ01fQVBJX0tFWScsJ0FJemFTeUJZVE9pZEJKSzN0eU80dTRCZERDMTFTa2l4dTZBZnhlbycpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
@@ -1046,7 +1039,7 @@
       <last-replace>localhost</last-replace>
       <last-substitute>172.31.4.112</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
