@@ -716,9 +716,9 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1505006891849">
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1505030616930">
         <mark key="a" line="577" column="51" />
-        <mark key="'" line="403" column="0" />
+        <mark key="'" line="156" column="25" />
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
@@ -878,7 +878,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="15" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/SummaryController.java" />
       <jump line="31" column="15" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/SummaryController.java" />
       <jump line="32" column="15" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/SummaryController.java" />
       <jump line="33" column="15" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/SummaryController.java" />
@@ -978,6 +977,7 @@
       <jump line="345" column="58" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="404" column="0" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="156" column="25" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -997,7 +997,7 @@
         <text encoding="base64">Mjg1MTgg</text>
       </register>
       <register name="/" type="4">
-        <text>GCM</text>
+        <text>&quot;20&quot;</text>
       </register>
       <register name="0" type="4">
         <text>Microphone permissions needed. Please allow in App Settings for additional functionality.</text>
@@ -1040,9 +1040,9 @@
       </register>
     </registers>
     <search>
-      <last-search>GCM</last-search>
+      <last-search>&quot;20&quot;</last-search>
       <last-offset />
-      <last-pattern>GCM</last-pattern>
+      <last-pattern>&quot;20&quot;</last-pattern>
       <last-replace>localhost</last-replace>
       <last-substitute>172.31.4.112</last-substitute>
       <last-dir>1</last-dir>
@@ -1050,7 +1050,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
         <entry encoding="base64">XDxldmVudEFycmF5XD4=</entry>
         <entry>24</entry>
         <entry>mysql</entry>
@@ -1070,6 +1069,7 @@
         <entry>discon</entry>
         <entry>Toast</entry>
         <entry>GCM</entry>
+        <entry>&quot;20&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\^A//g</entry>
