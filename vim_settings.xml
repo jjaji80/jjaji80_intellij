@@ -667,12 +667,13 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/AppController.php" timestamp="1505095523769">
+      <file name="$USER_HOME$/git/utel/app/src/Controller/AppController.php" timestamp="1505098773566">
         <mark key="a" line="356" column="49" />
         <mark key="'" line="299" column="8" />
-        <mark key="[" line="356" column="0" />
-        <mark key="]" line="356" column="0" />
-        <mark key="." line="356" column="0" />
+        <mark key="[" line="353" column="6" />
+        <mark key="]" line="353" column="6" />
+        <mark key="." line="353" column="6" />
+        <mark key="^" line="353" column="6" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1504244877150">
         <mark key="[" line="1194" column="0" />
@@ -1064,7 +1065,7 @@
         <text encoding="base64">ICAgICAgICB3aGwK</text>
       </register>
       <register name=":" type="4">
-        <text>202</text>
+        <text>354</text>
       </register>
     </registers>
     <search>
@@ -1100,7 +1101,6 @@
         <entry>post</entry>
       </history-search>
       <history-cmd>
-        <entry>149</entry>
         <entry>%y</entry>
         <entry>21</entry>
         <entry>%s/192.168.0.51/192.168.2.100</entry>
@@ -1120,6 +1120,7 @@
         <entry>1</entry>
         <entry>214</entry>
         <entry>202</entry>
+        <entry>354</entry>
       </history-cmd>
       <history-expr />
       <history-input />
