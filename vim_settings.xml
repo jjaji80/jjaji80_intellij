@@ -770,9 +770,9 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1505125491261">
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1505128086178">
         <mark key="a" line="145" column="15" />
-        <mark key="'" line="560" column="28" />
+        <mark key="'" line="833" column="56" />
         <mark key="[" line="160" column="54" />
         <mark key="]" line="245" column="24" />
         <mark key="." line="245" column="24" />
@@ -942,7 +942,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="16" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="35" column="0" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
       <jump line="40" column="46" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
       <jump line="41" column="40" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
@@ -1042,6 +1041,7 @@
       <jump line="560" column="28" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="23" column="0" filename="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Bookings/index.ctp" />
       <jump line="19" column="4" filename="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/sp/Bookings/index.ctp" />
+      <jump line="833" column="56" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1061,7 +1061,7 @@
         <text>var_dump($bookings)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkVXJsXD4=</text>
+        <text>version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiICBsYW5ndWFnZT0iamF2YXNjcmlwdCI+CiAgICBhamF4TWV0aG9kKCk7CiAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnaG9nZTInKS5pbm5lckhUTUwgPSdtYW1lJwogICAgPC9zY3JpcHQ+Cg==</text>
@@ -1098,9 +1098,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkVXJsXD4=</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkVXJsXD4=</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-replace>192.168.2.100</last-replace>
       <last-substitute>localhost</last-substitute>
       <last-dir>1</last-dir>
@@ -1108,7 +1108,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb3NpdGlvbkJ1eVNlbGxSYXRlXD4=</entry>
         <entry>ireba</entry>
         <entry encoding="base64">XDxjbGllbnRQcm9maWxlXD4=</entry>
         <entry>api_key</entry>
@@ -1128,6 +1127,7 @@
         <entry>Toas</entry>
         <entry>webView</entry>
         <entry encoding="base64">XDxsb2FkVXJsXD4=</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>%s/192.168.2.100/192.168.0.51</entry>
