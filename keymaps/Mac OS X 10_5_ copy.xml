@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt r" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="r" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="o" />
   </action>
