@@ -21,6 +21,13 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" timestamp="1505089798201">
+        <mark key="'" line="9" column="37" />
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="71" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="28" />
+      </file>
       <file name="/a.dummy" timestamp="1502094427596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -715,13 +722,13 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1505030616930">
-        <mark key="a" line="577" column="51" />
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1505089261003">
+        <mark key="a" line="202" column="22" />
         <mark key="'" line="156" column="25" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
-        <mark key="^" line="403" column="19" />
+        <mark key="[" line="202" column="21" />
+        <mark key="]" line="202" column="50" />
+        <mark key="." line="202" column="50" />
+        <mark key="^" line="202" column="50" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/tag/TagRepository.java" timestamp="1504090902665">
         <mark key="[" line="31" column="77" />
@@ -770,6 +777,9 @@
         <mark key="]" line="88" column="55" />
         <mark key="." line="88" column="55" />
       </file>
+      <file name="/dummy.sql" timestamp="1505090225786">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1504941299865">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="113" column="0" />
@@ -777,8 +787,8 @@
         <mark key="^" line="113" column="182" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505007215125">
-        <mark key="[" line="1" column="7" />
+      <file name="/Dummy.txt" timestamp="1505089706092">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
@@ -877,7 +887,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="15" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/SummaryController.java" />
       <jump line="32" column="15" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/SummaryController.java" />
       <jump line="33" column="15" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/SummaryController.java" />
       <jump line="34" column="15" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/SummaryController.java" />
@@ -977,6 +986,7 @@
       <jump line="404" column="0" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/git/utel/app/config/define.php" />
       <jump line="156" column="25" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="9" column="37" filename="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -993,13 +1003,13 @@
         <text>orInputAmOsWgForm</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>&quot;https://www.elsa-online.net/version.json&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;20&quot;</text>
+        <text>localhost</text>
       </register>
       <register name="0" type="4">
-        <text>Microphone permissions needed. Please allow in App Settings for additional functionality.</text>
+        <text>https://www.elsa-online.net/version.json</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nCg==</text>
@@ -1029,21 +1039,20 @@
         <text encoding="base64">ICAgICAgZGVmaW5lKCdHQ01fQVBJX0tFWScsJ0FJemFTeUJZVE9pZEJKSzN0eU80dTRCZERDMTFTa2l4dTZBZnhlbycpLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>41</text>
+        <text>%s/localhost/192.168.2.100/g</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;20&quot;</last-search>
+      <last-search>localhost</last-search>
       <last-offset />
-      <last-pattern>&quot;20&quot;</last-pattern>
-      <last-replace>localhost</last-replace>
-      <last-substitute>172.31.4.112</last-substitute>
+      <last-pattern>localhost</last-pattern>
+      <last-replace>192.168.2.100</last-replace>
+      <last-substitute>localhost</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxldmVudEFycmF5XD4=</entry>
         <entry>24</entry>
         <entry>mysql</entry>
         <entry encoding="base64">XDxzYXZlXD4=</entry>
@@ -1063,9 +1072,9 @@
         <entry>Toast</entry>
         <entry>GCM</entry>
         <entry>&quot;20&quot;</entry>
+        <entry>localhost</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\^A//g</entry>
         <entry>%s/\\0//g</entry>
         <entry>2</entry>
         <entry>149</entry>
@@ -1085,6 +1094,7 @@
         <entry>1</entry>
         <entry>70</entry>
         <entry>41</entry>
+        <entry>%s/localhost/192.168.2.100/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
