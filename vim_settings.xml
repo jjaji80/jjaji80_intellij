@@ -166,12 +166,12 @@
         <mark key="." line="2" column="75" />
         <mark key="^" line="2" column="75" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Bookings/index.ctp" timestamp="1505112196520">
+      <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Bookings/index.ctp" timestamp="1505113031104">
         <mark key="'" line="0" column="21" />
-        <mark key="[" line="72" column="31" />
-        <mark key="]" line="73" column="16" />
-        <mark key="^" line="73" column="16" />
-        <mark key="." line="73" column="16" />
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="8" column="30" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Search.php" timestamp="1504665915054">
         <mark key="[" line="451" column="0" />
@@ -1043,7 +1043,7 @@
         <text>orInputAmOsWgForm</text>
       </register>
       <register name="-" type="4">
-        <text>POST</text>
+        <text>print</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -1052,31 +1052,31 @@
         <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YTogeyBuYW1lIDogInRhbmFrYSIgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KHJlc3BvbnNlKTsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YTogeyBuYW1lIDogInRhbmFrYSIgfSwK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiT0siKTtkaWUoKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGFqYXgoKXsKICAgICAgICBwcmludCgiT0siKTtkaWUoKTsKICAgICAgICAkdGhpcy0+YXV0b1JlbmRlciA9IEZBTFNFOwogICAgICAgIHJldHVybiAkdGhpcy0+ZGF0YVsnbmFtZSddLiLjgZXjgpPjgIHjgZPjgpPjgavjgaHjga8iOyAgIC8vZWNob+OBp+OCgk9LCiAgICB9</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGFqYXgoKXsKICAgICAgICBwcmludCgiT0siKTtkaWUoKTsKICAgICAgICAkdGhpcy0+YXV0b1JlbmRlciA9IEZBTFNFOwogICAgICAgICAgICByZXR1cm4gJHRoaXMtPmRhdGFbJ25hbWUnXS4i44GV44KT44CB44GT44KT44Gr44Gh44GvIjsgICAvL2VjaG/jgafjgoJPSwogICAgfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpZigkdGhpcy0+cmVxdWVzdC0+aXMoJ2FqYXgnKSkgewo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZm9ydHVuZXRlbGxlcik7ZGllKCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJHVzZXItPmlkKTsKICAgICAgICAgICAgdmFyX2R1bXAoJHRoaXMtPmlzQmxhY2soJHVzZXItPmlkKSk7CiAgICAgICAgICAgIGRpZSgpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhcl9kdW1wKCR1c2VyKTsKICAgICAgICAgIGRpZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJHVzZXItPmlkKTsKICAgICAgICAgICAgdmFyX2R1bXAoJHRoaXMtPmlzQmxhY2soJHVzZXItPmlkKSk7CiAgICAgICAgICAgIGRpZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
