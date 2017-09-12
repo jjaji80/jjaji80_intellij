@@ -188,7 +188,6 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/Admin/BookingsController.php" timestamp="1505187958359" />
       <file name="$USER_HOME$/git/utel/app/config/bootstrap.php" timestamp="1505091762963">
         <mark key="'" line="222" column="3" />
         <mark key="[" line="225" column="4" />
@@ -558,6 +557,7 @@
         <mark key="." line="47" column="55" />
         <mark key="^" line="47" column="55" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Controller/MypageController.php" timestamp="1505215119169" />
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TagController.php" timestamp="1504153561518">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="13" column="59" />
@@ -865,7 +865,7 @@
         <mark key="^" line="113" column="182" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505188318221">
+      <file name="/Dummy.txt" timestamp="1505215071193">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
@@ -1127,7 +1127,7 @@
       <last-replace>192.168.2.100</last-replace>
       <last-substitute>localhost</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
