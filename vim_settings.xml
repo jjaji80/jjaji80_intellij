@@ -730,6 +730,10 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" timestamp="1505294216275">
+        <mark key="a" line="384" column="14" />
+        <mark key="'" line="32" column="17" />
+      </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1505219007312">
         <mark key="a" line="145" column="15" />
         <mark key="'" line="514" column="43" />
@@ -797,7 +801,7 @@
         <mark key="^" line="113" column="182" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505288057316">
+      <file name="/Dummy.txt" timestamp="1505294068929">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
@@ -905,15 +909,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="24" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="317" column="48" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="168" column="8" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="351" column="67" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="40" column="20" filename="$USER_HOME$/git/utelAndroid/app/google-services.json" />
-      <jump line="524" column="39" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="60" column="35" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ElsaUtil.java" />
-      <jump line="537" column="30" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="578" column="51" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="581" column="61" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="604" column="84" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="861" column="136" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
@@ -1005,6 +1000,15 @@
       <jump line="76" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/BaseController.php" />
       <jump line="145" column="7" filename="$USER_HOME$/git/utel/app/src/Controller/BookController.php" />
       <jump line="51" column="23" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/BookingsController.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
+      <jump line="134" column="29" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
+      <jump line="143" column="29" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
+      <jump line="376" column="17" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
+      <jump line="377" column="17" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
+      <jump line="61" column="38" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
+      <jump line="416" column="73" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
+      <jump line="32" column="17" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1024,7 +1028,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRSZWFkeU5vdGljZVw+</text>
+        <text>.js</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJHRoaXMtPnJlc3BvbnNlLT5ib2R5KGpzb25fZW5jb2RlKCRkYXRhKSk7CiAgICAgIHJldHVybiAkdGhpcy0+cmVzcG9uc2U7Cg==</text>
@@ -1057,13 +1061,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>45</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRSZWFkeU5vdGljZVw+</last-search>
+      <last-search>.js</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRSZWFkeU5vdGljZVw+</last-pattern>
+      <last-pattern>.js</last-pattern>
       <last-replace>0.52</last-replace>
       <last-substitute>2.100</last-substitute>
       <last-dir>1</last-dir>
@@ -1071,8 +1075,6 @@
     </search>
     <history>
       <history-search>
-        <entry>GCM</entry>
-        <entry>&quot;20&quot;</entry>
         <entry>localhost</entry>
         <entry>Debug</entry>
         <entry>smtp</entry>
@@ -1091,6 +1093,8 @@
         <entry>2.100</entry>
         <entry>debug</entry>
         <entry encoding="base64">XDxzZXRSZWFkeU5vdGljZVw+</entry>
+        <entry>javas</entry>
+        <entry>.js</entry>
       </history-search>
       <history-cmd>
         <entry>11</entry>
@@ -1109,10 +1113,10 @@
         <entry>53</entry>
         <entry>20</entry>
         <entry>1,17y</entry>
-        <entry>1</entry>
         <entry>%s/2.100/0.52/g</entry>
         <entry>w</entry>
         <entry>45</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
