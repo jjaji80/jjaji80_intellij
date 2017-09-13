@@ -199,12 +199,12 @@
         <mark key="]" line="158" column="31" />
         <mark key="." line="157" column="0" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/JavaScriptInterface.java" timestamp="1505329614099">
-        <mark key="'" line="34" column="49" />
-        <mark key="[" line="49" column="18" />
-        <mark key="]" line="49" column="21" />
-        <mark key="." line="49" column="21" />
-        <mark key="^" line="49" column="21" />
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/JavaScriptInterface.java" timestamp="1505335052119">
+        <mark key="'" line="28" column="31" />
+        <mark key="[" line="60" column="21" />
+        <mark key="]" line="60" column="30" />
+        <mark key="." line="60" column="30" />
+        <mark key="^" line="60" column="30" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4cc2453-7d6d-449a-8067-5861135a1976/console.sql" timestamp="1491202685615">
         <mark key="[" line="0" column="0" />
@@ -759,13 +759,13 @@
         <mark key="." line="419" column="19" />
         <mark key="^" line="419" column="19" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1505334211270">
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1505335015762">
         <mark key="a" line="283" column="58" />
-        <mark key="'" line="514" column="43" />
-        <mark key="[" line="732" column="34" />
-        <mark key="]" line="732" column="34" />
-        <mark key="." line="732" column="34" />
-        <mark key="^" line="731" column="35" />
+        <mark key="'" line="126" column="27" />
+        <mark key="[" line="282" column="4" />
+        <mark key="]" line="282" column="10" />
+        <mark key="." line="282" column="10" />
+        <mark key="^" line="282" column="10" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/tag/TagRepository.java" timestamp="1504090902665">
         <mark key="[" line="31" column="77" />
@@ -934,8 +934,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
-      <jump line="61" column="38" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
       <jump line="416" column="73" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
       <jump line="16" column="7" filename="$USER_HOME$/git/utel/app/webroot/js/admin/common.js" />
       <jump line="13" column="0" filename="$USER_HOME$/git/utel/app/webroot/js/admin/common.js" />
@@ -1034,6 +1032,8 @@
       <jump line="1236" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
       <jump line="9" column="134" filename="$USER_HOME$/git/utel/app/webroot/js/user/common.js" />
       <jump line="396" column="16" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
+      <jump line="126" column="27" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="28" column="31" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/JavaScriptInterface.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1050,7 +1050,7 @@
         <text>orInputAmOsWgForm</text>
       </register>
       <register name="-" type="4">
-        <text>dial-link</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWFsX3N0YXJ0XD4=</text>
