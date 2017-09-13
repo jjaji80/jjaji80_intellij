@@ -21,8 +21,8 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" timestamp="1505125525957">
-        <mark key="'" line="9" column="37" />
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" timestamp="1505276124575">
+        <mark key="'" line="17" column="38" />
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="71" />
         <mark key="." line="10" column="31" />
@@ -156,12 +156,6 @@
         <mark key="." line="2" column="75" />
         <mark key="^" line="2" column="75" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Bookings/index.ctp" timestamp="1505126401894">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="77" column="12" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/Prepared.java" timestamp="1505220503975">
         <mark key="'" line="19" column="13" />
         <mark key="[" line="49" column="64" />
@@ -174,12 +168,6 @@
         <mark key="]" line="3" column="19" />
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/config/bootstrap.php" timestamp="1505091762963">
-        <mark key="'" line="222" column="3" />
-        <mark key="[" line="225" column="4" />
-        <mark key="]" line="225" column="4" />
-        <mark key="." line="225" column="4" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
@@ -246,12 +234,6 @@
         <mark key="]" line="7" column="24" />
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/FortunetellersController.php" timestamp="1505107996260">
-        <mark key="'" line="11" column="29" />
-        <mark key="[" line="90" column="4" />
-        <mark key="]" line="90" column="4" />
-        <mark key="." line="90" column="4" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1505006958024">
         <mark key="'" line="43" column="33" />
@@ -520,7 +502,6 @@
         <mark key="." line="47" column="55" />
         <mark key="^" line="47" column="55" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/MypageController.php" timestamp="1505215119169" />
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TagController.php" timestamp="1504153561518">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="13" column="59" />
@@ -800,7 +781,7 @@
         <mark key="^" line="113" column="182" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505221190987">
+      <file name="/Dummy.txt" timestamp="1505276701765">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
@@ -886,6 +867,9 @@
         <mark key="." line="338" column="19" />
         <mark key="^" line="338" column="21" />
       </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/hosts" timestamp="1505276093152">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/git/p1-doc/議事録/20170323.md" timestamp="1490340746149">
         <mark key="[" line="77" column="2" />
         <mark key="]" line="77" column="36" />
@@ -900,8 +884,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="188" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
-      <jump line="318" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
       <jump line="330" column="75" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
       <jump line="316" column="49" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
       <jump line="329" column="18" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
@@ -1000,6 +982,8 @@
       <jump line="203" column="91" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="514" column="43" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="21" column="103" filename="$USER_HOME$/git/utel/app/webroot/js/admin/common.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/hosts" />
+      <jump line="17" column="38" filename="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1019,7 +1003,7 @@
         <text encoding="base64">c2NoZWR1bGVfaWQg</text>
       </register>
       <register name="/" type="4">
-        <text>cons</text>
+        <text>2.100</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IjxkaXYgIGNsYXNzPVwiZ2xvYmFsLW1lc3NhZ2VcIj7pkZHlrprlvoXjgaHjga7kvJrlk6HjgYzjgYTjgb7jgZnjgILpkZHlrprmupblgpnjgpLjgZfjgabjgY/jgaDjgZXjgYTjgII8cD48YSBocmVmPSciICsgdXJsICsgIic+5rqW5YKZ5a6M5LqGPC9hPjwvcD48L2Rpdj4i</text>
@@ -1052,21 +1036,20 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/2.100/0.52/g</text>
       </register>
     </registers>
     <search>
-      <last-search>cons</last-search>
+      <last-search>2.100</last-search>
       <last-offset />
-      <last-pattern>cons</last-pattern>
-      <last-replace>192.168.2.100</last-replace>
-      <last-substitute>localhost</last-substitute>
+      <last-pattern>2.100</last-pattern>
+      <last-replace>0.52</last-replace>
+      <last-substitute>2.100</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>discon</entry>
         <entry>Toast</entry>
         <entry>GCM</entry>
         <entry>&quot;20&quot;</entry>
@@ -1086,9 +1069,9 @@
         <entry>'</entry>
         <entry>back</entry>
         <entry>cons</entry>
+        <entry>2.100</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/192.168.2.100/192.168.0.51</entry>
         <entry>17</entry>
         <entry>11</entry>
         <entry>%s/192.168.0.51/192.168.2.100/g</entry>
@@ -1108,6 +1091,7 @@
         <entry>1,17y</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>%s/2.100/0.52/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
