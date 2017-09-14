@@ -323,12 +323,12 @@
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1505287296059">
+      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1505373073781">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="143" column="72" />
-        <mark key="]" line="144" column="25" />
-        <mark key="." line="144" column="25" />
-        <mark key="^" line="144" column="25" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="52" />
+        <mark key="." line="145" column="52" />
+        <mark key="^" line="145" column="51" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/ExchangeService.java" timestamp="1504144982429">
         <mark key="[" line="225" column="0" />
@@ -733,7 +733,7 @@
         <mark key="." line="419" column="19" />
         <mark key="^" line="419" column="19" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1505362592188">
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1505372948889">
         <mark key="a" line="283" column="58" />
         <mark key="'" line="126" column="27" />
         <mark key="[" line="282" column="4" />
@@ -1025,7 +1025,7 @@
         <text>2.100</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Qml0UG9pbnRQcm9wZXJ0aWVzLmJ1eVBvc2l0aW9uPTMwCkJpdFBvaW50UHJvcGVydGllcy5zZWxsUG9zaXRpb249MTUK</text>
+        <text encoding="base64">aHR0cDovLzE5Mi4xNjguMC41Mjo4NzY1L3R3aWxpby9yZWFkeT9ib29raW5nX2lkPTE4OQo=</text>
       </register>
       <register name="1" type="4">
         <text>else
@@ -1056,7 +1056,7 @@
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/2.100/0.52/g</text>
+        <text>35</text>
       </register>
     </registers>
     <search>
@@ -1092,8 +1092,6 @@
         <entry>2.100</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/172.31.21.107/localhost</entry>
-        <entry>%s/172.31.4.112/localhost</entry>
         <entry>742</entry>
         <entry>70</entry>
         <entry>41</entry>
@@ -1112,6 +1110,8 @@
         <entry>w</entry>
         <entry>1</entry>
         <entry>%s/2.100/0.52/g</entry>
+        <entry>325</entry>
+        <entry>35</entry>
       </history-cmd>
       <history-expr />
       <history-input />
