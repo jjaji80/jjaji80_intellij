@@ -405,6 +405,11 @@
         <mark key="^" line="36" column="24" />
         <mark key="." line="36" column="24" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/vendor/cakephp/cakephp/src/Network/Socket.php" timestamp="1505378196259">
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="177" column="14" />
+        <mark key="." line="176" column="0" />
+      </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Client.php" timestamp="1504666281636">
         <mark key="'" line="317" column="61" />
         <mark key="[" line="619" column="0" />
@@ -467,8 +472,10 @@
         <mark key="." line="37" column="21" />
         <mark key="^" line="37" column="21" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/logs/error.log" timestamp="1505374671704">
+      <file name="$USER_HOME$/git/utel/app/logs/error.log" timestamp="1505377925957">
         <mark key="'" line="6110" column="29" />
+        <mark key="[" line="6662" column="57" />
+        <mark key="]" line="6662" column="69" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/MyFcmListenerService.java" timestamp="1504918453017">
         <mark key="[" line="18" column="0" />
@@ -793,7 +800,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/dummy.sql" timestamp="1505374124566">
+      <file name="/dummy.sql" timestamp="1505378131763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1505329315735">
@@ -1030,39 +1037,39 @@
       <register name="/" type="4">
         <text>smtp</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aHR0cDovLzE5Mi4xNjguMC41Mjo4NzY1L3R3aWxpby9yZWFkeT9ib29raW5nX2lkPTE5MAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">JHRoaXMtPl9jb25maWc=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+X2NvbmZpZyk7CiAgICAgICAgZGllKCk7Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>else
                             config[BitPointProperties.orderSellNominals]</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ZnVuIGJ0UG9pbnRDb2luY2hlY2tPcmRlcihpc0J1eTpCb29sZWFuKXsKICAgIAp9Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc0FuZHJvaWQoKSkgewogICAgICAgICAgICAgICAgICAgIGFIZWFkZXIgPSAiPGEgaHJlZj0nJyBvbmNsaWNrPVwiYW5kcm9pZC5wcmVwYXJlZCgnIiArIHJlc3BvbnNlLmJvb2tpbmcuaWQgKyAiJywnIiArIHJlc3BvbnNlLmJvb2tpbmcudXNlci5sYXN0X25hbWUgKyAiJyk7cmV0dXJuIGZhbHNlO1wiPiIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICQoJyNyZWFkeU1lc3NhZ2UnKS5odG1sKCI8ZGl2ICBjbGFzcz1cImdsb2JhbC1tZXNzYWdlXCI+6ZGR5a6a5b6F44Gh44Gu5Lya5ZOh44GM44GE44G+44GZ44CC6ZGR5a6a5rqW5YKZ44KS44GX44Gm44GP44Gg44GV44GE44CCPHA+IiArIGFIZWFkZXIgKyAi5rqW5YKZ5a6M5LqGPC9hPjwvcD48L2Rpdj4iKTs=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJcIj4iOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhSGVhZGVyID0gIjxhIGhyZWY9XCJuYXRpdmU6Ly91dGVsLz90eXBlPXByZXBhcmVkJmlkPSIgKyByZXNwb25zZS5ib29raW5nLmlkICsgIiZuYW1lPSIgKyByZXNwb25zZS5ib29raW5nLnVzZXIubGFzdF9uYW1lICsgcmVzcG9uc2UuYm9va2luZy51c2VyLmxhc3RfbmFtZSArICJcIj4iOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVzcG9uc2UtPmJvZHkoanNvbl9lbmNvZGUoJGRhdGEpKTsKICAgICAgICByZXR1cm4gJHRoaXMtPnJlc3BvbnNlOwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXV0b1JlbmRlciA9IEZBTFNFOwogICAgICAgICR0aGlzLT5yZXNwb25zZS0+Y2hhcnNldCgnVVRGLTgnKTsKICAgICAgICAkdGhpcy0+cmVzcG9uc2UtPnR5cGUoJ2pzb24nKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
       <register name=":" type="4">
-        <text>207</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1111,13 +1118,13 @@
         <entry>25</entry>
         <entry>1,10d</entry>
         <entry>45</entry>
-        <entry>w</entry>
         <entry>1</entry>
         <entry>%s/2.100/0.52/g</entry>
         <entry>325</entry>
         <entry>35</entry>
         <entry>215</entry>
         <entry>207</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
