@@ -238,11 +238,11 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1505468432716">
-        <mark key="'" line="15" column="7" />
-        <mark key="[" line="43" column="58" />
-        <mark key="]" line="43" column="58" />
-        <mark key="." line="43" column="58" />
+      <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1505469457242">
+        <mark key="'" line="41" column="25" />
+        <mark key="[" line="41" column="43" />
+        <mark key="]" line="41" column="44" />
+        <mark key="." line="41" column="44" />
         <mark key="^" line="43" column="58" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/sp/Pages/login_select.ctp" timestamp="1494318772118">
@@ -653,6 +653,7 @@
         <mark key="." line="90" column="42" />
         <mark key="^" line="90" column="42" />
       </file>
+      <file name="/usr/local/android-sdk-macosx/extras/android/m2repository/com/android/support/appcompat-v7/25.2.0/appcompat-v7-25.2.0-sources.jar!/android/support/v7/app/AppCompatActivity.java" timestamp="1505469326160" />
       <file name="$USER_HOME$/git/coinman/src/coinman/service/poloniex/CheckUtil.kt" timestamp="1499518037321">
         <mark key="[" line="13" column="46" />
         <mark key="]" line="14" column="43" />
@@ -814,7 +815,7 @@
         <mark key="^" line="113" column="182" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505374321161">
+      <file name="/Dummy.txt" timestamp="1505469512565">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
@@ -920,8 +921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
-      <jump line="42" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
       <jump line="60" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
       <jump line="64" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
       <jump line="85" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
@@ -1020,6 +1019,8 @@
       <jump line="9" column="20" filename="$USER_HOME$/git/utel/app/webroot/js/user/common.js" />
       <jump line="15" column="7" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
       <jump line="9" column="3" filename="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" />
+      <jump line="40" column="25" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
+      <jump line="41" column="25" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1033,13 +1034,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>0.52</text>
+        <text>25.2</text>
       </register>
       <register name="0" type="4">
         <text>Top-level build</text>
@@ -1077,9 +1078,9 @@
       </register>
     </registers>
     <search>
-      <last-search>0.52</last-search>
+      <last-search>25.2</last-search>
       <last-offset />
-      <last-pattern>0.52</last-pattern>
+      <last-pattern>25.2</last-pattern>
       <last-replace>2.105</last-replace>
       <last-substitute>0.52</last-substitute>
       <last-dir>1</last-dir>
@@ -1090,6 +1091,8 @@
         <entry>depe</entry>
         <entry>class</entry>
         <entry>0.52</entry>
+        <entry>supp</entry>
+        <entry>25.2</entry>
       </history-search>
       <history-cmd>
         <entry>%s/0.52/2.105</entry>
