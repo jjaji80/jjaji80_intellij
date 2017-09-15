@@ -21,11 +21,11 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" timestamp="1505371412860">
-        <mark key="'" line="39" column="11" />
-        <mark key="[" line="23" column="50" />
-        <mark key="]" line="23" column="50" />
-        <mark key="." line="23" column="50" />
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" timestamp="1505468348950">
+        <mark key="'" line="9" column="3" />
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="24" column="41" />
+        <mark key="." line="24" column="41" />
         <mark key="^" line="23" column="50" />
       </file>
       <file name="/a.dummy" timestamp="1502094427596">
@@ -238,12 +238,12 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1505465050027">
+      <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1505468432716">
         <mark key="'" line="15" column="7" />
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="45" column="53" />
+        <mark key="[" line="43" column="58" />
+        <mark key="]" line="43" column="58" />
+        <mark key="." line="43" column="58" />
+        <mark key="^" line="43" column="58" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/sp/Pages/login_select.ctp" timestamp="1494318772118">
         <mark key="[" line="41" column="0" />
@@ -920,7 +920,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
       <jump line="24" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
       <jump line="42" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
       <jump line="60" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
@@ -1020,6 +1019,7 @@
       <jump line="12" column="23" filename="$USER_HOME$/git/utel/app/webroot/js/user/common.js" />
       <jump line="9" column="20" filename="$USER_HOME$/git/utel/app/webroot/js/user/common.js" />
       <jump line="15" column="7" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
+      <jump line="9" column="3" filename="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1033,13 +1033,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Top-level build</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text>0.52</text>
       </register>
       <register name="0" type="4">
         <text>Top-level build</text>
@@ -1077,11 +1077,11 @@
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search>0.52</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
-      <last-replace>0.52</last-replace>
-      <last-substitute>2.100</last-substitute>
+      <last-pattern>0.52</last-pattern>
+      <last-replace>2.105</last-replace>
+      <last-substitute>0.52</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1089,8 +1089,12 @@
       <history-search>
         <entry>depe</entry>
         <entry>class</entry>
+        <entry>0.52</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>%s/0.52/2.105</entry>
+        <entry>1</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
