@@ -169,7 +169,6 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-release/elasticsearch.properties" timestamp="1505485941590" />
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="12" />
@@ -598,7 +597,7 @@
       <file name="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" timestamp="1505332909262">
         <mark key="'" line="1236" column="4" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/search/NewsSearchRepository.java" timestamp="1505487685958" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/search/NewsSearchRepository.java" timestamp="1505488589978" />
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-release/datasource.properties" timestamp="1498719617966">
         <mark key="[" line="1" column="203" />
         <mark key="]" line="1" column="221" />
@@ -653,7 +652,6 @@
         <mark key="^" line="280" column="34" />
         <mark key="." line="280" column="34" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/conf/elasticsearch/news.yml" timestamp="1505486068321" />
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/text.php" timestamp="1499413550612">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="257" column="7" />
@@ -678,7 +676,6 @@
         <mark key="^" line="424" column="7" />
         <mark key="." line="353" column="6" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1505485536367" />
       <file name="$USER_HOME$/git/manganews-server/manganews-model/src/main/java/com/newspicks/model/PickedNewsModel.java" timestamp="1504110243822">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -1081,7 +1078,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc0FuZHJvaWQoKSkgewogICAgICAgICAgICAgICAgICAgIGFIZWFkZXIgPSAiPGEgaHJlZj0nJyBvbmNsaWNrPVwiYW5kcm9pZC5wcmVwYXJlZCgnIiArIHJlc3BvbnNlLmJvb2tpbmcuaWQgKyAiJywnIiArIHJlc3BvbnNlLmJvb2tpbmcudXNlci5sYXN0X25hbWUgKyAiJyk7cmV0dXJuIGZhbHNlO1wiPiIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICQoJyNyZWFkeU1lc3NhZ2UnKS5odG1sKCI8ZGl2ICBjbGFzcz1cImdsb2JhbC1tZXNzYWdlXCI+6ZGR5a6a5b6F44Gh44Gu5Lya5ZOh44GM44GE44G+44GZ44CC6ZGR5a6a5rqW5YKZ44KS44GX44Gm44GP44Gg44GV44GE44CCPHA+IiArIGFIZWFkZXIgKyAi5rqW5YKZ5a6M5LqGPC9hPjwvcD48L2Rpdj4iKTs=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/0.52/2.105</text>
+        <text>429</text>
       </register>
     </registers>
     <search>
@@ -1107,6 +1104,7 @@
       <history-cmd>
         <entry>1</entry>
         <entry>%s/0.52/2.105</entry>
+        <entry>429</entry>
       </history-cmd>
       <history-expr />
       <history-input />
