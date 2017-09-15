@@ -238,12 +238,12 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1505471710688">
-        <mark key="'" line="42" column="25" />
-        <mark key="[" line="40" column="53" />
-        <mark key="]" line="41" column="3" />
-        <mark key="." line="41" column="3" />
-        <mark key="^" line="41" column="3" />
+      <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1505473269772">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/sp/Pages/login_select.ctp" timestamp="1494318772118">
         <mark key="[" line="41" column="0" />
@@ -920,7 +920,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
       <jump line="64" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
       <jump line="85" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
       <jump line="115" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
@@ -1020,6 +1019,7 @@
       <jump line="9" column="3" filename="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" />
       <jump line="40" column="25" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
       <jump line="41" column="25" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1032,54 +1032,54 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>25.2</text>
+        <text>and</text>
       </register>
       <register name="0" type="4">
         <text>Top-level build</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhRGV0YWlsID0gImhyZWY9XCJcIiBvbmNsaWNrPVwiYW5kcm9pZC5kaWFsKCciICsgcmVzcG9uc2UuYm9va2luZ3MuaWQgKyAiJywnIiArIHJlc3BvbnNlLmZvcnR1bmV0ZWxsZXIubmFtZSArICLlhYjnlJ8nKTtyZXR1cm4gZmFsc2VcIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+X2NvbmZpZyk7CiAgICAgICAgZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhRGV0YWlsID0gImhyZWY9XCJcIiBvbmNsaWNrPVwiYW5kcm9pZC5kaWFsKCciICsgcmVzcG9uc2UuYm9va2luZ3MuaWQgKyAiJywnIiArIHJlc3BvbnNlLmZvcnR1bmV0ZWxsZXIubmFtZSArICLlhYjnlJ8nKTtyZXR1cm4gZmFsc2VcIiI7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+X2NvbmZpZyk7CiAgICAgICAgZGllKCk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+X2NvbmZpZyk7CiAgICAgICAgZGllKCk7Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>else
                             config[BitPointProperties.orderSellNominals]</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZnVuIGJ0UG9pbnRDb2luY2hlY2tPcmRlcihpc0J1eTpCb29sZWFuKXsKICAgIAp9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc0FuZHJvaWQoKSkgewogICAgICAgICAgICAgICAgICAgIGFIZWFkZXIgPSAiPGEgaHJlZj0nJyBvbmNsaWNrPVwiYW5kcm9pZC5wcmVwYXJlZCgnIiArIHJlc3BvbnNlLmJvb2tpbmcuaWQgKyAiJywnIiArIHJlc3BvbnNlLmJvb2tpbmcudXNlci5sYXN0X25hbWUgKyAiJyk7cmV0dXJuIGZhbHNlO1wiPiIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICQoJyNyZWFkeU1lc3NhZ2UnKS5odG1sKCI8ZGl2ICBjbGFzcz1cImdsb2JhbC1tZXNzYWdlXCI+6ZGR5a6a5b6F44Gh44Gu5Lya5ZOh44GM44GE44G+44GZ44CC6ZGR5a6a5rqW5YKZ44KS44GX44Gm44GP44Gg44GV44GE44CCPHA+IiArIGFIZWFkZXIgKyAi5rqW5YKZ5a6M5LqGPC9hPjwvcD48L2Rpdj4iKTs=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJcIj4iOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>25.2</last-search>
+      <last-search>and</last-search>
       <last-offset />
-      <last-pattern>25.2</last-pattern>
+      <last-pattern>and</last-pattern>
       <last-replace>2.105</last-replace>
       <last-substitute>0.52</last-substitute>
       <last-dir>1</last-dir>
@@ -1092,6 +1092,7 @@
         <entry>0.52</entry>
         <entry>supp</entry>
         <entry>25.2</entry>
+        <entry>and</entry>
       </history-search>
       <history-cmd>
         <entry>%s/0.52/2.105</entry>
