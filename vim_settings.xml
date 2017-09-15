@@ -21,8 +21,8 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" timestamp="1505461247262">
-        <mark key="'" line="26" column="54" />
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" timestamp="1505371412860">
+        <mark key="'" line="39" column="11" />
         <mark key="[" line="23" column="50" />
         <mark key="]" line="23" column="50" />
         <mark key="." line="23" column="50" />
@@ -347,11 +347,6 @@
         <mark key="]" line="27" column="33" />
         <mark key="^" line="27" column="33" />
         <mark key="." line="27" column="33" />
-      </file>
-      <file name="$USER_HOME$/git/utelAndroid/build.gradle" timestamp="1505464761094">
-        <mark key="[" line="8" column="54" />
-        <mark key="]" line="8" column="55" />
-        <mark key="." line="8" column="55" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-tomcat/src/main/java/com/newspicks/tomcat/bootstrap/ContentsBootstrap.java" timestamp="1503186312963">
         <mark key="[" line="5" column="26" />
@@ -814,7 +809,7 @@
         <mark key="^" line="113" column="182" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505464785887">
+      <file name="/Dummy.txt" timestamp="1505374321161">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
@@ -912,7 +907,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1505458779364">
+      <file name="/fragment.java" timestamp="1505287182104">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="1" />
@@ -920,6 +915,7 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
       <jump line="3" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
       <jump line="24" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
       <jump line="42" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
@@ -1019,7 +1015,6 @@
       <jump line="13" column="92" filename="$USER_HOME$/git/utel/app/webroot/js/user/common.js" />
       <jump line="12" column="23" filename="$USER_HOME$/git/utel/app/webroot/js/user/common.js" />
       <jump line="9" column="20" filename="$USER_HOME$/git/utel/app/webroot/js/user/common.js" />
-      <jump line="26" column="54" filename="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1083,11 +1078,53 @@
       <last-replace>0.52</last-replace>
       <last-substitute>2.100</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>back</entry>
+        <entry>cons</entry>
+        <entry>debug</entry>
+        <entry encoding="base64">XDxzZXRSZWFkeU5vdGljZVw+</entry>
+        <entry>javas</entry>
+        <entry>.js</entry>
+        <entry>0.52</entry>
+        <entry>native</entry>
+        <entry>display</entry>
+        <entry>display.*none</entry>
+        <entry>link</entry>
+        <entry encoding="base64">XDxkaWFsX3N0YXJ0XD4=</entry>
+        <entry encoding="base64">XDxpc0J1eVw+</entry>
+        <entry>tag</entry>
+        <entry>2.100</entry>
+        <entry encoding="base64">XDxfZHNuQ2xhc3NNYXBcPg==</entry>
+        <entry>smtp</entry>
+        <entry>commo</entry>
+        <entry>booking</entry>
+        <entry encoding="base64">XDxhRGV0YWlsXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/localhost/192.168.2.100/g</entry>
+        <entry>214</entry>
+        <entry>202</entry>
+        <entry>354</entry>
+        <entry>53</entry>
+        <entry>20</entry>
+        <entry>1,17y</entry>
+        <entry>12</entry>
+        <entry>%s/0.52/2.100</entry>
+        <entry>25</entry>
+        <entry>1,10d</entry>
+        <entry>45</entry>
+        <entry>%s/2.100/0.52/g</entry>
+        <entry>325</entry>
+        <entry>35</entry>
+        <entry>215</entry>
+        <entry>207</entry>
+        <entry>w</entry>
+        <entry>359</entry>
+        <entry>1</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -1135,8 +1172,5 @@
         <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
   </component>
 </application>
