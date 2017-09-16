@@ -315,6 +315,12 @@
         <mark key="." line="23" column="56" />
         <mark key="^" line="23" column="56" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Controller/MobileTrait.php" timestamp="1505577863602">
+        <mark key="[" line="48" column="48" />
+        <mark key="]" line="48" column="55" />
+        <mark key="^" line="48" column="55" />
+        <mark key="." line="48" column="55" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/Blog/_preview.ctp" timestamp="1504101022715">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -549,6 +555,11 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Template/Mobile/dial.ctp" timestamp="1505577952716">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" timestamp="1504244220779">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -612,6 +623,12 @@
         <mark key="[" line="10" column="36" />
         <mark key="]" line="10" column="36" />
         <mark key="." line="10" column="36" />
+      </file>
+      <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/sp/Mobile/dial.ctp" timestamp="1505577946182">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="98" />
+        <mark key="^" line="4" column="73" />
+        <mark key="." line="4" column="70" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-release/datasource.properties" timestamp="1498719617966">
         <mark key="[" line="1" column="203" />
@@ -845,7 +862,7 @@
         <mark key="^" line="113" column="182" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505575882232">
+      <file name="/Dummy.txt" timestamp="1505577403968">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1063,44 +1080,44 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8cD48YSBocmVmPSJuYXRpdmU6Ly91dGVsLz90eXBlPWRpYWwiPumAmuipsemWi+WnizwvYT48L3A+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>dial-bo</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;android.dial('&quot; + response.bookings.id + &quot;','&quot; + response.fortuneteller.name + &quot;先生');return false;&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHA+PGEgaHJlZj0ibmF0aXZlOi8vdXRlbC8/dHlwZT1kaWFsJmlkPTw/cGhwIGVjaG8gJGlkID8+IiBjbGFzcz0iYnV0dG9uIj7pgJroqbHplovlp4s8L2E+PC9wPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjaG9nZScpLmh0bWwoImFuZHJvaWQuZGlhbCgnIiArIHJlc3BvbnNlLmJvb2tpbmdzLmlkICsgIicsJyIgKyByZXNwb25zZS5mb3J0dW5ldGVsbGVyLm5hbWUgKyAi5YWI55SfJyk7cmV0dXJuIGZhbHNlOyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8cD48YSBocmVmPSJuYXRpdmU6Ly91dGVsLz90eXBlPWRpYWwiPumAmuipsemWi+WnizwvYT48L3A+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydCgiT0siKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjaG9nZScpLmh0bWwoImFuZHJvaWQuZGlhbCgnIiArIHJlc3BvbnNlLmJvb2tpbmdzLmlkICsgIicsJyIgKyByZXNwb25zZS5mb3J0dW5ldGVsbGVyLm5hbWUgKyAi5YWI55SfJyk7cmV0dXJuIGZhbHNlOyIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwIGlkPSJob2dlIj48L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydCgiT0siKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImhvZ2UiPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxwIGlkPSJob2dlIj48L3A+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiZGlhbCI6CiAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgIDxkaXYgaWQ9ImhvZ2UiPjwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsaWVudEFjdGl2aXR5LmRpYWwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiZGlhbCI6CiAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsaWVudEFjdGl2aXR5LmRpYWwoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJld3JpdGVDb25kICV7SFRUUFN9IG9mZgogICAgUmV3cml0ZVJ1bGUgXiguKikkIGh0dHBzOi8vJXtIVFRQX0hPU1R9LyQxIFtSPTMwMSxMXQo=</text>
+        <text encoding="base64">ICAgICAqICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
