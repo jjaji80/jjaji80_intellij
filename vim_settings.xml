@@ -403,12 +403,12 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker-compose.yml" timestamp="1504857135145">
-        <mark key="'" line="51" column="6" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="40" column="43" />
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker-compose.yml" timestamp="1505588060811">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="49" column="45" />
         <mark key="^" line="61" column="18" />
-        <mark key="." line="61" column="18" />
+        <mark key="." line="49" column="38" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Layout/fortuneteller.ctp" timestamp="1505586480403">
         <mark key="'" line="0" column="0" />
@@ -931,11 +931,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
-      <jump line="352" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
-      <jump line="353" column="70" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/coinman_parent/bitPoint.properties" />
-      <jump line="249" column="25" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/categorize/RankingRepository.java" />
       <jump line="60" column="29" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/categorize/RankingRepository.java" />
       <jump line="39" column="11" filename="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" />
       <jump line="329" column="49" filename="$USER_HOME$/git/utel/app/vendor/cakephp/cakephp/src/Mailer/Email.php" />
@@ -1031,6 +1026,11 @@
       <jump line="388" column="9" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
       <jump line="350" column="34" filename="$USER_HOME$/git/utel/app/src/Controller/AppController.php" />
       <jump line="352" column="38" filename="$USER_HOME$/git/utel/app/src/Controller/AppController.php" />
+      <jump line="41" column="15" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker-compose.yml" />
+      <jump line="52" column="18" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker-compose.yml" />
+      <jump line="4" column="4" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker-compose.yml" />
+      <jump line="38" column="4" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker-compose.yml" />
+      <jump line="48" column="4" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1050,7 +1050,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb3J0dW5ldGVsbGVyXD4=</text>
+        <text>vol</text>
       </register>
       <register name="0" type="4">
         <text>:cached</text>
@@ -1083,13 +1083,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjaG9nZScpLmh0bWwoImFuZHJvaWQuZGlhbCgnIiArIHJlc3BvbnNlLmJvb2tpbmdzLmlkICsgIicsJyIgKyByZXNwb25zZS5mb3J0dW5ldGVsbGVyLm5hbWUgKyAi5YWI55SfJyk7cmV0dXJuIGZhbHNlOyIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb3J0dW5ldGVsbGVyXD4=</last-search>
+      <last-search>vol</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb3J0dW5ldGVsbGVyXD4=</last-pattern>
+      <last-pattern>vol</last-pattern>
       <last-replace>utel.ajio.net</last-replace>
       <last-substitute>192.168.2.105:8765</last-substitute>
       <last-dir>1</last-dir>
@@ -1097,7 +1097,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRCb29raW5nXD4=</entry>
         <entry encoding="base64">XDxCT09LSU5HX1NUQVRVU19XQUlUX0ZPUl9GT1JUVU5FVEVMTEVSXD4=</entry>
         <entry>log</entry>
         <entry>CHA</entry>
@@ -1117,6 +1116,7 @@
         <entry>hoge</entry>
         <entry>dial-bo</entry>
         <entry encoding="base64">XDxmb3J0dW5ldGVsbGVyXD4=</entry>
+        <entry>vol</entry>
       </history-search>
       <history-cmd>
         <entry>%s/0.52/2.105</entry>
@@ -1124,8 +1124,8 @@
         <entry>65</entry>
         <entry>%s/192.168.2.105:8765/utel.ajio.net/</entry>
         <entry>29</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
