@@ -205,12 +205,12 @@
         <mark key="." line="156" column="0" />
         <mark key="^" line="155" column="39" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/JavaScriptInterface.java" timestamp="1505573506747">
-        <mark key="'" line="28" column="26" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="74" column="29" />
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/JavaScriptInterface.java" timestamp="1505580619237">
+        <mark key="'" line="29" column="26" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="24" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="75" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4cc2453-7d6d-449a-8067-5861135a1976/console.sql" timestamp="1491202685615">
         <mark key="[" line="0" column="0" />
@@ -795,7 +795,7 @@
         <mark key="." line="388" column="9" />
         <mark key="^" line="388" column="9" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1505573407041">
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1505580359366">
         <mark key="a" line="283" column="58" />
         <mark key="'" line="241" column="12" />
         <mark key="[" line="618" column="16" />
@@ -862,7 +862,7 @@
         <mark key="^" line="113" column="182" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505578874257">
+      <file name="/Dummy.txt" timestamp="1505580600060">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1081,7 +1081,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8cD48YSBocmVmPSJuYXRpdmU6Ly91dGVsLz90eXBlPWRpYWwiPumAmuipsemWi+WnizwvYT48L3A+Cg==</text>
+        <text encoding="base64">ICAgIEBKYXZhc2NyaXB0SW50ZXJmYWNlCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1090,7 +1090,7 @@
         <text>dial-bo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+PGEgaHJlZj0ibmF0aXZlOi8vdXRlbC8/dHlwZT1kaWFsJmlkPTw/cGhwIGVjaG8gJGlkID8+IiBjbGFzcz0iYnV0dG9uIj7pgJroqbHplovlp4s8L2E+PC9wPgo=</text>
+        <text encoding="base64">ICAgIEBKYXZhc2NyaXB0SW50ZXJmYWNlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8cD48YSBocmVmPSJuYXRpdmU6Ly91dGVsLz90eXBlPWRpYWwiPumAmuipsemWi+WnizwvYT48L3A+Cg==</text>
@@ -1120,7 +1120,7 @@
         <text encoding="base64">ICAgICAqICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -1159,10 +1159,10 @@
         <entry>%s/0.52/2.105</entry>
         <entry>429</entry>
         <entry>65</entry>
-        <entry>1</entry>
         <entry>%s/192.168.2.105:8765/utel.ajio.net/</entry>
         <entry>29</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
