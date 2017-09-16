@@ -119,8 +119,12 @@
         <mark key="^" line="20" column="68" />
         <mark key="." line="20" column="68" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1505548577600">
-        <mark key="'" line="94" column="45" />
+      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1505549978745">
+        <mark key="'" line="149" column="24" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="^" line="149" column="63" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/js/const.js" timestamp="1501522773395">
         <mark key="[" line="3" column="30" />
@@ -146,12 +150,12 @@
         <mark key="^" line="9" column="112" />
         <mark key="." line="9" column="112" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/BookingsController.php" timestamp="1505548481262">
-        <mark key="'" line="66" column="15" />
-        <mark key="[" line="73" column="32" />
-        <mark key="]" line="73" column="42" />
+      <file name="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/BookingsController.php" timestamp="1505549773996">
+        <mark key="'" line="17" column="13" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
         <mark key="^" line="73" column="42" />
-        <mark key="." line="73" column="42" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/git/hms/app/models/daily_outstanding_customer.rb" timestamp="1491202499737">
         <mark key="[" line="4" column="0" />
@@ -279,8 +283,8 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/logs/debug.log" timestamp="1505548464168">
-        <mark key="'" line="9176" column="12" />
+      <file name="$USER_HOME$/git/utel/app/logs/debug.log" timestamp="1505549863899">
+        <mark key="'" line="12990" column="0" />
       </file>
       <file name="$USER_HOME$/git/hms/app/views/daily_outstanding_customers/_search.html.erb" timestamp="1490863115491">
         <mark key="[" line="13" column="67" />
@@ -386,7 +390,7 @@
         <mark key="." line="16" column="30" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505287011958">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505550097014">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="6" />
@@ -820,7 +824,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/dummy.sql" timestamp="1505547569540">
+      <file name="/dummy.sql" timestamp="1505550052425">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1505329315735">
@@ -936,15 +940,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="297" column="13" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
-      <jump line="299" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
-      <jump line="306" column="13" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
-      <jump line="307" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
-      <jump line="312" column="13" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
-      <jump line="315" column="13" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
-      <jump line="316" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
-      <jump line="321" column="13" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
-      <jump line="322" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
       <jump line="326" column="13" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
       <jump line="327" column="4" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
       <jump line="332" column="13" filename="$USER_HOME$/git/utel/app/webroot/css/sp/front-common.css" />
@@ -1036,6 +1031,15 @@
       <jump line="56" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="127" column="26" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="94" column="45" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
+      <jump line="71" column="73" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/BookingsController.php" />
+      <jump line="73" column="0" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/BookingsController.php" />
+      <jump line="77" column="0" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/BookingsController.php" />
+      <jump line="64" column="0" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/BookingsController.php" />
+      <jump line="65" column="0" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/BookingsController.php" />
+      <jump line="17" column="13" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/BookingsController.php" />
+      <jump line="9643" column="0" filename="$USER_HOME$/git/utel/app/logs/debug.log" />
+      <jump line="12990" column="0" filename="$USER_HOME$/git/utel/app/logs/debug.log" />
+      <jump line="149" column="24" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1048,54 +1052,53 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZygiQ0hBTkdFIFNUQVRVUyIgLiAkYm9va2luZy0+aWQsICJkZWJ1ZyIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCT09LSU5HX1NUQVRVU19XQUlUX0ZPUl9GT1JUVU5FVEVMTEVSXD4=</text>
+        <text encoding="base64">XDxDSEFOR0VcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IENhbGwgdG8gYSBtZW1iZXIgZnVuY3Rpb24gbG9nKCkgb24gYm9vbGVhbg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZygiQ0hBTkdFIFNUQVRVUyIgLiAkYm9va2luZy0+aWQsICJkZWJ1ZyIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nKCJmaW5pc2ggcmVzdWx0IiwgJ2RlYnVnJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhRGV0YWlsID0gImhyZWY9XCJcIiBvbmNsaWNrPVwiYW5kcm9pZC5kaWFsKCciICsgcmVzcG9uc2UuYm9va2luZ3MuaWQgKyAiJywnIiArIHJlc3BvbnNlLmZvcnR1bmV0ZWxsZXIubmFtZSArICLlhYjnlJ8nKTtyZXR1cm4gZmFsc2VcIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nKCJmaW5pc2ggaGVhZGVyIiwgJ2RlYnVnJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+X2NvbmZpZyk7CiAgICAgICAgZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nKCJmaW5pc2ggaWYiLCAiZGVidWciKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+X2NvbmZpZyk7CiAgICAgICAgZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nKCJmaW5pc2ggZmluZCIgLiAkYm9va2luZywgJ2RlYnVnJyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>else
-                            config[BitPointProperties.orderSellNominals]</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnVuIGJ0UG9pbnRDb2luY2hlY2tPcmRlcihpc0J1eTpCb29sZWFuKXsKICAgIAp9Cg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc0FuZHJvaWQoKSkgewogICAgICAgICAgICAgICAgICAgIGFIZWFkZXIgPSAiPGEgaHJlZj0nJyBvbmNsaWNrPVwiYW5kcm9pZC5wcmVwYXJlZCgnIiArIHJlc3BvbnNlLmJvb2tpbmcuaWQgKyAiJywnIiArIHJlc3BvbnNlLmJvb2tpbmcudXNlci5sYXN0X25hbWUgKyAiJyk7cmV0dXJuIGZhbHNlO1wiPiIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICQoJyNyZWFkeU1lc3NhZ2UnKS5odG1sKCI8ZGl2ICBjbGFzcz1cImdsb2JhbC1tZXNzYWdlXCI+6ZGR5a6a5b6F44Gh44Gu5Lya5ZOh44GM44GE44G+44GZ44CC6ZGR5a6a5rqW5YKZ44KS44GX44Gm44GP44Gg44GV44GE44CCPHA+IiArIGFIZWFkZXIgKyAi5rqW5YKZ5a6M5LqGPC9hPjwvcD48L2Rpdj4iKTs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhRGV0YWlsID0gImhyZWY9XCJcIiBvbmNsaWNrPVwiYW5kcm9pZC5kaWFsKCciICsgcmVzcG9uc2UuYm9va2luZ3MuaWQgKyAiJywnIiArIHJlc3BvbnNlLmZvcnR1bmV0ZWxsZXIubmFtZSArICLlhYjnlJ8nKTtyZXR1cm4gZmFsc2VcIiI7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+X2NvbmZpZyk7CiAgICAgICAgZGllKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>65</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCT09LSU5HX1NUQVRVU19XQUlUX0ZPUl9GT1JUVU5FVEVMTEVSXD4=</last-search>
+      <last-search encoding="base64">XDxDSEFOR0VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCT09LSU5HX1NUQVRVU19XQUlUX0ZPUl9GT1JUVU5FVEVMTEVSXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDSEFOR0VcPg==</last-pattern>
       <last-replace>2.105</last-replace>
       <last-substitute>0.52</last-substitute>
       <last-dir>1</last-dir>
@@ -1116,13 +1119,17 @@
         <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry encoding="base64">XDxnZXRCb29raW5nXD4=</entry>
         <entry encoding="base64">XDxCT09LSU5HX1NUQVRVU19XQUlUX0ZPUl9GT1JUVU5FVEVMTEVSXD4=</entry>
+        <entry>log</entry>
+        <entry>CHA</entry>
+        <entry>CH</entry>
+        <entry encoding="base64">XDxDSEFOR0VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
         <entry>%s/0.52/2.105</entry>
         <entry>429</entry>
-        <entry>w</entry>
         <entry>65</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
