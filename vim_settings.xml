@@ -323,6 +323,9 @@
         <mark key="^" line="7" column="88" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/a.sql" timestamp="1505546291749">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/ExecutionStatus.kt" timestamp="1503473708600">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="12" column="4" />
@@ -341,6 +344,9 @@
         <mark key="]" line="145" column="52" />
         <mark key="." line="145" column="52" />
         <mark key="^" line="145" column="51" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1505479414930">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/ExchangeService.java" timestamp="1504144982429">
         <mark key="[" line="225" column="0" />
@@ -734,6 +740,9 @@
         <mark key="^" line="55" column="23" />
         <mark key="." line="55" column="23" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/UsersComponent.php" timestamp="1505596055474">
+        <mark key="'" line="158" column="20" />
+      </file>
       <file name="$USER_HOME$/git/hms/app/models/search/daily_sales_employee_search_form.rb" timestamp="1490942621747">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="25" />
@@ -765,22 +774,6 @@
         <mark key="]" line="21" column="63" />
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" timestamp="1505576197959">
-        <mark key="a" line="384" column="112" />
-        <mark key="'" line="388" column="9" />
-        <mark key="[" line="388" column="7" />
-        <mark key="]" line="388" column="9" />
-        <mark key="." line="388" column="9" />
-        <mark key="^" line="388" column="9" />
-      </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1505580359366">
-        <mark key="a" line="282" column="58" />
-        <mark key="'" line="240" column="12" />
-        <mark key="[" line="617" column="16" />
-        <mark key="]" line="617" column="17" />
-        <mark key="." line="617" column="17" />
-        <mark key="^" line="617" column="17" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/tag/TagRepository.java" timestamp="1504090902665">
         <mark key="[" line="31" column="77" />
@@ -832,6 +825,9 @@
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="/dummy.sql" timestamp="1505595964915">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1505555839805">
         <mark key="'" line="71" column="36" />
@@ -959,7 +955,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="25" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
       <jump line="41" column="25" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
       <jump line="19" column="23" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
@@ -1059,6 +1054,7 @@
       <jump line="32" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
       <jump line="114" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="160" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="158" column="20" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/UsersComponent.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
