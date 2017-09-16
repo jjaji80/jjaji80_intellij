@@ -21,7 +21,7 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" timestamp="1505477126026">
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" timestamp="1505554858344">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="24" column="38" />
         <mark key="]" line="24" column="41" />
@@ -205,7 +205,7 @@
         <mark key="." line="156" column="0" />
         <mark key="^" line="155" column="39" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/JavaScriptInterface.java" timestamp="1505552410178">
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/JavaScriptInterface.java" timestamp="1505554765480">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="24" />
@@ -395,11 +395,11 @@
         <mark key="." line="16" column="30" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505553612160">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505554708385">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="7" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/utel/app/config/app.php" timestamp="1505479221024">
         <mark key="'" line="226" column="26" />
@@ -850,7 +850,7 @@
         <mark key="^" line="113" column="182" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505553385376">
+      <file name="/Dummy.txt" timestamp="1505554859177">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1069,10 +1069,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>return false;&quot;;</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>return false;&quot;;</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>href</text>
@@ -1108,7 +1108,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhRGV0YWlsID0gImhyZWY9XCJcIiBvbmNsaWNrPVwiYW5kcm9pZC5kaWFsKCciICsgcmVzcG9uc2UuYm9va2luZ3MuaWQgKyAiJywnIiArIHJlc3BvbnNlLmZvcnR1bmV0ZWxsZXIubmFtZSArICLlhYjnlJ8nKTtyZXR1cm4gZmFsc2VcIiI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -1144,11 +1144,11 @@
         <entry>href</entry>
       </history-search>
       <history-cmd>
-        <entry>1</entry>
         <entry>%s/0.52/2.105</entry>
         <entry>429</entry>
         <entry>65</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
