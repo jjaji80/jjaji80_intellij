@@ -171,6 +171,7 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/README.md" timestamp="1505615901475" />
       <file name="$USER_HOME$/git/hms/db/migrate/20170809035346_add_column_wordpress_name_to_employee.rb" timestamp="1502250910830">
         <mark key="[" line="2" column="63" />
         <mark key="]" line="2" column="75" />
@@ -359,6 +360,12 @@
         <mark key="." line="145" column="52" />
         <mark key="^" line="145" column="51" />
       </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/Acl/Menu.yml" timestamp="1505615627600">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1505479414930">
         <mark key="[" line="0" column="0" />
       </file>
@@ -437,6 +444,12 @@
         <mark key="]" line="71" column="0" />
         <mark key="^" line="36" column="24" />
         <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/views/elements/blog/modal_search.tpl" timestamp="1505615036166">
+        <mark key="[" line="13" column="94" />
+        <mark key="]" line="13" column="99" />
+        <mark key="." line="13" column="99" />
+        <mark key="^" line="13" column="99" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Client.php" timestamp="1504666281636">
         <mark key="'" line="317" column="61" />
@@ -836,16 +849,11 @@
         <mark key="^" line="113" column="182" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505609527130">
+      <file name="/Dummy.txt" timestamp="1505616139993">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1505595452148">
-        <mark key="'" line="160" column="15" />
-        <mark key="[" line="252" column="21" />
-        <mark key="]" line="252" column="49" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/ConditionCls.kt" timestamp="1502518132571">
         <mark key="[" line="11" column="51" />
@@ -889,6 +897,7 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/Ro/Tags/List.php" timestamp="1505615802958" />
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/config.yml" timestamp="1504586864864">
         <mark key="'" line="22" column="28" />
         <mark key="[" line="22" column="20" />
@@ -1070,13 +1079,13 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tag</text>
+        <text>tags</text>
       </register>
       <register name="/" type="4">
-        <text>ajfoa</text>
+        <text>tags</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdXJsID0gJHRoaXMtPl9jb25maWdbJ215Y29uZmlnJ11bJ2FwaV91cmwnXSAuICR1cmw7CiAgICAgICAgcmV0dXJuICR0aGlzLT5yZXF1ZXN0KCR1cmwsICRtZXRob2QsICRwb3N0ZmllbGRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAvYWRtaW4vdGFncy8gOiDjgr/jgrDnrqHnkIYK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CSAgICAK</text>
@@ -1106,13 +1115,13 @@
         <text encoding="base64">PGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaW5wdXQtZ3JvdXAtYWRkb24iPuODrOODk+ODpeODvOOCouODvOOBruOBv+mBuOaKnuWPr+iDvTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1jb250cm9sIj4KICAgICAgICAgICAgICAgICAgICB7aHRtbF9yYWRpb3MgbmFtZT0nb25seV9yZXZpZXdlcicgdmFsdWVzPScwJyBvdXRwdXQ9J+OBhOOBhOOBiCcgc2VsZWN0ZWQ9JHRhZy5vbmx5X3Jldmlld2VyIHNlcGFyYXRvcj0nJm5ic3A7J30KICAgICAgICAgICAgICAgICAgICB7aHRtbF9yYWRpb3MgbmFtZT0nb25seV9yZXZpZXdlcicgdmFsdWVzPScxJyBvdXRwdXQ9J+OBr+OBhCcgc2VsZWN0ZWQ9JHRhZy5vbmx5X3Jldmlld2VyIHNlcGFyYXRvcj0nJ30KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxiciAvPg==</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ajfoa</last-search>
+      <last-search>tags</last-search>
       <last-offset />
-      <last-pattern>ajfoa</last-pattern>
+      <last-pattern>tags</last-pattern>
       <last-replace>192.168.2.105</last-replace>
       <last-substitute>192.168.0.52</last-substitute>
       <last-dir>1</last-dir>
@@ -1120,7 +1129,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
         <entry>add</entry>
         <entry>edit</entry>
         <entry>view</entry>
@@ -1140,6 +1148,7 @@
         <entry>butto</entry>
         <entry>but</entry>
         <entry>ajfoa</entry>
+        <entry>tags</entry>
       </history-search>
       <history-cmd>
         <entry>%s/0.52/2.105</entry>
@@ -1149,10 +1158,10 @@
         <entry>29</entry>
         <entry>%s/192.168.0.52/192.168.2.105/g</entry>
         <entry>49</entry>
-        <entry>w</entry>
-        <entry>1</entry>
         <entry>96,145d</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
