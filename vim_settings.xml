@@ -437,12 +437,12 @@
         <mark key="." line="84" column="27" />
         <mark key="^" line="84" column="27" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/RestController.php" timestamp="1505595839797">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="20" column="44" />
-        <mark key="]" line="20" column="44" />
-        <mark key="^" line="20" column="42" />
-        <mark key="." line="20" column="44" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/RestController.php" timestamp="1505606294013">
+        <mark key="'" line="24" column="19" />
+        <mark key="[" line="36" column="30" />
+        <mark key="]" line="36" column="30" />
+        <mark key="." line="36" column="30" />
+        <mark key="^" line="36" column="30" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/ApiController.php" timestamp="1505593631780">
         <mark key="[" line="22" column="40" />
@@ -947,19 +947,14 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogRestController.php" timestamp="1505594469583">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="42" />
-        <mark key="^" line="10" column="26" />
-        <mark key="." line="10" column="26" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogRestController.php" timestamp="1505604932022">
+        <mark key="'" line="2" column="39" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="25" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
-      <jump line="19" column="23" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" />
-      <jump line="157" column="14" filename="$USER_HOME$/git/utel/app/config/app.php" />
       <jump line="224" column="38" filename="$USER_HOME$/git/utel/app/config/app.php" />
       <jump line="226" column="26" filename="$USER_HOME$/git/utel/app/config/app.php" />
       <jump line="68" column="8" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/BookingsController.php" />
@@ -1055,6 +1050,11 @@
       <jump line="114" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="160" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="158" column="20" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/UsersComponent.php" />
+      <jump line="2" column="39" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogRestController.php" />
+      <jump line="48" column="28" filename="$USER_HOME$/git/manganews-web-master/app/Controller/RestController.php" />
+      <jump line="45" column="28" filename="$USER_HOME$/git/manganews-web-master/app/Controller/RestController.php" />
+      <jump line="30" column="21" filename="$USER_HOME$/git/manganews-web-master/app/Controller/RestController.php" />
+      <jump line="24" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/RestController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1068,52 +1068,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LGFycmF5KCdsaW1pdCcgPT4gJGxpbWl0LCAnb2Zmc2V0JyA9PiAkb2Zmc2V0KQ==</text>
+        <text>'count'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LGFycmF5KCdsaW1pdCcgPT4gJGxpbWl0LCAnb2Zmc2V0JyA9PiAkb2Zmc2V0KQ==</text>
+        <text>'count'</text>
       </register>
       <register name="/" type="4">
-        <text>reques</text>
+        <text encoding="base64">XDxtYWluTW9kZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkkYWxsID0gJHRoaXMtPiRtYWluTW9kZWwtPmZpbmQoJ2FsbCcsYXJyYXkoJ2xpbWl0JyA9PiAkbGltaXQsICdvZmZzZXQnID0+ICRvZmZzZXQpKTsK</text>
+        <text encoding="base64">CQkkbWFpbk1vZGVsID0gJHRoaXMtPm1haW5Nb2RlbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlkaWUoKTsK</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkY29uZGl0aW9ucyk7ZGllKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdGhpcy0+cmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">CQkJCXZhcl9kdW1wKCR0aGlzLT4kbWFpbk1vZGVsLT5uYW1lKTsKCQkJCWRpZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQllY2hvICRsaW1pdDtkaWUoKTsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJGxpbWl0CgkgKiBAcGFyYW0gaW50ICRvZmZzZXQK</text>
+        <text encoding="base64">CQkkbWFpbk1vZGVsID0gJHRoaXMtPm1haW5Nb2RlbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkkb2Zmc2V0Cg==</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdGhpcy0+cmVxdWVzdC0+cXVlcnkpOwoJCWRpZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkbGltaXQpO2RpZSgpOwo=</text>
+        <text encoding="base64">CQkkb3JkZXJBc2MgPSBAJHRoaXMtPnJlcXVlc3QtPnF1ZXJ5KCdvcmRlckFzYycpID86ICdhc2MnOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Um91dGVyOjpyZXNvdXJjZU1hcChhcnJheSgKCWFycmF5KCdhY3Rpb24nID0+ICdpbmRleCcsICdtZXRob2QnID0+ICdHRVQnLCAnaWQnID0+IGZhbHNlKSwKCWFycmF5KCdhY3Rpb24nID0+ICd2aWV3JywgJ21ldGhvZCcgPT4gJ0dFVCcsICdpZCcgPT4gdHJ1ZSksCglhcnJheSgnYWN0aW9uJyA9PiAnYWRkJywgJ21ldGhvZCcgPT4gJ1BPU1QnLCAnaWQnID0+IGZhbHNlKSwKCWFycmF5KCdhY3Rpb24nID0+ICdlZGl0JywgJ21ldGhvZCcgPT4gJ1BVVCcsICdpZCcgPT4gdHJ1ZSksCglhcnJheSgnYWN0aW9uJyA9PiAnZGVsZXRlJywgJ21ldGhvZCcgPT4gJ0RFTEVURScsICdpZCcgPT4gdHJ1ZSksCglhcnJheSgnYWN0aW9uJyA9PiAndXBkYXRlJywgJ21ldGhvZCcgPT4gJ1BPU1QnLCAnaWQnID0+IHRydWUpCikpOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBpbmRleCgpCgl7Cgl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>reques</last-search>
+      <last-search encoding="base64">XDxtYWluTW9kZWxcPg==</last-search>
       <last-offset />
-      <last-pattern>reques</last-pattern>
+      <last-pattern encoding="base64">XDxtYWluTW9kZWxcPg==</last-pattern>
       <last-replace>192.168.2.105</last-replace>
       <last-substitute>192.168.0.52</last-substitute>
       <last-dir>1</last-dir>
@@ -1121,7 +1121,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cake</entry>
         <entry>dump</entry>
         <entry>https</entry>
         <entry>192.168.2.105:8765</entry>
@@ -1141,6 +1140,7 @@
         <entry>index</entry>
         <entry>mapR</entry>
         <entry>reques</entry>
+        <entry encoding="base64">XDxtYWluTW9kZWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/0.52/2.105</entry>
@@ -1150,6 +1150,7 @@
         <entry>29</entry>
         <entry>%s/192.168.0.52/192.168.2.105/g</entry>
         <entry>1</entry>
+        <entry>49</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
