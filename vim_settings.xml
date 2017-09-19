@@ -171,7 +171,6 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/README.md" timestamp="1505615901475" />
       <file name="$USER_HOME$/git/hms/db/migrate/20170809035346_add_column_wordpress_name_to_employee.rb" timestamp="1502250910830">
         <mark key="[" line="2" column="63" />
         <mark key="]" line="2" column="75" />
@@ -901,7 +900,6 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/Ro/Tags/List.php" timestamp="1505615802958" />
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/config.yml" timestamp="1504586864864">
         <mark key="'" line="22" column="28" />
         <mark key="[" line="22" column="20" />
@@ -1119,7 +1117,7 @@
         <text encoding="base64">PGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaW5wdXQtZ3JvdXAtYWRkb24iPuODrOODk+ODpeODvOOCouODvOOBruOBv+mBuOaKnuWPr+iDvTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1jb250cm9sIj4KICAgICAgICAgICAgICAgICAgICB7aHRtbF9yYWRpb3MgbmFtZT0nb25seV9yZXZpZXdlcicgdmFsdWVzPScwJyBvdXRwdXQ9J+OBhOOBhOOBiCcgc2VsZWN0ZWQ9JHRhZy5vbmx5X3Jldmlld2VyIHNlcGFyYXRvcj0nJm5ic3A7J30KICAgICAgICAgICAgICAgICAgICB7aHRtbF9yYWRpb3MgbmFtZT0nb25seV9yZXZpZXdlcicgdmFsdWVzPScxJyBvdXRwdXQ9J+OBr+OBhCcgc2VsZWN0ZWQ9JHRhZy5vbmx5X3Jldmlld2VyIHNlcGFyYXRvcj0nJ30KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxiciAvPg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -1129,7 +1127,7 @@
       <last-replace>192.168.2.105</last-replace>
       <last-substitute>192.168.0.52</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1164,8 +1162,8 @@
         <entry>49</entry>
         <entry>96,145d</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
