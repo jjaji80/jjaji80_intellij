@@ -481,6 +481,11 @@
         <mark key="^" line="5" column="90" />
         <mark key="." line="5" column="90" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/poloniex/DataLoader.kt" timestamp="1505950842656">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/git/p1-doc/議事録/make.sh" timestamp="1490333563785">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="34" />
@@ -1098,31 +1103,31 @@
         <text>elasticsearch.cluster.nodes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5vZGVzPXRlc3QtYXBwOjkzMDAKZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5hbWU9dGVzdC1waWNrcy1jbHVzdGVyCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRlc3Q6Qml0dHJleFRpY2tlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJDb25uZWN0ZWQiKTsK</text>
+        <text encoding="base64">ZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5vZGVzPXRlc3QtYXBwOjkzMDAKZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5hbWU9dGVzdC1waWNrcy1jbHVzdGVyCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJDb25uZWN0ZWQiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q3Jhc2hseXRpY3MubG9nKExvZy5FUlJPUiwgVEFHLCAgJEVORCQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q3Jhc2hseXRpY3MubG9nKExvZy5FUlJPUiwgVEFHLCAgJEVORCQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob24pIHsKICAgIAogICAgICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAob24pIHsKICAgIAogICAgICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
