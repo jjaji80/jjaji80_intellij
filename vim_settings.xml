@@ -190,6 +190,10 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-release/elasticsearch.properties" timestamp="1505895152874">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="39" />
+      </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="12" />
@@ -606,6 +610,12 @@
         <mark key="^" line="145" column="62" />
         <mark key="." line="145" column="62" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/elasticsearch.properties" timestamp="1505895792787">
+        <mark key="[" line="0" column="65" />
+        <mark key="]" line="0" column="82" />
+        <mark key="^" line="0" column="82" />
+        <mark key="." line="0" column="82" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_setting_profile.ctp" timestamp="1503485787274">
         <mark key="[" line="74" column="47" />
         <mark key="]" line="74" column="63" />
@@ -839,7 +849,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/dummy.sql" timestamp="1505871636570">
+      <file name="/dummy.sql" timestamp="1505895572199">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1505555839805">
@@ -849,7 +859,7 @@
         <mark key="^" line="113" column="182" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505884124186">
+      <file name="/Dummy.txt" timestamp="1505895107013">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1078,40 +1088,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>,172.31.21.107:9300,172.31.30.232:9300</text>
       </register>
       <register name="/" type="4">
         <text>updateFlag</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgICAgLSAiLi9kb2NrZXIvcmVkaXMvbW91bnQvOi9kYXRhOmNhY2hlZCIK</text>
+      <register name="0" type="4">
+        <text>picks-cluster</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJDb25uZWN0ZWQiKTsK</text>
+        <text encoding="base64">ZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5vZGVzPXRlc3QtYXBwOjkzMDAKZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5hbWU9dGVzdC1waWNrcy1jbHVzdGVyCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJDb25uZWN0ZWQiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q3Jhc2hseXRpY3MubG9nKExvZy5FUlJPUiwgVEFHLCAgJEVORCQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q3Jhc2hseXRpY3MubG9nKExvZy5FUlJPUiwgVEFHLCAgJEVORCQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob24pIHsKICAgIAogICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAob24pIHsKICAgIAogICAgICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
