@@ -610,9 +610,9 @@
         <mark key="^" line="145" column="62" />
         <mark key="." line="145" column="62" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/elasticsearch.properties" timestamp="1505897099474">
-        <mark key="[" line="0" column="65" />
-        <mark key="]" line="0" column="82" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/elasticsearch.properties" timestamp="1505901302486">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="82" />
         <mark key="." line="0" column="82" />
       </file>
@@ -860,7 +860,7 @@
         <mark key="^" line="113" column="182" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505897100033">
+      <file name="/Dummy.txt" timestamp="1505901596010">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1095,7 +1095,7 @@
         <text>updateFlag</text>
       </register>
       <register name="0" type="4">
-        <text>picks-cluster</text>
+        <text>elasticsearch.cluster.nodes</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5vZGVzPXRlc3QtYXBwOjkzMDAKZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5hbWU9dGVzdC1waWNrcy1jbHVzdGVyCgo=</text>
