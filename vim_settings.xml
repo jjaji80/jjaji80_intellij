@@ -331,17 +331,14 @@
         <mark key="^" line="7" column="88" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/categorize/RankingRepository.java" timestamp="1505873860623">
+        <mark key="'" line="31" column="29" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/ExecutionStatus.kt" timestamp="1503473708600">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="12" column="4" />
         <mark key="^" line="10" column="58" />
         <mark key="." line="10" column="54" />
-      </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/views/pages/admin/blogs/index.tpl" timestamp="1505612609787">
-        <mark key="'" line="16" column="7" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/git/hms/app/views/make_daily_data/index.html.erb" timestamp="1490921373239">
         <mark key="[" line="2" column="4" />
@@ -713,6 +710,9 @@
         <mark key="^" line="420" column="7" />
         <mark key="." line="354" column="0" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1505874012619">
+        <mark key="'" line="389" column="19" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-model/src/main/java/com/newspicks/model/PickedNewsModel.java" timestamp="1504110243822">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -852,7 +852,7 @@
         <mark key="^" line="113" column="182" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505870029434">
+      <file name="/Dummy.txt" timestamp="1505874017358">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -965,11 +965,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="9" filename="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Dashboard/index.ctp" />
-      <jump line="28" column="17" filename="$USER_HOME$/git/utel/app/webroot/js/admin/common.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/JavaScriptInterface.java" />
-      <jump line="19" column="29" filename="$USER_HOME$/git/utel/devSync.sh" />
-      <jump line="9" column="51" filename="$USER_HOME$/git/utel/devSync.sh" />
       <jump line="12" column="51" filename="$USER_HOME$/git/utel/devSync.sh" />
       <jump line="1" column="13" filename="$USER_HOME$/git/utel/devSync.sh" />
       <jump line="2" column="79" filename="$USER_HOME$/git/utel/devSync.sh" />
@@ -1065,6 +1060,11 @@
       <jump line="3" column="0" filename="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" />
       <jump line="6" column="0" filename="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" />
       <jump line="10" column="0" filename="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" />
+      <jump line="73" column="27" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/categorize/RankingRepository.java" />
+      <jump line="31" column="29" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/categorize/RankingRepository.java" />
+      <jump line="383" column="19" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="385" column="15" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="389" column="19" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1084,7 +1084,7 @@
         <text>ERRO</text>
       </register>
       <register name="/" type="4">
-        <text>curl</text>
+        <text>updateFlag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0idmVyc2lvbl91cmwiPmh0dHA6Ly91dGVsLmFqaW8ubmV0L3ZlcnNpb24uanNvbjwvc3RyaW5nPgo=</text>
@@ -1121,9 +1121,9 @@
       </register>
     </registers>
     <search>
-      <last-search>curl</last-search>
+      <last-search>updateFlag</last-search>
       <last-offset />
-      <last-pattern>curl</last-pattern>
+      <last-pattern>updateFlag</last-pattern>
       <last-replace>192.168.2.105</last-replace>
       <last-substitute>192.168.0.52</last-substitute>
       <last-dir>1</last-dir>
@@ -1131,9 +1131,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpdGVtXD4=</entry>
-        <entry>page</entry>
-        <entry>query</entry>
         <entry>butto</entry>
         <entry>but</entry>
         <entry>ajfoa</entry>
@@ -1151,6 +1148,9 @@
         <entry encoding="base64">XDxjdXN0b21lcl90b3BfdXJsXD4=</entry>
         <entry>fortuneteller_top_url</entry>
         <entry>curl</entry>
+        <entry encoding="base64">XDxuZXdzVGFnU2VydmljZVw+</entry>
+        <entry encoding="base64">XDxyZWdpc3Rlck5ld3NQYWdlXD4=</entry>
+        <entry>updateFlag</entry>
       </history-search>
       <history-cmd>
         <entry>%s/0.52/2.105</entry>
