@@ -44,6 +44,12 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/arbitrage/DataLoader.kt" timestamp="1505965994910">
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="33" column="42" />
+        <mark key="." line="33" column="42" />
+        <mark key="^" line="33" column="42" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/Open.kt" timestamp="1501662818708">
         <mark key="[" line="5" column="119" />
         <mark key="]" line="5" column="119" />
@@ -505,10 +511,10 @@
         <mark key="^" line="5" column="90" />
         <mark key="." line="5" column="90" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/poloniex/DataLoader.kt" timestamp="1505965234870">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/poloniex/DataLoader.kt" timestamp="1505965386563">
         <mark key="'" line="20" column="6" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="34" />
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/git/p1-doc/議事録/make.sh" timestamp="1490333563785">
@@ -794,6 +800,12 @@
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/UsersComponent.php" timestamp="1505607138046">
         <mark key="'" line="158" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/arbitrage/MarketDataServiceMinMax.kt" timestamp="1505966138992">
+        <mark key="[" line="5" column="148" />
+        <mark key="]" line="5" column="149" />
+        <mark key="^" line="5" column="39" />
+        <mark key="." line="5" column="149" />
       </file>
       <file name="$USER_HOME$/git/hms/app/models/search/daily_sales_employee_search_form.rb" timestamp="1490942621747">
         <mark key="[" line="7" column="20" />
@@ -1122,40 +1134,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>er.ask</text>
       </register>
       <register name="/" type="4">
         <text>tick</text>
       </register>
-      <register name="0" type="4">
-        <text>, strtotime('+1 month')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIGxvZyBieSBLdExvZygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRlc3Q6Qml0dHJleFRpY2tlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG1heC4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5vZGVzPXRlc3QtYXBwOjkzMDAKZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5hbWU9dGVzdC1waWNrcy1jbHVzdGVyCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aWNrZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJDb25uZWN0ZWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpY2tlci4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGFMb2FkZXIuZ2V0VGlja2VyKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q3Jhc2hseXRpY3MubG9nKExvZy5FUlJPUiwgVEFHLCAgJEVORCQpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGZ1biAgZGlmZgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob24pIHsKICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRlc3Q6Qml0dHJleFRpY2tlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
