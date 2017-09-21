@@ -44,11 +44,11 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/arbitrage/DataLoader.kt" timestamp="1505967504401">
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="33" column="41" />
-        <mark key="." line="33" column="41" />
-        <mark key="^" line="33" column="41" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/arbitrage/DataLoader.kt" timestamp="1505977173530">
+        <mark key="[" line="17" column="48" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="18" column="19" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/Open.kt" timestamp="1501662818708">
         <mark key="[" line="5" column="119" />
@@ -532,10 +532,10 @@
       <file name="$USER_HOME$/git/api.new.manga-news.jp-master/App/Ro/News.php" timestamp="1505612341551">
         <mark key="'" line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" timestamp="1505367520503">
-        <mark key="'" line="47" column="18" />
-        <mark key="[" line="51" column="9" />
-        <mark key="]" line="51" column="14" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" timestamp="1505978962427">
+        <mark key="'" line="130" column="8" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="109" column="66" />
         <mark key="." line="51" column="14" />
         <mark key="^" line="51" column="14" />
       </file>
@@ -804,11 +804,11 @@
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/UsersComponent.php" timestamp="1505607138046">
         <mark key="'" line="158" column="20" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/arbitrage/MarketDataServiceMinMax.kt" timestamp="1505967410720">
-        <mark key="[" line="5" column="124" />
-        <mark key="]" line="5" column="124" />
-        <mark key="^" line="5" column="124" />
-        <mark key="." line="5" column="124" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/arbitrage/MarketDataServiceMinMax.kt" timestamp="1505978097635">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="55" />
+        <mark key="^" line="11" column="55" />
+        <mark key="." line="11" column="55" />
       </file>
       <file name="$USER_HOME$/git/hms/app/models/search/daily_sales_employee_search_form.rb" timestamp="1490942621747">
         <mark key="[" line="7" column="20" />
@@ -886,6 +886,7 @@
         <mark key="^" line="1" column="76" />
         <mark key="." line="1" column="76" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/knowm/xchange/xchange-poloniex/4.2.0/xchange-poloniex-4.2.0-sources.jar!/org/knowm/xchange/poloniex/PoloniexExchange.java" timestamp="1505980215973" />
       <file name="$USER_HOME$/git/p1-doc/p1/要件定義/make.sh" timestamp="1490166776381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -987,12 +988,12 @@
         <mark key="^" line="5767" column="0" />
         <mark key="." line="5767" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1505370032990">
-        <mark key="'" line="353" column="70" />
-        <mark key="[" line="358" column="71" />
-        <mark key="]" line="358" column="82" />
-        <mark key="." line="358" column="82" />
-        <mark key="^" line="358" column="82" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1505980222246">
+        <mark key="'" line="356" column="70" />
+        <mark key="[" line="399" column="116" />
+        <mark key="]" line="399" column="120" />
+        <mark key="." line="399" column="120" />
+        <mark key="^" line="399" column="120" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/config.yml" timestamp="1505609915505">
         <mark key="[" line="11" column="22" />
@@ -1021,7 +1022,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="20" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="260" column="20" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="360" column="20" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="28" column="26" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/JavaScriptInterface.java" />
@@ -1121,6 +1121,7 @@
       <jump line="20" column="6" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/poloniex/DataLoader.kt" />
       <jump line="286" column="5" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/FortunetellersController.php" />
       <jump line="289" column="57" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/FortunetellersController.php" />
+      <jump line="130" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1137,49 +1138,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(.)</text>
+        <text>marginDepositCash</text>
       </register>
       <register name="/" type="4">
-        <text>strotime</text>
+        <text>write</text>
       </register>
-      <register name="0" type="4">
-        <text>strtotime</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgc3JjID0gRmlsZSgibWFyZ2luRGVwb3NpdENhc2guY3N2IikuYWJzb2x1dGVGaWxlCiAgICAgICAgc3JjLmFwcGVuZFRleHQoIiR7ZGF0ZU5vdygpfSwke2RhdGEubWFyZ2luRGVwb3NpdENhc2h9XG4iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RmFjZWJvb2vjga7pgKPli5XkuI3lhbflkIjkv67mraMK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGVzdCA9IEJpdGh1Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1pbiA9IEJpZ0RlY2ltYWwuWkVSTwogICAgICAgICAgICB2YXIgbWF4ID0gQmlnRGVjaW1hbC5aRVJPCiAgICAgICAgICAgIHZhciBtaW5NYXJrZXREYXRhU2VydmljZTogTWFya2V0RGF0YVNlcnZpY2U/ID0gbnVsbAogICAgICAgICAgICB2YXIgbWF4TWFya2V0RGF0YVNlcnZpY2U6IE1hcmtldERhdGFTZXJ2aWNlPyA9IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICBCaXRodQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG1heC4pCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aWNrZXIK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY29pbkR0YSA9IENvaW5EYXRhKGV4Y2hhbmdlID0gcG9sb25pZXhFeGNoYW5nZSxjdXJyZW5jeVBhaXIgPSBjdXJyZW5jeVBhaXIsbGFzdE1pbnV0ZSA9IDAsbG9hZERhdGFTdGFydFRpbWUgPSAwLG1hcmtldCA9ICJudWxsIixtYXJrZXREYXRhU2VydmljZSA9IG1hcmtldERhdGFTZXJ2aWNlTGlzdFswXSxtYXJrZXREYXRhU2VydmljZXMgPSBtYXJrZXREYXRhU2VydmljZUxpc3QpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpY2tlci4K</text>
+        <text encoding="base64">ICAgICAgICBsb2cK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERhdGFMb2FkZXIuZ2V0VGlja2VyKCkK</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biAgZGlmZgo=</text>
+        <text encoding="base64">ICAgICAgICBtYXJrZXREYXRhU2VydmljZUxpc3QuYWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>strotime</last-search>
+      <last-search>write</last-search>
       <last-offset />
-      <last-pattern>strotime</last-pattern>
+      <last-pattern>write</last-pattern>
       <last-replace>192.168.2.105</last-replace>
       <last-substitute>192.168.0.52</last-substitute>
       <last-dir>1</last-dir>
@@ -1187,7 +1188,6 @@
     </search>
     <history>
       <history-search>
-        <entry>speaker</entry>
         <entry>Speaker</entry>
         <entry>fab</entry>
         <entry encoding="base64">PFwvYWM=</entry>
@@ -1207,6 +1207,7 @@
         <entry>tick</entry>
         <entry encoding="base64">XDxlX2RhdGVcPg==</entry>
         <entry>strotime</entry>
+        <entry>write</entry>
       </history-search>
       <history-cmd>
         <entry>%s/0.52/2.105</entry>
