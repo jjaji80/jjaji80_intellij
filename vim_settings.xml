@@ -230,6 +230,12 @@
         <mark key="." line="156" column="0" />
         <mark key="^" line="155" column="39" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/CoinData.kt" timestamp="1505965361730">
+        <mark key="[" line="13" column="67" />
+        <mark key="]" line="13" column="67" />
+        <mark key="^" line="13" column="67" />
+        <mark key="." line="13" column="67" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" timestamp="1505607568189">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="54" />
@@ -499,7 +505,8 @@
         <mark key="^" line="5" column="90" />
         <mark key="." line="5" column="90" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/poloniex/DataLoader.kt" timestamp="1505950842656">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/poloniex/DataLoader.kt" timestamp="1505965234870">
+        <mark key="'" line="20" column="6" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -999,7 +1006,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="823" column="28" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="919" column="16" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="242" column="20" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="256" column="20" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
@@ -1099,6 +1105,7 @@
       <jump line="51" column="78" filename="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Schedules/monthly.ctp" />
       <jump line="42" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/SchedulesController.php" />
       <jump line="37" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/SchedulesController.php" />
+      <jump line="20" column="6" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/poloniex/DataLoader.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1118,7 +1125,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXREYXlzRm9yU2VsZWN0XD4=</text>
+        <text>tick</text>
       </register>
       <register name="0" type="4">
         <text>, strtotime('+1 month')</text>
@@ -1155,9 +1162,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXREYXlzRm9yU2VsZWN0XD4=</last-search>
+      <last-search>tick</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXREYXlzRm9yU2VsZWN0XD4=</last-pattern>
+      <last-pattern>tick</last-pattern>
       <last-replace>192.168.2.105</last-replace>
       <last-substitute>192.168.0.52</last-substitute>
       <last-dir>1</last-dir>
@@ -1165,7 +1172,6 @@
     </search>
     <history>
       <history-search>
-        <entry>push</entry>
         <entry encoding="base64">XDxBc3luY1NhdmVQdXNoSWRSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxGaXJlYmFzZUluc3RhbmNlSWRcPg==</entry>
         <entry>speaker</entry>
@@ -1185,6 +1191,7 @@
         <entry>detail</entry>
         <entry>date-select</entry>
         <entry encoding="base64">XDxnZXREYXlzRm9yU2VsZWN0XD4=</entry>
+        <entry>tick</entry>
       </history-search>
       <history-cmd>
         <entry>%s/0.52/2.105</entry>
