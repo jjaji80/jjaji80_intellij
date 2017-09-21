@@ -44,11 +44,11 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/arbitrage/DataLoader.kt" timestamp="1505983766005">
-        <mark key="[" line="37" column="48" />
-        <mark key="]" line="38" column="40" />
-        <mark key="." line="38" column="40" />
-        <mark key="^" line="38" column="40" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/arbitrage/DataLoader.kt" timestamp="1505988065709">
+        <mark key="[" line="40" column="48" />
+        <mark key="]" line="41" column="19" />
+        <mark key="." line="41" column="19" />
+        <mark key="^" line="41" column="19" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/Open.kt" timestamp="1501662818708">
         <mark key="[" line="5" column="119" />
@@ -988,11 +988,12 @@
         <mark key="^" line="5767" column="0" />
         <mark key="." line="5767" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1505984029697">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1505988139434">
         <mark key="'" line="358" column="70" />
-        <mark key="[" line="407" column="74" />
-        <mark key="]" line="407" column="74" />
-        <mark key="." line="407" column="74" />
+        <mark key="[" line="418" column="110" />
+        <mark key="]" line="418" column="112" />
+        <mark key="." line="418" column="112" />
+        <mark key="^" line="418" column="112" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/config.yml" timestamp="1505609915505">
         <mark key="[" line="11" column="22" />
@@ -1137,40 +1138,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>BitfinexExchange</text>
+        <text>::class.java.name</text>
       </register>
       <register name="/" type="4">
         <text>write</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJrZXREYXRhU2VydmljZUxpc3QuYWRkKEV4Y2hhbmdlRmFjdG9yeS5JTlNUQU5DRS5jcmVhdGVFeGNoYW5nZShCaXRmaW5leEV4Y2hhbmdlOjpjbGFzcy5qYXZhLm5hbWUpLm1hcmtldERhdGFTZXJ2aWNlKQo=</text>
+      <register name="0" type="4">
+        <text>${result.maxMarketDataService!!::class.java.name},</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihtZXNzYWdlID0gcmVzdWx0Lm1heE1hcmtldERhdGFTZXJ2aWNlOjpjbGFzcy5qYXZhLm5hbWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGVzdCA9IEJpdGh1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCaXRodQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGVzdCA9IEJpdGh1Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCaXRodQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY29pbkR0YSA9IENvaW5EYXRhKGV4Y2hhbmdlID0gcG9sb25pZXhFeGNoYW5nZSxjdXJyZW5jeVBhaXIgPSBjdXJyZW5jeVBhaXIsbGFzdE1pbnV0ZSA9IDAsbG9hZERhdGFTdGFydFRpbWUgPSAwLG1hcmtldCA9ICJudWxsIixtYXJrZXREYXRhU2VydmljZSA9IG1hcmtldERhdGFTZXJ2aWNlTGlzdFswXSxtYXJrZXREYXRhU2VydmljZXMgPSBtYXJrZXREYXRhU2VydmljZUxpc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
