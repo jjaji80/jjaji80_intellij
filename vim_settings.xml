@@ -470,6 +470,9 @@
         <mark key="." line="13" column="99" />
         <mark key="^" line="13" column="99" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Locale/ja_JP/default.po" timestamp="1506070890872">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Client.php" timestamp="1504666281636">
         <mark key="'" line="317" column="61" />
         <mark key="[" line="619" column="0" />
@@ -704,7 +707,6 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="73" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/SearchController.java" timestamp="1506063565795" />
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1505479638319">
         <mark key="[" line="279" column="86" />
         <mark key="]" line="280" column="34" />
@@ -736,7 +738,6 @@
         <mark key="^" line="420" column="7" />
         <mark key="." line="354" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.koushikdutta.ion/ion/2.1.8/3078e96b8b2ff75a1e0a78c192546441891a5010/ion-2.1.8-sources.jar!/com/koushikdutta/ion/Ion.java" timestamp="1506051901843" />
       <file name="$USER_HOME$/git/utel/app/src/Controller/Admin/FortunetellersController.php" timestamp="1506044453111">
         <mark key="'" line="289" column="57" />
         <mark key="[" line="287" column="0" />
@@ -762,6 +763,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="22" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Dashboard/index.ctp" timestamp="1506070391088" />
       <file name="$USER_HOME$/git/manganews-web-master/docker-compose.yml" timestamp="1496903187086">
         <mark key="[" line="26" column="32" />
         <mark key="]" line="26" column="35" />
@@ -818,13 +820,14 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1506059265986">
-        <mark key="'" line="543" column="28" />
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1506071252027">
+        <mark key="'" line="543" column="61" />
         <mark key="[" line="554" column="0" />
         <mark key="]" line="556" column="60" />
         <mark key="^" line="557" column="0" />
         <mark key="." line="554" column="0" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Shell/ScheduleShell.php" timestamp="1506071522434" />
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/tag/TagRepository.java" timestamp="1504090902665">
         <mark key="[" line="31" column="77" />
         <mark key="]" line="31" column="96" />
@@ -880,17 +883,15 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/dummy.sql" timestamp="1506042435096">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1505555839805">
-        <mark key="'" line="71" column="36" />
+      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1506071404035">
+        <mark key="a" line="76" column="14" />
+        <mark key="'" line="127" column="18" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="^" line="113" column="182" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506064327027">
+      <file name="/Dummy.txt" timestamp="1506071523180">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
@@ -1009,11 +1010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/utelAndroid/app/src/main/AndroidManifest.xml" />
-      <jump line="44" column="8" filename="$USER_HOME$/git/utelAndroid/app/src/main/AndroidManifest.xml" />
-      <jump line="52" column="9" filename="$USER_HOME$/git/utelAndroid/app/src/main/AndroidManifest.xml" />
-      <jump line="297" column="17" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="465" column="8" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="187" column="12" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="301" column="55" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="304" column="46" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
@@ -1100,7 +1096,6 @@
       <jump line="387" column="12" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="415" column="45" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="458" column="37" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="543" column="28" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="39" column="24" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
       <jump line="0" column="0" filename="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" />
       <jump line="247" column="0" filename="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" />
@@ -1109,6 +1104,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-server/manganews-core/pom.xml" />
       <jump line="127" column="19" filename="$USER_HOME$/git/manganews-server/manganews-core/pom.xml" />
       <jump line="128" column="18" filename="$USER_HOME$/git/manganews-server/manganews-core/pom.xml" />
+      <jump line="76" column="14" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="122" column="41" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/utel/app/src/Locale/ja_JP/default.po" />
+      <jump line="365" column="74" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="543" column="61" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="127" column="18" filename="$USER_HOME$/git/utel/app/config/define.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1128,7 +1129,7 @@
         <text encoding="base64">Zml4ZWQg</text>
       </register>
       <register name="/" type="4">
-        <text>ela</text>
+        <text>createdDevice</text>
       </register>
       <register name="0" type="4">
         <text>elasticsearch.version</text>
@@ -1165,9 +1166,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ela</last-search>
+      <last-search>createdDevice</last-search>
       <last-offset />
-      <last-pattern>ela</last-pattern>
+      <last-pattern>createdDevice</last-pattern>
       <last-replace>192.168.2.105</last-replace>
       <last-substitute>192.168.0.52</last-substitute>
       <last-dir>1</last-dir>
@@ -1175,8 +1176,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tick</entry>
-        <entry encoding="base64">XDxlX2RhdGVcPg==</entry>
         <entry>strotime</entry>
         <entry>write</entry>
         <entry encoding="base64">XDxub3dcPg==</entry>
@@ -1195,6 +1194,8 @@
         <entry>rele</entry>
         <entry>curl</entry>
         <entry>ela</entry>
+        <entry>待機中</entry>
+        <entry>createdDevice</entry>
       </history-search>
       <history-cmd>
         <entry>%s/0.52/2.105</entry>
