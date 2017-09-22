@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt r" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="r" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="w" />
+  </action>
   <action id="Console.TableResult.Transpose">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="t" />
   </action>
