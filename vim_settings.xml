@@ -628,11 +628,11 @@
         <mark key="^" line="145" column="62" />
         <mark key="." line="145" column="62" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/elasticsearch.properties" timestamp="1506064117212">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="82" />
-        <mark key="." line="0" column="45" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/elasticsearch.properties" timestamp="1506123269762">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_setting_profile.ctp" timestamp="1503485787274">
         <mark key="[" line="74" column="47" />
@@ -1162,7 +1162,7 @@
         <text encoding="base64">ICAgIHBpcnZhdGUgc3RhCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%y</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1208,8 +1208,8 @@
         <entry>96,145d</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry>%y</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
