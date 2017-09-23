@@ -437,11 +437,12 @@
         <mark key="." line="191" column="31" />
         <mark key="^" line="191" column="31" />
       </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/ElasticSearch/config/elasticsearch.yml" timestamp="1506131220420">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/ElasticSearch/config/elasticsearch.yml" timestamp="1506134814422">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="205" column="22" />
+        <mark key="]" line="205" column="30" />
+        <mark key="^" line="205" column="30" />
+        <mark key="." line="205" column="30" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/NewsComponent.php" timestamp="1504244767479">
         <mark key="'" line="140" column="20" />
@@ -456,12 +457,12 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker-compose.yml" timestamp="1506131266796">
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker-compose.yml" timestamp="1506135010653">
         <mark key="'" line="48" column="4" />
-        <mark key="[" line="61" column="108" />
-        <mark key="]" line="61" column="108" />
-        <mark key="^" line="61" column="107" />
-        <mark key="." line="61" column="108" />
+        <mark key="[" line="62" column="74" />
+        <mark key="]" line="62" column="74" />
+        <mark key="^" line="62" column="74" />
+        <mark key="." line="62" column="74" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Layout/fortuneteller.ctp" timestamp="1505586480403">
         <mark key="'" line="0" column="0" />
@@ -634,11 +635,10 @@
         <mark key="^" line="145" column="62" />
         <mark key="." line="145" column="62" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/elasticsearch.properties" timestamp="1506127667070">
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="1" column="39" />
-        <mark key="^" line="1" column="39" />
-        <mark key="." line="1" column="39" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/elasticsearch.properties" timestamp="1506134620874">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_setting_profile.ctp" timestamp="1503485787274">
         <mark key="[" line="74" column="47" />
@@ -871,6 +871,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
+      <file name="/elasticsearch.properties" timestamp="1506135126454" />
       <file name="$USER_HOME$/git/coinman/src/coinman/KtLog.kt" timestamp="1499747787110">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1016,8 +1017,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="12" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="301" column="55" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="304" column="46" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="314" column="16" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="319" column="48" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
@@ -1116,6 +1115,8 @@
       <jump line="365" column="74" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="543" column="61" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="127" column="18" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="214" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/ElasticSearch/config/elasticsearch.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/ElasticSearch/config/elasticsearch.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1132,49 +1133,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>backups</text>
+        <text>esdata2</text>
       </register>
       <register name="/" type="4">
-        <text>createdDevice</text>
+        <text>publi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAtICIuL2RvY2tlci9FbGFzdGljU2VhcmNoL21vdW50L2JhY2t1cHM6L3Zhci9iYWNrdXBzOmNhY2hlZCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTMwMTo5MzAxIgo=</text>
+        <text encoding="base64">ZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5hbWU9ZWxhc3RpY3NlYXJjaAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWxhc3RpY3NlYXJjaC5yZW1vdGU9dHJ1ZQo=</text>
+        <text encoding="base64">Y2x1c3Rlci5uYW1lPXBpY2tzLWNsdXN0ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5hbWU9cGlja3MtY2x1c3RlcgplbGFzdGljc2VhcmNoLnJlbW90ZT10cnVlCg==</text>
+        <text encoding="base64">ICAgICAgLSAiOTMwMTo5MzAxIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
+        <text encoding="base64">ZWxhc3RpY3NlYXJjaC5yZW1vdGU9dHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5lKFRBRywgIkVycm9yIHJldHJpZXZpbmcgdG9rZW46ICIgKyBlLnRvU3RyaW5nKCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgRmlyZWJhc2VDcmFzaC5yZXBvcnQobmV3IEV4Y2VwdGlvbihlKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcmFzaGx5dGljcy5sb2dFeGNlcHRpb24oZSk7Cg==</text>
+        <text encoding="base64">ZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5hbWU9cGlja3MtY2x1c3RlcgplbGFzdGljc2VhcmNoLnJlbW90ZT10cnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KENsaWVudEFjdGl2aXR5LnRoaXMsICJFcnJvciByZXRyaWV2aW5nIHRva2VuIiwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5lKFRBRywgIkVycm9yIHJldHJpZXZpbmcgdG9rZW46ICIgKyBlLnRvU3RyaW5nKCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgRmlyZWJhc2VDcmFzaC5yZXBvcnQobmV3IEV4Y2VwdGlvbihlKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcmFzaGx5dGljcy5sb2dFeGNlcHRpb24oZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZSA9IG5ldyBFeGNlcHRpb24oInRlc3QiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZTEucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KENsaWVudEFjdGl2aXR5LnRoaXMsICJFcnJvciByZXRyaWV2aW5nIHRva2VuIiwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>createdDevice</last-search>
+      <last-search>publi</last-search>
       <last-offset />
-      <last-pattern>createdDevice</last-pattern>
+      <last-pattern>publi</last-pattern>
       <last-replace>192.168.2.105</last-replace>
       <last-substitute>192.168.0.52</last-substitute>
       <last-dir>1</last-dir>
@@ -1182,8 +1183,6 @@
     </search>
     <history>
       <history-search>
-        <entry>strotime</entry>
-        <entry>write</entry>
         <entry encoding="base64">XDxub3dcPg==</entry>
         <entry encoding="base64">XDxnZXRBbGxEYXlzXD4=</entry>
         <entry>debug</entry>
@@ -1202,6 +1201,8 @@
         <entry>ela</entry>
         <entry>待機中</entry>
         <entry>createdDevice</entry>
+        <entry>public</entry>
+        <entry>publi</entry>
       </history-search>
       <history-cmd>
         <entry>%s/0.52/2.105</entry>
@@ -1213,8 +1214,10 @@
         <entry>49</entry>
         <entry>96,145d</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>1</entry>
         <entry>%y</entry>
+        <entry>105</entry>
+        <entry>182</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
