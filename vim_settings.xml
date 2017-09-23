@@ -250,6 +250,10 @@
         <mark key="^" line="13" column="67" />
         <mark key="." line="13" column="67" />
       </file>
+      <file name="$USER_HOME$/git/minergate/main.sh" timestamp="1506209993653">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="46" />
+      </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/JavaScriptInterface.java" timestamp="1505867208029">
         <mark key="'" line="30" column="26" />
         <mark key="[" line="42" column="0" />
@@ -1144,8 +1148,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNhYmxlX2R5bmFtaWNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>:cached</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyEvYmluL2Jhc2gKClVTRVI9amphamk4MEBnbWFpbC5jb20KQ1BVX05VTT1gZ3JlcCAtYyBecHJvY2Vzc29yIC9wcm9jL2NwdWluZm9gClBST0c9L3Vzci9iaW4vbWluZXJnYXRlLWNsaQpNPSJmY24reG1yIgpMT0c9L3RtcC9taW5lcmdhdGUubG9nClBFUkNFTlQ9JDEKCmV4ZWMgY3B1bGltaXQgLWwgJFsxMDAgKiAkQ1BVX05VTSAvICgxMDAgLyAkUEVSQ0VOVCldIG1pbmVyZ2F0ZS1jbGkKZXhlYyAke1BST0d9IC11c2VyICR7VVNFUn0gIi0ke019IiAke0NQVV9OVU19ICYK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5hbWU9ZWxhc3RpY3NlYXJjaAo=</text>
@@ -1175,7 +1179,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KENsaWVudEFjdGl2aXR5LnRoaXMsICJFcnJvciByZXRyaWV2aW5nIHRva2VuIiwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%y</text>
       </register>
     </registers>
     <search>
@@ -1220,11 +1224,11 @@
         <entry>49</entry>
         <entry>96,145d</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>%y</entry>
         <entry>105</entry>
         <entry>182</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>%y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
