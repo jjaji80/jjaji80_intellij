@@ -437,6 +437,12 @@
         <mark key="." line="191" column="31" />
         <mark key="^" line="191" column="31" />
       </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/ElasticSearch/config/elasticsearch.yml" timestamp="1506131220420">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/NewsComponent.php" timestamp="1504244767479">
         <mark key="'" line="140" column="20" />
         <mark key="[" line="180" column="0" />
@@ -450,12 +456,12 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker-compose.yml" timestamp="1506129764787">
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker-compose.yml" timestamp="1506131266796">
         <mark key="'" line="48" column="4" />
-        <mark key="[" line="62" column="23" />
-        <mark key="]" line="62" column="27" />
-        <mark key="^" line="62" column="27" />
-        <mark key="." line="62" column="27" />
+        <mark key="[" line="61" column="108" />
+        <mark key="]" line="61" column="108" />
+        <mark key="^" line="61" column="107" />
+        <mark key="." line="61" column="108" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Layout/fortuneteller.ctp" timestamp="1505586480403">
         <mark key="'" line="0" column="0" />
@@ -1126,13 +1132,13 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>docker</text>
+        <text>backups</text>
       </register>
       <register name="/" type="4">
         <text>createdDevice</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5hbWU9cGlja3MtY2x1c3Rlcgo=</text>
+        <text encoding="base64">ICAgICAgICAtICIuL2RvY2tlci9FbGFzdGljU2VhcmNoL21vdW50L2JhY2t1cHM6L3Zhci9iYWNrdXBzOmNhY2hlZCIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLSAiOTMwMTo5MzAxIgo=</text>
