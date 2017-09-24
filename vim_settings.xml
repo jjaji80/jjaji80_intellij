@@ -250,9 +250,11 @@
         <mark key="^" line="13" column="67" />
         <mark key="." line="13" column="67" />
       </file>
-      <file name="$USER_HOME$/git/minergate/main.sh" timestamp="1506209993653">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="46" />
+      <file name="$USER_HOME$/git/minergate/main.sh" timestamp="1506213443935">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="11" column="12" />
+        <mark key="^" line="11" column="12" />
+        <mark key="." line="11" column="12" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/JavaScriptInterface.java" timestamp="1505867208029">
         <mark key="'" line="30" column="26" />
@@ -908,7 +910,7 @@
         <mark key="^" line="113" column="182" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506129593910">
+      <file name="/Dummy.txt" timestamp="1506213460143">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
@@ -1027,7 +1029,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="352" column="33" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="366" column="74" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="32" column="0" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ElsaUtil.java" />
       <jump line="14" column="18" filename="/strings.xml" />
@@ -1127,6 +1128,7 @@
       <jump line="374" column="7" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/ElasticSearch/config/elasticsearch.yml" />
       <jump line="312" column="67" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/ElasticSearch/config/elasticsearch.yml" />
       <jump line="348" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/ElasticSearch/config/elasticsearch.yml" />
+      <jump line="4" column="0" filename="$USER_HOME$/git/minergate/main.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1152,34 +1154,34 @@
         <text encoding="base64">IyEvYmluL2Jhc2gKClVTRVI9amphamk4MEBnbWFpbC5jb20KQ1BVX05VTT1gZ3JlcCAtYyBecHJvY2Vzc29yIC9wcm9jL2NwdWluZm9gClBST0c9L3Vzci9iaW4vbWluZXJnYXRlLWNsaQpNPSJmY24reG1yIgpMT0c9L3RtcC9taW5lcmdhdGUubG9nClBFUkNFTlQ9JDEKCmV4ZWMgY3B1bGltaXQgLWwgJFsxMDAgKiAkQ1BVX05VTSAvICgxMDAgLyAkUEVSQ0VOVCldIG1pbmVyZ2F0ZS1jbGkKZXhlYyAke1BST0d9IC11c2VyICR7VVNFUn0gIi0ke019IiAke0NQVV9OVU19ICYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5hbWU9ZWxhc3RpY3NlYXJjaAo=</text>
+        <text encoding="base64">IyEvYmluL2Jhc2gKClVTRVI9amphamk4MEBnbWFpbC5jb20KQ1BVX05VTT1gZ3JlcCAtYyBecHJvY2Vzc29yIC9wcm9jL2NwdWluZm9gClBST0c9L3Vzci9iaW4vbWluZXJnYXRlLWNsaQpNPSJmY24reG1yIgpMT0c9L3RtcC9taW5lcmdhdGUubG9nClBFUkNFTlQ9JDEKCmV4ZWMgY3B1bGltaXQgLWwgJFsxMDAgKiAkQ1BVX05VTSAvICgxMDAgLyAkUEVSQ0VOVCldIG1pbmVyZ2F0ZS1jbGkKZXhlYyAke1BST0d9IC11c2VyICR7VVNFUn0gIi0ke019IiAke0NQVV9OVU19ICYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2x1c3Rlci5uYW1lPXBpY2tzLWNsdXN0ZXIK</text>
+        <text encoding="base64">ZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5hbWU9ZWxhc3RpY3NlYXJjaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTMwMTo5MzAxIgo=</text>
+        <text encoding="base64">Y2x1c3Rlci5uYW1lPXBpY2tzLWNsdXN0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWxhc3RpY3NlYXJjaC5yZW1vdGU9dHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgLSAiOTMwMTo5MzAxIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5hbWU9cGlja3MtY2x1c3RlcgplbGFzdGljc2VhcmNoLnJlbW90ZT10cnVlCg==</text>
+        <text encoding="base64">ZWxhc3RpY3NlYXJjaC5yZW1vdGU9dHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
+        <text encoding="base64">ZWxhc3RpY3NlYXJjaC5jbHVzdGVyLm5hbWU9cGlja3MtY2x1c3RlcgplbGFzdGljc2VhcmNoLnJlbW90ZT10cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5lKFRBRywgIkVycm9yIHJldHJpZXZpbmcgdG9rZW46ICIgKyBlLnRvU3RyaW5nKCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgRmlyZWJhc2VDcmFzaC5yZXBvcnQobmV3IEV4Y2VwdGlvbihlKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcmFzaGx5dGljcy5sb2dFeGNlcHRpb24oZSk7Cg==</text>
+        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5lKFRBRywgIkVycm9yIHJldHJpZXZpbmcgdG9rZW46ICIgKyBlLnRvU3RyaW5nKCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgRmlyZWJhc2VDcmFzaC5yZXBvcnQobmV3IEV4Y2VwdGlvbihlKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcmFzaGx5dGljcy5sb2dFeGNlcHRpb24oZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KENsaWVudEFjdGl2aXR5LnRoaXMsICJFcnJvciByZXRyaWV2aW5nIHRva2VuIiwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%y</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1227,8 +1229,8 @@
         <entry>105</entry>
         <entry>182</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry>%y</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
