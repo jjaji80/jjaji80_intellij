@@ -307,12 +307,12 @@
         <mark key="^" line="10" column="58" />
         <mark key="." line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/views/pages/admin/blogs/index.tpl" timestamp="1506336907282">
-        <mark key="'" line="34" column="31" />
-        <mark key="[" line="70" column="36" />
-        <mark key="]" line="77" column="48" />
-        <mark key="." line="30" column="21" />
-        <mark key="^" line="30" column="21" />
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/views/pages/admin/blogs/index.tpl" timestamp="1506386276612">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="20" />
+        <mark key="." line="31" column="20" />
+        <mark key="^" line="35" column="43" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/user/UserRepository.java" timestamp="1506309867123" />
       <file name="$USER_HOME$/git/hms/app/views/make_daily_data/index.html.erb" timestamp="1490921373239">
@@ -363,7 +363,7 @@
         <mark key="." line="16" column="30" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505554708385">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506386190514">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -382,11 +382,11 @@
         <mark key="^" line="63" column="80" />
         <mark key="." line="62" column="74" />
       </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/views/elements/blog/modal_search.tpl" timestamp="1506337047270">
-        <mark key="[" line="14" column="87" />
-        <mark key="]" line="14" column="90" />
-        <mark key="^" line="14" column="90" />
-        <mark key="." line="14" column="90" />
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/views/elements/blog/modal_search.tpl" timestamp="1506386736356">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="44" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Development/database.php" timestamp="1503366158601">
         <mark key="[" line="84" column="19" />
@@ -394,11 +394,11 @@
         <mark key="." line="84" column="27" />
         <mark key="^" line="84" column="27" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/RestController.php" timestamp="1506333747813">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="34" />
-        <mark key="^" line="52" column="28" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/RestController.php" timestamp="1506386783005">
+        <mark key="[" line="60" column="63" />
+        <mark key="]" line="60" column="64" />
+        <mark key="^" line="60" column="64" />
+        <mark key="." line="60" column="64" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/ApiController.php" timestamp="1505593631780">
         <mark key="[" line="22" column="40" />
@@ -535,12 +535,12 @@
         <mark key="^" line="281" column="63" />
         <mark key="." line="281" column="63" />
       </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" timestamp="1506334628062">
-        <mark key="'" line="146" column="19" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
-        <mark key="^" line="170" column="9" />
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" timestamp="1506386771699">
+        <mark key="'" line="72" column="12" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
+        <mark key="^" line="177" column="27" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/sp/Mobile/dial.ctp" timestamp="1505577946182">
         <mark key="[" line="4" column="0" />
@@ -738,10 +738,10 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/dummy.sql" timestamp="1506310098299">
+      <file name="/dummy.sql" timestamp="1506385945566">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506384082790">
+      <file name="/Dummy.txt" timestamp="1506386475816">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
@@ -846,7 +846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="43" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="150" column="8" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="214" column="20" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="407" column="23" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
@@ -907,7 +906,6 @@
       <jump line="67" column="41" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
       <jump line="70" column="31" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
       <jump line="71" column="33" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="72" column="49" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
       <jump line="89" column="26" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
       <jump line="101" column="24" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
       <jump line="112" column="37" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
@@ -946,6 +944,8 @@
       <jump line="150" column="20" filename="$USER_HOME$/git/tools.manga-news.jp-master/App/Apirequest.php" />
       <jump line="20" column="28" filename="$USER_HOME$/git/tools.manga-news.jp-master/App/views/elements/blog/modal_search.tpl" />
       <jump line="16" column="51" filename="$USER_HOME$/git/tools.manga-news.jp-master/App/views/elements/blog/modal_search.tpl" />
+      <jump line="72" column="12" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/App/views/pages/admin/blogs/index.tpl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -962,49 +962,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>下書</text>
+        <text>values</text>
       </register>
       <register name="/" type="4">
-        <text>gms</text>
+        <text>select</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjAiIHtpZiAkc2VhcmNoLmVxX3N0YXR1cyA9PSAiMCJ9c2VsZWN0ZWR7L2lmfT7kuIvmm7jjgY08L29wdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiIge2lmICRzZWFyY2guZXFfc3RhdHVzID09ICIifXNlbGVjdGVkey9pZn0+5oyH5a6a44Gq44GXPC9vcHRpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIHR5cGU9InRleHQiIG5hbWU9ImVxX3N0YXR1cyIgdmFsdWU9Inskc2VhcmNoLmVxX3N0YXR1c30iLz4K</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRwYXJhbXMpO2RpZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIHR5cGU9InRleHQiIG5hbWU9ImVxX3N0YXR1cyIgdmFsdWU9Inskc2VhcmNoLmVxX3N0YXR1c30iLz4K</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRwYXJhbXMpO2RpZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJHVybCk7CiAgICAgIHZhcl9kdW1wKCRyYXdEYXRhKTtkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgJ2VxX3N0YXR1cycgPT4gJGFyZ3NbJ2VxX3N0YXR1cyddLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJHVybCk7CiAgICAgIHZhcl9kdW1wKCRyZXN1bHQpO2RpZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgIH1lbHNlIHsKICAgICAgJHZhbHVlc1snb3JkZXInXSA9ICdCbG9nLnN0YXR1cyxCbG9nLnJlbGVhc2VfZGF0ZSBERVNDJzsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXZhcl9kdW1wKCRyZXN1bHQtPnVzZXIpOwo=</text>
+        <text encoding="base64">ICAgIGlmICghaXNzZXQoJGFyZ3NbJ2VxX3N0YXR1cyddKSB8fCBtYl9zdHJsZW4oJGFyZ3NbJ2VxX3N0YXR1cyddKSA9PSAwKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWlmICgkcmVzdWx0ICYmICRyZXN1bHQtPnVzZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJdmFyX2R1bXAoJHVzZXJzKTtkaWUoKTsKCQkJJG9yID0gYXJyYXkoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJHVybCk7CiAgICAgIHZhcl9kdW1wKCRyZXN1bHQpO2RpZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIHR5cGU9InRleHQiIG5hbWU9ImVxX3N0YXR1cyIgdmFsdWU9Inskc2VhcmNoLmVxX3N0YXR1c30iLz4K</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>gms</last-search>
+      <last-search>select</last-search>
       <last-offset />
-      <last-pattern>gms</last-pattern>
+      <last-pattern>select</last-pattern>
       <last-replace>search.eq_status</last-replace>
       <last-substitute>blog.Blog.status</last-substitute>
       <last-dir>1</last-dir>
@@ -1012,7 +1012,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Ta</entry>
         <entry>var_du</entry>
         <entry>status</entry>
         <entry>blog</entry>
@@ -1032,6 +1031,7 @@
         <entry>blog.Blog</entry>
         <entry>blog.Blog.status</entry>
         <entry>gms</entry>
+        <entry>select</entry>
       </history-search>
       <history-cmd>
         <entry>%s/0.52/2.105</entry>
@@ -1051,8 +1051,8 @@
         <entry>%s/blog.Blog/search/</entry>
         <entry>%s/blog.Blog/eq_search/</entry>
         <entry>%s/blog.Blog.status/search.eq_status/</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
