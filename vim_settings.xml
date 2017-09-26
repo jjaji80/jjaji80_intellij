@@ -258,6 +258,13 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" timestamp="1506396301872">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="128" column="37" />
+        <mark key="]" line="128" column="37" />
+        <mark key="^" line="128" column="37" />
+        <mark key="." line="128" column="37" />
+      </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/JavaScriptInterface.java" timestamp="1505867208029">
         <mark key="'" line="30" column="26" />
         <mark key="[" line="42" column="0" />
@@ -930,23 +937,23 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/dummy.sql" timestamp="1506388059769">
+      <file name="/dummy.sql" timestamp="1506395398665">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506390928510">
+      <file name="/Dummy.txt" timestamp="1506395429741">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1506390979495">
-        <mark key="a" line="604" column="0" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1506396179674">
+        <mark key="a" line="625" column="12" />
         <mark key="b" line="785" column="2" />
-        <mark key="'" line="791" column="2" />
-        <mark key="[" line="608" column="0" />
-        <mark key="]" line="608" column="0" />
-        <mark key="^" line="606" column="40" />
-        <mark key="." line="608" column="0" />
+        <mark key="'" line="637" column="0" />
+        <mark key="[" line="757" column="42" />
+        <mark key="]" line="757" column="56" />
+        <mark key="^" line="757" column="56" />
+        <mark key="." line="757" column="56" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/ConditionCls.kt" timestamp="1502518132571">
         <mark key="[" line="11" column="51" />
@@ -1061,81 +1068,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="931" column="146" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="29" column="31" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="165" column="30" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="387" column="12" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="415" column="45" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="458" column="37" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="39" column="24" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
-      <jump line="0" column="0" filename="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" />
-      <jump line="247" column="0" filename="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" />
-      <jump line="10" column="0" filename="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" />
-      <jump line="6" column="0" filename="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-server/manganews-core/pom.xml" />
-      <jump line="127" column="19" filename="$USER_HOME$/git/manganews-server/manganews-core/pom.xml" />
-      <jump line="128" column="18" filename="$USER_HOME$/git/manganews-server/manganews-core/pom.xml" />
-      <jump line="76" column="14" filename="$USER_HOME$/git/utel/app/config/define.php" />
-      <jump line="122" column="41" filename="$USER_HOME$/git/utel/app/config/define.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/utel/app/src/Locale/ja_JP/default.po" />
-      <jump line="365" column="74" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="543" column="61" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="127" column="18" filename="$USER_HOME$/git/utel/app/config/define.php" />
-      <jump line="214" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/ElasticSearch/config/elasticsearch.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/ElasticSearch/config/elasticsearch.yml" />
-      <jump line="205" column="8" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/ElasticSearch/config/elasticsearch.yml" />
-      <jump line="374" column="7" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/ElasticSearch/config/elasticsearch.yml" />
-      <jump line="312" column="67" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/ElasticSearch/config/elasticsearch.yml" />
-      <jump line="348" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/ElasticSearch/config/elasticsearch.yml" />
-      <jump line="4" column="0" filename="$USER_HOME$/git/minergate/main.sh" />
-      <jump line="26" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="41" column="53" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="63" column="40" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="64" column="71" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="67" column="41" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="70" column="31" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="71" column="33" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="89" column="26" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="101" column="24" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="112" column="37" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="115" column="26" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="116" column="42" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="127" column="24" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="139" column="24" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="148" column="29" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="159" column="26" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="14" column="44" filename="$USER_HOME$/git/manganews-web-master/app/Controller/SettingController.php" />
-      <jump line="346" column="6" filename="$USER_HOME$/git/manganews-web-master/app/Controller/SettingController.php" />
-      <jump line="65" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Config/const.php" />
-      <jump line="76" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="123" column="32" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="130" column="36" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="137" column="26" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="68" column="35" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="121" column="21" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="59" column="20" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="45" column="31" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="155" column="26" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="7" column="26" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="21" column="26" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="176" column="54" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="48" column="46" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="151" column="29" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="22" column="68" filename="$USER_HOME$/git/tools.manga-news.jp-master/App/views/elements/blog/modal_search.tpl" />
-      <jump line="23" column="98" filename="$USER_HOME$/git/tools.manga-news.jp-master/App/views/elements/blog/modal_search.tpl" />
-      <jump line="45" column="21" filename="$USER_HOME$/git/manganews-web-master/app/Controller/RestController.php" />
-      <jump line="24" column="14" filename="$USER_HOME$/git/manganews-web-master/app/Controller/RestController.php" />
-      <jump line="75" column="31" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="146" column="19" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="150" column="20" filename="$USER_HOME$/git/tools.manga-news.jp-master/App/Apirequest.php" />
-      <jump line="20" column="28" filename="$USER_HOME$/git/tools.manga-news.jp-master/App/views/elements/blog/modal_search.tpl" />
-      <jump line="16" column="51" filename="$USER_HOME$/git/tools.manga-news.jp-master/App/views/elements/blog/modal_search.tpl" />
-      <jump line="72" column="12" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/App/views/pages/admin/blogs/index.tpl" />
-      <jump line="180" column="5" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="181" column="14" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="184" column="15" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
       <jump line="190" column="9" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
       <jump line="191" column="46" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
       <jump line="34" column="20" filename="$USER_HOME$/git/tools.manga-news.jp-master/App/views/pages/admin/blogs/index.tpl" />
@@ -1161,6 +1093,81 @@
       <jump line="24" column="52" filename="$USER_HOME$/git/manganews-web-master/app/Config/routes.php" />
       <jump line="26" column="22" filename="$USER_HOME$/git/manganews-web-master/app/Config/routes.php" />
       <jump line="52" column="57" filename="$USER_HOME$/git/manganews-web-master/app/Config/routes.php" />
+      <jump line="634" column="24" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="699" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="636" column="26" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="709" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="640" column="34" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="383" column="57" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="625" column="12" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="31" column="37" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="623" column="4" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="770" column="21" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="87" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="207" column="6" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="327" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="652" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="653" column="21" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="659" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="11" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="28" column="13" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="51" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="84" column="5" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="85" column="16" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="90" column="43" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="115" column="5" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="116" column="16" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="154" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="172" column="5" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="175" column="9" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="205" column="4" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="650" column="4" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="81" column="23" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="57" column="8" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="121" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="323" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="341" column="78" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="394" column="74" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="434" column="62" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="442" column="62" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="458" column="60" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="464" column="60" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="470" column="60" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="477" column="60" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="518" column="62" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="539" column="64" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="615" column="69" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="624" column="67" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="627" column="67" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="695" column="86" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="741" column="16" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="758" column="52" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="760" column="44" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="763" column="44" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="75" column="86" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="25" column="36" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="79" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="9" column="68" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="116" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="156" column="62" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="176" column="51" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="204" column="56" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="315" column="53" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="389" column="60" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="590" column="54" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="600" column="54" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="757" column="56" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="55" column="40" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="137" column="34" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="55" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="155" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="56" column="2" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="29" column="29" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="117" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="637" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="5" column="59" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1177,13 +1184,13 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$result</text>
+        <text encoding="base64">dGhpcy0+</text>
       </register>
       <register name="/" type="4">
-        <text>blog</text>
+        <text>user_status</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkkdGhpcy0+X2pzb25fdG9fYWpheCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">CQkkbW9kZWwgPSBDbGFzc1JlZ2lzdHJ5Ojppbml0KCdCbG9ncycpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkkdGhpcy0+c2V0KFsKCQkJJ3Jlc3VsdCcgPT4gJ29rJwoJCV0pOwo=</text>
@@ -1213,13 +1220,13 @@
         <text encoding="base64">ICAgIHZhcl9kdW1wKCRib2R5KTsKICAgIGRpZSgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>blog</last-search>
+      <last-search>user_status</last-search>
       <last-offset />
-      <last-pattern>blog</last-pattern>
+      <last-pattern>user_status</last-pattern>
       <last-replace>search.eq_status</last-replace>
       <last-substitute>blog.Blog.status</last-substitute>
       <last-dir>1</last-dir>
@@ -1227,18 +1234,6 @@
     </search>
     <history>
       <history-search>
-        <entry>search</entry>
-        <entry>user</entry>
-        <entry encoding="base64">XDxlcV91c2VyX2lkXD4=</entry>
-        <entry encoding="base64">XDxjb252ZXJ0UXVlcnlcPg==</entry>
-        <entry encoding="base64">XDxjb25kaXRpb25zXD4=</entry>
-        <entry encoding="base64">XDxfZ2V0QmxvZ3NcPg==</entry>
-        <entry>die</entry>
-        <entry>blog.Blog</entry>
-        <entry>blog.Blog.status</entry>
-        <entry>gms</entry>
-        <entry>select</entry>
-        <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry>count</entry>
         <entry encoding="base64">XDxfc2l6ZVw+</entry>
         <entry encoding="base64">XDxsaW1pdFw+</entry>
@@ -1247,6 +1242,18 @@
         <entry encoding="base64">XDxfcmVwb3J0X3RvX2FwaVw+</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry>blog</entry>
+        <entry>get_blog_total_count</entry>
+        <entry encoding="base64">XDxfY2hlY2tfdG9wX2ltYWdlXD4=</entry>
+        <entry encoding="base64">XDxfY2hlY2tfbmV3X2ltYWdlXD4=</entry>
+        <entry encoding="base64">XDxnZXRfYmxvZ190YWdzXD4=</entry>
+        <entry encoding="base64">XDx1c2VyX3N0YXR1c1w+</entry>
+        <entry encoding="base64">XDxfZmluZFw+</entry>
+        <entry>user_id</entry>
+        <entry>Blogs</entry>
+        <entry>_find</entry>
+        <entry encoding="base64">XDxnZXRfcmVsZWFzZV9ibG9nc1w+</entry>
+        <entry encoding="base64">XDxfY2hlY2tfdXNlcl9zdGF0dXNcPg==</entry>
+        <entry>user_status</entry>
       </history-search>
       <history-cmd>
         <entry>%s/0.52/2.105</entry>
@@ -1266,8 +1273,8 @@
         <entry>%s/blog.Blog/search/</entry>
         <entry>%s/blog.Blog/eq_search/</entry>
         <entry>%s/blog.Blog.status/search.eq_status/</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
