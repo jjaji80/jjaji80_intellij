@@ -869,8 +869,8 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1506401929729">
-        <mark key="'" line="543" column="61" />
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1506405437142">
+        <mark key="'" line="449" column="16" />
         <mark key="[" line="554" column="0" />
         <mark key="]" line="556" column="60" />
         <mark key="^" line="557" column="0" />
@@ -1057,13 +1057,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="7" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="173" column="15" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="53" column="36" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/UserController.java" />
-      <jump line="825" column="60" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="603" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="30" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="348" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="602" column="2" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="724" column="2" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="772" column="2" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
@@ -1157,6 +1150,13 @@
       <jump line="611" column="5" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="617" column="53" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="626" column="61" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="578" column="12" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="580" column="31" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="58" column="19" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="432" column="16" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="433" column="16" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="447" column="16" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="449" column="16" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1176,7 +1176,7 @@
         <text>Users</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhXD4=</text>
+        <text encoding="base64">XDxjbGllbnREZXZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkkdXNlck1vZGVsID0gQ2xhc3NSZWdpc3RyeTo6aW5pdCgnVXNlcnMnKTsK</text>
@@ -1213,17 +1213,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
+      <last-search encoding="base64">XDxjbGllbnREZXZpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjbGllbnREZXZpY2VcPg==</last-pattern>
       <last-replace>search.eq_status</last-replace>
       <last-substitute>blog.Blog.status</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc2l6ZVw+</entry>
         <entry encoding="base64">XDxsaW1pdFw+</entry>
         <entry>offset</entry>
         <entry>add</entry>
@@ -1243,6 +1242,7 @@
         <entry encoding="base64">XDxfY2hlY2tfdXNlcl9zdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxfY2hlY2tfdG9wX2ltYWdlXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxjbGllbnREZXZpY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/0.52/2.105</entry>
