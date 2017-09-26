@@ -741,7 +741,7 @@
       <file name="/dummy.sql" timestamp="1506310098299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506334443274">
+      <file name="/Dummy.txt" timestamp="1506384082790">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
@@ -965,7 +965,7 @@
         <text>下書</text>
       </register>
       <register name="/" type="4">
-        <text>blog.Blog.status</text>
+        <text>gms</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjAiIHtpZiAkc2VhcmNoLmVxX3N0YXR1cyA9PSAiMCJ9c2VsZWN0ZWR7L2lmfT7kuIvmm7jjgY08L29wdGlvbj4K</text>
@@ -998,13 +998,13 @@
         <text encoding="base64">ICAgICAgdmFyX2R1bXAoJHVybCk7CiAgICAgIHZhcl9kdW1wKCRyZXN1bHQpO2RpZSgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>blog.Blog.status</last-search>
+      <last-search>gms</last-search>
       <last-offset />
-      <last-pattern>blog.Blog.status</last-pattern>
+      <last-pattern>gms</last-pattern>
       <last-replace>search.eq_status</last-replace>
       <last-substitute>blog.Blog.status</last-substitute>
       <last-dir>1</last-dir>
@@ -1012,7 +1012,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXNhYmxlX2R5bmFtaWNcPg==</entry>
         <entry>Ta</entry>
         <entry>var_du</entry>
         <entry>status</entry>
@@ -1032,6 +1031,7 @@
         <entry>die</entry>
         <entry>blog.Blog</entry>
         <entry>blog.Blog.status</entry>
+        <entry>gms</entry>
       </history-search>
       <history-cmd>
         <entry>%s/0.52/2.105</entry>
@@ -1048,11 +1048,11 @@
         <entry>%y</entry>
         <entry>230</entry>
         <entry>34</entry>
-        <entry>1</entry>
         <entry>%s/blog.Blog/search/</entry>
         <entry>%s/blog.Blog/eq_search/</entry>
         <entry>%s/blog.Blog.status/search.eq_status/</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
