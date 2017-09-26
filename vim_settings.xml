@@ -628,11 +628,11 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1506409578072">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1506410705368">
         <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="2" column="26" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" timestamp="1504244220779">
         <mark key="[" line="17" column="0" />
@@ -935,7 +935,7 @@
       <file name="/dummy.sql" timestamp="1506395398665">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506408975827">
+      <file name="/Dummy.txt" timestamp="1506410919752">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
@@ -1182,7 +1182,7 @@
         <text>12</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGllbnREZXZpY2VcPg==</text>
+        <text>MobileTrait hangUp: isNotUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkkdXNlck1vZGVsID0gQ2xhc3NSZWdpc3RyeTo6aW5pdCgnVXNlcnMnKTsK</text>
@@ -1219,9 +1219,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGllbnREZXZpY2VcPg==</last-search>
+      <last-search>MobileTrait hangUp: isNotUser</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGllbnREZXZpY2VcPg==</last-pattern>
+      <last-pattern>MobileTrait hangUp: isNotUser</last-pattern>
       <last-replace>search.eq_status</last-replace>
       <last-substitute>blog.Blog.status</last-substitute>
       <last-dir>1</last-dir>
@@ -1229,7 +1229,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaW1pdFw+</entry>
         <entry>offset</entry>
         <entry>add</entry>
         <entry encoding="base64">XDxfcmVwb3J0X3RvX2FwaVw+</entry>
@@ -1249,6 +1248,7 @@
         <entry encoding="base64">XDxfY2hlY2tfdG9wX2ltYWdlXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxjbGllbnREZXZpY2VcPg==</entry>
+        <entry>MobileTrait hangUp: isNotUser</entry>
       </history-search>
       <history-cmd>
         <entry>%s/0.52/2.105</entry>
