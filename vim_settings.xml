@@ -938,7 +938,7 @@
       <file name="/dummy.sql" timestamp="1506436342896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506476116009">
+      <file name="/Dummy.txt" timestamp="1506488864858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
@@ -964,6 +964,12 @@
         <mark key="]" line="60" column="32" />
         <mark key="." line="60" column="19" />
         <mark key="^" line="60" column="19" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" timestamp="1506489011760">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrencyPair.kt" timestamp="1499154010367">
         <mark key="[" line="8" column="94" />
@@ -1182,7 +1188,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>87</text>
+        <text>users</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFuZ2VWb2x1bWVcPg==</text>
