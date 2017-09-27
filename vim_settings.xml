@@ -628,12 +628,12 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1506435306820">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="20" />
-        <mark key="^" line="26" column="20" />
-        <mark key="." line="26" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1506472633595">
+        <mark key="'" line="28" column="26" />
+        <mark key="[" line="41" column="7" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" timestamp="1504244220779">
         <mark key="[" line="17" column="0" />
@@ -876,12 +876,11 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1506405437142">
-        <mark key="'" line="449" column="16" />
-        <mark key="[" line="554" column="0" />
-        <mark key="]" line="556" column="60" />
-        <mark key="^" line="557" column="0" />
-        <mark key="." line="554" column="0" />
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1506474867269">
+        <mark key="[" line="904" column="145" />
+        <mark key="]" line="908" column="48" />
+        <mark key="^" line="908" column="48" />
+        <mark key="." line="908" column="48" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Shell/ScheduleShell.php" timestamp="1506424563794" />
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/tag/TagRepository.java" timestamp="1504090902665">
@@ -1065,32 +1064,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="772" column="2" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="785" column="2" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="604" column="4" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="791" column="2" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="24" column="52" filename="$USER_HOME$/git/manganews-web-master/app/Config/routes.php" />
-      <jump line="26" column="22" filename="$USER_HOME$/git/manganews-web-master/app/Config/routes.php" />
-      <jump line="52" column="57" filename="$USER_HOME$/git/manganews-web-master/app/Config/routes.php" />
-      <jump line="634" column="24" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="699" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="636" column="26" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="709" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="640" column="34" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="383" column="57" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="625" column="12" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="31" column="37" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="623" column="4" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="770" column="21" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="87" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="207" column="6" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="327" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="652" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="653" column="21" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="659" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="11" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="28" column="13" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="85" column="16" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="90" column="43" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="116" column="16" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="175" column="9" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
@@ -1160,11 +1133,37 @@
       <jump line="580" column="31" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="58" column="19" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="432" column="16" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="433" column="16" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="447" column="16" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="449" column="16" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="576" column="29" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="433" column="31" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="192" column="12" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="387" column="17" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="393" column="17" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="925" column="16" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="107" column="26" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="185" column="8" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="345" column="12" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="352" column="12" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="357" column="51" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="531" column="17" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="563" column="5" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="353" column="12" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="409" column="20" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="504" column="17" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="505" column="8" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="508" column="17" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="509" column="8" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="517" column="17" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="551" column="32" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="737" column="16" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="346" column="12" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="27" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="28" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="905" column="44" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1181,49 +1180,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>fid</text>
+        <text>87</text>
       </register>
       <register name="/" type="4">
-        <text>MobileTrait hangUp: isNotUser</text>
+        <text>Fail</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">U0VMRUNUICogZnJvbSBib29raW5ncyBhcyBCCmxlZnQgSk9JTiBzY2hlZHVsZXMgYXMgUyBvbiBCLnNjaGVkdWxlX2lkPVMuaWQKd2hlcmUgUy5mb3J0dW5ldGVsbGVyX2lkPTkKYW5kIHByZXBhcmVkX3RpbWUgPj0nMjAxNy05LTIyIDAwOjAwOjAwJyBhbmQgcHJlcGFyZWRfdGltZTw9JzIwMTctOS0yMiAyMzowMDowMCc7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdFBlcm1pc3Npb25Gb3JNaWNyb3Bob25lKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUICpmcm9tIGJvb2tpbmdzIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdFBlcm1pc3Npb25Gb3JNaWNyb3Bob25lKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdFBlcm1pc3Npb25Gb3JNaWNyb3Bob25lKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkdGhpcy0+c2V0KFsKCQkJJ3Jlc3VsdCcgPT4gJ29rJwoJCV0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJJ19zZXJpYWxpemUnID0+IFsnZmlyc3QnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBncmFudGVkID0gdHJ1ZTsKICAgICAgICAgICAgaWYgKGdyYW50ZWQpIHsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRwYXJhbXMpO2RpZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICR2YWx1ZXNbJ2xpbWl0J10gPSAyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJGFsbFsndG90YWxJdGVtcyddKTtkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgICogSW5pdGlhbGl6ZSB0aGUgVHdpbGlvIENsaWVudCBTREsKICAgICAgICAgICAgICovCiAgICAgICAgICAgIGluaXRpYWxpemVUd2lsaW9DbGllbnRTREsoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRib2R5KTsKICAgIGRpZSgpOwo=</text>
+        <text encoding="base64">U0VMRUNUICpmcm9tIGJvb2tpbmdzIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>49</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>MobileTrait hangUp: isNotUser</last-search>
+      <last-search>Fail</last-search>
       <last-offset />
-      <last-pattern>MobileTrait hangUp: isNotUser</last-pattern>
+      <last-pattern>Fail</last-pattern>
       <last-replace>search.eq_status</last-replace>
       <last-substitute>blog.Blog.status</last-substitute>
       <last-dir>1</last-dir>
@@ -1231,15 +1230,6 @@
     </search>
     <history>
       <history-search>
-        <entry>offset</entry>
-        <entry>add</entry>
-        <entry encoding="base64">XDxfcmVwb3J0X3RvX2FwaVw+</entry>
-        <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
-        <entry>blog</entry>
-        <entry>get_blog_total_count</entry>
-        <entry encoding="base64">XDxfY2hlY2tfbmV3X2ltYWdlXD4=</entry>
-        <entry encoding="base64">XDxnZXRfYmxvZ190YWdzXD4=</entry>
-        <entry encoding="base64">XDx1c2VyX3N0YXR1c1w+</entry>
         <entry>user_id</entry>
         <entry>Blogs</entry>
         <entry>_find</entry>
@@ -1251,6 +1241,15 @@
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxjbGllbnREZXZpY2VcPg==</entry>
         <entry>MobileTrait hangUp: isNotUser</entry>
+        <entry>create devi</entry>
+        <entry>sdk</entry>
+        <entry encoding="base64">XDxpbml0aWFsaXplVHdpbGlvQ2xpZW50U0RLXD4=</entry>
+        <entry>device error</entry>
+        <entry encoding="base64">XDxjbGllbnRQcm9maWxlXD4=</entry>
+        <entry encoding="base64">XDxyZXRyaWV2ZUNhcGFiaWxpdHlUb2tlblw+</entry>
+        <entry>initi</entry>
+        <entry>Faild</entry>
+        <entry>Fail</entry>
       </history-search>
       <history-cmd>
         <entry>%s/0.52/2.105</entry>
@@ -1269,10 +1268,10 @@
         <entry>%s/blog.Blog/search/</entry>
         <entry>%s/blog.Blog/eq_search/</entry>
         <entry>%s/blog.Blog.status/search.eq_status/</entry>
-        <entry>w</entry>
         <entry>4</entry>
-        <entry>1</entry>
         <entry>49</entry>
+        <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
