@@ -257,12 +257,12 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" timestamp="1506494751636">
-        <mark key="'" line="80" column="4" />
-        <mark key="[" line="137" column="5" />
-        <mark key="]" line="138" column="4" />
-        <mark key="^" line="138" column="4" />
-        <mark key="." line="138" column="4" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" timestamp="1506496907833">
+        <mark key="'" line="25" column="18" />
+        <mark key="[" line="114" column="19" />
+        <mark key="]" line="115" column="40" />
+        <mark key="^" line="115" column="40" />
+        <mark key="." line="115" column="40" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/JavaScriptInterface.java" timestamp="1505867208029">
         <mark key="'" line="30" column="26" />
@@ -936,19 +936,11 @@
       <file name="/dummy.sql" timestamp="1506495513282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506494882321">
+      <file name="/Dummy.txt" timestamp="1506496646188">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1506495659648">
-        <mark key="b" line="736" column="2" />
-        <mark key="'" line="518" column="28" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="^" line="161" column="25" />
-        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/ConditionCls.kt" timestamp="1502518132571">
         <mark key="[" line="11" column="51" />
@@ -1072,17 +1064,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
-      <jump line="757" column="56" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="55" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
-      <jump line="155" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="56" column="2" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
-      <jump line="29" column="29" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="117" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
-      <jump line="637" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="5" column="59" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
-      <jump line="113" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="6" column="41" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="315" column="72" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="389" column="79" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
@@ -1172,6 +1153,17 @@
       <jump line="470" column="26" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="477" column="26" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="518" column="28" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="128" column="31" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="76" column="38" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="77" column="42" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="78" column="48" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="95" column="8" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="143" column="38" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="13" column="38" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="28" column="38" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="47" column="38" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="57" column="39" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="25" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1191,34 +1183,34 @@
         <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text encoding="base64">XDxnZXRfb3JpZ2luYWxfbmV3c1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkkdGhpcy0+cmVuZGVyKGZhbHNlLCAnYWpheCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkZGF0YSk7ZGllKCk7Cg==</text>
+        <text encoding="base64">CQkJLy8g5Lul5LiL44GuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkZGF0YVsnYmxvZyddKTsKCQlkaWUoKTsK</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkZGF0YSk7ZGllKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkYmxvZyk7Cg==</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkZGF0YSk7ZGllKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkZGF0YVsnYmxvZyddKTsKCQlkaWUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkYmxvZyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1228,9 +1220,9 @@
       </register>
     </registers>
     <search>
-      <last-search>json</last-search>
+      <last-search encoding="base64">XDxnZXRfb3JpZ2luYWxfbmV3c1w+</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfb3JpZ2luYWxfbmV3c1w+</last-pattern>
       <last-replace>0.52</last-replace>
       <last-substitute>2.105</last-substitute>
       <last-dir>1</last-dir>
@@ -1238,12 +1230,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
-        <entry encoding="base64">XDxjbGllbnREZXZpY2VcPg==</entry>
-        <entry>MobileTrait hangUp: isNotUser</entry>
-        <entry>create devi</entry>
-        <entry>sdk</entry>
-        <entry encoding="base64">XDxpbml0aWFsaXplVHdpbGlvQ2xpZW50U0RLXD4=</entry>
         <entry>device error</entry>
         <entry encoding="base64">XDxjbGllbnRQcm9maWxlXD4=</entry>
         <entry encoding="base64">XDxyZXRyaWV2ZUNhcGFiaWxpdHlUb2tlblw+</entry>
@@ -1258,6 +1244,12 @@
         <entry>status</entry>
         <entry>report</entry>
         <entry>json</entry>
+        <entry>confir</entry>
+        <entry encoding="base64">XDxCbG9nc1w+</entry>
+        <entry encoding="base64">XDxpbml0XD4=</entry>
+        <entry encoding="base64">XDxibG9nVGFnTW9kZWxcPg==</entry>
+        <entry>init</entry>
+        <entry encoding="base64">XDxnZXRfb3JpZ2luYWxfbmV3c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/192.168.2.105:8765/utel.ajio.net/</entry>
