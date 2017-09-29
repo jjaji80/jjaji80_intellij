@@ -28,6 +28,10 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" timestamp="1506667573985">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="62" />
+      </file>
       <file name="/a.dummy" timestamp="1502094427596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -878,12 +882,12 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1506490122826">
-        <mark key="'" line="817" column="8" />
-        <mark key="[" line="829" column="0" />
-        <mark key="]" line="829" column="0" />
-        <mark key="^" line="833" column="112" />
-        <mark key="." line="829" column="0" />
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1506667545196">
+        <mark key="'" line="826" column="17" />
+        <mark key="[" line="854" column="0" />
+        <mark key="]" line="854" column="0" />
+        <mark key="^" line="620" column="26" />
+        <mark key="." line="854" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/tag/TagRepository.java" timestamp="1504090902665">
         <mark key="[" line="31" column="77" />
@@ -1082,7 +1086,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="42" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="39" column="36" filename="/BlogController.php" />
       <jump line="51" column="2" filename="/BlogController.php" />
       <jump line="40" column="4" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
@@ -1182,6 +1185,7 @@
       <jump line="305" column="11" filename="$USER_HOME$/git/utel/app/src/Controller/AppController.php" />
       <jump line="307" column="0" filename="$USER_HOME$/git/utel/app/src/Controller/AppController.php" />
       <jump line="325" column="25" filename="$USER_HOME$/git/utel/app/src/Controller/AppController.php" />
+      <jump line="824" column="17" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1198,49 +1202,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>占</text>
+        <text>AUDIOFOCUS_LOSS</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXN1bHRcPg==</text>
+        <text encoding="base64">XDxjaGFuZ2VWb2x1bWVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>cached</text>
+        <text>https://www.elsa-online.net</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICBsZWdhY3lfdXJsIDogJ2h0dHA6Ly9hcGkubWFuZ2EtbmV3cy5qcC8nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgQXVkaW9NYW5hZ2VyLkFVRElPRk9DVVNfTE9TU19UUkFOU0lFTlQ6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRyZXN1bHQpOwogICAgZGllKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRhdXRoKTtkaWUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRhdXRoKTtkaWUoKTsK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRhdXRoKTtkaWUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRhdXRoKTtkaWUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRhdXRoKTtkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBBdWRpb01hbmFnZXIgYW0gPSB0aGlzLmdldFN5c3RlbVNlcnZpY2UoQ29udGV4dC5BVURJT19TRVJWSUNFKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRhdXRoKTtkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXN1bHRcPg==</last-search>
+      <last-search encoding="base64">XDxjaGFuZ2VWb2x1bWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXN1bHRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFuZ2VWb2x1bWVcPg==</last-pattern>
       <last-replace>0.52</last-replace>
       <last-substitute>2.105</last-substitute>
       <last-dir>1</last-dir>
@@ -1248,7 +1252,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxfcXVlcnlcPg==</entry>
         <entry>create</entry>
         <entry>2.105</entry>
@@ -1268,6 +1271,7 @@
         <entry encoding="base64">XDxOZXdzVGFnU2VydmljZVw+</entry>
         <entry>ready</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDxjaGFuZ2VWb2x1bWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/blog.Blog.status/search.eq_status/</entry>
@@ -1283,12 +1287,12 @@
         <entry>%s/0.52/2.105/g</entry>
         <entry>165</entry>
         <entry>%s/2.105/0.52/</entry>
-        <entry>1</entry>
         <entry>167,194y</entry>
         <entry>159,161d</entry>
         <entry>205</entry>
         <entry>158</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
