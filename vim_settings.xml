@@ -625,12 +625,12 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1506655288501">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1506662568930">
         <mark key="'" line="60" column="21" />
-        <mark key="[" line="62" column="19" />
-        <mark key="]" line="57" column="29" />
-        <mark key="^" line="57" column="29" />
-        <mark key="." line="57" column="29" />
+        <mark key="[" line="57" column="7" />
+        <mark key="]" line="57" column="11" />
+        <mark key="^" line="57" column="11" />
+        <mark key="." line="57" column="11" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/const.php" timestamp="1506315458815">
         <mark key="'" line="65" column="0" />
@@ -774,7 +774,6 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacySelfController.java" timestamp="1506578668417" />
       <file name="$USER_HOME$/git/hms/app/models/search/daily_outstanding_customer_search_form.rb" timestamp="1491191511119">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="15" />
@@ -832,7 +831,7 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/system/VersionChecker.java" timestamp="1503279796773">
+      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/system/VersionChecker.java" timestamp="1506662996729">
         <mark key="[" line="55" column="24" />
         <mark key="]" line="55" column="23" />
         <mark key="^" line="55" column="23" />
@@ -1199,7 +1198,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>fortunetellers AS F</text>
+        <text>占</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOZXdzVGFnU2VydmljZVw+</text>
@@ -1245,7 +1244,7 @@
       <last-replace>0.52</last-replace>
       <last-substitute>2.105</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
