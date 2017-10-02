@@ -64,7 +64,6 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/type/UserType.java" timestamp="1506674959705" />
       <file name="$USER_HOME$/git/hms/app/helpers/daily_reports_helper.rb" timestamp="1495428463624">
         <mark key="[" line="67" column="46" />
         <mark key="]" line="68" column="46" />
@@ -307,6 +306,13 @@
         <mark key="]" line="31" column="28" />
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="28" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1506929505432">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6388" column="1" />
+        <mark key="]" line="6393" column="0" />
+        <mark key="^" line="6393" column="0" />
+        <mark key="." line="6393" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/judge/BuyJudge.kt" timestamp="1499239865391">
         <mark key="[" line="7" column="19" />
@@ -982,7 +988,6 @@
       <file name="/dummy.sql" timestamp="1506679014949">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/tests/TestCase/Shell/ReminderShellTest.php" timestamp="1506670902616" />
       <file name="/Dummy.txt" timestamp="1506922747746">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -1076,7 +1081,6 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="2" column="73" />
       </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/Ro/Users/Status.php" timestamp="1506674707390" />
       <file name="$USER_HOME$/git/docs/.gitignore" timestamp="1489570869370">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1132,7 +1136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/UsersComponent.php" />
       <jump line="307" column="6" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/UsersComponent.php" />
       <jump line="345" column="4" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/UsersComponent.php" />
       <jump line="51" column="79" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
@@ -1232,6 +1235,7 @@
       <jump line="389" column="32" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="439" column="20" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="539" column="26" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1284,7 +1288,7 @@
         <text encoding="base64">CQkJCTwvc2VsZWN0Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1320,7 +1324,6 @@
         <entry>Amazo</entry>
       </history-search>
       <history-cmd>
-        <entry>81</entry>
         <entry>191,225y</entry>
         <entry>33</entry>
         <entry>70</entry>
@@ -1336,10 +1339,11 @@
         <entry encoding="base64">JzwsJz5zL2ludC9zdHJpbmc=</entry>
         <entry encoding="base64">JzwsJz5zL2RvdWJsZS9zdHJpbmc=</entry>
         <entry>%s/0.52/43.20/</entry>
-        <entry>w</entry>
         <entry>%/43.20/2.105/</entry>
         <entry>%s/43.20/2.105/</entry>
         <entry>1</entry>
+        <entry>115</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
