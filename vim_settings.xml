@@ -989,9 +989,9 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1506927292855">
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1506928157117">
         <mark key="a" line="71" column="16" />
-        <mark key="'" line="347" column="6" />
+        <mark key="'" line="539" column="26" />
         <mark key="[" line="381" column="6" />
         <mark key="]" line="381" column="9" />
         <mark key="n" line="370" column="24" />
@@ -1055,13 +1055,13 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/Blog/_title.ctp" timestamp="1506922332012">
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/Blog/_title.ctp" timestamp="1506928350540">
         <mark key="a" line="51" column="26" />
         <mark key="'" line="72" column="10" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="58" column="8" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="6" />
+        <mark key="." line="51" column="6" />
+        <mark key="^" line="57" column="222" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/config.yml" timestamp="1506590009198">
         <mark key="'" line="4" column="28" />
@@ -1132,8 +1132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="688" column="25" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="711" column="41" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="279" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/UsersComponent.php" />
       <jump line="307" column="6" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/UsersComponent.php" />
       <jump line="345" column="4" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/UsersComponent.php" />
@@ -1146,7 +1144,6 @@
       <jump line="179" column="32" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="207" column="32" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="339" column="20" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="389" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="665" column="21" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="10" column="46" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="32" column="22" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
@@ -1232,6 +1229,9 @@
       <jump line="322" column="12" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="347" column="6" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="38" column="21" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
+      <jump line="389" column="32" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="439" column="20" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="539" column="26" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1251,46 +1251,46 @@
         <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text>ko</text>
+        <text>Amazo</text>
       </register>
       <register name="0" type="4">
         <text>com.koushikdutta.ion:ion</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJPCEtLQo=</text>
+        <text encoding="base64">CQkJPGlucHV0IHR5cGU9InRleHQiIG5hbWU9ImF1dGhvciIgdmFsdWU9Ijw/cGhwIGVjaG8gaChAJGJsb2dbImF1dGhvciJdKTsgPz4iIHNpemU9IjQwIiBtYXhsZW5ndGg9IjEwMDAiIHBsYWNlaG9sZGVyPSLkvovvvJrokZfogIUiIGlkPSJhdXRob3IiIDw/cGhwIGVjaG8gKGlzc2V0KCRyZWFkb25seSkpPydyZWFkb25seSc6bnVsbDsgPz4gLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLS0+Cg==</text>
+        <text encoding="base64">CQkJPCEtLQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJdXNlcmlkPTw/cGhwIGVjaG8gQCRibG9nWyd1c2VyX2lkJ107Pz4K</text>
+        <text encoding="base64">CQkJLS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkdGhpcy0+c2V0KCd1c2VyX2lkJywgJHRoaXMtPnVzZXJfaWQpOwo=</text>
+        <text encoding="base64">CQkJdXNlcmlkPTw/cGhwIGVjaG8gQCRibG9nWyd1c2VyX2lkJ107Pz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCTwK</text>
+        <text encoding="base64">CQkkdGhpcy0+c2V0KCd1c2VyX2lkJywgJHRoaXMtPnVzZXJfaWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdGhpcy0+VXNlcnMtPmdldF9ub3Rfbm90bWFsX3VzZXJzKCkpOwoJCWRpZSgpOwo=</text>
+        <text encoding="base64">CQkJCTwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdGhpcy0+VXNlcnMtPmdldF9ub3Rfbm90bWFsX3VzZXJzKCkpOwoJCWRpZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCTwvc2VsZWN0Pgo=</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCTxzZWxlY3QgbmFtZT0idXNlcl9pZCI+Cg==</text>
+        <text encoding="base64">CQkJCTwvc2VsZWN0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>ko</last-search>
+      <last-search>Amazo</last-search>
       <last-offset />
-      <last-pattern>ko</last-pattern>
+      <last-pattern>Amazo</last-pattern>
       <last-replace>2.105</last-replace>
       <last-substitute>43.20</last-substitute>
       <last-dir>1</last-dir>
@@ -1298,7 +1298,6 @@
     </search>
     <history>
       <history-search>
-        <entry>index</entry>
         <entry>catego</entry>
         <entry>theme</entry>
         <entry>tag</entry>
@@ -1318,6 +1317,7 @@
         <entry>user-id</entry>
         <entry>user_id</entry>
         <entry>ko</entry>
+        <entry>Amazo</entry>
       </history-search>
       <history-cmd>
         <entry>81</entry>
