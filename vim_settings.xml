@@ -158,12 +158,6 @@
         <mark key="^" line="43" column="12" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/pom.xml" timestamp="1506577341041">
-        <mark key="'" line="11" column="15" />
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="29" />
-        <mark key="." line="12" column="29" />
-      </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/users/index.php" timestamp="1506674635441">
         <mark key="'" line="42" column="26" />
       </file>
@@ -181,6 +175,9 @@
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/categorize/RankingRepository.java" timestamp="1506590507753">
         <mark key="'" line="31" column="29" />
+      </file>
+      <file name="/a.sql" timestamp="1506670709250">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/views/pages/admin/blogs/index.tpl" timestamp="1506669835664">
         <mark key="'" line="34" column="20" />
@@ -467,6 +464,9 @@
         <mark key="^" line="1" column="76" />
         <mark key="." line="1" column="76" />
       </file>
+      <file name="/dummy.sql" timestamp="1507001926480">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1507000766576">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -719,6 +719,12 @@
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="28" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/newsload/NewsPageRepository.java" timestamp="1507002142947">
+        <mark key="[" line="24" column="83" />
+        <mark key="]" line="24" column="91" />
+        <mark key="." line="24" column="91" />
+        <mark key="^" line="24" column="91" />
+      </file>
       <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1506937026104">
         <mark key="'" line="62" column="17" />
         <mark key="[" line="39" column="23" />
@@ -775,12 +781,6 @@
         <mark key="]" line="96" column="23" />
         <mark key="." line="96" column="23" />
         <mark key="^" line="96" column="23" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" timestamp="1506827144530">
-        <mark key="'" line="25" column="9" />
-        <mark key="[" line="25" column="29" />
-        <mark key="]" line="25" column="29" />
-        <mark key="." line="25" column="29" />
       </file>
       <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1506566715359">
         <mark key="'" line="0" column="0" />
@@ -964,6 +964,12 @@
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1507002376892">
+        <mark key="[" line="398" column="35" />
+        <mark key="]" line="398" column="35" />
+        <mark key="^" line="398" column="35" />
+        <mark key="." line="398" column="35" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-model/src/main/java/com/newspicks/model/PickedNewsModel.java" timestamp="1504110243822">
         <mark key="[" line="35" column="0" />
@@ -1253,40 +1259,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>newsPage</text>
       </register>
       <register name="/" type="4">
         <text>origina</text>
       </register>
       <register name="0" type="4">
-        <text>($news['Blogs']['news_id']</text>
+        <text>add(Restrictions.eq(&quot;newsId&quot;, newsId)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLy8gQmxvZ+OBi+OCiU5ld3Pjg4fjg7zjgr/jgpLlj5blvpflh7rmnaXjgarjgYvjgaPjgZ/loLTlkIjjga7lh6bnkIYK</text>
+        <text encoding="base64">CQkJTmV3c1BhZ2UgbmV3c1BhZ2UgPSBuZXdzUGFnZVJlcG9zaXRvcnkuZmluZEJ5TmV3c0lkKG5ld3NJZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWVjaG8gJGtleS4nPGJyIC8+JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5ld3NQYWdlICE9IG51bGwpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlkaWUoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWRpZSgpOwo=</text>
+        <text encoding="base64">CQkJLy8gQmxvZ+OBi+OCiU5ld3Pjg4fjg7zjgr/jgpLlj5blvpflh7rmnaXjgarjgYvjgaPjgZ/loLTlkIjjga7lh6bnkIYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWVjaG8gJGtleS4K</text>
+        <text encoding="base64">CQkJCWVjaG8gJGtleS4nPGJyIC8+JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZigpCg==</text>
+        <text encoding="base64">CQlkaWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmb3JlYWNoICgkb3JpZ2luYWxfbmV3cyBhcyAka2V5ID0+ICRuZXdzKSB7CgkJCWVjaG8gJG5ld3NbJ0Jsb2dzJ11bJ25ld3NfaWQnXS4nPGJyLz4nOwoJCX0KCQlkaWUoKTsK</text>
+        <text encoding="base64">CQkJCWRpZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCWVjaG8gJGtleS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
+        <text encoding="base64">CQlpZigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
