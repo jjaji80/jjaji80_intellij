@@ -70,9 +70,9 @@
         <mark key="^" line="47" column="24" />
         <mark key="." line="314" column="37" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1506937134343">
+      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1507104064147">
         <mark key="a" line="341" column="34" />
-        <mark key="'" line="198" column="37" />
+        <mark key="'" line="127" column="26" />
         <mark key="[" line="342" column="0" />
         <mark key="]" line="342" column="94" />
         <mark key="^" line="342" column="49" />
@@ -114,12 +114,6 @@
         <mark key="]" line="5" column="11" />
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" timestamp="1507076503489">
-        <mark key="'" line="145" column="15" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/JavaScriptInterface.java" timestamp="1505867208029">
         <mark key="'" line="30" column="26" />
@@ -313,12 +307,12 @@
         <mark key="." line="42" column="45" />
         <mark key="^" line="42" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1507101671906">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1507103532842">
         <mark key="'" line="51" column="15" />
-        <mark key="[" line="77" column="27" />
-        <mark key="]" line="77" column="27" />
-        <mark key="^" line="78" column="0" />
-        <mark key="." line="77" column="27" />
+        <mark key="[" line="82" column="37" />
+        <mark key="]" line="82" column="46" />
+        <mark key="^" line="85" column="44" />
+        <mark key="." line="85" column="44" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/const.php" timestamp="1507023340993">
         <mark key="'" line="65" column="0" />
@@ -488,7 +482,7 @@
         <mark key="^" line="1" column="76" />
         <mark key="." line="1" column="76" />
       </file>
-      <file name="/dummy.sql" timestamp="1507096272172">
+      <file name="/dummy.sql" timestamp="1507104547855">
         <mark key="a" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -496,7 +490,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/utel/app/tests/TestCase/Shell/ReminderShellTest.php" timestamp="1506670902616" />
-      <file name="/Dummy.txt" timestamp="1507080930594">
+      <file name="/Dummy.txt" timestamp="1507104423068">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="13" />
         <mark key="^" line="1" column="11" />
@@ -1049,12 +1043,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/UsersComponent.php" timestamp="1506676746833">
-        <mark key="'" line="345" column="4" />
-        <mark key="[" line="348" column="18" />
-        <mark key="]" line="348" column="37" />
-        <mark key="." line="347" column="0" />
-      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/arbitrage/MarketDataServiceMinMax.kt" timestamp="1505978097635">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="11" column="55" />
@@ -1211,10 +1199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="209" column="61" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="229" column="35" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="253" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="292" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="308" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="322" column="12" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
@@ -1311,6 +1295,10 @@
       <jump line="17" column="22" filename="$USER_HOME$/git/utelAndroid/app/proguard-rules.pro" />
       <jump line="2" column="0" filename="$USER_HOME$/git/utelAndroid/app/proguard-rules.pro" />
       <jump line="8" column="0" filename="$USER_HOME$/git/utelAndroid/app/proguard-rules.pro" />
+      <jump line="76" column="17" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
+      <jump line="86" column="22" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
+      <jump line="56" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
+      <jump line="127" column="26" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1330,10 +1318,10 @@
         <text>example</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbHNhXD4=</text>
+        <text encoding="base64">XDxnZXRCb29raW5nXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>jp.spiring.elsa</text>
+        <text>9059781871</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LWRvbnR3YXJuIG9yZy5zcHJpbmdmcmFtZXdvcmsuKioK</text>
@@ -1367,9 +1355,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbHNhXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRCb29raW5nXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbHNhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRCb29raW5nXD4=</last-pattern>
       <last-replace>61.45.70.6</last-replace>
       <last-substitute>192.168.2.105</last-substitute>
       <last-dir>1</last-dir>
@@ -1377,8 +1365,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVVc2Vyc05ld3NcPg==</entry>
-        <entry>\/news\/</entry>
         <entry encoding="base64">XDxkZWxldGVQaWNrXD4=</entry>
         <entry>edit</entry>
         <entry>doc</entry>
@@ -1397,6 +1383,8 @@
         <entry>prog</entry>
         <entry>Anno</entry>
         <entry encoding="base64">XDxlbHNhXD4=</entry>
+        <entry encoding="base64">XDxpc0ZvcnR1bmVUZWxsZXJcPg==</entry>
+        <entry encoding="base64">XDxnZXRCb29raW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>101</entry>
