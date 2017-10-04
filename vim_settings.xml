@@ -313,12 +313,12 @@
         <mark key="." line="42" column="45" />
         <mark key="^" line="42" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1506665718378">
-        <mark key="'" line="60" column="21" />
-        <mark key="[" line="57" column="12" />
-        <mark key="]" line="57" column="16" />
-        <mark key="^" line="57" column="16" />
-        <mark key="." line="57" column="16" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1507096979545">
+        <mark key="'" line="51" column="15" />
+        <mark key="[" line="74" column="27" />
+        <mark key="]" line="51" column="15" />
+        <mark key="^" line="51" column="15" />
+        <mark key="." line="51" column="15" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/const.php" timestamp="1507023340993">
         <mark key="'" line="65" column="0" />
@@ -488,7 +488,7 @@
         <mark key="^" line="1" column="76" />
         <mark key="." line="1" column="76" />
       </file>
-      <file name="/dummy.sql" timestamp="1507087709533">
+      <file name="/dummy.sql" timestamp="1507096272172">
         <mark key="a" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -501,14 +501,6 @@
         <mark key="]" line="1" column="13" />
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="13" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1507025028623">
-        <mark key="a" line="71" column="16" />
-        <mark key="'" line="539" column="26" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="n" line="370" column="24" />
-        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
         <mark key="[" line="60" column="20" />
@@ -747,7 +739,7 @@
       <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" timestamp="1506578441884">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/AsyncPreparedRequest.java" timestamp="1505867388900">
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/AsyncPreparedRequest.java" timestamp="1507097117818">
         <mark key="[" line="60" column="36" />
         <mark key="]" line="61" column="58" />
         <mark key="." line="61" column="58" />
@@ -770,7 +762,7 @@
         <mark key="]" line="38" column="45" />
         <mark key="." line="38" column="45" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1506937026104">
+      <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1507097536633">
         <mark key="'" line="62" column="17" />
         <mark key="[" line="39" column="23" />
         <mark key="]" line="39" column="25" />
@@ -946,7 +938,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="19" column="104" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ElsaUtil.java" timestamp="1505867179087">
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ElsaUtil.java" timestamp="1507096550885">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="60" column="56" />
         <mark key="]" line="61" column="63" />
@@ -1213,7 +1205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="56" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="161" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="181" column="45" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="187" column="49" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
@@ -1313,6 +1304,7 @@
       <jump line="1778" column="12" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="1841" column="12" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="11" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/hosts" />
+      <jump line="51" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
