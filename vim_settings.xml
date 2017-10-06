@@ -474,12 +474,12 @@
         <mark key="^" line="1" column="76" />
         <mark key="." line="1" column="76" />
       </file>
-      <file name="/dummy.sql" timestamp="1507253095404">
+      <file name="/dummy.sql" timestamp="1507258175044">
         <mark key="a" line="0" column="3" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="/Dummy.txt" timestamp="1507256905787">
         <mark key="[" line="0" column="0" />
@@ -1294,7 +1294,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MjkwMDgg</text>
+        <text>2268</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmRlclJhdGVcPg==</text>
@@ -1432,6 +1432,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
