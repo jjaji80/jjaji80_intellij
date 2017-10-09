@@ -279,11 +279,12 @@
         <mark key="^" line="43" column="12" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/pom.xml" timestamp="1507495527067">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="^" line="156" column="0" />
-        <mark key="." line="150" column="0" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/pom.xml" timestamp="1507517104210">
+        <mark key="'" line="171" column="27" />
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="29" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="12" column="29" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/judge/impl/LastBuyJudge.kt" timestamp="1499872641299">
         <mark key="[" line="9" column="31" />
@@ -341,6 +342,12 @@
         <mark key="]" line="2" column="4" />
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" timestamp="1507517119694">
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+        <mark key="^" line="25" column="29" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/squareup/okio/okio/1.6.0/okio-1.6.0.jar!/okio/ByteString.class" timestamp="1507495475180">
         <mark key="'" line="19" column="13" />
@@ -443,7 +450,6 @@
         <mark key="^" line="5" column="90" />
         <mark key="." line="5" column="90" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/poloniex/DataLoader.kt" timestamp="1507500894097" />
       <file name="$USER_HOME$/git/p1-doc/議事録/make.sh" timestamp="1490333563785">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="34" />
@@ -781,7 +787,7 @@
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507256905787">
+      <file name="/Dummy.txt" timestamp="1507517106140">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="1" column="11" />
@@ -890,11 +896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="14" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="153" column="19" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="135" column="13" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="225" column="2" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="187" column="75" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
       <jump line="168" column="16" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/UserController.java" />
       <jump line="126" column="25" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
       <jump line="190" column="75" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
@@ -990,6 +991,11 @@
       <jump line="92" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
       <jump line="384" column="21" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
       <jump line="383" column="18" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
+      <jump line="150" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
+      <jump line="57" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
+      <jump line="169" column="39" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
+      <jump line="170" column="28" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
+      <jump line="171" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1009,7 +1015,7 @@
         <text>marginMaintRate</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXJnaW5NYWludFJhdGVcPg==</text>
+        <text>kotlin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcnNpID0gKHBsdXMgLyAocGx1cyArIG1pbnVzKSkgKiAxMDAKICAgICAgICAgICAgbG9nLmRlYnVnKCJjb3VudGVyPSRjb3VudGVyOnBsdXM9JHBsdXM6bWludXM9JG1pbnVzOnJzaT0kcnNpIikK</text>
@@ -1046,9 +1052,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXJnaW5NYWludFJhdGVcPg==</last-search>
+      <last-search>kotlin</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXJnaW5NYWludFJhdGVcPg==</last-pattern>
+      <last-pattern>kotlin</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1056,7 +1062,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCb29raW5nc1w+</entry>
         <entry>start_ti</entry>
         <entry>61.45.70.6</entry>
         <entry>posito</entry>
@@ -1076,6 +1081,7 @@
         <entry>day</entry>
         <entry encoding="base64">XDxyc2lcPg==</entry>
         <entry encoding="base64">XDxtYXJnaW5NYWludFJhdGVcPg==</entry>
+        <entry>kotlin</entry>
       </history-search>
       <history-cmd>
         <entry>%s/2.105/0.52/</entry>
