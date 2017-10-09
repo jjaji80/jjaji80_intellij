@@ -462,12 +462,12 @@
         <mark key="." line="1" column="55" />
         <mark key="^" line="1" column="55" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" timestamp="1507515791853">
-        <mark key="'" line="387" column="18" />
-        <mark key="[" line="401" column="76" />
-        <mark key="]" line="401" column="77" />
-        <mark key="." line="401" column="77" />
-        <mark key="^" line="402" column="44" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" timestamp="1507517848567">
+        <mark key="'" line="388" column="18" />
+        <mark key="[" line="385" column="34" />
+        <mark key="]" line="386" column="26" />
+        <mark key="." line="386" column="26" />
+        <mark key="^" line="386" column="26" />
       </file>
       <file name="$USER_HOME$/git/docs/pending/nursery_school/en/make.sh" timestamp="1493198062413">
         <mark key="[" line="1" column="53" />
@@ -659,11 +659,10 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" timestamp="1507515502545">
-        <mark key="'" line="47" column="12" />
-        <mark key="[" line="79" column="16" />
-        <mark key="]" line="80" column="21" />
-        <mark key="." line="80" column="21" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" timestamp="1507518426760">
+        <mark key="[" line="70" column="24" />
+        <mark key="]" line="70" column="25" />
+        <mark key="." line="70" column="25" />
         <mark key="^" line="80" column="21" />
       </file>
       <file name="$USER_HOME$/git/hms/app/models/search/daily_outstanding_customer_search_form.rb" timestamp="1491191511119">
@@ -1015,46 +1014,46 @@
         <text>marginMaintRate</text>
       </register>
       <register name="/" type="4">
-        <text>kotlin</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcnNpID0gKHBsdXMgLyAocGx1cyArIG1pbnVzKSkgKiAxMDAKICAgICAgICAgICAgbG9nLmRlYnVnKCJjb3VudGVyPSRjb3VudGVyOnBsdXM9JHBsdXM6bWludXM9JG1pbnVzOnJzaT0kcnNpIikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">PFN0cmluZz4geyBwMCwgcDEgLT4gKHAxLnRvTG9uZygpIC0gcDAudG9Mb25nKCkpLmNvbXBhcmVUbygwTCkgfQogICAgICAgICkKICAgICAgICB2YWwgbGlzdCA9IHNvcnRlZC52YWx1ZXMudG9MaXN0KCkKICAgICAgICByc2kgPSAwLjAKICAgICAgICBpZiAobGFzdC5zaXplID4gMTYpIHsKICAgICAgICAgICAgdmFyIHBsdXMgPSAwLjAKICAgICAgICAgICAgdmFyIG1pbnVzID0gMC4wCiAgICAgICAgICAgIHZhciBwYXN0ID0gMC4wCiAgICAgICAgICAgIHZhciBjb3VudGVyID0gMAogICAgICAgICAgICBsaXN0LmZvckVhY2ggewogICAgICAgICAgICAgICAgaWYgKGNvdW50ZXIgPiAwICYmIGNvdW50ZXIgPCAxNSkgewogICAgICAgICAgICAgICAgICAgIGlmIChpdCA8IHBhc3QpCiAgICAgICAgICAgICAgICAgICAgICAgIHBsdXMgKz0gcGFzdCAtIGl0CiAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICBtaW51cyArPSAocGFzdCAtIGl0KSAqIC0xCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBwYXN0ID0gaXQKICAgICAgICAgICAgICAgIGNvdW50ZXIrKwogICAgICAgICAgICB9CiAgICAgICAgICAgIHBsdXMgLz0gMTQKICAgICAgICAgICAgbWludXMgLz0gMTQKCiAgICAgICAgICAgIHJzaSA9IChwbHVzIC8gKHBsdXMgKyBtaW51cykpICogMTAwCiAgICAgICAgICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWFyZ2luTWFpbnRSYXRlID0gCg==</text>
+        <text encoding="base64">ICAgICAgICByc2kK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdHJhZGVTZXJ2aWNlID0gVHJhZGVTZXJ2aWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWFyZ2luTWFpbnRSYXRlID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRyYWRlU2VydmljZSA9IFRyYWRlU2VydmljZSgpCiAgICAgICAgICAgIHZhbCB0cmFkZVdlYlNvY2tldCA9IFRyYWRlV2ViU29ja2V0KHRyYWRlU2VydmljZSA9IHRyYWRlU2VydmljZSkKICAgICAgICAgICAgdHJhZGVXZWJTb2NrZXQucnVuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdHJhZGVTZXJ2aWNlID0gVHJhZGVTZXJ2aWNlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHRyYWRlU2VydmljZSA9IFRyYWRlU2VydmljZSgpCiAgICAgICAgICAgIHZhbCB0cmFkZVdlYlNvY2tldCA9IFRyYWRlV2ViU29ja2V0KHRyYWRlU2VydmljZSA9IHRyYWRlU2VydmljZSkKICAgICAgICAgICAgdHJhZGVXZWJTb2NrZXQucnVuKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>kotlin</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>kotlin</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1062,7 +1061,6 @@
     </search>
     <history>
       <history-search>
-        <entry>start_ti</entry>
         <entry>61.45.70.6</entry>
         <entry>posito</entry>
         <entry encoding="base64">XDxwb3NpdGlvblw+</entry>
@@ -1082,6 +1080,7 @@
         <entry encoding="base64">XDxyc2lcPg==</entry>
         <entry encoding="base64">XDxtYXJnaW5NYWludFJhdGVcPg==</entry>
         <entry>kotlin</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>%s/2.105/0.52/</entry>
