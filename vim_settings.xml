@@ -9,12 +9,12 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/git/utel/Dockerfile" timestamp="1507619671862">
+      <file name="$USER_HOME$/git/utel/Dockerfile" timestamp="1507621216811">
         <mark key="'" line="15" column="10" />
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="19" column="11" />
-        <mark key="^" line="19" column="11" />
-        <mark key="." line="19" column="11" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/RefTradeTypeCls.kt" timestamp="1503473727290">
         <mark key="[" line="12" column="57" />
@@ -182,6 +182,12 @@
         <mark key="]" line="3" column="19" />
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/utel/app/webroot/test.php" timestamp="1507621698502">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
@@ -1033,35 +1039,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxpc0J1eVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">W3hkZWJ1Z10KeGRlYnVnLnJlbW90ZV9lbmFibGU9MQp4ZGVidWcucmVtb3RlX2F1dG9zdGFydD0xCnhkZWJ1Zy5yZW1vdGVfaG9zdD0xNzIuMTkuMC4xCnhkZWJ1Zy5yZW1vdGVfcG9ydD00OTE5MAp4ZGVidWcucHJvZmlsZXJfZW5hYmxlPTEKeGRlYnVnLnByb2ZpbGVyX291dHB1dF9kaXI9Ii90bXAiCnhkZWJ1Zy5tYXhfbmVzdGluZ19sZXZlbD0xMDAwCnhkZWJ1Zy5pZGVrZXk9IlBIUFNUT1JNIgo=</text>
+      <register name="0" type="4">
+        <text>/etc/php.ini</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByc2kgPSAwLjAK</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">PFN0cmluZz4geyBwMCwgcDEgLT4gKHAxLnRvTG9uZygpIC0gcDAudG9Mb25nKCkpLmNvbXBhcmVUbygwTCkgfQogICAgICAgICkKICAgICAgICB2YWwgbGlzdCA9IHNvcnRlZC52YWx1ZXMudG9MaXN0KCkKICAgICAgICByc2kgPSAwLjAKICAgICAgICBpZiAobGFzdC5zaXplID4gMTYpIHsKICAgICAgICAgICAgdmFyIHBsdXMgPSAwLjAKICAgICAgICAgICAgdmFyIG1pbnVzID0gMC4wCiAgICAgICAgICAgIHZhciBwYXN0ID0gMC4wCiAgICAgICAgICAgIHZhciBjb3VudGVyID0gMAogICAgICAgICAgICBsaXN0LmZvckVhY2ggewogICAgICAgICAgICAgICAgaWYgKGNvdW50ZXIgPiAwICYmIGNvdW50ZXIgPCAxNSkgewogICAgICAgICAgICAgICAgICAgIGlmIChpdCA8IHBhc3QpCiAgICAgICAgICAgICAgICAgICAgICAgIHBsdXMgKz0gcGFzdCAtIGl0CiAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICBtaW51cyArPSAocGFzdCAtIGl0KSAqIC0xCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBwYXN0ID0gaXQKICAgICAgICAgICAgICAgIGNvdW50ZXIrKwogICAgICAgICAgICB9CiAgICAgICAgICAgIHBsdXMgLz0gMTQKICAgICAgICAgICAgbWludXMgLz0gMTQKCiAgICAgICAgICAgIHJzaSA9IChwbHVzIC8gKHBsdXMgKyBtaW51cykpICogMTAwCiAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByc2kK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWFyZ2luTWFpbnRSYXRlID0gCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGVjaG8gInplbmRfZXh0ZW5zaW9uPS9wYXRoL3RvL3hkZWJ1Zy5zbyIgPj4gL2V0Yy9waHAvNy4wL2ZwbS9waHAuaW5pICYmIFwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByc2kgPSAwLjAK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">PFN0cmluZz4geyBwMCwgcDEgLT4gKHAxLnRvTG9uZygpIC0gcDAudG9Mb25nKCkpLmNvbXBhcmVUbygwTCkgfQogICAgICAgICkKICAgICAgICB2YWwgbGlzdCA9IHNvcnRlZC52YWx1ZXMudG9MaXN0KCkKICAgICAgICByc2kgPSAwLjAKICAgICAgICBpZiAobGFzdC5zaXplID4gMTYpIHsKICAgICAgICAgICAgdmFyIHBsdXMgPSAwLjAKICAgICAgICAgICAgdmFyIG1pbnVzID0gMC4wCiAgICAgICAgICAgIHZhciBwYXN0ID0gMC4wCiAgICAgICAgICAgIHZhciBjb3VudGVyID0gMAogICAgICAgICAgICBsaXN0LmZvckVhY2ggewogICAgICAgICAgICAgICAgaWYgKGNvdW50ZXIgPiAwICYmIGNvdW50ZXIgPCAxNSkgewogICAgICAgICAgICAgICAgICAgIGlmIChpdCA8IHBhc3QpCiAgICAgICAgICAgICAgICAgICAgICAgIHBsdXMgKz0gcGFzdCAtIGl0CiAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICBtaW51cyArPSAocGFzdCAtIGl0KSAqIC0xCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBwYXN0ID0gaXQKICAgICAgICAgICAgICAgIGNvdW50ZXIrKwogICAgICAgICAgICB9CiAgICAgICAgICAgIHBsdXMgLz0gMTQKICAgICAgICAgICAgbWludXMgLz0gMTQKCiAgICAgICAgICAgIHJzaSA9IChwbHVzIC8gKHBsdXMgKyBtaW51cykpICogMTAwCiAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByc2kK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbWFyZ2luTWFpbnRSYXRlID0gCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdHJhZGVTZXJ2aWNlID0gVHJhZGVTZXJ2aWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
