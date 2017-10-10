@@ -23,6 +23,10 @@
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="o" />
   </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="meta f3" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="b" />
+  </action>
   <action id="WindowMenu">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
