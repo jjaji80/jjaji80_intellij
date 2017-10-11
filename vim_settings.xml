@@ -550,12 +550,11 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1507616269891">
-        <mark key="'" line="127" column="42" />
-        <mark key="[" line="138" column="48" />
-        <mark key="]" line="132" column="37" />
-        <mark key="." line="132" column="37" />
-        <mark key="^" line="132" column="37" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1507698425123">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrency.java" timestamp="1499154225156">
         <mark key="[" line="9" column="62" />
@@ -789,7 +788,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/dummy.sql" timestamp="1507617220421">
+      <file name="/dummy.sql" timestamp="1507696532740">
         <mark key="a" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -919,7 +918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="10" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
       <jump line="72" column="30" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
       <jump line="247" column="24" filename="$USER_HOME$/git/utel/app/config/app.php" />
       <jump line="174" column="44" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/UserController.java" />
@@ -1019,6 +1017,7 @@
       <jump line="195" column="0" filename="$USER_HOME$/git/utel/app/src/Model/Table/AnalysisResultsTable.php" />
       <jump line="134" column="0" filename="$USER_HOME$/git/utel/app/src/Model/Table/AnalysisResultsTable.php" />
       <jump line="144" column="0" filename="$USER_HOME$/git/utel/app/src/Model/Table/AnalysisResultsTable.php" />
+      <jump line="135" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1035,40 +1034,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1100</text>
+        <text>( )</text>
       </register>
       <register name="/" type="4">
         <text>echo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJHRoaXMtPmFzc2VydEVxdWFscygxMTAwLCAkYTQtPnJlbXVuZXJhdGlvbik7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">bW1fcHJlX3VzZWRfYW1vdW50ID0gMjEwMCBhbmQgdGltZT42NjAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVjaG8gIlxucmVtdW5lcmF0aW9uPSIuJHJlbXVuZXJhdGlvbjsK</text>
+        <text encoding="base64">ICBhbmQgRi5pZCA9IDExCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJcbmVudGl0eS0+dGltZT0iLiRlbnRpdHktPnRpbWU7CiAgICAgICAgZWNobyAiXG5ub3JtYWw9Ii4kbm9ybWFsOwo=</text>
+        <text encoding="base64">ICBhbmQgRi5mZWVfYmFzZV9hbW91bnQhPTIxMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJHJlbWFpbl90aW1lID0gZmxvb3IoJHJlbWFpbiAvICRmb3J0dW5ldGVsbGVyLT5yZW11bmVyYXRpb24pICogUkVNVU5FUkFUSU9OX0JBU0U7Cg==</text>
+        <text encoding="base64">ICBGLmZlZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZWNobyAiXG5yZW1haW5fdGltZT0iLiRyZW1haW5fdGltZTsK</text>
+        <text encoding="base64">ICBGLmJhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZWNobyAiXG5mb3J0dW5ldGVsbGVyLT5mZWVfYmFzZV9hbW91bnQ9IiAuICRmb3J0dW5ldGVsbGVyLT5mZWVfYmFzZV9hbW91bnQ7CiAgICAgIGVjaG8gIlxuZW50aXR5LT5hbW91bnQ9Ii4kZW50aXR5LT5hbW91bnQ7CiAgICAgIGVjaG8gIlxucmVtYWluPSIgLiAkcmVtYWluOwogICAgICBlY2hvICJcbmZvcnR1bmV0ZWxsZXItPnJlbXVuZXJhdGlvbj0iLiRmb3J0dW5ldGVsbGVyLT5yZW11bmVyYXRpb247Cg==</text>
+        <text encoding="base64">ICBvcgogICAgIG1tX3ByZV91c2VkX2Ftb3VudCA9IDIxMDAgYW5kIHRpbWU+NjYwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJcbmF2YWlsYWJsZV9tb25leT0iIC4gJGF2YWlsYWJsZV9tb25leTsK</text>
+        <text encoding="base64">YW5kKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZWNobyAiXG50b3RhbD0iLiR0b3RhbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJcbmZpcnN0X2RhdGE9Ii4kZmlyc3RfZGF0YTsK</text>
+        <text encoding="base64">ICBGLmZpcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJcbnJlbXVuZXJhdGlvbj0iLiRyZW11bmVyYXRpb247Cg==</text>
+        <text encoding="base64">ICBpbmVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
