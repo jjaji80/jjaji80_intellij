@@ -550,12 +550,12 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1507703446476">
-        <mark key="'" line="173" column="0" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="174" column="32" />
-        <mark key="." line="174" column="32" />
-        <mark key="^" line="174" column="32" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1507704124258">
+        <mark key="'" line="182" column="0" />
+        <mark key="[" line="178" column="6" />
+        <mark key="]" line="178" column="20" />
+        <mark key="." line="178" column="20" />
+        <mark key="^" line="178" column="20" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrency.java" timestamp="1499154225156">
         <mark key="[" line="9" column="62" />
@@ -789,7 +789,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/dummy.sql" timestamp="1507696532740">
+      <file name="/dummy.sql" timestamp="1507705285800">
         <mark key="a" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -805,7 +805,7 @@
       <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1507703520245">
         <mark key="'" line="83" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507617769392">
+      <file name="/Dummy.txt" timestamp="1507705037838">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="1" column="11" />
@@ -853,7 +853,7 @@
         <mark key="." line="16" column="46" />
         <mark key="^" line="21" column="33" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Model/Table/AnalysisResultsTable.php" timestamp="1507694717949">
+      <file name="$USER_HOME$/git/utel/app/src/Model/Table/AnalysisResultsTable.php" timestamp="1507704480566">
         <mark key="'" line="144" column="0" />
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="0" />
@@ -872,6 +872,7 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Model/Table/PaymentsTable.php" timestamp="1507705037248" />
       <file name="$USER_HOME$/git/hms/db/migrate/20170331082816_rename_customer_column_to_daily_outstanding_customer.rb" timestamp="1490949018480">
         <mark key="[" line="2" column="71" />
         <mark key="]" line="2" column="73" />
@@ -1038,7 +1039,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MjI2OCA=</text>
+        <text>used_amount</text>
       </register>
       <register name="/" type="4">
         <text>INSERT</text>
@@ -1047,31 +1048,31 @@
         <text encoding="base64">bW1fcHJlX3VzZWRfYW1vdW50ID0gMjEwMCBhbmQgdGltZT42NjAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YW5kIChtbV9wcmVfdXNlZF9hbW91bnQgPSAyMTAwIGFuZCB0aW1lPjY2MAogICAgICAgICAgICAgICAgICAgICAgICBvcgogICAgIG1tX3ByZV91c2VkX2Ftb3VudCAhPSAyMTAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">YW5kIChtbV9wcmVfdXNlZF9hbW91bnQgPSAyMTAwIGFuZCB0aW1lPjY2MAogICAgICAgICAgICAgICAgICAgICAgICBvcgogICAgIG1tX3ByZV91c2VkX2Ftb3VudCAhPSAyMTAwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhbmQgRi5maXJzdF9yZW11bmVyYXRpb24gIT0gMgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhbmQgRi5pZCA9IDExCg==</text>
+        <text encoding="base64">ICBhbmQgRi5maXJzdF9yZW11bmVyYXRpb24gIT0gMgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbmQgRi5mZWVfYmFzZV9hbW91bnQhPTIxMAo=</text>
+        <text encoding="base64">ICBhbmQgRi5pZCA9IDExCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBGLmZlZQo=</text>
+        <text encoding="base64">ICBhbmQgRi5mZWVfYmFzZV9hbW91bnQhPTIxMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBGLmJhCg==</text>
+        <text encoding="base64">ICBGLmZlZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvcgogICAgIG1tX3ByZV91c2VkX2Ftb3VudCA9IDIxMDAgYW5kIHRpbWU+NjYwCg==</text>
+        <text encoding="base64">ICBGLmJhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YW5kKCkK</text>
+        <text encoding="base64">ICBvcgogICAgIG1tX3ByZV91c2VkX2Ftb3VudCA9IDIxMDAgYW5kIHRpbWU+NjYwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
