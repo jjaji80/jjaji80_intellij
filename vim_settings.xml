@@ -550,13 +550,13 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1507785293199">
-        <mark key="'" line="242" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1507785366231">
+        <mark key="'" line="243" column="0" />
         <mark key="j" line="177" column="0" />
-        <mark key="[" line="237" column="21" />
-        <mark key="]" line="237" column="26" />
-        <mark key="." line="237" column="26" />
-        <mark key="^" line="237" column="26" />
+        <mark key="[" line="229" column="34" />
+        <mark key="]" line="230" column="16" />
+        <mark key="." line="230" column="16" />
+        <mark key="^" line="230" column="16" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrency.java" timestamp="1499154225156">
         <mark key="[" line="9" column="62" />
@@ -708,12 +708,13 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="26" column="35" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/tests/TestCase/Model/Table/AnalysisResultsTableTest.php" timestamp="1507694689944">
-        <mark key="'" line="163" column="0" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="8" />
-        <mark key="." line="167" column="8" />
-        <mark key="^" line="172" column="28" />
+      <file name="$USER_HOME$/git/utel/app/tests/TestCase/Model/Table/AnalysisResultsTableTest.php" timestamp="1507787169089">
+        <mark key="a" line="173" column="0" />
+        <mark key="'" line="345" column="21" />
+        <mark key="[" line="186" column="85" />
+        <mark key="]" line="186" column="85" />
+        <mark key="." line="186" column="85" />
+        <mark key="^" line="186" column="84" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/css/style.css" timestamp="1501728258120">
         <mark key="[" line="3" column="22" />
@@ -790,7 +791,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/dummy.sql" timestamp="1507785143328">
+      <file name="/dummy.sql" timestamp="1507786542011">
         <mark key="a" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -854,12 +855,12 @@
         <mark key="." line="16" column="46" />
         <mark key="^" line="21" column="33" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Model/Table/AnalysisResultsTable.php" timestamp="1507712587937">
+      <file name="$USER_HOME$/git/utel/app/src/Model/Table/AnalysisResultsTable.php" timestamp="1507787146622">
         <mark key="'" line="144" column="0" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="^" line="158" column="44" />
-        <mark key="." line="146" column="0" />
+        <mark key="[" line="188" column="26" />
+        <mark key="]" line="188" column="30" />
+        <mark key="^" line="188" column="30" />
+        <mark key="." line="188" column="30" />
       </file>
       <file name="$USER_HOME$/git/hms/app/models/daily_sales_employee.rb" timestamp="1491203692175">
         <mark key="[" line="15" column="13" />
@@ -924,13 +925,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="13" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
-      <jump line="60" column="75" filename="$USER_HOME$/git/tools.manga-news.jp-master/App/Ro/Blogs/List.php" />
-      <jump line="6207" column="13" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="1359" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="5987" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="5998" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="1124" column="13" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="1616" column="11" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="1622" column="42" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="1634" column="12" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
@@ -1024,6 +1018,13 @@
       <jump line="220" column="107" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="224" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="242" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="52" column="15" filename="$USER_HOME$/git/utel/app/tests/TestCase/Model/Table/AnalysisResultsTableTest.php" />
+      <jump line="92" column="20" filename="$USER_HOME$/git/utel/app/tests/TestCase/Model/Table/AnalysisResultsTableTest.php" />
+      <jump line="56" column="54" filename="$USER_HOME$/git/utel/app/tests/TestCase/Model/Table/AnalysisResultsTableTest.php" />
+      <jump line="84" column="20" filename="$USER_HOME$/git/utel/app/tests/TestCase/Model/Table/AnalysisResultsTableTest.php" />
+      <jump line="330" column="32" filename="$USER_HOME$/git/utel/app/tests/TestCase/Model/Table/AnalysisResultsTableTest.php" />
+      <jump line="231" column="31" filename="$USER_HOME$/git/utel/app/tests/TestCase/Model/Table/AnalysisResultsTableTest.php" />
+      <jump line="345" column="21" filename="$USER_HOME$/git/utel/app/tests/TestCase/Model/Table/AnalysisResultsTableTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1040,49 +1041,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>F.id,</text>
+        <text>PAYMENT_INSERT_ANALYSIS</text>
       </register>
       <register name="/" type="4">
-        <text>INSERT</text>
+        <text encoding="base64">XDxjcmVhdGVNb25leU1hbmFnZW1lbnRzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAjIOmRkeWumuOBp+ODl+ODqeOCueODh+ODvOOCvwo=</text>
+      <register name="0" type="4">
+        <text>new DateTime('2017-07-31T15:03:01.012345Z')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgLy8gMOWGhiArIDIxMDDlhoYgPSAyMTAw5YaGCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLy8g5Yid5pyf5aCx6YWsKDIw5YiGKeOBr+OBquOBlyAxMOWIhiAqIDDlhoYgPSAw5YaGCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAoc2UpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SEFWSU5HIG1tX3ByZV91c2VkX2Ftb3VudCA8MAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQU5EIGNyZWF0ZWRfYXQgPCAnMjAxNy0xMC0xMCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhbmQgQS5iYXNlX3JlbXVuZXJhdGlvbiAhPSA1MAo=</text>
+        <text encoding="base64">ICAgIHByaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhbmQgRi5iYQo=</text>
+        <text encoding="base64">ICAgICAgLy8gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhbmQgRi5maXJzdF9yZW11bmVyYXRpb24gIT0gMgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>INSERT</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVNb25leU1hbmFnZW1lbnRzXD4=</last-search>
       <last-offset />
-      <last-pattern>INSERT</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVNb25leU1hbmFnZW1lbnRzXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1090,8 +1091,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcmRlclJhdGVcPg==</entry>
-        <entry>jitpack</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDxjbGllbnRcPg==</entry>
         <entry>byte</entry>
@@ -1110,6 +1109,8 @@
         <entry>remote_connect_back</entry>
         <entry>echo</entry>
         <entry>INSERT</entry>
+        <entry encoding="base64">XDxNb25leU1hbmFnZW1lbnRzXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVNb25leU1hbmFnZW1lbnRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>159,161d</entry>
