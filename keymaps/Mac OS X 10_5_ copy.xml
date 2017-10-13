@@ -27,6 +27,9 @@
     <keyboard-shortcut first-keystroke="meta f3" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="b" />
   </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="h" />
+  </action>
   <action id="WindowMenu">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
