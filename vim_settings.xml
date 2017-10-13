@@ -557,13 +557,13 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1507791412460">
-        <mark key="'" line="233" column="29" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1507859975526">
+        <mark key="'" line="311" column="59" />
         <mark key="j" line="177" column="0" />
-        <mark key="[" line="320" column="48" />
-        <mark key="]" line="321" column="43" />
-        <mark key="." line="321" column="43" />
-        <mark key="^" line="321" column="43" />
+        <mark key="[" line="315" column="0" />
+        <mark key="]" line="329" column="4" />
+        <mark key="." line="329" column="4" />
+        <mark key="^" line="329" column="4" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrency.java" timestamp="1499154225156">
         <mark key="[" line="9" column="62" />
@@ -932,7 +932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/git/utelAndroid/app/proguard-rules.pro" />
       <jump line="17" column="22" filename="$USER_HOME$/git/utelAndroid/app/proguard-rules.pro" />
       <jump line="2" column="0" filename="$USER_HOME$/git/utelAndroid/app/proguard-rules.pro" />
       <jump line="8" column="0" filename="$USER_HOME$/git/utelAndroid/app/proguard-rules.pro" />
@@ -1032,6 +1031,7 @@
       <jump line="175" column="0" filename="$USER_HOME$/git/utel/app/tests/TestCase/Model/Table/AnalysisResultsTableTest.php" />
       <jump line="10" column="26" filename="$USER_HOME$/git/utel/app/src/Model/Table/AnalysisResultsTable.php" />
       <jump line="233" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="311" column="59" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
