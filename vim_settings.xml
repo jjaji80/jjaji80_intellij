@@ -443,10 +443,10 @@
         <mark key="." line="11" column="107" />
       </file>
       <file name="$USER_HOME$/git/utel/app/tests/TestCase/Controller/Base.php" timestamp="1507894769907" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506581205115">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1507913376760">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="6" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/utel/app/config/app.php" timestamp="1507196020731">
@@ -616,12 +616,12 @@
         <mark key="." line="74" column="63" />
         <mark key="^" line="74" column="63" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Shell/NoticeShell.php" timestamp="1507903568930">
+      <file name="$USER_HOME$/git/utel/app/src/Shell/NoticeShell.php" timestamp="1507913255080">
         <mark key="'" line="40" column="31" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="10" />
-        <mark key="." line="55" column="10" />
-        <mark key="^" line="55" column="58" />
+        <mark key="[" line="38" column="16" />
+        <mark key="]" line="38" column="16" />
+        <mark key="." line="38" column="16" />
+        <mark key="^" line="38" column="15" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" timestamp="1507886537181">
         <mark key="[" line="31" column="19" />
@@ -772,14 +772,6 @@
         <mark key="]" line="26" column="35" />
         <mark key="^" line="26" column="35" />
         <mark key="." line="26" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/tests/TestCase/Model/Table/AnalysisResultsTableTest.php" timestamp="1507866179844">
-        <mark key="a" line="173" column="0" />
-        <mark key="'" line="175" column="0" />
-        <mark key="[" line="172" column="23" />
-        <mark key="]" line="172" column="24" />
-        <mark key="." line="172" column="24" />
-        <mark key="^" line="140" column="48" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/css/style.css" timestamp="1501728258120">
         <mark key="[" line="3" column="22" />
@@ -1100,7 +1092,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>booking</text>
+        <text>andWhere()</text>
       </register>
       <register name="/" type="4">
         <text>newEn</text>
