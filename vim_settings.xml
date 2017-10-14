@@ -163,6 +163,7 @@
         <mark key="^" line="157" column="23" />
         <mark key="." line="157" column="23" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/BookingsController.php" timestamp="1507949755495" />
       <file name="$USER_HOME$/git/hms/app/models/daily_outstanding_customer.rb" timestamp="1491202499737">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="7" column="40" />
@@ -576,13 +577,13 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1507891996291">
-        <mark key="'" line="130" column="31" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1507948886126">
+        <mark key="'" line="288" column="61" />
         <mark key="j" line="177" column="0" />
-        <mark key="[" line="336" column="12" />
-        <mark key="]" line="336" column="30" />
-        <mark key="." line="336" column="30" />
-        <mark key="^" line="336" column="30" />
+        <mark key="[" line="338" column="20" />
+        <mark key="]" line="343" column="0" />
+        <mark key="." line="343" column="0" />
+        <mark key="^" line="343" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrency.java" timestamp="1499154225156">
         <mark key="[" line="9" column="62" />
@@ -853,7 +854,7 @@
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507945661753">
+      <file name="/Dummy.txt" timestamp="1507949232453">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -865,8 +866,9 @@
         <mark key="." line="60" column="19" />
         <mark key="^" line="60" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" timestamp="1507946785821">
-        <mark key="[" line="32" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" timestamp="1507950074301">
+        <mark key="'" line="9" column="26" />
+        <mark key="[" line="35" column="0" />
         <mark key="]" line="32" column="19" />
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
@@ -970,8 +972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="32" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeWebSocket.kt" />
-      <jump line="28" column="25" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeWebSocket.kt" />
       <jump line="32" column="56" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeWebSocket.kt" />
       <jump line="33" column="41" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeWebSocket.kt" />
       <jump line="3" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeWebSocket.kt" />
@@ -1070,6 +1070,8 @@
       <jump line="356" column="13" filename="$USER_HOME$/git/utel/app/src/Controller/AppController.php" />
       <jump line="276" column="26" filename="$USER_HOME$/git/utel/app/src/Controller/AppController.php" />
       <jump line="55" column="27" filename="$USER_HOME$/git/utel/app/src/Controller/AppController.php" />
+      <jump line="288" column="61" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="9" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1122,7 +1124,7 @@
         <text encoding="base64">c2VsZSAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>357</text>
       </register>
     </registers>
     <search>
@@ -1158,8 +1160,6 @@
         <entry encoding="base64">XDxCb29raW5nc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>%/43.20/2.105/</entry>
-        <entry>%s/43.20/2.105/</entry>
         <entry>115</entry>
         <entry>1360</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -1178,6 +1178,8 @@
         <entry>1</entry>
         <entry>214</entry>
         <entry>w</entry>
+        <entry>114</entry>
+        <entry>357</entry>
       </history-cmd>
       <history-expr />
       <history-input />
