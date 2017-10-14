@@ -94,6 +94,12 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/bitPoint.properties" timestamp="1507992006339">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="1" column="37" />
+        <mark key="." line="1" column="37" />
+        <mark key="^" line="1" column="38" />
+      </file>
       <file name="$USER_HOME$/git/utel/docker/xdebug.ini" timestamp="1507623084080">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="12" column="32" />
@@ -658,7 +664,7 @@
         <mark key="^" line="9" column="96" />
         <mark key="." line="9" column="96" />
       </file>
-      <file name="/fragment.kt" timestamp="1507501545146">
+      <file name="/fragment.kt" timestamp="1507991561674">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -724,12 +730,12 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" timestamp="1507981831103">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" timestamp="1507991674370">
         <mark key="'" line="39" column="24" />
-        <mark key="[" line="68" column="23" />
-        <mark key="]" line="68" column="23" />
-        <mark key="." line="68" column="23" />
-        <mark key="^" line="68" column="23" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="69" column="26" />
       </file>
       <file name="$USER_HOME$/git/hms/app/models/search/daily_outstanding_customer_search_form.rb" timestamp="1491191511119">
         <mark key="[" line="3" column="15" />
@@ -1100,7 +1106,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>25.0</text>
       </register>
       <register name="/" type="4">
         <text>rsi</text>
@@ -1109,31 +1115,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgc29ydGVkID0gcnNpTWFwLnRvU29ydGVkTWFwKAogICAgICAgICAgICAgICAgQ29tcGFyYXRvcjxTdHJpbmc+IHsgcDAsIHAxIC0+IChwMS50b0xvbmcoKSAtIHAwLnRvTG9uZygpKS5jb21wYXJlVG8oMEwpIH0KICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IobGlzKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKHJzaVZhbHVlIGluIGxpc3QpIHsKICAgICAgICAgICAgbG9nLmRlYnVnKHJzaVZhbHVlKQogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IobGlzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZihsaXN0IT1udWxsKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY291bnRlciA9MDsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmZvckVhY2h7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZihsaXN0IT1udWxsKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnRlciArKwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY291bnRlciA9MDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbAo=</text>
+        <text encoding="base64">ICAgICAgICBsaXN0LmZvckVhY2h7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
