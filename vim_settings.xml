@@ -432,6 +432,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/RsiKeyMinutePrice.kt" timestamp="1508035583567">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="79" />
+        <mark key="^" line="2" column="79" />
+        <mark key="." line="2" column="79" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointProperties.kt" timestamp="1505367668682">
         <mark key="[" line="14" column="34" />
         <mark key="]" line="16" column="30" />
@@ -730,12 +736,12 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" timestamp="1507991674370">
-        <mark key="'" line="39" column="24" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="69" column="26" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" timestamp="1508035730289">
+        <mark key="'" line="25" column="19" />
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="49" column="39" />
+        <mark key="." line="9" column="24" />
       </file>
       <file name="$USER_HOME$/git/hms/app/models/search/daily_outstanding_customer_search_form.rb" timestamp="1491191511119">
         <mark key="[" line="3" column="15" />
@@ -990,11 +996,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="169" column="39" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="170" column="28" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="171" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="409" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
       <jump line="401" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/utel/Dockerfile" />
@@ -1090,6 +1091,11 @@
       <jump line="388" column="39" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
       <jump line="402" column="42" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
       <jump line="403" column="42" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
+      <jump line="17" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
+      <jump line="18" column="34" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
+      <jump line="19" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
+      <jump line="47" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
+      <jump line="23" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1106,49 +1112,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>25.0</text>
+        <text>price</text>
       </register>
       <register name="/" type="4">
-        <text>rsi</text>
+        <text encoding="base64">XDxrZXlcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc29ydGVkID0gcnNpTWFwLnRvU29ydGVkTWFwKAogICAgICAgICAgICAgICAgQ29tcGFyYXRvcjxTdHJpbmc+IHsgcDAsIHAxIC0+IChwMS50b0xvbmcoKSAtIHAwLnRvTG9uZygpKS5jb21wYXJlVG8oMEwpIH0KICAgICAgICApCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHZhbCBjYWxlbmRhciA9IENhbGVuZGFyLmdldEluc3RhbmNlKCkKICAgICAgICB2YWwgbWludXRlID0gY2FsZW5kYXIuZ2V0KENhbGVuZGFyLk1JTlVURSkKICAgICAgICB2YWwga2V5ID0gRGF0ZSgpLmFzU3RyaW5nKCJ5eXl5TU1kZEhIbW0iKQoKICAgICAgICB2YWwgcHJpY2UgPSBtZXNzYWdlLnNwbGl0KCIsIilbMl0uc3BsaXQoIlwiIilbMV0udG9Eb3VibGUoKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKHJzaVZhbHVlIGluIGxpc3QpIHsKICAgICAgICAgICAgbG9nLmRlYnVnKHJzaVZhbHVlKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcHJpY2UgPSBtZXNzYWdlLnNwbGl0KCIsIilbMl0uc3BsaXQoIlwiIilbMV0udG9Eb3VibGUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY2FsZW5kYXIgPSBDYWxlbmRhci5nZXRJbnN0YW5jZSgpCiAgICAgICAgdmFsIG1pbnV0ZSA9IGNhbGVuZGFyLmdldChDYWxlbmRhci5NSU5VVEUpCiAgICAgICAgdmFsIGtleSA9IERhdGUoKS5hc1N0cmluZygieXl5eU1NZGRISG1tIikKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IobGlzKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgKGtleSwgcHJpY2UpID0gZ2V0UHJpY2UobWVzc2FnZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKHJzaVZhbHVlIGluIGxpc3QpIHsKICAgICAgICAgICAgbG9nLmRlYnVnKHJzaVZhbHVlKQogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZihsaXN0IT1udWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY291bnRlciA9MDsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IobGlzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmZvckVhY2h7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>rsi</last-search>
+      <last-search encoding="base64">XDxrZXlcPg==</last-search>
       <last-offset />
-      <last-pattern>rsi</last-pattern>
+      <last-pattern encoding="base64">XDxrZXlcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1156,8 +1162,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVNb25leU1hbmFnZW1lbnRzXD4=</entry>
-        <entry>new</entry>
         <entry>DateTime</entry>
         <entry>echo</entry>
         <entry>FIRST</entry>
@@ -1176,6 +1180,8 @@
         <entry encoding="base64">XDxCb29raW5nc1w+</entry>
         <entry encoding="base64">XDxyc2lcPg==</entry>
         <entry>rsi</entry>
+        <entry encoding="base64">XDxjYWxlbmRhclw+</entry>
+        <entry encoding="base64">XDxrZXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1360</entry>
@@ -1192,12 +1198,12 @@
         <entry>174</entry>
         <entry>353</entry>
         <entry>425</entry>
-        <entry>1</entry>
         <entry>214</entry>
         <entry>114</entry>
         <entry>357</entry>
         <entry>128</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
