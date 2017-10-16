@@ -284,6 +284,12 @@
         <mark key="." line="24" column="91" />
         <mark key="^" line="24" column="91" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1508136043729">
+        <mark key="[" line="1695" column="1" />
+        <mark key="]" line="1696" column="0" />
+        <mark key="^" line="1696" column="0" />
+        <mark key="." line="1696" column="0" />
+      </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/judge/BuyJudge.kt" timestamp="1499239865391">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="24" />
@@ -1141,7 +1147,7 @@
         <text>Sale</text>
       </register>
       <register name="/" type="4">
-        <text>http</text>
+        <text>book_info</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Qml0UG9pbnRQcm9wZXJ0aWVzLmRpZmZCdXk9MjAwMApCaXRQb2ludFByb3BlcnRpZXMuZGlmZlNlbGw9MjAwMAo=</text>
@@ -1178,9 +1184,9 @@
       </register>
     </registers>
     <search>
-      <last-search>http</last-search>
+      <last-search>book_info</last-search>
       <last-offset />
-      <last-pattern>http</last-pattern>
+      <last-pattern>book_info</last-pattern>
       <last-replace>10.254.254.254</last-replace>
       <last-substitute>192.168.0.52</last-substitute>
       <last-dir>1</last-dir>
@@ -1188,7 +1194,6 @@
     </search>
     <history>
       <history-search>
-        <entry>push</entry>
         <entry encoding="base64">XDxzZWFyY2hXYWl0aW5nc1w+</entry>
         <entry>bookin</entry>
         <entry encoding="base64">XDxCb29raW5nc1w+</entry>
@@ -1208,6 +1213,7 @@
         <entry>Analyzable Time</entry>
         <entry>Comm</entry>
         <entry>http</entry>
+        <entry>book_info</entry>
       </history-search>
       <history-cmd>
         <entry>6203</entry>
