@@ -189,6 +189,12 @@
         <mark key="." line="2" column="75" />
         <mark key="^" line="2" column="75" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Bookings/index.ctp" timestamp="1508201249749">
+        <mark key="[" line="33" column="163" />
+        <mark key="]" line="33" column="363" />
+        <mark key="." line="33" column="341" />
+        <mark key="^" line="33" column="341" />
+      </file>
       <file name="$USER_HOME$/git/hms/app/models/concerns/common_module.rb" timestamp="1490679792222">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="19" />
@@ -243,6 +249,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="3" column="77" />
+      </file>
+      <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/sp/Bookings/index.ctp" timestamp="1508201253477">
+        <mark key="[" line="29" column="161" />
+        <mark key="]" line="29" column="362" />
+        <mark key="." line="29" column="161" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18678552-f07d-41f9-91f6-32c1a576e36c/console.sql" timestamp="1499423071533">
         <mark key="[" line="0" column="0" />
@@ -911,11 +922,11 @@
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508160612570">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1508201379281">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
         <mark key="[" line="60" column="20" />
@@ -965,15 +976,6 @@
         <mark key="]" line="16" column="46" />
         <mark key="." line="16" column="46" />
         <mark key="^" line="21" column="33" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/src/Model/Table/AnalysisResultsTable.php" timestamp="1508143989724">
-        <mark key="a" line="133" column="23" />
-        <mark key="b" line="134" column="32" />
-        <mark key="'" line="134" column="32" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
-        <mark key="^" line="145" column="61" />
       </file>
       <file name="$USER_HOME$/git/hms/app/models/daily_sales_employee.rb" timestamp="1491203692175">
         <mark key="[" line="15" column="13" />
@@ -1164,35 +1166,35 @@
       <register name="/" type="4">
         <text>push</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdXNoKGxpc3RbMF0sIGxpc3RbMV0sIG9wdGlvbiA9ICJkaWZmPSRkaWZmIikK</text>
+      <register name="0" type="4">
+        <text encoding="base64">KDw/PSBfXygnSW4gUmVtYWluIFRpbWUnKSA/Pjw/PSAkYm9va2luZy0+c3RhdHVzICE9IEJPT0tJTkdfU1RBVFVTX0FOQUxZU0lTX0NPTVBMRVRFID8gZmxvb3IoJHVzZXItPmdldEZpcnN0UmVtdW5lcmF0aW9uVGltZSgpIC8gJGJvb2tpbmctPnNjaGVkdWxlLT5mb3J0dW5ldGVsbGVyLT5mZWVfYmFzZV9hbW91bnQpLl9fKCdNaW51dGUnKSA6ICIiPz4p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2CmZpeGVkICMyODk4MyBAMS4wCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdXNoU2VydmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbm90ZSA9ICIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdXNoU2VydmljZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVzaFNlcnZpY2UucHVzaCh9KQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbm90ZSA9ICIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihleCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVzaFNlcnZpY2UucHVzaCh9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihleCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+bmV0LmloYXJkZXIuanB1c2hidWxsZXQyPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qcHVzaGJ1bGxldDI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjAuMy4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPmpwdXNoYnVsbGV0MjwvaWQ+CiAgICAgICAgICAgIDx1cmw+aHR0cHM6Ly9vc3Muc29uYXR5cGUub3JnL2NvbnRlbnQvcmVwb3NpdG9yaWVzL3NuYXBzaG90cy88L3VybD4KICAgICAgICA8L3JlcG9zaXRvcnk+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+bmV0LmloYXJkZXIuanB1c2hidWxsZXQyPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qcHVzaGJ1bGxldDI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjAuMy4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
