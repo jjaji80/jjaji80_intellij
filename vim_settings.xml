@@ -298,9 +298,6 @@
         <mark key="." line="6407" column="0" />
         <mark key="^" line="6407" column="0" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1508147133482">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/judge/BuyJudge.kt" timestamp="1499239865391">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="24" />
@@ -407,7 +404,6 @@
         <mark key="." line="25" column="29" />
         <mark key="^" line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/config/Migrations/20161224051558_CreateMailLogs.php" timestamp="1508143055732" />
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/Acl/Menu.yml" timestamp="1505615627600">
         <mark key="[" line="11" column="24" />
         <mark key="]" line="11" column="25" />
@@ -451,7 +447,7 @@
         <mark key="." line="3" column="47" />
         <mark key="^" line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-tomcat/src/main/java/com/newspicks/tomcat/bootstrap/ContentsBootstrap.java" timestamp="1503186312963">
+      <file name="$USER_HOME$/git/manganews-server/manganews-tomcat/src/main/java/com/newspicks/tomcat/bootstrap/ContentsBootstrap.java" timestamp="1508223019639">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="5" column="26" />
         <mark key="." line="5" column="26" />
@@ -538,7 +534,6 @@
         <mark key="^" line="5" column="90" />
         <mark key="." line="5" column="90" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/net/iharder/jpushbullet2/jpushbullet2/0.3.0-SNAPSHOT/jpushbullet2-0.3.0-20150831.204305-56.jar!/net/iharder/jpushbullet2/PushbulletClient.class" timestamp="1508161732852" />
       <file name="$USER_HOME$/git/p1-doc/議事録/make.sh" timestamp="1490333563785">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="34" />
@@ -780,6 +775,7 @@
         <mark key="." line="86" column="66" />
         <mark key="^" line="86" column="66" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacySelfController.java" timestamp="1508222759743" />
       <file name="$USER_HOME$/git/hms/app/models/search/daily_outstanding_customer_search_form.rb" timestamp="1491191511119">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="15" />
@@ -816,6 +812,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="22" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-support/src/main/java/com/newspicks/support/controller/password/PasswordController.java" timestamp="1508223403455" />
       <file name="$USER_HOME$/git/manganews-web-master/docker-compose.yml" timestamp="1496903187086">
         <mark key="[" line="26" column="32" />
         <mark key="]" line="26" column="35" />
@@ -884,9 +881,7 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="50" />
       </file>
-      <file name="/PHP Console" timestamp="1508144542066">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-tomcat/src/main/java/com/newspicks/tomcat/bootstrap/ApiBootstrap.java" timestamp="1508222819278" />
       <file name="$USER_HOME$/git/manganews-web-master/composer.json" timestamp="1498440303819">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="8" />
@@ -923,8 +918,8 @@
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508206760466">
-        <mark key="[" line="1" column="0" />
+      <file name="/Dummy.txt" timestamp="1508223126945">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
@@ -1215,7 +1210,7 @@ WHERE B.user_id=2587 ORDER BY B.id DESC
       <last-replace>10.254.254.254</last-replace>
       <last-substitute>192.168.0.52</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
