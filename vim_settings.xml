@@ -487,11 +487,11 @@
         <mark key="^" line="11" column="106" />
         <mark key="." line="11" column="107" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508145879627">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508204682811">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/git/utel/app/config/app.php" timestamp="1507196020731">
         <mark key="'" line="191" column="23" />
@@ -674,11 +674,11 @@
         <mark key="." line="31" column="19" />
         <mark key="^" line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/webroot/js/admin/common.js" timestamp="1508142222035">
-        <mark key="[" line="12" column="136" />
-        <mark key="]" line="12" column="152" />
-        <mark key="^" line="12" column="152" />
-        <mark key="." line="12" column="152" />
+      <file name="$USER_HOME$/git/utel/app/webroot/js/admin/common.js" timestamp="1508204699479">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" timestamp="1507886584944">
         <mark key="'" line="17" column="54" />
@@ -934,12 +934,12 @@
         <mark key="." line="60" column="19" />
         <mark key="^" line="60" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" timestamp="1508204066301">
-        <mark key="'" line="42" column="39" />
-        <mark key="[" line="45" column="42" />
-        <mark key="]" line="45" column="43" />
-        <mark key="^" line="27" column="31" />
-        <mark key="." line="45" column="43" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" timestamp="1508204903552">
+        <mark key="'" line="44" column="39" />
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="35" />
+        <mark key="^" line="13" column="35" />
+        <mark key="." line="13" column="35" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/ConditionCls.kt" timestamp="1502518132571">
         <mark key="[" line="11" column="51" />
@@ -1167,34 +1167,34 @@
         <text>sched</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnU2NoZWR1bGVzLnN0YXJ0X3RpbWUgPD0nID0+ICRub3csCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJyNyZWFkeU1lc3NhZ2UnKS5odG1sKCI8ZGl2ICBjbGFzcz1cImdsb2JhbC1tZXNzYWdlXCI+6ZGR5a6a5b6F44Gh44Gu5Lya5ZOh44GM44GE44G+44GZ44CC6ZGR5a6a5rqW5YKZ44KS44GX44Gm44GP44Gg44GV44GE44CC6ZGR5a6a5Y+v6IO9IiArIHJlc3BvbnNlLmFuYWx5emFibGUgKyAi5YiG77yI5YaF5Yid5ZueIiArICByZXNwb25zZS5yZW1haW4gKyLliIbvvIk8cD4iICsgYUhlYWRlciArICLmupblgpnlrozkuoY8L2E+PC9wPjwvZGl2PiIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBJTlRPIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2CmZpeGVkICMyODk4MyBAMS4wCg==</text>
+        <text encoding="base64">ICBJTlRPIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2CmZpeGVkICMyODk4MyBAMS4wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdXNoU2VydmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbm90ZSA9ICIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdXNoU2VydmljZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVzaFNlcnZpY2UucHVzaCh9KQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbm90ZSA9ICIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihleCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVzaFNlcnZpY2UucHVzaCh9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihleCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
