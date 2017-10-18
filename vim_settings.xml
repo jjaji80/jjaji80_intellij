@@ -142,6 +142,9 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1508308058538">
+        <mark key="'" line="521" column="21" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/js/const.js" timestamp="1501522773395">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="30" />
@@ -215,11 +218,12 @@
         <mark key="." line="3" column="47" />
         <mark key="^" line="3" column="51" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/BookController.php" timestamp="1508306156945">
-        <mark key="'" line="112" column="79" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/git/utel/app/src/Controller/BookController.php" timestamp="1508308312617">
+        <mark key="'" line="110" column="79" />
+        <mark key="[" line="45" column="9" />
+        <mark key="]" line="45" column="9" />
+        <mark key="." line="45" column="9" />
+        <mark key="^" line="47" column="14" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/CoinData.kt" timestamp="1505965361730">
         <mark key="[" line="13" column="67" />
@@ -472,7 +476,7 @@
         <mark key="^" line="11" column="106" />
         <mark key="." line="11" column="107" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508230564257">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508307818378">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -497,12 +501,12 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Locale/ja_JP/default.po" timestamp="1508144924459">
+      <file name="$USER_HOME$/git/utel/app/src/Locale/ja_JP/default.po" timestamp="1508308310280">
         <mark key="'" line="2565" column="12" />
-        <mark key="[" line="2606" column="8" />
-        <mark key="]" line="2606" column="15" />
-        <mark key="^" line="2606" column="15" />
-        <mark key="." line="2606" column="15" />
+        <mark key="[" line="2366" column="12" />
+        <mark key="]" line="2366" column="40" />
+        <mark key="^" line="2366" column="40" />
+        <mark key="." line="2366" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dcda3a33-cfd6-4372-a78f-ca7e8acd9bb5/console.sql" timestamp="1508120407371">
         <mark key="'" line="10" column="34" />
@@ -929,7 +933,7 @@
       <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1508306051183">
         <mark key="'" line="130" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508233373710">
+      <file name="/Dummy.txt" timestamp="1508308277618">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
@@ -1063,7 +1067,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="38" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
       <jump line="24" column="30" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
       <jump line="15" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
       <jump line="11" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/hosts" />
@@ -1163,6 +1166,7 @@
       <jump line="122" column="28" filename="$USER_HOME$/git/utel/app/config/define.php" />
       <jump line="130" column="22" filename="$USER_HOME$/git/utel/app/config/define.php" />
       <jump line="468" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="521" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1179,49 +1183,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>B.user_id=1119</text>
+        <text>をしています</text>
       </register>
       <register name="/" type="4">
-        <text>STA</text>
+        <text encoding="base64">XDxzZXRSb29tRW1wdHlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>2848</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAtPndoZXJlKFsnc3RhcnRfdGltZSA+PScgPT4gJHNjaGVkdWxlLT5zdGFydF90aW1lXSkKICAgICAgICAtPmFuZFdoZXJlKFsnc3RhcnRfdGltZSA8PScgPT4gJHNjaGVkdWxlLT5lbmRfdGltZV0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUICogCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJHF1ZXJ5KTsKICAgICAgZGllKCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">U0VMRUNUICogCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJHF1ZXJ5KTsKICAgICAgZGllKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSBmb3J0dW5ldGVsbGVycyBXSEVSRSBpZD05Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>STA</last-search>
+      <last-search encoding="base64">XDxzZXRSb29tRW1wdHlcPg==</last-search>
       <last-offset />
-      <last-pattern>STA</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRSb29tRW1wdHlcPg==</last-pattern>
       <last-replace>52.69.112.33</last-replace>
       <last-substitute>localhost</last-substitute>
       <last-dir>1</last-dir>
@@ -1229,7 +1233,6 @@
     </search>
     <history>
       <history-search>
-        <entry>created_at</entry>
         <entry>used</entry>
         <entry>.book_info .body</entry>
         <entry>.book_info .boookstores li a</entry>
@@ -1249,6 +1252,7 @@
         <entry>cre</entry>
         <entry>editor\/new</entry>
         <entry>STA</entry>
+        <entry encoding="base64">XDxzZXRSb29tRW1wdHlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>142</entry>
