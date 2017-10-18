@@ -145,6 +145,9 @@
       <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1508308058538">
         <mark key="'" line="521" column="21" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" timestamp="1508313103235">
+        <mark key="'" line="39" column="13" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/js/const.js" timestamp="1501522773395">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="30" />
@@ -476,6 +479,7 @@
         <mark key="^" line="11" column="106" />
         <mark key="." line="11" column="107" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/SummaryController.java" timestamp="1508313550551" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508307818378">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -488,6 +492,12 @@
         <mark key="]" line="371" column="77" />
         <mark key="." line="371" column="77" />
         <mark key="^" line="371" column="77" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/NewsComponent.php" timestamp="1508313601069">
+        <mark key="[" line="15" column="52" />
+        <mark key="]" line="16" column="24" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="16" column="24" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/service/DataLoader.kt" timestamp="1499501419258">
         <mark key="[" line="9" column="37" />
@@ -631,12 +641,12 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508310444011">
-        <mark key="'" line="468" column="35" />
-        <mark key="[" line="474" column="44" />
-        <mark key="]" line="474" column="48" />
-        <mark key="." line="474" column="48" />
-        <mark key="^" line="474" column="48" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508312526370">
+        <mark key="'" line="474" column="48" />
+        <mark key="[" line="482" column="0" />
+        <mark key="]" line="483" column="38" />
+        <mark key="." line="483" column="38" />
+        <mark key="^" line="483" column="38" />
       </file>
       <file name="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" timestamp="1508228727604" />
       <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrency.java" timestamp="1499154225156">
@@ -921,7 +931,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/dummy.sql" timestamp="1508306118073">
+      <file name="/dummy.sql" timestamp="1508312989913">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/proguard-rules.pro" timestamp="1507101475208">
@@ -933,7 +943,7 @@
       <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1508306051183">
         <mark key="'" line="130" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508310605951">
+      <file name="/Dummy.txt" timestamp="1508313110879">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
@@ -1037,6 +1047,7 @@
         <mark key="^" line="5767" column="0" />
         <mark key="." line="5767" column="0" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/left.ctp" timestamp="1508313026070" />
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1508126464232">
         <mark key="[" line="364" column="76" />
         <mark key="]" line="365" column="76" />
@@ -1067,10 +1078,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/hosts" />
-      <jump line="10" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dcda3a33-cfd6-4372-a78f-ca7e8acd9bb5/console.sql" />
-      <jump line="45" column="20" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/BookingsController.php" />
-      <jump line="126" column="21" filename="$USER_HOME$/git/utel/app/src/Model/Table/AnalysisResultsTable.php" />
       <jump line="98" column="21" filename="$USER_HOME$/git/utel/app/src/Model/Table/AnalysisResultsTable.php" />
       <jump line="84" column="23" filename="$USER_HOME$/git/utel/app/src/Model/Table/AnalysisResultsTable.php" />
       <jump line="64" column="35" filename="$USER_HOME$/git/utel/app/src/Model/Table/UsersTable.php" />
@@ -1167,6 +1174,10 @@
       <jump line="521" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="51" column="49" filename="$USER_HOME$/git/utel/app/src/Controller/BookController.php" />
       <jump line="191" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
+      <jump line="474" column="48" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="34" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
+      <jump line="38" column="32" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
+      <jump line="39" column="13" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1186,7 +1197,7 @@
         <text encoding="base64">NjM3MSA=</text>
       </register>
       <register name="/" type="4">
-        <text>tag</text>
+        <text encoding="base64">XDxuZXdzX3BpY2t1cFw+</text>
       </register>
       <register name="0" type="4">
         <text>2848</text>
@@ -1223,9 +1234,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tag</last-search>
+      <last-search encoding="base64">XDxuZXdzX3BpY2t1cFw+</last-search>
       <last-offset />
-      <last-pattern>tag</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdzX3BpY2t1cFw+</last-pattern>
       <last-replace>52.69.112.33</last-replace>
       <last-substitute>localhost</last-substitute>
       <last-dir>1</last-dir>
@@ -1233,7 +1244,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.book_info .boookstores li a</entry>
         <entry>.book_info .boookstores li a img</entry>
         <entry encoding="base64">LmJvb2tfaW5mbyBpbWcg</entry>
         <entry encoding="base64">XDxyc2lcPg==</entry>
@@ -1253,6 +1263,7 @@
         <entry encoding="base64">XDxzZXRSb29tRW1wdHlcPg==</entry>
         <entry encoding="base64">XDxib29rZWRcPg==</entry>
         <entry>tag</entry>
+        <entry encoding="base64">XDxuZXdzX3BpY2t1cFw+</entry>
       </history-search>
       <history-cmd>
         <entry>142</entry>
