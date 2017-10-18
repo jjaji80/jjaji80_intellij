@@ -323,12 +323,12 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1508160330000">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1508305227543">
         <mark key="'" line="225" column="5" />
-        <mark key="[" line="310" column="14" />
-        <mark key="]" line="310" column="10" />
-        <mark key="^" line="310" column="13" />
-        <mark key="." line="310" column="13" />
+        <mark key="[" line="320" column="101" />
+        <mark key="]" line="320" column="104" />
+        <mark key="^" line="321" column="105" />
+        <mark key="." line="321" column="105" />
       </file>
       <file name="$USER_HOME$/git/hms/db/migrate/20170330064846_create_daily_outstanding_customers.rb" timestamp="1496615481558">
         <mark key="[" line="3" column="24" />
@@ -628,12 +628,12 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508207820068">
-        <mark key="'" line="437" column="0" />
-        <mark key="[" line="449" column="48" />
-        <mark key="]" line="450" column="57" />
-        <mark key="." line="450" column="57" />
-        <mark key="^" line="450" column="57" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508304708494">
+        <mark key="'" line="447" column="0" />
+        <mark key="[" line="470" column="6" />
+        <mark key="]" line="470" column="26" />
+        <mark key="." line="470" column="26" />
+        <mark key="^" line="470" column="26" />
       </file>
       <file name="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" timestamp="1508228727604" />
       <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrency.java" timestamp="1499154225156">
@@ -1061,8 +1061,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="424" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
-      <jump line="349" column="18" filename="$USER_HOME$/git/utel/app/src/Controller/AppController.php" />
       <jump line="356" column="13" filename="$USER_HOME$/git/utel/app/src/Controller/AppController.php" />
       <jump line="276" column="26" filename="$USER_HOME$/git/utel/app/src/Controller/AppController.php" />
       <jump line="55" column="27" filename="$USER_HOME$/git/utel/app/src/Controller/AppController.php" />
@@ -1148,7 +1146,6 @@
       <jump line="386" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="42" column="39" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
       <jump line="3" column="23" filename="$USER_HOME$/git/utel/app/webroot/js/admin/common.js" />
-      <jump line="412" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="407" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="394" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="436" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
@@ -1161,6 +1158,9 @@
       <jump line="9" column="31" filename="$USER_HOME$/git/tools.manga-news.jp-master/App/config.yml" />
       <jump line="58" column="12" filename="$USER_HOME$/git/tools.manga-news.jp-master/App/views/pages/admin/news/index.tpl" />
       <jump line="33" column="33" filename="$USER_HOME$/git/tools.manga-news.jp-master/App/Ro/News/Top.php" />
+      <jump line="412" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="424" column="54" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="447" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1177,40 +1177,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2.31.21.107</text>
+        <text>B.user_id=1119</text>
       </register>
       <register name="/" type="4">
         <text>editor\/new</text>
       </register>
       <register name="0" type="4">
-        <text>.first()</text>
+        <text>2848</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJHF1ZXJ5KTsKICAgICAgZGllKCk7Cg==</text>
+        <text encoding="base64">U0VMRUNUICogCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJHF1ZXJ5KTsKICAgICAgZGllKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSBmb3J0dW5ldGVsbGVycyBXSEVSRSBpZD05Owo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">U0VMRUNUICoKRlJPTSBmb3J0dW5ldGVsbGVycyBXSEVSRSBpZD05Owo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">TEVGVCBKT0lOIHNjaGVkdWxlcyBhcyBTIG9uIFMuaWQ9Qi5zY2hlZHVsZV9pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSA7Cg==</text>
+        <text encoding="base64">TEVGVCBKT0lOIHNjaGVkdWxlcyBhcyBTIG9uIFMuaWQ9Qi5zY2hlZHVsZV9pZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
+        <text encoding="base64">U0VMRUNUICoKRlJPTSA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
