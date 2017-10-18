@@ -215,12 +215,11 @@
         <mark key="." line="3" column="47" />
         <mark key="^" line="3" column="51" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/BookController.php" timestamp="1507903675092">
+      <file name="$USER_HOME$/git/utel/app/src/Controller/BookController.php" timestamp="1508306156945">
         <mark key="'" line="112" column="79" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="12" />
-        <mark key="." line="127" column="12" />
-        <mark key="^" line="127" column="42" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/CoinData.kt" timestamp="1505965361730">
         <mark key="[" line="13" column="67" />
@@ -479,12 +478,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/config/app.php" timestamp="1507196020731">
+      <file name="$USER_HOME$/git/utel/app/config/app.php" timestamp="1508306428580">
         <mark key="'" line="191" column="23" />
-        <mark key="[" line="241" column="27" />
-        <mark key="]" line="241" column="34" />
-        <mark key="." line="241" column="34" />
-        <mark key="^" line="241" column="34" />
+        <mark key="[" line="371" column="71" />
+        <mark key="]" line="371" column="77" />
+        <mark key="." line="371" column="77" />
+        <mark key="^" line="371" column="77" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/service/DataLoader.kt" timestamp="1499501419258">
         <mark key="[" line="9" column="37" />
@@ -628,9 +627,9 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508304708494">
-        <mark key="'" line="447" column="0" />
-        <mark key="[" line="470" column="6" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508306585393">
+        <mark key="'" line="468" column="35" />
+        <mark key="[" line="472" column="18" />
         <mark key="]" line="470" column="26" />
         <mark key="." line="470" column="26" />
         <mark key="^" line="470" column="26" />
@@ -918,7 +917,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/dummy.sql" timestamp="1508234144903">
+      <file name="/dummy.sql" timestamp="1508306118073">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/proguard-rules.pro" timestamp="1507101475208">
@@ -926,6 +925,9 @@
         <mark key="]" line="17" column="34" />
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1508306051183">
+        <mark key="'" line="130" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1508233373710">
         <mark key="[" line="0" column="0" />
@@ -1061,24 +1063,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="356" column="13" filename="$USER_HOME$/git/utel/app/src/Controller/AppController.php" />
-      <jump line="276" column="26" filename="$USER_HOME$/git/utel/app/src/Controller/AppController.php" />
-      <jump line="55" column="27" filename="$USER_HOME$/git/utel/app/src/Controller/AppController.php" />
-      <jump line="288" column="61" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="9" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
-      <jump line="12" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
-      <jump line="45" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
-      <jump line="58" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
-      <jump line="40" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
-      <jump line="392" column="35" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="388" column="39" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="402" column="42" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="403" column="42" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="17" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
-      <jump line="18" column="34" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
-      <jump line="47" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
-      <jump line="23" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
-      <jump line="13" column="39" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="19" column="38" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
       <jump line="24" column="30" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
       <jump line="15" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
@@ -1161,6 +1145,24 @@
       <jump line="412" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="424" column="54" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="447" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="39" column="14" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="47" column="21" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="48" column="21" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="70" column="23" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="71" column="23" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="72" column="23" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="73" column="23" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="74" column="23" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="75" column="23" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="76" column="23" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="79" column="34" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="95" column="24" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="107" column="21" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="116" column="22" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="121" column="28" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="122" column="28" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="130" column="22" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="468" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1180,46 +1182,46 @@
         <text>B.user_id=1119</text>
       </register>
       <register name="/" type="4">
-        <text>editor\/new</text>
+        <text>STA</text>
       </register>
       <register name="0" type="4">
         <text>2848</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUICogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJHF1ZXJ5KTsKICAgICAgZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">U0VMRUNUICogCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJHF1ZXJ5KTsKICAgICAgZGllKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSBmb3J0dW5ldGVsbGVycyBXSEVSRSBpZD05Owo=</text>
+        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TEVGVCBKT0lOIHNjaGVkdWxlcyBhcyBTIG9uIFMuaWQ9Qi5zY2hlZHVsZV9pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSA7Cg==</text>
+        <text encoding="base64">U0VMRUNUICoKRlJPTSBmb3J0dW5ldGVsbGVycyBXSEVSRSBpZD05Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>editor\/new</last-search>
+      <last-search>STA</last-search>
       <last-offset />
-      <last-pattern>editor\/new</last-pattern>
+      <last-pattern>STA</last-pattern>
       <last-replace>52.69.112.33</last-replace>
       <last-substitute>localhost</last-substitute>
       <last-dir>1</last-dir>
@@ -1227,7 +1229,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VkX2ZpcnN0X3JlbXVuZXJhdGlvblw+</entry>
         <entry>created_at</entry>
         <entry>used</entry>
         <entry>.book_info .body</entry>
@@ -1247,6 +1248,7 @@
         <entry>TOP表示に追加</entry>
         <entry>cre</entry>
         <entry>editor\/new</entry>
+        <entry>STA</entry>
       </history-search>
       <history-cmd>
         <entry>142</entry>
