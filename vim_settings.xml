@@ -642,12 +642,12 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508391154280">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508392768881">
         <mark key="'" line="497" column="8" />
-        <mark key="[" line="493" column="0" />
-        <mark key="]" line="493" column="0" />
-        <mark key="." line="493" column="0" />
-        <mark key="^" line="503" column="19" />
+        <mark key="[" line="503" column="8" />
+        <mark key="]" line="503" column="15" />
+        <mark key="." line="503" column="15" />
+        <mark key="^" line="503" column="15" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrency.java" timestamp="1499154225156">
         <mark key="[" line="9" column="62" />
@@ -1213,7 +1213,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>and prepared_time is null;</text>
+        <text>status = 3 ;</text>
       </register>
       <register name="/" type="4">
         <text>BOOKING_STATUS_ANALYSIS_COMPLETE</text>
