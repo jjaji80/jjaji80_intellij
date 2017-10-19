@@ -142,7 +142,9 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1508386478992" />
+      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1508389525503">
+        <mark key="'" line="274" column="77" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/js/const.js" timestamp="1501522773395">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="30" />
@@ -640,12 +642,12 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508385549348">
-        <mark key="'" line="463" column="0" />
-        <mark key="[" line="497" column="7" />
-        <mark key="]" line="497" column="8" />
-        <mark key="." line="497" column="8" />
-        <mark key="^" line="497" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508389087854">
+        <mark key="'" line="497" column="8" />
+        <mark key="[" line="495" column="16" />
+        <mark key="]" line="495" column="16" />
+        <mark key="." line="495" column="16" />
+        <mark key="^" line="495" column="19" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrency.java" timestamp="1499154225156">
         <mark key="[" line="9" column="62" />
@@ -955,7 +957,9 @@
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="34" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1508385658573" />
+      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1508389516582">
+        <mark key="'" line="133" column="14" />
+      </file>
       <file name="/Dummy.txt" timestamp="1508385834354">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="4" />
@@ -1093,10 +1097,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="16" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
-      <jump line="34" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
-      <jump line="304" column="42" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
       <jump line="283" column="65" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
       <jump line="168" column="36" filename="$USER_HOME$/git/utel/app/tests/TestCase/Model/Table/AnalysisResultsTableTest.php" />
       <jump line="143" column="36" filename="$USER_HOME$/git/utel/app/tests/TestCase/Model/Table/AnalysisResultsTableTest.php" />
@@ -1193,6 +1193,10 @@
       <jump line="387" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
       <jump line="451" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="463" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="497" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="133" column="14" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="273" column="34" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
+      <jump line="274" column="77" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1209,10 +1213,10 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>S.fortuneteller_id=17</text>
+        <text>1850,1840,1765);</text>
       </register>
       <register name="/" type="4">
-        <text>redi</text>
+        <text encoding="base64">XDxCT09LSU5HX1NUQVRVU19BTkFMWVNJU1w+</text>
       </register>
       <register name="0" type="4">
         <text>SELECT *
@@ -1256,17 +1260,16 @@ WHERE S.fortuneteller_id=17</text>
       </register>
     </registers>
     <search>
-      <last-search>redi</last-search>
+      <last-search encoding="base64">XDxCT09LSU5HX1NUQVRVU19BTkFMWVNJU1w+</last-search>
       <last-offset />
-      <last-pattern>redi</last-pattern>
+      <last-pattern encoding="base64">XDxCT09LSU5HX1NUQVRVU19BTkFMWVNJU1w+</last-pattern>
       <last-replace>52.69.112.33</last-replace>
       <last-substitute>localhost</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gson</entry>
         <entry encoding="base64">XDxqcHVzaGJ1bGxldDJcPg==</entry>
         <entry>push</entry>
         <entry>sched</entry>
@@ -1286,6 +1289,7 @@ WHERE S.fortuneteller_id=17</text>
         <entry encoding="base64">XDx0aGVtZVw+</entry>
         <entry>rsi</entry>
         <entry>redi</entry>
+        <entry encoding="base64">XDxCT09LSU5HX1NUQVRVU19BTkFMWVNJU1w+</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
