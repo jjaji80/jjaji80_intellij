@@ -142,8 +142,8 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1508389525503">
-        <mark key="'" line="274" column="77" />
+      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1508390540693">
+        <mark key="'" line="237" column="52" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/js/const.js" timestamp="1501522773395">
         <mark key="[" line="3" column="30" />
@@ -642,12 +642,12 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508389087854">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508391154280">
         <mark key="'" line="497" column="8" />
-        <mark key="[" line="495" column="16" />
-        <mark key="]" line="495" column="16" />
-        <mark key="." line="495" column="16" />
-        <mark key="^" line="495" column="19" />
+        <mark key="[" line="493" column="0" />
+        <mark key="]" line="493" column="0" />
+        <mark key="." line="493" column="0" />
+        <mark key="^" line="503" column="19" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrency.java" timestamp="1499154225156">
         <mark key="[" line="9" column="62" />
@@ -957,7 +957,7 @@
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="34" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1508389516582">
+      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1508390187003">
         <mark key="'" line="133" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1508385834354">
@@ -1097,8 +1097,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="65" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="168" column="36" filename="$USER_HOME$/git/utel/app/tests/TestCase/Model/Table/AnalysisResultsTableTest.php" />
       <jump line="143" column="36" filename="$USER_HOME$/git/utel/app/tests/TestCase/Model/Table/AnalysisResultsTableTest.php" />
       <jump line="157" column="36" filename="$USER_HOME$/git/utel/app/tests/TestCase/Model/Table/AnalysisResultsTableTest.php" />
       <jump line="2007" column="13" filename="$USER_HOME$/git/utel/app/src/Locale/ja_JP/default.po" />
@@ -1197,6 +1195,8 @@
       <jump line="133" column="14" filename="$USER_HOME$/git/utel/app/config/define.php" />
       <jump line="273" column="34" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="274" column="77" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
+      <jump line="418" column="49" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
+      <jump line="237" column="52" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1213,10 +1213,10 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1850,1840,1765);</text>
+        <text>and prepared_time is null;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCT09LSU5HX1NUQVRVU19BTkFMWVNJU1w+</text>
+        <text>BOOKING_STATUS_ANALYSIS_COMPLETE</text>
       </register>
       <register name="0" type="4">
         <text>SELECT *
@@ -1229,40 +1229,40 @@ FROM bookings as B
 WHERE S.fortuneteller_id=17</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBMRUZUIEpPSU4gY2FsbF9sb2dzIGFzIEMgb24gQy5ib29raW5nX2lkPUIuaWQK</text>
+        <text encoding="base64">ICBJTk5FUiBKT0lOIHVzZXJzIGFzIFUgb24gQi51c2VyX2lkPVUuaWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBMRUZUIEpPSU4gYW5hbHlzaXNfcmVzdWx0cyBhcyBBIG9uIEEuY2FsbF9sb2dfaWQ9Qy5pZAo=</text>
+        <text encoding="base64">ICBMRUZUIEpPSU4gY2FsbF9sb2dzIGFzIEMgb24gQy5ib29raW5nX2lkPUIuaWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSAK</text>
+        <text encoding="base64">ICBMRUZUIEpPSU4gYW5hbHlzaXNfcmVzdWx0cyBhcyBBIG9uIEEuY2FsbF9sb2dfaWQ9Qy5pZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJPD9waHAgdmFyX2R1bXAoJHRhZyk7Pz4K</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOgo=</text>
+        <text encoding="base64">CQkJCQkJPD9waHAgdmFyX2R1bXAoJHRhZyk7Pz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgYGJsb2dzYE1PRElGWSBDT0xVTU4gYGJvZHkxYCBsb25ndGV4dCBDT01NRU5UICfmnKzmlocxJzsK</text>
+        <text encoding="base64">ICAgIHdpZHRoOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBibG8K</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgYGJsb2dzYE1PRElGWSBDT0xVTU4gYGJvZHkxYCBsb25ndGV4dCBDT01NRU5UICfmnKzmlocxJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBibG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCT09LSU5HX1NUQVRVU19BTkFMWVNJU1w+</last-search>
+      <last-search>BOOKING_STATUS_ANALYSIS_COMPLETE</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCT09LSU5HX1NUQVRVU19BTkFMWVNJU1w+</last-pattern>
+      <last-pattern>BOOKING_STATUS_ANALYSIS_COMPLETE</last-pattern>
       <last-replace>52.69.112.33</last-replace>
       <last-substitute>localhost</last-substitute>
       <last-dir>1</last-dir>
@@ -1270,8 +1270,6 @@ WHERE S.fortuneteller_id=17</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxqcHVzaGJ1bGxldDJcPg==</entry>
-        <entry>push</entry>
         <entry>sched</entry>
         <entry encoding="base64">XDx1c2pfYmFua1w+</entry>
         <entry>hikikae</entry>
@@ -1290,6 +1288,8 @@ WHERE S.fortuneteller_id=17</text>
         <entry>rsi</entry>
         <entry>redi</entry>
         <entry encoding="base64">XDxCT09LSU5HX1NUQVRVU19BTkFMWVNJU1w+</entry>
+        <entry>participant-leave: booki</entry>
+        <entry>BOOKING_STATUS_ANALYSIS_COMPLETE</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
