@@ -642,12 +642,12 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508392768881">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508397923447">
         <mark key="'" line="497" column="8" />
-        <mark key="[" line="503" column="8" />
-        <mark key="]" line="503" column="15" />
-        <mark key="." line="503" column="15" />
+        <mark key="[" line="491" column="0" />
+        <mark key="]" line="491" column="55" />
         <mark key="^" line="503" column="15" />
+        <mark key="." line="491" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrency.java" timestamp="1499154225156">
         <mark key="[" line="9" column="62" />
@@ -1229,31 +1229,31 @@ FROM bookings as B
 WHERE S.fortuneteller_id=17</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBJTk5FUiBKT0lOIHVzZXJzIGFzIFUgb24gQi51c2VyX2lkPVUuaWQK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBMRUZUIEpPSU4gY2FsbF9sb2dzIGFzIEMgb24gQy5ib29raW5nX2lkPUIuaWQK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICBMRUZUIEpPSU4gYW5hbHlzaXNfcmVzdWx0cyBhcyBBIG9uIEEuY2FsbF9sb2dfaWQ9Qy5pZAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBMRUZUIEpPSU4gYW5hbHlzaXNfcmVzdWx0cyBhcyBBIG9uIEEuY2FsbF9sb2dfaWQ9Qy5pZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBJTk5FUiBKT0lOIHVzZXJzIGFzIFUgb24gQi51c2VyX2lkPVUuaWQK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSAK</text>
+        <text encoding="base64">ICBMRUZUIEpPSU4gY2FsbF9sb2dzIGFzIEMgb24gQy5ib29raW5nX2lkPUIuaWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJPD9waHAgdmFyX2R1bXAoJHRhZyk7Pz4K</text>
+        <text encoding="base64">ICBMRUZUIEpPSU4gYW5hbHlzaXNfcmVzdWx0cyBhcyBBIG9uIEEuY2FsbF9sb2dfaWQ9Qy5pZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOgo=</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgYGJsb2dzYE1PRElGWSBDT0xVTU4gYGJvZHkxYCBsb25ndGV4dCBDT01NRU5UICfmnKzmlocxJzsK</text>
+        <text encoding="base64">CQkJCQkJPD9waHAgdmFyX2R1bXAoJHRhZyk7Pz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBibG8K</text>
+        <text encoding="base64">ICAgIHdpZHRoOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgYGJsb2dzYE1PRElGWSBDT0xVTU4gYGJvZHkxYCBsb25ndGV4dCBDT01NRU5UICfmnKzmlocxJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
