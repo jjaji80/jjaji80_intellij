@@ -1215,7 +1215,7 @@
         <text>useRsi</text>
       </register>
       <register name="/" type="4">
-        <text>rsi</text>
+        <text>redi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZHluYW1vZGIudGFibGVuYW1lLnByZWZpeD0K</text>
@@ -1252,9 +1252,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rsi</last-search>
+      <last-search>redi</last-search>
       <last-offset />
-      <last-pattern>rsi</last-pattern>
+      <last-pattern>redi</last-pattern>
       <last-replace>52.69.112.33</last-replace>
       <last-substitute>localhost</last-substitute>
       <last-dir>1</last-dir>
@@ -1262,7 +1262,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyc2lcPg==</entry>
         <entry>gson</entry>
         <entry encoding="base64">XDxqcHVzaGJ1bGxldDJcPg==</entry>
         <entry>push</entry>
@@ -1282,6 +1281,7 @@
         <entry encoding="base64">XDxuZXdzX3BpY2t1cFw+</entry>
         <entry encoding="base64">XDx0aGVtZVw+</entry>
         <entry>rsi</entry>
+        <entry>redi</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
