@@ -644,10 +644,10 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508476402348">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508479233829">
         <mark key="'" line="490" column="7" />
-        <mark key="[" line="507" column="22" />
-        <mark key="]" line="508" column="1" />
+        <mark key="[" line="512" column="9" />
+        <mark key="]" line="512" column="24" />
         <mark key="^" line="508" column="1" />
         <mark key="." line="508" column="1" />
       </file>
@@ -1224,7 +1224,7 @@
         <text encoding="base64">XDxzZWFyY2hXYWl0aW5nc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>list[1].rsi != null</text>
+        <text>Bookings.id DESC</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">T0ZGCg==</text>
