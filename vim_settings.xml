@@ -633,6 +633,13 @@
         <mark key="." line="13" column="59" />
         <mark key="^" line="13" column="59" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/webroot/js/user/common.js" timestamp="1508743051890">
+        <mark key="'" line="3" column="37" />
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="33" column="35" />
+        <mark key="^" line="33" column="35" />
+        <mark key="." line="33" column="35" />
+      </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/Status.java" timestamp="1507101495194">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="7" column="4" />
@@ -824,9 +831,6 @@
         <mark key="^" line="398" column="35" />
         <mark key="." line="398" column="35" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/maintenance.html" timestamp="1508460699357">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-model/src/main/java/com/newspicks/model/PickedNewsModel.java" timestamp="1504110243822">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -901,7 +905,7 @@
         <mark key="^" line="35" column="28" />
         <mark key="." line="35" column="28" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1508740933013">
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1508742401756">
         <mark key="'" line="432" column="16" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/tag/TagRepository.java" timestamp="1504090902665">
@@ -946,10 +950,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/dummy.sql" timestamp="1508475988943">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1508739983734">
+      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1508742802525">
         <mark key="'" line="132" column="14" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/proguard-rules.pro" timestamp="1507101475208">
@@ -958,7 +959,7 @@
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508741034214">
+      <file name="/Dummy.txt" timestamp="1508742658588">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
@@ -970,12 +971,12 @@
         <mark key="." line="60" column="19" />
         <mark key="^" line="60" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" timestamp="1508739949351">
-        <mark key="'" line="195" column="41" />
-        <mark key="[" line="195" column="22" />
-        <mark key="]" line="177" column="104" />
-        <mark key="^" line="177" column="104" />
-        <mark key="." line="177" column="104" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" timestamp="1508743307796">
+        <mark key="'" line="162" column="69" />
+        <mark key="[" line="195" column="57" />
+        <mark key="]" line="196" column="0" />
+        <mark key="^" line="196" column="0" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/ConditionCls.kt" timestamp="1502518132571">
         <mark key="[" line="11" column="51" />
@@ -1094,8 +1095,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="474" column="48" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="34" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
       <jump line="38" column="32" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
       <jump line="39" column="13" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
       <jump line="80" column="34" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/SummaryController.java" />
@@ -1194,6 +1193,8 @@
       <jump line="58" column="19" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="432" column="16" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="516" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="3" column="37" filename="$USER_HOME$/git/utel/app/webroot/js/user/common.js" />
+      <jump line="162" column="69" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1213,7 +1214,7 @@
         <text>Schedules.fortuneteller_id=35</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGllbnREZXZpY2VcPg==</text>
+        <text>atuh</text>
       </register>
       <register name="0" type="4">
         <text>SELECT *
@@ -1256,9 +1257,9 @@ ORDER BY Bookings.id DESC</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGllbnREZXZpY2VcPg==</last-search>
+      <last-search>atuh</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGllbnREZXZpY2VcPg==</last-pattern>
+      <last-pattern>atuh</last-pattern>
       <last-replace>52.69.112.33</last-replace>
       <last-substitute>localhost</last-substitute>
       <last-dir>1</last-dir>
@@ -1266,7 +1267,6 @@ ORDER BY Bookings.id DESC</text>
     </search>
     <history>
       <history-search>
-        <entry>0.4</entry>
         <entry>BOOKING_STATUS_ORDER_PENDING</entry>
         <entry encoding="base64">XDxdXD4=</entry>
         <entry>diffS</entry>
@@ -1286,6 +1286,7 @@ ORDER BY Bookings.id DESC</text>
         <entry>dial</entry>
         <entry encoding="base64">XDxhY3RpdmVDb25uZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxjbGllbnREZXZpY2VcPg==</entry>
+        <entry>atuh</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
@@ -1301,12 +1302,12 @@ ORDER BY Bookings.id DESC</text>
         <entry>4513</entry>
         <entry>4453</entry>
         <entry>%d</entry>
-        <entry>1</entry>
         <entry>204</entry>
         <entry>229</entry>
         <entry>%s/localhost/52.69.112.33</entry>
         <entry>27</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
