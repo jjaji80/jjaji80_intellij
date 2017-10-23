@@ -827,6 +827,7 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/webroot/.htaccess" timestamp="1508737173359" />
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/util/Date.kt" timestamp="1508040164741">
         <mark key="[" line="44" column="11" />
         <mark key="]" line="44" column="36" />
@@ -982,12 +983,12 @@
         <mark key="." line="60" column="19" />
         <mark key="^" line="60" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" timestamp="1508309496720">
-        <mark key="'" line="191" column="18" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="191" column="18" />
-        <mark key="^" line="191" column="18" />
-        <mark key="." line="191" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" timestamp="1508737290790">
+        <mark key="'" line="195" column="41" />
+        <mark key="[" line="198" column="7" />
+        <mark key="]" line="198" column="28" />
+        <mark key="^" line="198" column="28" />
+        <mark key="." line="198" column="28" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/ConditionCls.kt" timestamp="1502518132571">
         <mark key="[" line="11" column="51" />
@@ -1106,7 +1107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="23" filename="$USER_HOME$/git/utel/app/config/define.php" />
       <jump line="74" column="23" filename="$USER_HOME$/git/utel/app/config/define.php" />
       <jump line="75" column="23" filename="$USER_HOME$/git/utel/app/config/define.php" />
       <jump line="76" column="23" filename="$USER_HOME$/git/utel/app/config/define.php" />
@@ -1206,6 +1206,7 @@
       <jump line="138" column="29" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="288" column="35" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="424" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
+      <jump line="195" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1265,7 +1266,7 @@ LIMIT 1</text>
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByZXN1bHQ6IEJvb2xlYW4gPSBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -1318,9 +1319,9 @@ LIMIT 1</text>
         <entry>204</entry>
         <entry>229</entry>
         <entry>%s/localhost/52.69.112.33</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>27</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
