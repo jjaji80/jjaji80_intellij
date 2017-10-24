@@ -154,12 +154,12 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1508305227543">
-        <mark key="'" line="225" column="5" />
-        <mark key="[" line="320" column="101" />
-        <mark key="]" line="320" column="104" />
-        <mark key="^" line="321" column="105" />
-        <mark key="." line="321" column="105" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1508839148151">
+        <mark key="'" line="305" column="61" />
+        <mark key="[" line="287" column="8" />
+        <mark key="]" line="287" column="26" />
+        <mark key="^" line="287" column="27" />
+        <mark key="." line="287" column="27" />
       </file>
       <file name="$USER_HOME$/git/hms/app/views/daily_outstanding_customers/_search.html.erb" timestamp="1490863115491">
         <mark key="[" line="13" column="67" />
@@ -227,10 +227,10 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Locale/ja_JP/default.po" timestamp="1508308310280">
-        <mark key="'" line="2565" column="12" />
-        <mark key="[" line="2366" column="12" />
-        <mark key="]" line="2366" column="40" />
+      <file name="$USER_HOME$/git/utel/app/src/Locale/ja_JP/default.po" timestamp="1508835574107">
+        <mark key="'" line="398" column="0" />
+        <mark key="[" line="515" column="7" />
+        <mark key="]" line="515" column="15" />
         <mark key="^" line="2366" column="40" />
         <mark key="." line="2366" column="40" />
       </file>
@@ -269,6 +269,13 @@
         <mark key="]" line="8" column="22" />
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/utel/app/src/Template/Admin/Users/index.ctp" timestamp="1508837248447">
+        <mark key="'" line="31" column="38" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="25" />
+        <mark key="^" line="50" column="19" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/judge/impl/LastSaleJudge.kt" timestamp="1499249873955">
         <mark key="[" line="10" column="55" />
@@ -333,6 +340,9 @@
         <mark key="^" line="52" column="28" />
         <mark key="." line="52" column="28" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" timestamp="1508838128961">
+        <mark key="'" line="5" column="20" />
+      </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/sp/Mobile/dial.ctp" timestamp="1505577946182">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="98" />
@@ -387,12 +397,12 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" timestamp="1508795705364">
-        <mark key="'" line="102" column="16" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="64" />
-        <mark key="^" line="162" column="27" />
-        <mark key="." line="157" column="0" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" timestamp="1508834890871">
+        <mark key="'" line="116" column="16" />
+        <mark key="[" line="107" column="66" />
+        <mark key="]" line="109" column="18" />
+        <mark key="." line="109" column="18" />
+        <mark key="^" line="109" column="18" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/docker-compose.yml" timestamp="1496903187086">
         <mark key="[" line="26" column="32" />
@@ -412,12 +422,18 @@
         <mark key="^" line="55" column="23" />
         <mark key="." line="55" column="23" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Model/Table/UsersTable.php" timestamp="1508120099592">
-        <mark key="'" line="64" column="35" />
-        <mark key="[" line="650" column="28" />
-        <mark key="]" line="650" column="28" />
-        <mark key="^" line="648" column="33" />
-        <mark key="." line="650" column="28" />
+      <file name="$USER_HOME$/git/utel/app/src/Model/Table/UsersTable.php" timestamp="1508837019261">
+        <mark key="'" line="90" column="38" />
+        <mark key="[" line="124" column="21" />
+        <mark key="]" line="124" column="24" />
+        <mark key="." line="124" column="24" />
+        <mark key="^" line="124" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/utel/app/config/Migrations/20171024090753_AddNameEtcToSavedSearches.php" timestamp="1508839173292">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="39" />
+        <mark key="^" line="15" column="39" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/PasswordController.php" timestamp="1508830050339">
         <mark key="[" line="12" column="52" />
@@ -449,13 +465,13 @@
         <mark key="^" line="1" column="76" />
         <mark key="." line="1" column="76" />
       </file>
-      <file name="/dummy.sql" timestamp="1508754105979">
+      <file name="/dummy.sql" timestamp="1508839238194">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508827074799">
+      <file name="/Dummy.txt" timestamp="1508837444624">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
+        <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
@@ -507,12 +523,6 @@
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1508826734994">
-        <mark key="'" line="464" column="16" />
-        <mark key="[" line="367" column="0" />
-        <mark key="]" line="367" column="0" />
-        <mark key="." line="367" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/Order.kt" timestamp="1508826835765">
         <mark key="[" line="58" column="50" />
@@ -632,6 +642,7 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Controller/Admin/SavedSearchesController.php" timestamp="1508838456465" />
       <file name="$USER_HOME$/git/docs/pending/nursery_school/ja/make.sh" timestamp="1493198040769">
         <mark key="[" line="1" column="127" />
         <mark key="]" line="1" column="127" />
@@ -848,14 +859,14 @@
         <mark key="." line="1" column="55" />
         <mark key="^" line="1" column="55" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" timestamp="1508827068810">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" timestamp="1508834998091">
         <mark key="a" line="465" column="52" />
         <mark key="b" line="171" column="0" />
-        <mark key="'" line="530" column="14" />
-        <mark key="[" line="497" column="0" />
-        <mark key="]" line="497" column="0" />
-        <mark key="." line="497" column="0" />
-        <mark key="^" line="497" column="39" />
+        <mark key="'" line="416" column="0" />
+        <mark key="[" line="417" column="19" />
+        <mark key="]" line="417" column="30" />
+        <mark key="." line="417" column="30" />
+        <mark key="^" line="417" column="30" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48c8cc7c-d816-4eff-873b-84328b4afb35/console.sql" timestamp="1508372410058">
         <mark key="[" line="0" column="0" />
@@ -939,7 +950,7 @@
         <mark key="^" line="9" column="96" />
         <mark key="." line="9" column="96" />
       </file>
-      <file name="/fragment.kt" timestamp="1508550764906">
+      <file name="/fragment.kt" timestamp="1508834268698">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -993,6 +1004,13 @@
         <mark key="]" line="44" column="36" />
         <mark key="." line="44" column="36" />
         <mark key="^" line="44" column="36" />
+      </file>
+      <file name="$USER_HOME$/git/utel/app/webroot/js/admin/users.js" timestamp="1508838934086">
+        <mark key="'" line="110" column="25" />
+        <mark key="[" line="49" column="43" />
+        <mark key="]" line="49" column="43" />
+        <mark key="." line="49" column="43" />
+        <mark key="^" line="49" column="20" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1508316621259">
         <mark key="[" line="398" column="35" />
@@ -1116,6 +1134,9 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Model/Entity/SavedSearch.php" timestamp="1508838469082">
+        <mark key="'" line="38" column="61" />
+      </file>
       <file name="$USER_HOME$/git/hms/db/migrate/20170331082816_rename_customer_column_to_daily_outstanding_customer.rb" timestamp="1490949018480">
         <mark key="[" line="2" column="71" />
         <mark key="]" line="2" column="73" />
@@ -1148,32 +1169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="411" column="32" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="385" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="387" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="79" column="56" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
-      <jump line="88" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
-      <jump line="124" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
-      <jump line="85" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
-      <jump line="95" column="4" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/.htaccess" />
-      <jump line="282" column="31" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
-      <jump line="509" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="490" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="410" column="50" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="380" column="163" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="106" column="6" filename="$USER_HOME$/git/utel/app/config/define.php" />
-      <jump line="113" column="33" filename="$USER_HOME$/git/utel/app/config/define.php" />
-      <jump line="114" column="40" filename="$USER_HOME$/git/utel/app/config/define.php" />
-      <jump line="135" column="14" filename="$USER_HOME$/git/utel/app/config/define.php" />
-      <jump line="248" column="84" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
-      <jump line="149" column="71" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
-      <jump line="53" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" />
-      <jump line="449" column="21" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="135" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="177" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="239" column="28" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="276" column="28" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
       <jump line="188" column="41" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
       <jump line="264" column="53" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
       <jump line="301" column="53" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
@@ -1248,6 +1243,32 @@
       <jump line="858" column="49" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/UserService.java" />
       <jump line="81" column="6" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
       <jump line="565" column="33" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="416" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
+      <jump line="160" column="37" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" />
+      <jump line="276" column="87" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" />
+      <jump line="43" column="33" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" />
+      <jump line="2606" column="16" filename="$USER_HOME$/git/utel/app/src/Locale/ja_JP/default.po" />
+      <jump line="398" column="0" filename="$USER_HOME$/git/utel/app/src/Locale/ja_JP/default.po" />
+      <jump line="301" column="61" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+      <jump line="90" column="38" filename="$USER_HOME$/git/utel/app/src/Model/Table/UsersTable.php" />
+      <jump line="31" column="38" filename="$USER_HOME$/git/utel/app/src/Template/Admin/Users/index.ctp" />
+      <jump line="39" column="6" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" />
+      <jump line="121" column="27" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" />
+      <jump line="124" column="23" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" />
+      <jump line="126" column="26" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" />
+      <jump line="128" column="23" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" />
+      <jump line="130" column="20" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" />
+      <jump line="217" column="60" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" />
+      <jump line="222" column="62" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" />
+      <jump line="274" column="60" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" />
+      <jump line="280" column="62" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" />
+      <jump line="5" column="20" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" />
+      <jump line="38" column="14" filename="$USER_HOME$/git/utel/app/webroot/js/admin/users.js" />
+      <jump line="40" column="14" filename="$USER_HOME$/git/utel/app/webroot/js/admin/users.js" />
+      <jump line="110" column="25" filename="$USER_HOME$/git/utel/app/webroot/js/admin/users.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/utel/app/src/Model/Entity/SavedSearch.php" />
+      <jump line="38" column="61" filename="$USER_HOME$/git/utel/app/src/Model/Entity/SavedSearch.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1264,37 +1285,37 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3cyA=</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
-        <text>api</text>
+        <text>patchEntity</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkvLyBQT1NU5Y+W5b6XCgkJJHNyYyAJCT0gJHRoaXMtPnJlcXVlc3QtPmRhdGEoJ3NyYycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2xpbWl0JyA9PiAyNTUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2xpbWl0JyA9PiAxMSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxhc3RBbmFseXNpc1Jlc3VsdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJjaGFuZ2UgcG9zaXRpb246ICIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBpc0J1eTogQm9vbGVhbgogICAgICAgIGdldCgpIHsKICAgICAgICAgICAgcmV0dXJuIHRoaXMuYnV5U2VsbENscyA9PSBCdXlTZWxsQ2xzLuiytwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIDx0aD48Pz0gX18oJ0Zpc3QgTmFtZSBSdWJ5JykgPz48L3RoPgogICAgICAgICAgPHRkPjw/PSAkdGhpcy0+Rm9ybS0+aW5wdXQoJ2ZpcnN0X25hbWVfcnVieScpOyA/PjwvdGQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBjb25maXJtKCl7fQo=</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+PD89ICR0aGlzLT5Gb3JtLT5pbnB1dCgnbmFtZScpOyA/PjwvdGQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlUG9zaXRpb25Nb3JlR29vZChvcikK</text>
+        <text encoding="base64">ICAgICAgICA8dGg+PD89IF9fKCdVaWROYW1lTWVtbycpID8+PC90aD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoaXQuYnV5UykK</text>
+        <text encoding="base64">ICAgICAgICBpZihpc0J1eSYmIXRyYWRlU2VydmljZS5jYW5CdXkoKSkKICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYob3JkZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZihsaXMpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1304,9 +1325,9 @@
       </register>
     </registers>
     <search>
-      <last-search>api</last-search>
+      <last-search>patchEntity</last-search>
       <last-offset />
-      <last-pattern>api</last-pattern>
+      <last-pattern>patchEntity</last-pattern>
       <last-replace>52.69.112.33</last-replace>
       <last-substitute>localhost</last-substitute>
       <last-dir>1</last-dir>
@@ -1314,19 +1335,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rsi</entry>
-        <entry>vc_order_refer_list</entry>
-        <entry>durationCls</entry>
-        <entry>push</entry>
-        <entry>print</entry>
-        <entry encoding="base64">XDxCT09LSU5HX1NUQVRVU19QUkVQQVJBVElPTl9DT01QTEVURVw+</entry>
-        <entry encoding="base64">XDxnZXRCb29raW5nXD4=</entry>
-        <entry encoding="base64">XDxzZWFyY2hXYWl0aW5nc1w+</entry>
-        <entry encoding="base64">XDxjaGFuZ2VTdGF0dXNcPg==</entry>
-        <entry>connecting_url</entry>
-        <entry>dial</entry>
-        <entry encoding="base64">XDxhY3RpdmVDb25uZWN0aW9uXD4=</entry>
-        <entry encoding="base64">XDxjbGllbnREZXZpY2VcPg==</entry>
         <entry>atuh</entry>
         <entry>auth</entry>
         <entry encoding="base64">XDxhcGlfaG9zdFw+</entry>
@@ -1334,6 +1342,19 @@
         <entry encoding="base64">XDxmaW5kQnlNYWlsQWRkcmVzc1w+</entry>
         <entry encoding="base64">XDxFMDAwMzJcPg==</entry>
         <entry>api</entry>
+        <entry>orderI</entry>
+        <entry>名前</entry>
+        <entry>sex</entry>
+        <entry>ckae</entry>
+        <entry>cake</entry>
+        <entry>migrate</entry>
+        <entry>filter</entry>
+        <entry>name</entry>
+        <entry encoding="base64">XDx1c2VyX2lkXD4=</entry>
+        <entry>fist</entry>
+        <entry>saved</entry>
+        <entry encoding="base64">XDxhY2NlcHRfZW1haWxcPg==</entry>
+        <entry>patchEntity</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
