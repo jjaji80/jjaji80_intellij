@@ -921,6 +921,11 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/UserService.java" timestamp="1508828014442">
+        <mark key="'" line="360" column="35" />
+        <mark key="[" line="360" column="0" />
+        <mark key="]" line="360" column="66" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" timestamp="1508694017527">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="63" column="27" />
@@ -1143,10 +1148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="386" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="451" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="463" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="497" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="133" column="14" filename="$USER_HOME$/git/utel/app/config/define.php" />
       <jump line="273" column="34" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="418" column="49" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
@@ -1243,6 +1244,10 @@
       <jump line="309" column="30" filename="$USER_HOME$/git/manganews-web-master/app/Controller/LoginController.php" />
       <jump line="8" column="10" filename="$USER_HOME$/git/manganews-web-master/app/Controller/LoginController.php" />
       <jump line="100" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/LibraryController.php" />
+      <jump line="240" column="27" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/UserService.java" />
+      <jump line="641" column="28" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/UserService.java" />
+      <jump line="658" column="35" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/UserService.java" />
+      <jump line="360" column="35" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/UserService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1262,10 +1267,10 @@
         <text>isBuy</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcGlfaG9zdFw+</text>
+        <text encoding="base64">XDxmaW5kQnlNYWlsQWRkcmVzc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyAkbmFtZSAgICAgICAgPSAnTmV3cyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSB1c2VyUmVwb3NpdG9yeS5maW5kQnlNYWlsQWRkcmVzcyhtYWlsQWRkcmVzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJjaGFuZ2UgcG9zaXRpb246ICIpCg==</text>
@@ -1299,9 +1304,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcGlfaG9zdFw+</last-search>
+      <last-search encoding="base64">XDxmaW5kQnlNYWlsQWRkcmVzc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcGlfaG9zdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxmaW5kQnlNYWlsQWRkcmVzc1w+</last-pattern>
       <last-replace>52.69.112.33</last-replace>
       <last-substitute>localhost</last-substitute>
       <last-dir>1</last-dir>
@@ -1309,8 +1314,6 @@
     </search>
     <history>
       <history-search>
-        <entry>diffS</entry>
-        <entry encoding="base64">XDxkaWZmU2VsbFw+</entry>
         <entry>5</entry>
         <entry encoding="base64">XDxCT09LSU5HX1NUQVRVU19XQUlUX0ZPUl9GT1JUVU5FVEVMTEVSXD4=</entry>
         <entry>rsi</entry>
@@ -1329,6 +1332,8 @@
         <entry>atuh</entry>
         <entry>auth</entry>
         <entry encoding="base64">XDxhcGlfaG9zdFw+</entry>
+        <entry>mail</entry>
+        <entry encoding="base64">XDxmaW5kQnlNYWlsQWRkcmVzc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
