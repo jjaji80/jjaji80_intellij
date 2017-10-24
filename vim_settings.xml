@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/OrderBook.kt" timestamp="1501668200479">
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="62" />
+        <mark key="^" line="5" column="62" />
+        <mark key="." line="5" column="62" />
+      </file>
       <file name="$USER_HOME$/git/utel/Dockerfile" timestamp="1507623116484">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="19" column="0" />
@@ -16,23 +22,68 @@
         <mark key="^" line="12" column="68" />
         <mark key="." line="12" column="68" />
       </file>
+      <file name="$USER_HOME$/git/coinman/src/log4j2.xml" timestamp="1499871509627">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" timestamp="1508744094091">
+        <mark key="'" line="10" column="70" />
+      </file>
       <file name="/a.dummy" timestamp="1502094427596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/git/hms/db/migrate/20170330064824_create_daily_sales_employees.rb" timestamp="1490856924803">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/arbitrage/DataLoader.kt" timestamp="1505988065709">
-        <mark key="[" line="40" column="48" />
-        <mark key="]" line="41" column="19" />
-        <mark key="." line="41" column="19" />
-        <mark key="^" line="41" column="19" />
+        <mark key="[" line="38" column="48" />
+        <mark key="]" line="39" column="19" />
+        <mark key="." line="39" column="19" />
+        <mark key="^" line="39" column="19" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/Open.kt" timestamp="1501662818708">
         <mark key="[" line="5" column="119" />
         <mark key="]" line="5" column="119" />
         <mark key="^" line="5" column="126" />
         <mark key="." line="5" column="119" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/component/BitPointApiComponet.kt" timestamp="1502523721817">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="30" column="18" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1506043858883">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/hms/app/helpers/daily_reports_helper.rb" timestamp="1495428463624">
+        <mark key="[" line="67" column="46" />
+        <mark key="]" line="68" column="46" />
+        <mark key="^" line="68" column="46" />
+        <mark key="." line="68" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-staging/datasource.properties" timestamp="1508315706632">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="1" column="221" />
+        <mark key="." line="1" column="221" />
+      </file>
+      <file name="$USER_HOME$/git/coinman/src/coinman/judge/impl/AwoJudgeUtil.kt" timestamp="1499872606023">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="11" column="7" />
+        <mark key="^" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_menu.ctp" timestamp="1504156005880">
         <mark key="[" line="18" column="77" />
@@ -46,11 +97,36 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/bitPoint.properties" timestamp="1508823469991">
+        <mark key="'" line="3" column="32" />
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+        <mark key="^" line="11" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/utel/docker/xdebug.ini" timestamp="1507623084080">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="12" column="32" />
+        <mark key="^" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/.htaccess" timestamp="1508460936999">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Staging/const.php" timestamp="1504244069925">
         <mark key="[" line="3" column="47" />
         <mark key="]" line="3" column="47" />
         <mark key="." line="3" column="47" />
         <mark key="^" line="3" column="51" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/jquery.xdomainajax.js" timestamp="1503653921107">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="19" />
+        <mark key="^" line="18" column="19" />
+        <mark key="." line="18" column="19" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/info.php" timestamp="1504665286023">
         <mark key="[" line="0" column="0" />
@@ -58,16 +134,52 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/git/coinman/src/coinman/util/Date.kt" timestamp="1499953333165">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="14" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_picks_card.ctp" timestamp="1506679622588">
+        <mark key="[" line="26" column="132" />
+        <mark key="]" line="26" column="211" />
+        <mark key="^" line="20" column="68" />
+        <mark key="." line="20" column="68" />
+      </file>
       <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1508740189744">
         <mark key="'" line="136" column="17" />
         <mark key="[" line="412" column="18" />
         <mark key="]" line="412" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_login.ctp" timestamp="1507021466941">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/js/const.js" timestamp="1501522773395">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/git/docs/pending/nursery_school/ja/make.sh" timestamp="1493198040769">
+        <mark key="[" line="1" column="127" />
+        <mark key="]" line="1" column="127" />
+        <mark key="^" line="1" column="127" />
+        <mark key="." line="1" column="127" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/dto/TradeHistoryDto.kt" timestamp="1499956317883">
         <mark key="[" line="9" column="94" />
         <mark key="]" line="9" column="112" />
         <mark key="^" line="9" column="112" />
         <mark key="." line="9" column="112" />
+      </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/Apirequest.php" timestamp="1507885519986">
+        <mark key="[" line="156" column="46" />
+        <mark key="]" line="157" column="23" />
+        <mark key="^" line="157" column="23" />
+        <mark key="." line="157" column="23" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/BookingsController.php" timestamp="1508739941404">
         <mark key="'" line="45" column="20" />
@@ -88,6 +200,18 @@
         <mark key="." line="33" column="341" />
         <mark key="^" line="33" column="341" />
       </file>
+      <file name="$USER_HOME$/git/hms/db/migrate/20170809035346_add_column_wordpress_name_to_employee.rb" timestamp="1502250910830">
+        <mark key="[" line="2" column="63" />
+        <mark key="]" line="2" column="75" />
+        <mark key="." line="2" column="75" />
+        <mark key="^" line="2" column="75" />
+      </file>
+      <file name="$USER_HOME$/git/hms/app/models/concerns/common_module.rb" timestamp="1490679792222">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+      </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="12" />
@@ -99,6 +223,42 @@
         <mark key="]" line="5" column="11" />
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Testing/const.php" timestamp="1504244064666">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="3" column="47" />
+        <mark key="." line="3" column="47" />
+        <mark key="^" line="3" column="51" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/CoinData.kt" timestamp="1505965361730">
+        <mark key="[" line="13" column="67" />
+        <mark key="]" line="13" column="67" />
+        <mark key="^" line="13" column="67" />
+        <mark key="." line="13" column="67" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/Trade.kt" timestamp="1507491305699">
+        <mark key="[" line="2" column="80" />
+        <mark key="]" line="2" column="83" />
+        <mark key="^" line="2" column="83" />
+        <mark key="." line="2" column="83" />
+      </file>
+      <file name="$USER_HOME$/git/utel/app/src/Controller/BookController.php" timestamp="1508752355194">
+        <mark key="[" line="68" column="49" />
+        <mark key="]" line="69" column="33" />
+        <mark key="." line="69" column="33" />
+        <mark key="^" line="69" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/minergate/main.sh" timestamp="1506324432063">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="85" />
+        <mark key="^" line="11" column="12" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4cc2453-7d6d-449a-8067-5861135a1976/console.sql" timestamp="1491202685615">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="3" column="77" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/18678552-f07d-41f9-91f6-32c1a576e36c/console.sql" timestamp="1499423071533">
         <mark key="[" line="0" column="0" />
@@ -118,6 +278,18 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="7" column="22" />
       </file>
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/AsyncPreparedRequest.java" timestamp="1507097117818">
+        <mark key="[" line="60" column="36" />
+        <mark key="]" line="61" column="58" />
+        <mark key="." line="61" column="58" />
+        <mark key="^" line="61" column="58" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/ckeditor/config.js" timestamp="1503389663974">
+        <mark key="[" line="31" column="22" />
+        <mark key="]" line="31" column="28" />
+        <mark key="." line="31" column="28" />
+        <mark key="^" line="31" column="28" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1508318812377">
         <mark key="'" line="6103" column="4" />
         <mark key="[" line="4464" column="0" />
@@ -125,11 +297,24 @@
         <mark key="." line="4464" column="0" />
         <mark key="^" line="4464" column="29" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/newsload/NewsPageRepository.java" timestamp="1507002142947">
+        <mark key="[" line="24" column="83" />
+        <mark key="]" line="24" column="91" />
+        <mark key="." line="24" column="91" />
+        <mark key="^" line="24" column="91" />
+      </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/judge/BuyJudge.kt" timestamp="1499239865391">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="24" />
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/utel/app/src/Template/Admin/AnalysisResults/index.ctp" timestamp="1508144944172">
+        <mark key="'" line="32" column="5" />
+        <mark key="[" line="43" column="48" />
+        <mark key="]" line="43" column="70" />
+        <mark key="^" line="43" column="70" />
+        <mark key="." line="43" column="70" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeWebSocket.kt" timestamp="1508795731190">
         <mark key="[" line="48" column="0" />
@@ -163,11 +348,23 @@
         <mark key="^" line="321" column="105" />
         <mark key="." line="321" column="105" />
       </file>
+      <file name="$USER_HOME$/git/hms/db/migrate/20170330064846_create_daily_outstanding_customers.rb" timestamp="1496615481558">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="38" />
+        <mark key="." line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+      </file>
       <file name="$USER_HOME$/git/hms/app/views/daily_outstanding_customers/_search.html.erb" timestamp="1490863115491">
         <mark key="[" line="13" column="67" />
         <mark key="]" line="13" column="68" />
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="68" />
+      </file>
+      <file name="$USER_HOME$/git/hms/app/models/employee.rb" timestamp="1502251131842">
+        <mark key="[" line="526" column="16" />
+        <mark key="]" line="526" column="70" />
+        <mark key="." line="526" column="70" />
+        <mark key="^" line="526" column="70" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/aws.properties" timestamp="1508315745307">
         <mark key="[" line="1" column="0" />
@@ -175,13 +372,68 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/git/hms/spec/models/employee_shop_spec.rb" timestamp="1490756737220">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/hms/app/views/daily_sales_employees/_search.html.erb" timestamp="1490941952432">
+        <mark key="[" line="23" column="52" />
+        <mark key="]" line="23" column="56" />
+        <mark key="." line="23" column="56" />
+        <mark key="^" line="23" column="56" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/Blog/_preview.ctp" timestamp="1504101022715">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="88" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/utel/app/config/Migrations/20171013135417_AddPushedToBooks.php" timestamp="1507902938031">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+        <mark key="^" line="14" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/ExecutionStatus.kt" timestamp="1503473708600">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="10" column="58" />
+        <mark key="." line="10" column="54" />
+      </file>
       <file name="$USER_HOME$/git/hms/app/views/make_daily_data/index.html.erb" timestamp="1490921373239">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="4" />
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/NewListController.php" timestamp="1508753197582" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" timestamp="1507517119694">
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+        <mark key="^" line="25" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/Acl/Menu.yml" timestamp="1505615627600">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+      </file>
+      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1507494982599">
+        <mark key="'" line="254" column="50" />
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="49" />
+        <mark key="^" line="254" column="0" />
+        <mark key="." line="254" column="48" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" timestamp="1507082241576">
+        <mark key="[" line="9" column="95" />
+        <mark key="]" line="9" column="111" />
+        <mark key="^" line="9" column="111" />
+        <mark key="." line="9" column="111" />
+      </file>
       <file name="$USER_HOME$/git/utel/app/src/Model/Entity/User.php" timestamp="1508141710579">
         <mark key="[" line="197" column="0" />
         <mark key="]" line="197" column="0" />
@@ -200,11 +452,41 @@
         <mark key="^" line="27" column="33" />
         <mark key="." line="27" column="33" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Development/const.php" timestamp="1504244057875">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="3" column="47" />
+        <mark key="." line="3" column="47" />
+        <mark key="^" line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-tomcat/src/main/java/com/newspicks/tomcat/bootstrap/ContentsBootstrap.java" timestamp="1508223019639">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/PushService.kt" timestamp="1508162340686">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="27" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/RsiKeyMinutePrice.kt" timestamp="1508035583567">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="79" />
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
+      </file>
+      <file name="$USER_HOME$/git/utel/app/src/Template/sp/Mobile/dial.ctp" timestamp="1493176013951">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointProperties.kt" timestamp="1508553588836">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_footer.ctp" timestamp="1506912615166">
         <mark key="[" line="11" column="107" />
@@ -230,6 +512,12 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="11" />
       </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/views/elements/blog/modal_search.tpl" timestamp="1506386736356">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+      </file>
       <file name="$USER_HOME$/git/utel/app/src/Locale/ja_JP/default.po" timestamp="1508308310280">
         <mark key="'" line="2565" column="12" />
         <mark key="[" line="2366" column="12" />
@@ -237,11 +525,24 @@
         <mark key="^" line="2366" column="40" />
         <mark key="." line="2366" column="40" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dcda3a33-cfd6-4372-a78f-ca7e8acd9bb5/console.sql" timestamp="1508120407371">
+        <mark key="'" line="10" column="34" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/ApiController.php" timestamp="1506590600248">
         <mark key="[" line="22" column="40" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/Ro/News/List.php" timestamp="1508232462677">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="72" column="11" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/service/coincheck/Open.kt" timestamp="1500711062090">
         <mark key="[" line="5" column="0" />
@@ -255,11 +556,38 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Tag/list_news.ctp" timestamp="1504090239303">
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="1" column="55" />
+        <mark key="." line="1" column="55" />
+        <mark key="^" line="1" column="55" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" timestamp="1508824562135">
+        <mark key="a" line="465" column="52" />
+        <mark key="b" line="171" column="0" />
+        <mark key="'" line="530" column="14" />
+        <mark key="[" line="488" column="82" />
+        <mark key="]" line="488" column="82" />
+        <mark key="." line="488" column="82" />
+        <mark key="^" line="488" column="82" />
+      </file>
       <file name="$USER_HOME$/git/docs/pending/nursery_school/en/make.sh" timestamp="1493198062413">
         <mark key="[" line="1" column="53" />
         <mark key="]" line="1" column="54" />
         <mark key="." line="1" column="54" />
         <mark key="^" line="1" column="54" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48c8cc7c-d816-4eff-873b-84328b4afb35/console.sql" timestamp="1508372410058">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/StatusInteger.java" timestamp="1504919840084">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="3" column="25" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/dynamodb/RankedInByTag.java" timestamp="1504107683797">
         <mark key="[" line="37" column="19" />
@@ -273,17 +601,60 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="8" column="22" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Development/bootstrap.php" timestamp="1498278456208">
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="50" />
+        <mark key="^" line="29" column="50" />
+        <mark key="." line="29" column="50" />
+      </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/judge/impl/LastSaleJudge.kt" timestamp="1499249873955">
         <mark key="[" line="10" column="55" />
         <mark key="]" line="11" column="47" />
         <mark key="^" line="11" column="47" />
         <mark key="." line="11" column="47" />
       </file>
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/MyFcmListenerService.java" timestamp="1504918453017">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="19" column="104" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/dto/ResultDto.kt" timestamp="1501740546134">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="46" />
+        <mark key="." line="5" column="46" />
+        <mark key="^" line="5" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/TagService.java" timestamp="1504091294471">
+        <mark key="[" line="47" column="37" />
+        <mark key="]" line="47" column="55" />
+        <mark key="." line="47" column="55" />
+        <mark key="^" line="47" column="55" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/TagController.java" timestamp="1504091094717">
         <mark key="[" line="42" column="35" />
         <mark key="]" line="42" column="45" />
         <mark key="." line="42" column="45" />
         <mark key="^" line="42" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TagController.php" timestamp="1504153561518">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="59" />
+        <mark key="." line="13" column="59" />
+        <mark key="^" line="13" column="59" />
+      </file>
+      <file name="$USER_HOME$/git/utel/app/webroot/js/user/common.js" timestamp="1508743051890">
+        <mark key="'" line="3" column="37" />
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="33" column="35" />
+        <mark key="^" line="33" column="35" />
+        <mark key="." line="33" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/Status.java" timestamp="1507101495194">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="7" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508754966212">
         <mark key="'" line="553" column="30" />
@@ -336,11 +707,25 @@
         <mark key="^" line="52" column="28" />
         <mark key="." line="52" column="28" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" timestamp="1508694017527">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="63" column="27" />
+        <mark key="]" line="63" column="27" />
+        <mark key="^" line="63" column="59" />
+        <mark key="." line="63" column="27" />
+      </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/sp/Mobile/dial.ctp" timestamp="1505577946182">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="98" />
         <mark key="^" line="4" column="73" />
         <mark key="." line="4" column="70" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5f465f49-db82-4fde-81e3-3038a21ecefb/console.sql" timestamp="1508747971555">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-release/datasource.properties" timestamp="1498719617966">
         <mark key="[" line="1" column="203" />
@@ -353,6 +738,18 @@
         <mark key="]" line="0" column="54" />
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
+      </file>
+      <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrencyPair.java" timestamp="1499154251470">
+        <mark key="[" line="9" column="94" />
+        <mark key="]" line="9" column="96" />
+        <mark key="^" line="9" column="96" />
+        <mark key="." line="9" column="96" />
+      </file>
+      <file name="/fragment.kt" timestamp="1508550764906">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/tags/index.php" timestamp="1506500959703">
         <mark key="[" line="131" column="0" />
@@ -371,563 +768,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Config/text.php" timestamp="1499413550612">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="257" column="7" />
-        <mark key="." line="90" column="42" />
-        <mark key="^" line="90" column="42" />
-      </file>
-      <file name="$USER_HOME$/git/hti_mobile/tiapp.xml" timestamp="1506136607802">
-        <mark key="[" line="120" column="25" />
-        <mark key="]" line="120" column="25" />
-        <mark key="^" line="120" column="24" />
-        <mark key="." line="120" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/coinman/src/coinman/service/poloniex/CheckUtil.kt" timestamp="1499518037321">
-        <mark key="[" line="13" column="46" />
-        <mark key="]" line="14" column="43" />
-        <mark key="." line="14" column="43" />
-        <mark key="^" line="14" column="43" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" timestamp="1508795705364">
-        <mark key="'" line="102" column="16" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="64" />
-        <mark key="^" line="162" column="27" />
-        <mark key="." line="157" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/AppController.php" timestamp="1508752825673" />
-      <file name="$USER_HOME$/git/manganews-web-master/docker-compose.yml" timestamp="1496903187086">
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="26" column="35" />
-        <mark key="^" line="26" column="35" />
-        <mark key="." line="26" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/css/style.css" timestamp="1501728258120">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="4" column="14" />
-        <mark key="." line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/system/VersionChecker.java" timestamp="1506662996729">
-        <mark key="[" line="55" column="24" />
-        <mark key="]" line="55" column="23" />
-        <mark key="^" line="55" column="23" />
-        <mark key="." line="55" column="23" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/src/Model/Table/UsersTable.php" timestamp="1508120099592">
-        <mark key="'" line="64" column="35" />
-        <mark key="[" line="650" column="28" />
-        <mark key="]" line="650" column="28" />
-        <mark key="^" line="648" column="33" />
-        <mark key="." line="650" column="28" />
-      </file>
-      <file name="$USER_HOME$/git/hms/app/models/search/daily_sales_employee_search_form.rb" timestamp="1490942621747">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="25" />
-        <mark key="." line="7" column="25" />
-        <mark key="^" line="7" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/RsiValue.kt" timestamp="1507960383804">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="50" />
-        <mark key="^" line="2" column="50" />
-        <mark key="." line="2" column="50" />
-      </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/MediaPlayerUtil.java" timestamp="1496370524221">
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="18" column="24" />
-        <mark key="." line="18" column="24" />
-        <mark key="^" line="18" column="24" />
-      </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/AsyncJsonLoader.java" timestamp="1504687024423">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="76" />
-        <mark key="^" line="1" column="76" />
-        <mark key="." line="1" column="76" />
-      </file>
-      <file name="/dummy.sql" timestamp="1508754105979">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1508753222315">
-        <mark key="'" line="132" column="14" />
-        <mark key="[" line="133" column="14" />
-        <mark key="]" line="133" column="36" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1508821610348">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
-        <mark key="[" line="60" column="20" />
-        <mark key="]" line="60" column="32" />
-        <mark key="." line="60" column="19" />
-        <mark key="^" line="60" column="19" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" timestamp="1508753694531">
-        <mark key="'" line="162" column="69" />
-        <mark key="[" line="195" column="57" />
-        <mark key="]" line="196" column="36" />
-        <mark key="^" line="196" column="36" />
-        <mark key="." line="196" column="36" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BuySellCls.kt" timestamp="1502518122482">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="11" column="4" />
-        <mark key="^" line="9" column="46" />
-        <mark key="." line="9" column="49" />
-      </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/db/20170822_db_web_modify_blog_title.sql" timestamp="1503389527391">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="63" />
-        <mark key="^" line="0" column="64" />
-        <mark key="." line="0" column="64" />
-      </file>
-      <file name="$USER_HOME$/git/hms/app/models/customer.rb" timestamp="1490745704704">
-        <mark key="[" line="16" column="45" />
-        <mark key="]" line="16" column="46" />
-        <mark key="." line="16" column="46" />
-        <mark key="^" line="21" column="33" />
-      </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/config.yml" timestamp="1508233101994">
-        <mark key="'" line="9" column="31" />
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-        <mark key="^" line="5" column="31" />
-      </file>
-      <file name="$USER_HOME$/git/docs/.gitignore" timestamp="1489570869370">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1644b90c-f489-4bbc-808b-2190296f157a/console.sql" timestamp="1508316880707">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="33" />
-        <mark key="^" line="0" column="33" />
-        <mark key="." line="0" column="33" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1508809624707">
-        <mark key="'" line="464" column="16" />
-        <mark key="[" line="367" column="0" />
-        <mark key="]" line="367" column="0" />
-        <mark key="." line="367" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/config.yml" timestamp="1506668397430">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="32" />
-        <mark key="." line="5" column="32" />
-        <mark key="^" line="5" column="32" />
-      </file>
-      <file name="/fragment.java" timestamp="1508316600442">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/OrderBook.kt" timestamp="1501668200479">
-        <mark key="[" line="5" column="52" />
-        <mark key="]" line="5" column="62" />
-        <mark key="^" line="5" column="62" />
-        <mark key="." line="5" column="62" />
-      </file>
-      <file name="$USER_HOME$/git/coinman/src/log4j2.xml" timestamp="1499871509627">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="27" />
-        <mark key="^" line="1" column="27" />
-        <mark key="." line="1" column="27" />
-      </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" timestamp="1508744094091">
-        <mark key="'" line="10" column="70" />
-      </file>
-      <file name="$USER_HOME$/git/hms/db/migrate/20170330064824_create_daily_sales_employees.rb" timestamp="1490856924803">
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="35" />
-        <mark key="^" line="6" column="35" />
-        <mark key="." line="6" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/component/BitPointApiComponet.kt" timestamp="1502523721817">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="30" column="18" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1506043858883">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-      </file>
-      <file name="$USER_HOME$/git/hms/app/helpers/daily_reports_helper.rb" timestamp="1495428463624">
-        <mark key="[" line="67" column="46" />
-        <mark key="]" line="68" column="46" />
-        <mark key="^" line="68" column="46" />
-        <mark key="." line="68" column="46" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-staging/datasource.properties" timestamp="1508315706632">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="21" />
-        <mark key="^" line="1" column="221" />
-        <mark key="." line="1" column="221" />
-      </file>
-      <file name="$USER_HOME$/git/coinman/src/coinman/judge/impl/AwoJudgeUtil.kt" timestamp="1499872606023">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="34" />
-        <mark key="." line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/bitPoint.properties" timestamp="1508796266181">
-        <mark key="'" line="3" column="32" />
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="11" column="30" />
-        <mark key="^" line="11" column="30" />
-      </file>
-      <file name="$USER_HOME$/git/utel/docker/xdebug.ini" timestamp="1507623084080">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="12" column="32" />
-        <mark key="^" line="12" column="32" />
-        <mark key="." line="12" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/.htaccess" timestamp="1508460936999">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/jquery.xdomainajax.js" timestamp="1503653921107">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="18" column="19" />
-        <mark key="^" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/coinman/src/coinman/util/Date.kt" timestamp="1499953333165">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="39" column="14" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_picks_card.ctp" timestamp="1506679622588">
-        <mark key="[" line="26" column="132" />
-        <mark key="]" line="26" column="211" />
-        <mark key="^" line="20" column="68" />
-        <mark key="." line="20" column="68" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_login.ctp" timestamp="1507021466941">
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="4" column="34" />
-        <mark key="^" line="4" column="34" />
-        <mark key="." line="4" column="34" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/js/const.js" timestamp="1501522773395">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="3" column="30" />
-        <mark key="^" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/git/docs/pending/nursery_school/ja/make.sh" timestamp="1493198040769">
-        <mark key="[" line="1" column="127" />
-        <mark key="]" line="1" column="127" />
-        <mark key="^" line="1" column="127" />
-        <mark key="." line="1" column="127" />
-      </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/Apirequest.php" timestamp="1507885519986">
-        <mark key="[" line="156" column="46" />
-        <mark key="]" line="157" column="23" />
-        <mark key="^" line="157" column="23" />
-        <mark key="." line="157" column="23" />
-      </file>
-      <file name="$USER_HOME$/git/hms/db/migrate/20170809035346_add_column_wordpress_name_to_employee.rb" timestamp="1502250910830">
-        <mark key="[" line="2" column="63" />
-        <mark key="]" line="2" column="75" />
-        <mark key="." line="2" column="75" />
-        <mark key="^" line="2" column="75" />
-      </file>
-      <file name="$USER_HOME$/git/hms/app/models/concerns/common_module.rb" timestamp="1490679792222">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Testing/const.php" timestamp="1504244064666">
-        <mark key="[" line="3" column="47" />
-        <mark key="]" line="3" column="47" />
-        <mark key="." line="3" column="47" />
-        <mark key="^" line="3" column="51" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/CoinData.kt" timestamp="1505965361730">
-        <mark key="[" line="13" column="67" />
-        <mark key="]" line="13" column="67" />
-        <mark key="^" line="13" column="67" />
-        <mark key="." line="13" column="67" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/Trade.kt" timestamp="1507491305699">
-        <mark key="[" line="2" column="80" />
-        <mark key="]" line="2" column="83" />
-        <mark key="^" line="2" column="83" />
-        <mark key="." line="2" column="83" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/BookController.php" timestamp="1508752355194">
-        <mark key="[" line="68" column="49" />
-        <mark key="]" line="69" column="33" />
-        <mark key="." line="69" column="33" />
-        <mark key="^" line="69" column="33" />
-      </file>
-      <file name="$USER_HOME$/git/minergate/main.sh" timestamp="1506324432063">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="11" column="85" />
-        <mark key="^" line="11" column="12" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4cc2453-7d6d-449a-8067-5861135a1976/console.sql" timestamp="1491202685615">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="3" column="77" />
-      </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/AsyncPreparedRequest.java" timestamp="1507097117818">
-        <mark key="[" line="60" column="36" />
-        <mark key="]" line="61" column="58" />
-        <mark key="." line="61" column="58" />
-        <mark key="^" line="61" column="58" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/ckeditor/config.js" timestamp="1503389663974">
-        <mark key="[" line="31" column="22" />
-        <mark key="]" line="31" column="28" />
-        <mark key="." line="31" column="28" />
-        <mark key="^" line="31" column="28" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/newsload/NewsPageRepository.java" timestamp="1507002142947">
-        <mark key="[" line="24" column="83" />
-        <mark key="]" line="24" column="91" />
-        <mark key="." line="24" column="91" />
-        <mark key="^" line="24" column="91" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/src/Template/Admin/AnalysisResults/index.ctp" timestamp="1508144944172">
-        <mark key="'" line="32" column="5" />
-        <mark key="[" line="43" column="48" />
-        <mark key="]" line="43" column="70" />
-        <mark key="^" line="43" column="70" />
-        <mark key="." line="43" column="70" />
-      </file>
-      <file name="$USER_HOME$/git/hms/db/migrate/20170330064846_create_daily_outstanding_customers.rb" timestamp="1496615481558">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="38" />
-        <mark key="." line="6" column="43" />
-        <mark key="^" line="6" column="43" />
-      </file>
-      <file name="$USER_HOME$/git/hms/app/models/employee.rb" timestamp="1502251131842">
-        <mark key="[" line="526" column="16" />
-        <mark key="]" line="526" column="70" />
-        <mark key="." line="526" column="70" />
-        <mark key="^" line="526" column="70" />
-      </file>
-      <file name="$USER_HOME$/git/hms/spec/models/employee_shop_spec.rb" timestamp="1490756737220">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="7" />
-        <mark key="^" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-      </file>
-      <file name="$USER_HOME$/git/hms/app/views/daily_sales_employees/_search.html.erb" timestamp="1490941952432">
-        <mark key="[" line="23" column="52" />
-        <mark key="]" line="23" column="56" />
-        <mark key="." line="23" column="56" />
-        <mark key="^" line="23" column="56" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/Blog/_preview.ctp" timestamp="1504101022715">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="88" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/config/Migrations/20171013135417_AddPushedToBooks.php" timestamp="1507902938031">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="37" />
-        <mark key="." line="14" column="37" />
-        <mark key="^" line="14" column="37" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/ExecutionStatus.kt" timestamp="1503473708600">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="12" column="4" />
-        <mark key="^" line="10" column="58" />
-        <mark key="." line="10" column="54" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" timestamp="1507517119694">
-        <mark key="[" line="25" column="29" />
-        <mark key="]" line="25" column="29" />
-        <mark key="." line="25" column="29" />
-        <mark key="^" line="25" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/tests/TestCase/Controller/MobileTraitTest.php" timestamp="1508734118507" />
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/Acl/Menu.yml" timestamp="1505615627600">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="25" />
-        <mark key="." line="11" column="25" />
-        <mark key="^" line="11" column="25" />
-      </file>
-      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1507494982599">
-        <mark key="'" line="254" column="50" />
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="49" />
-        <mark key="^" line="254" column="0" />
-        <mark key="." line="254" column="48" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" timestamp="1507082241576">
-        <mark key="[" line="9" column="95" />
-        <mark key="]" line="9" column="111" />
-        <mark key="^" line="9" column="111" />
-        <mark key="." line="9" column="111" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Development/const.php" timestamp="1504244057875">
-        <mark key="[" line="3" column="47" />
-        <mark key="]" line="3" column="47" />
-        <mark key="." line="3" column="47" />
-        <mark key="^" line="3" column="34" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-tomcat/src/main/java/com/newspicks/tomcat/bootstrap/ContentsBootstrap.java" timestamp="1508223019639">
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="26" />
-        <mark key="." line="5" column="26" />
-        <mark key="^" line="5" column="46" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/PushService.kt" timestamp="1508162340686">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="18" column="27" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/src/Template/sp/Mobile/dial.ctp" timestamp="1493176013951">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointProperties.kt" timestamp="1508553588836">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="19" column="29" />
-        <mark key="." line="19" column="29" />
-        <mark key="^" line="19" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/tests/TestCase/Controller/Base.php" timestamp="1508734130614" />
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/views/elements/blog/modal_search.tpl" timestamp="1506386736356">
-        <mark key="[" line="15" column="43" />
-        <mark key="]" line="15" column="44" />
-        <mark key="^" line="15" column="44" />
-        <mark key="." line="15" column="44" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dcda3a33-cfd6-4372-a78f-ca7e8acd9bb5/console.sql" timestamp="1508120407371">
-        <mark key="'" line="10" column="34" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="8" column="30" />
-        <mark key="^" line="8" column="30" />
-        <mark key="." line="8" column="30" />
-      </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/Ro/News/List.php" timestamp="1508232462677">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="72" column="11" />
-        <mark key="." line="71" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Tag/list_news.ctp" timestamp="1504090239303">
-        <mark key="[" line="1" column="45" />
-        <mark key="]" line="1" column="55" />
-        <mark key="." line="1" column="55" />
-        <mark key="^" line="1" column="55" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" timestamp="1508815774348">
-        <mark key="a" line="465" column="52" />
-        <mark key="b" line="171" column="0" />
-        <mark key="'" line="530" column="14" />
-        <mark key="[" line="476" column="92" />
-        <mark key="]" line="476" column="92" />
-        <mark key="." line="476" column="92" />
-        <mark key="^" line="92" column="83" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48c8cc7c-d816-4eff-873b-84328b4afb35/console.sql" timestamp="1508372410058">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="37" />
-        <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="37" />
-      </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/StatusInteger.java" timestamp="1504919840084">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="3" column="25" />
-        <mark key="^" line="3" column="25" />
-        <mark key="." line="3" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Development/bootstrap.php" timestamp="1498278456208">
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="50" />
-        <mark key="^" line="29" column="50" />
-        <mark key="." line="29" column="50" />
-      </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/MyFcmListenerService.java" timestamp="1504918453017">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="19" column="104" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/dto/ResultDto.kt" timestamp="1501740546134">
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="46" />
-        <mark key="." line="5" column="46" />
-        <mark key="^" line="5" column="46" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/TagService.java" timestamp="1504091294471">
-        <mark key="[" line="47" column="37" />
-        <mark key="]" line="47" column="55" />
-        <mark key="." line="47" column="55" />
-        <mark key="^" line="47" column="55" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TagController.php" timestamp="1504153561518">
-        <mark key="[" line="13" column="43" />
-        <mark key="]" line="13" column="59" />
-        <mark key="." line="13" column="59" />
-        <mark key="^" line="13" column="59" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/webroot/js/user/common.js" timestamp="1508743051890">
-        <mark key="'" line="3" column="37" />
-        <mark key="[" line="32" column="29" />
-        <mark key="]" line="33" column="35" />
-        <mark key="^" line="33" column="35" />
-        <mark key="." line="33" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/Status.java" timestamp="1507101495194">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="7" column="4" />
-        <mark key="." line="7" column="4" />
-        <mark key="^" line="7" column="4" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" timestamp="1508694017527">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="63" column="27" />
-        <mark key="]" line="63" column="27" />
-        <mark key="^" line="63" column="59" />
-        <mark key="." line="63" column="27" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5f465f49-db82-4fde-81e3-3038a21ecefb/console.sql" timestamp="1508747971555">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
-        <mark key="^" line="16" column="14" />
-      </file>
-      <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrencyPair.java" timestamp="1499154251470">
-        <mark key="[" line="9" column="94" />
-        <mark key="]" line="9" column="96" />
-        <mark key="^" line="9" column="96" />
-        <mark key="." line="9" column="96" />
-      </file>
-      <file name="/fragment.kt" timestamp="1508550764906">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Locale/default.pot" timestamp="1508229791284">
         <mark key="[" line="81" column="7" />
@@ -959,13 +799,37 @@
         <mark key="^" line="434" column="58" />
         <mark key="." line="434" column="56" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Config/text.php" timestamp="1499413550612">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="257" column="7" />
+        <mark key="." line="90" column="42" />
+        <mark key="^" line="90" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/hti_mobile/tiapp.xml" timestamp="1506136607802">
+        <mark key="[" line="120" column="25" />
+        <mark key="]" line="120" column="25" />
+        <mark key="^" line="120" column="24" />
+        <mark key="." line="120" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/coinman/src/coinman/service/poloniex/CheckUtil.kt" timestamp="1499518037321">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="14" column="43" />
+        <mark key="." line="14" column="43" />
+        <mark key="^" line="14" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" timestamp="1508795705364">
+        <mark key="'" line="102" column="16" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="64" />
+        <mark key="^" line="162" column="27" />
+        <mark key="." line="157" column="0" />
+      </file>
       <file name="$USER_HOME$/git/hms/app/models/search/daily_outstanding_customer_search_form.rb" timestamp="1491191511119">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/webroot/.htaccess" timestamp="1508737173359" />
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/util/Date.kt" timestamp="1508040164741">
         <mark key="[" line="44" column="11" />
         <mark key="]" line="44" column="36" />
@@ -999,6 +863,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="22" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/docker-compose.yml" timestamp="1496903187086">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="26" column="35" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="26" column="35" />
+      </file>
       <file name="$USER_HOME$/git/utel/app/tests/TestCase/Model/Table/AnalysisResultsTableTest.php" timestamp="1508144158326">
         <mark key="'" line="157" column="36" />
         <mark key="[" line="201" column="26" />
@@ -1006,11 +876,36 @@
         <mark key="." line="201" column="26" />
         <mark key="^" line="201" column="26" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/css/style.css" timestamp="1501728258120">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/system/VersionChecker.java" timestamp="1506662996729">
+        <mark key="[" line="55" column="24" />
+        <mark key="]" line="55" column="23" />
+        <mark key="^" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+      </file>
+      <file name="$USER_HOME$/git/utel/app/src/Model/Table/UsersTable.php" timestamp="1508120099592">
+        <mark key="'" line="64" column="35" />
+        <mark key="[" line="650" column="28" />
+        <mark key="]" line="650" column="28" />
+        <mark key="^" line="648" column="33" />
+        <mark key="." line="650" column="28" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/arbitrage/MarketDataServiceMinMax.kt" timestamp="1505978097635">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="11" column="55" />
         <mark key="^" line="11" column="55" />
         <mark key="." line="11" column="55" />
+      </file>
+      <file name="$USER_HOME$/git/hms/app/models/search/daily_sales_employee_search_form.rb" timestamp="1490942621747">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="25" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/service/PushService.kt" timestamp="1500969501762">
         <mark key="[" line="16" column="24" />
@@ -1039,11 +934,29 @@
         <mark key="^" line="31" column="96" />
         <mark key="." line="31" column="96" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/RsiValue.kt" timestamp="1507960383804">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="50" />
+        <mark key="^" line="2" column="50" />
+        <mark key="." line="2" column="50" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/composer.json" timestamp="1508461703569">
         <mark key="[" line="24" column="26" />
         <mark key="]" line="24" column="8" />
         <mark key="^" line="24" column="8" />
         <mark key="." line="24" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/MediaPlayerUtil.java" timestamp="1496370524221">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/AsyncJsonLoader.java" timestamp="1504687024423">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="76" />
+        <mark key="^" line="1" column="76" />
+        <mark key="." line="1" column="76" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/KtLog.kt" timestamp="1499747787110">
         <mark key="[" line="6" column="0" />
@@ -1057,17 +970,56 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="/dummy.sql" timestamp="1508754105979">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1508753222315">
+        <mark key="'" line="132" column="14" />
+        <mark key="[" line="133" column="14" />
+        <mark key="]" line="133" column="36" />
+      </file>
       <file name="$USER_HOME$/git/utelAndroid/app/proguard-rules.pro" timestamp="1507101475208">
         <mark key="[" line="17" column="34" />
         <mark key="]" line="17" column="34" />
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="34" />
       </file>
+      <file name="/Dummy.txt" timestamp="1508823612872">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
+        <mark key="[" line="60" column="20" />
+        <mark key="]" line="60" column="32" />
+        <mark key="." line="60" column="19" />
+        <mark key="^" line="60" column="19" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" timestamp="1508753694531">
+        <mark key="'" line="162" column="69" />
+        <mark key="[" line="195" column="57" />
+        <mark key="]" line="196" column="36" />
+        <mark key="^" line="196" column="36" />
+        <mark key="." line="196" column="36" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/ConditionCls.kt" timestamp="1502518132571">
         <mark key="[" line="11" column="51" />
         <mark key="]" line="11" column="63" />
         <mark key="^" line="11" column="48" />
         <mark key="." line="11" column="51" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BuySellCls.kt" timestamp="1502518122482">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="9" column="46" />
+        <mark key="." line="9" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/db/20170822_db_web_modify_blog_title.sql" timestamp="1503389527391">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="63" />
+        <mark key="^" line="0" column="64" />
+        <mark key="." line="0" column="64" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrencyPair.kt" timestamp="1499154010367">
         <mark key="[" line="8" column="94" />
@@ -1081,6 +1033,12 @@
         <mark key="^" line="14" column="46" />
         <mark key="." line="14" column="46" />
       </file>
+      <file name="$USER_HOME$/git/hms/app/models/customer.rb" timestamp="1490745704704">
+        <mark key="[" line="16" column="45" />
+        <mark key="]" line="16" column="46" />
+        <mark key="." line="16" column="46" />
+        <mark key="^" line="21" column="33" />
+      </file>
       <file name="$USER_HOME$/git/hms/app/models/daily_sales_employee.rb" timestamp="1491203692175">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="32" />
@@ -1093,11 +1051,30 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/config.yml" timestamp="1508233101994">
+        <mark key="'" line="9" column="31" />
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+      </file>
       <file name="$USER_HOME$/git/hms/db/migrate/20170331082816_rename_customer_column_to_daily_outstanding_customer.rb" timestamp="1490949018480">
         <mark key="[" line="2" column="71" />
         <mark key="]" line="2" column="73" />
         <mark key="^" line="2" column="73" />
         <mark key="." line="2" column="73" />
+      </file>
+      <file name="$USER_HOME$/git/docs/.gitignore" timestamp="1489570869370">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1644b90c-f489-4bbc-808b-2190296f157a/console.sql" timestamp="1508316880707">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/git/airbnbClient/pom.xml" timestamp="1501025859120">
         <mark key="[" line="17" column="8" />
@@ -1116,6 +1093,30 @@
         <mark key="]" line="5767" column="0" />
         <mark key="^" line="5767" column="0" />
         <mark key="." line="5767" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1508809624707">
+        <mark key="'" line="464" column="16" />
+        <mark key="[" line="367" column="0" />
+        <mark key="]" line="367" column="0" />
+        <mark key="." line="367" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/Order.kt" timestamp="1508824329618">
+        <mark key="[" line="55" column="9" />
+        <mark key="]" line="58" column="45" />
+        <mark key="^" line="58" column="45" />
+        <mark key="." line="58" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/config.yml" timestamp="1506668397430">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+      </file>
+      <file name="/fragment.java" timestamp="1508316600442">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="14" />
       </file>
       <file name="$USER_HOME$/git/p1-doc/議事録/20170323.md" timestamp="1490340746149">
         <mark key="[" line="77" column="2" />
@@ -1241,7 +1242,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Mjg5ODMg</text>
+        <text>(if(order.isBuy) 100 else -100)</text>
       </register>
       <register name="/" type="4">
         <text>auth</text>
@@ -1250,31 +1251,31 @@
         <text encoding="base64">ICAgICAgICB0cmFkZVNlcnZpY2Uuc3RhcnQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlUG9zaXRpb25Nb3JlR29vZChvcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCB0cmFkZVdlYlNvY2tldCA9IFRyYWRlV2ViU29ja2V0KHRyYWRlU2VydmljZSA9IHRoaXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoaXQuYnV5UykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZ1biByZXN0YXJ0KCl7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYob3JkZXIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFkZVdlYlNvY2tldC5ydW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdHJhZGVXZWJTb2NrZXQgPSBUcmFkZVdlYlNvY2tldCh0cmFkZVNlcnZpY2UgPSB0aGlzKQo=</text>
+        <text encoding="base64">YnV5IHNhbGXlkIzmmYLlo7LosrcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cmEK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYm9va2luZ3MgPSAkdGhpcy0+Qm9va2luZ3MtPmZpbmQoKQogICAgICAgICAgICAtPndoZXJlKFsnU2NoZWR1bGVzLmVuZF90aW1lIDw9JyA9PiAkdGhpcy0+QXBwLT5ub3coKV0pCiAgICAgICAgICAgIC0+Y29udGFpbihbJ1NjaGVkdWxlcyddKQo=</text>
+        <text encoding="base64">ICAgIHZhbCB0cmFkZVdlYlNvY2tldCA9IFRyYWRlV2ViU29ja2V0KHRyYWRlU2VydmljZSA9IHRoaXMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIC0K</text>
+        <text encoding="base64">ICAgIGZ1biByZXN0YXJ0KCl7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1287,7 +1288,7 @@
       <last-replace>52.69.112.33</last-replace>
       <last-substitute>localhost</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
