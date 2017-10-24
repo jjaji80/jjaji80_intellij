@@ -77,6 +77,13 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" timestamp="1508868170331">
+        <mark key="'" line="357" column="105" />
+        <mark key="[" line="357" column="190" />
+        <mark key="]" line="357" column="211" />
+        <mark key="." line="357" column="211" />
+        <mark key="^" line="357" column="211" />
+      </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Bookings/index.ctp" timestamp="1508201249749">
         <mark key="[" line="33" column="163" />
         <mark key="]" line="33" column="363" />
@@ -728,11 +735,6 @@
         <mark key="^" line="43" column="70" />
         <mark key="." line="43" column="70" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" timestamp="1508829964544">
-        <mark key="'" line="81" column="6" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="134" column="42" />
-      </file>
       <file name="$USER_HOME$/git/hms/db/migrate/20170330064846_create_daily_outstanding_customers.rb" timestamp="1496615481558">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="3" column="38" />
@@ -1169,8 +1171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="53" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="301" column="53" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
       <jump line="381" column="35" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/git/coinman_parent/bitPoint.properties" />
       <jump line="3" column="32" filename="$USER_HOME$/git/coinman_parent/bitPoint.properties" />
@@ -1269,6 +1269,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/utel/app/src/Model/Entity/SavedSearch.php" />
       <jump line="38" column="61" filename="$USER_HOME$/git/utel/app/src/Model/Entity/SavedSearch.php" />
       <jump line="53" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" />
+      <jump line="363" column="25" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
+      <jump line="357" column="105" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1285,49 +1287,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>param</text>
+        <text>getDouble</text>
       </register>
       <register name="/" type="4">
-        <text>patchEntity</text>
+        <text>first</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2xpbWl0JyA9PiAyNTUsCg==</text>
+        <text encoding="base64">ICAgICAgICBtYWtlT3JkZXIoaXNCdXkgPSB0cnVlLGFtb3VudCA9IHBhaXJPcmRlci5maXJzdC5nZXREb3VibGUoImFtb3VudCIpLHBvc3Rpb25JZCA9IHBhaXJPcmRlci5maXJzdC5nZXRTdHJpbmcoImlkIiksc3RvcExvc3NSYXRlID0gcGFpck9yZGVyLmZpcnN0LmdldERvdWJsZSgicmF0ZSIpKjAuOTkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKHBhKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoaXQuaWQ9PSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbW9kZWwK</text>
+        <text encoding="base64">ICAgICAgICBjbG9zZVBvc2l0aW9ucy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhdXNlcnNlCg==</text>
+        <text encoding="base64">ICAgICAgICBjbG9zZVBvc2l0aW9ucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLy/jg5Djg6rjg4fjg7zjgrfjg6fjg7Pjgqjjg6njg7zjgYzjgYLjgozjgbDjgIFpbmRleOeUu+mdouOBq+aIu+OBl+OAgeOCqOODqeODvOOCkuihqOekuuOBmeOCiwoJCQkJLy/jg5Djg6rjg4fjg7zjgrfjg6fjg7PjgYzjgqjjg6njg7zjgavjgarjgaPjgZ/jgonjgIFpbmRleOOBrmh0bWzjgpLoqq3jgb/ovrzjgoAKCQkJCS8v44Ko44Op44O844Oh44OD44K744O844K444KS44CBaW5kZXjjga52aWV344GuZXJyb3Jz44Gr44K744OD44OICg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">ICAgICAgICBwYWlyT3JkZXIuZmlyc3QuZ2V0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJaWYoIWVtcHR5KCRlcnJvcikpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUICogZnJvbSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>patchEntity</last-search>
+      <last-search>first</last-search>
       <last-offset />
-      <last-pattern>patchEntity</last-pattern>
+      <last-pattern>first</last-pattern>
       <last-replace>52.69.112.33</last-replace>
       <last-substitute>localhost</last-substitute>
       <last-dir>1</last-dir>
@@ -1335,8 +1337,6 @@
     </search>
     <history>
       <history-search>
-        <entry>atuh</entry>
-        <entry>auth</entry>
         <entry encoding="base64">XDxhcGlfaG9zdFw+</entry>
         <entry>mail</entry>
         <entry encoding="base64">XDxmaW5kQnlNYWlsQWRkcmVzc1w+</entry>
@@ -1355,6 +1355,8 @@
         <entry>saved</entry>
         <entry encoding="base64">XDxhY2NlcHRfZW1haWxcPg==</entry>
         <entry>patchEntity</entry>
+        <entry>rate</entry>
+        <entry>first</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
