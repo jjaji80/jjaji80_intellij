@@ -350,9 +350,6 @@
         <mark key="^" line="52" column="28" />
         <mark key="." line="52" column="28" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" timestamp="1508838128961">
-        <mark key="'" line="5" column="20" />
-      </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/sp/Mobile/dial.ctp" timestamp="1505577946182">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="98" />
@@ -475,7 +472,7 @@
         <mark key="^" line="1" column="76" />
         <mark key="." line="1" column="76" />
       </file>
-      <file name="/dummy.sql" timestamp="1508899856012">
+      <file name="/dummy.sql" timestamp="1508907902940">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1508753222315">
@@ -859,9 +856,6 @@
         <mark key="." line="19" column="29" />
         <mark key="^" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/LoginController.php" timestamp="1508825106033">
-        <mark key="'" line="8" column="10" />
-      </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/views/elements/blog/modal_search.tpl" timestamp="1506386736356">
         <mark key="[" line="15" column="43" />
         <mark key="]" line="15" column="44" />
@@ -949,19 +943,19 @@
         <mark key="^" line="860" column="37" />
         <mark key="." line="860" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" timestamp="1508840303649">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" timestamp="1508907923908">
         <mark key="'" line="53" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="63" column="55" />
         <mark key="^" line="65" column="13" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5f465f49-db82-4fde-81e3-3038a21ecefb/console.sql" timestamp="1508747971555">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
-        <mark key="^" line="16" column="14" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5f465f49-db82-4fde-81e3-3038a21ecefb/console.sql" timestamp="1508907946128">
+        <mark key="'" line="25" column="17" />
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrencyPair.java" timestamp="1499154251470">
         <mark key="[" line="9" column="94" />
@@ -1194,8 +1188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="5" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
-      <jump line="128" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
       <jump line="108" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
       <jump line="102" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
       <jump line="473" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
@@ -1294,6 +1286,8 @@
       <jump line="31" column="31" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="32" column="9" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="33" column="23" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="16" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5f465f49-db82-4fde-81e3-3038a21ecefb/console.sql" />
+      <jump line="25" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5f465f49-db82-4fde-81e3-3038a21ecefb/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1316,7 +1310,7 @@
         <text encoding="base64">XDxibG9nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyAkdXNlcyA9IGFycmF5KCdibG9nX29yaWdpbmFsX2ltYWdlJywgJ2Jsb2cnLCAnQW1hem9uJyk7Cg==</text>
+        <text encoding="base64">Y3JlYXRlIHRhYmxlIGNha2Vfc2Vzc2lvbnMyCigKICBpZCB2YXJjaGFyKDI1NSkgZGVmYXVsdCAnJyBub3QgbnVsbAogICAgcHJpbWFyeSBrZXksCiAgZGF0YSB0ZXh0IG5vdCBudWxsLAogIGV4cGlyZXMgaW50IG51bGwKKQo7CgoKSU5TRVJUIGludG8gY2FrZV9zZXNzaW9uczIgU0VMRUNUICogZnJvbSBjYWtlX3Nlc3Npb25zOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cHVibGljICR1c2VzID0gYXJyYXkoJ0Jsb2cnKTsK</text>
