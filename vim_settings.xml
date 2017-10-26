@@ -308,12 +308,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1508830107973">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1509013775290">
         <mark key="'" line="565" column="33" />
-        <mark key="[" line="569" column="26" />
-        <mark key="]" line="574" column="0" />
-        <mark key="." line="574" column="0" />
-        <mark key="^" line="574" column="0" />
+        <mark key="[" line="587" column="27" />
+        <mark key="]" line="587" column="46" />
+        <mark key="." line="587" column="46" />
+        <mark key="^" line="587" column="46" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrency.java" timestamp="1499154225156">
         <mark key="[" line="9" column="62" />
@@ -492,7 +492,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/component/CoinCheckApiComponent.kt" timestamp="1508943993014" />
-      <file name="/Dummy.txt" timestamp="1509010653471">
+      <file name="/Dummy.txt" timestamp="1509013484415">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="7" />
         <mark key="^" line="1" column="7" />
@@ -1347,7 +1347,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>S.fortuneteller_id=11</text>
       </register>
       <register name="/" type="4">
         <text>JsonObj</text>
@@ -1356,31 +1356,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29pbmNoZWNrQXBpLm1ha2VPcmRlcihpc0J1eSA9IGl0LnNpZGUgPT0gImJ1eSIsIGFtb3VudCA9IGl0LmFtb3VudCwgcG9zdGlvbklkID0gaXQuaWQsIGlzQ2xvc2UgPSB0cnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvaW5jaGVja0FwaS4K</text>
+        <text encoding="base64">ICBMRUZUIEpPSU4gY2FsbF9sb2dzIGFzIEMgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvblN0cmluZz1lLmdldENvbnRlbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvaW5jaGVja0FwaS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvblN0cmluZyA9IGUuY29uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvblN0cmluZz1lLmdldENvbnRlbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGl0LnN0YXR1cyA9PSAicGVuZGluZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvblN0cmluZyA9IGUuY29uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKGpzb25TdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGl0LnN0YXR1cyA9PSAicGVuZGluZyIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKGpzb25TdHJpbmcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8aDIgY2xhc3M9ImN0dGl0bGUgY3QxMSI+44Kq44Oq44K444OK44Or6KiY5LqLPC9oMj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RvcExvc3NSYXRlID0gaXQuc3RyaW5nKCJzdG9wX2xvc3NfcmF0ZSIpPy50b0RvdWJsZSgpLAo=</text>
+        <text encoding="base64">CQk8aDIgY2xhc3M9ImN0dGl0bGUgY3QxMSI+44Kq44Oq44K444OK44Or6KiY5LqLPC9oMj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RvcExvc3NSYXRlID0gaXQuc3RyaW5nKCJzdG9wX2xvc3NfcmF0ZSIpPy50b0RvdWJsZSgpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
