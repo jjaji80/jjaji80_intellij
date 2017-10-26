@@ -77,12 +77,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" timestamp="1509001448301">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" timestamp="1509002700357">
         <mark key="'" line="529" column="8" />
-        <mark key="[" line="136" column="73" />
-        <mark key="]" line="136" column="75" />
-        <mark key="." line="136" column="75" />
-        <mark key="^" line="136" column="75" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+        <mark key="^" line="130" column="78" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Bookings/index.ctp" timestamp="1508201249749">
         <mark key="[" line="33" column="163" />
@@ -462,6 +462,12 @@
         <mark key="." line="7" column="25" />
         <mark key="^" line="7" column="25" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PostionColoseOrder.kt" timestamp="1509002394793">
+        <mark key="[" line="5" column="194" />
+        <mark key="]" line="5" column="198" />
+        <mark key="^" line="5" column="198" />
+        <mark key="." line="5" column="198" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/RsiValue.kt" timestamp="1507960383804">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="50" />
@@ -754,7 +760,7 @@
         <mark key="." line="61" column="58" />
         <mark key="^" line="61" column="58" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" timestamp="1509000683322">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" timestamp="1509002279753">
         <mark key="'" line="87" column="130" />
         <mark key="[" line="119" column="44" />
         <mark key="]" line="137" column="53" />
@@ -1033,10 +1039,10 @@
         <mark key="." line="248" column="60" />
         <mark key="^" line="248" column="60" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Topnews/index.ctp" timestamp="1508997112710">
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="16" column="71" />
-        <mark key="." line="16" column="71" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Topnews/index.ctp" timestamp="1509002820004">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="71" />
       </file>
       <file name="$USER_HOME$/git/hms/app/models/search/daily_outstanding_customer_search_form.rb" timestamp="1491191511119">
@@ -1349,31 +1355,31 @@
         <text>IcQW43tp0sSyKg9EVvqF4ICqyyulilaN</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q29pbkNoZWNrUHJvcGVydGllcy5wb3NpdGlvbkJ1eVNlbGxSYXRlPTkuOApDb2luQ2hlY2tQcm9wZXJ0aWVzLm1hcmdpbk1haW50UmF0ZT0xMi4wCkNvaW5DaGVja1Byb3BlcnRpZXMuY2xvc2VQZXJjZW50PTAuOApDb2luQ2hlY2tQcm9wZXJ0aWVzLnBlckFtb3VudD0xMDAwCkNvaW5DaGVja1Byb3BlcnRpZXMub3JkZXJCdXlOb21pbmFscz0wLjEKQ29pbkNoZWNrUHJvcGVydGllcy5vcmRlclNlbGxOb21pbmFscz0wLjEKQ29pbkNoZWNrUHJvcGVydGllcy5jbGVhck9yZGVyVGltZXM9MjAKQ29pbkNoZWNrUHJvcGVydGllcy5idXlQb3NpdGlvbj05OApDb2luQ2hlY2tQcm9wZXJ0aWVzLnNlbGxQb3NpdGlvbj05OApDb2luQ2hlY2tQcm9wZXJ0aWVzLmRpZmZCdXk9MjAwMApDb2luQ2hlY2tQcm9wZXJ0aWVzLmRpZmZTZWxsPTIwMDAKQ29pbkNoZWNrUHJvcGVydGllcy5zdG9wTG9zcz0wLjkKCg==</text>
+        <text encoding="base64">CQk8aDIgY2xhc3M9ImN0dGl0bGUgY3QxMSI+44Kq44Oq44K444OK44Or6KiY5LqLPC9oMj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RvcExvc3NSYXRlID0gaXQuc3RyaW5nKCJzdG9wX2xvc3NfcmF0ZSIpPy50b0RvdWJsZSgpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MTAwMCB0byAyMDAwCg==</text>
+        <text encoding="base64">Q29pbkNoZWNrUHJvcGVydGllcy5wb3NpdGlvbkJ1eVNlbGxSYXRlPTkuOApDb2luQ2hlY2tQcm9wZXJ0aWVzLm1hcmdpbk1haW50UmF0ZT0xMi4wCkNvaW5DaGVja1Byb3BlcnRpZXMuY2xvc2VQZXJjZW50PTAuOApDb2luQ2hlY2tQcm9wZXJ0aWVzLnBlckFtb3VudD0xMDAwCkNvaW5DaGVja1Byb3BlcnRpZXMub3JkZXJCdXlOb21pbmFscz0wLjEKQ29pbkNoZWNrUHJvcGVydGllcy5vcmRlclNlbGxOb21pbmFscz0wLjEKQ29pbkNoZWNrUHJvcGVydGllcy5jbGVhck9yZGVyVGltZXM9MjAKQ29pbkNoZWNrUHJvcGVydGllcy5idXlQb3NpdGlvbj05OApDb2luQ2hlY2tQcm9wZXJ0aWVzLnNlbGxQb3NpdGlvbj05OApDb2luQ2hlY2tQcm9wZXJ0aWVzLmRpZmZCdXk9MjAwMApDb2luQ2hlY2tQcm9wZXJ0aWVzLmRpZmZTZWxsPTIwMDAKQ29pbkNoZWNrUHJvcGVydGllcy5zdG9wTG9zcz0wLjkKCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8L2Rpdj48IS0tbGVmdC0tPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8ZGl2IGlkPSJsZWZ0IiBzdHlsZT0ibWFyZ2luLWJvdHRvbTogMjBweDsiPgo=</text>
+        <text encoding="base64">MTAwMCB0byAyMDAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CTxoMiBjbGFzcz0iY3R0aXRsZSBjdDExIj7jgqrjg6rjgrjjg4rjg6voqJjkuos8L2gyPgo=</text>
+        <text encoding="base64">CQk8L2Rpdj48IS0tbGVmdC0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
