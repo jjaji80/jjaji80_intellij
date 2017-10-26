@@ -77,13 +77,13 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" timestamp="1509023094625">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" timestamp="1509060699627">
         <mark key="a" line="534" column="27" />
         <mark key="'" line="363" column="10" />
-        <mark key="[" line="415" column="49" />
-        <mark key="]" line="415" column="48" />
-        <mark key="." line="415" column="48" />
-        <mark key="^" line="415" column="48" />
+        <mark key="[" line="415" column="46" />
+        <mark key="]" line="415" column="55" />
+        <mark key="." line="415" column="46" />
+        <mark key="^" line="411" column="54" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Bookings/index.ctp" timestamp="1508201249749">
         <mark key="[" line="33" column="163" />
@@ -1469,6 +1469,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
