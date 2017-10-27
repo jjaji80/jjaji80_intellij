@@ -77,13 +77,13 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" timestamp="1509064457495">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" timestamp="1509085164225">
         <mark key="a" line="534" column="27" />
         <mark key="'" line="412" column="35" />
-        <mark key="[" line="208" column="66" />
-        <mark key="]" line="208" column="78" />
-        <mark key="." line="208" column="78" />
-        <mark key="^" line="208" column="78" />
+        <mark key="[" line="79" column="69" />
+        <mark key="]" line="79" column="78" />
+        <mark key="." line="79" column="78" />
+        <mark key="^" line="79" column="78" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Bookings/index.ctp" timestamp="1508201249749">
         <mark key="[" line="33" column="163" />
@@ -505,8 +505,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/component/CoinCheckApiComponent.kt" timestamp="1508943993014" />
-      <file name="/Dummy.txt" timestamp="1509069200198">
-        <mark key="[" line="1" column="14" />
+      <file name="/Dummy.txt" timestamp="1509085059618">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
@@ -772,12 +772,12 @@
         <mark key="." line="61" column="58" />
         <mark key="^" line="61" column="58" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" timestamp="1509064312391">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" timestamp="1509085128916">
         <mark key="'" line="90" column="58" />
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="162" column="27" />
-        <mark key="." line="162" column="27" />
-        <mark key="^" line="162" column="27" />
+        <mark key="[" line="48" column="55" />
+        <mark key="]" line="48" column="73" />
+        <mark key="." line="48" column="73" />
+        <mark key="^" line="48" column="73" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/ckeditor/config.js" timestamp="1503389663974">
         <mark key="[" line="31" column="22" />
@@ -1349,7 +1349,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text>getClosePositionsByMax()</text>
       </register>
       <register name="/" type="4">
         <text>ready</text>
