@@ -779,12 +779,12 @@
         <mark key="." line="61" column="58" />
         <mark key="^" line="61" column="58" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" timestamp="1509156832339">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" timestamp="1509159235883">
         <mark key="'" line="89" column="50" />
-        <mark key="[" line="87" column="128" />
-        <mark key="]" line="88" column="40" />
-        <mark key="." line="88" column="40" />
-        <mark key="^" line="88" column="40" />
+        <mark key="[" line="65" column="31" />
+        <mark key="]" line="66" column="16" />
+        <mark key="." line="66" column="16" />
+        <mark key="^" line="66" column="16" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/ckeditor/config.js" timestamp="1503389663974">
         <mark key="[" line="31" column="22" />
@@ -1382,31 +1382,31 @@
         <text>Amount amount is too big</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInRhcmdldFBsPSR0YXJnZXRQbCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH1jYXRjaCAoZTopCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInRhcmdldFBsPSR0YXJnZXRQbCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFkZWxldGVGYWlsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGRlbGV0ZUZhaWwgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFkZWxldGVGYWlsKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGRlbGV0ZUZhaWwgPSBmYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5wb3NpdGlvbkNsb3NlT3JkZXJzLmZvckVhY2ggewogICAgICAgICAgICAgICAgICAgICAgICB2YWwgcmVzdWx0ID0gY29pbmNoZWNrQXBpLmRlbGV0ZU9yZGVyKGl0LmlkLnRvU3RyaW5nKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZyhyZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5zdG9wTG9zc09wZW5zPy5mb3JFYWNoewogICAgICAgICAgICAgICAgICAgICAgICB2YWwgcmVzdWx0ID0gY29pbmNoZWNrQXBpLmRlbGV0ZU9yZGVyKGl0LmlkLnRvU3RyaW5nKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZyhyZXN1bHQpCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5wb3NpdGlvbkNsb3NlT3JkZXJzLmZvckVhY2ggewogICAgICAgICAgICAgICAgICAgICAgICB2YWwgcmVzdWx0ID0gY29pbmNoZWNrQXBpLmRlbGV0ZU9yZGVyKGl0LmlkLnRvU3RyaW5nKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZyhyZXN1bHQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1445,8 +1445,6 @@
         <entry>too</entry>
       </history-search>
       <history-cmd>
-        <entry>%d</entry>
-        <entry>204</entry>
         <entry>229</entry>
         <entry>%s/localhost/52.69.112.33</entry>
         <entry>27</entry>
@@ -1464,6 +1462,8 @@
         <entry>75,125d</entry>
         <entry>1</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>412</entry>
+        <entry>42</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
