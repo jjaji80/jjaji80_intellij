@@ -779,12 +779,12 @@
         <mark key="." line="61" column="58" />
         <mark key="^" line="61" column="58" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" timestamp="1509159235883">
-        <mark key="'" line="89" column="50" />
-        <mark key="[" line="65" column="31" />
-        <mark key="]" line="66" column="16" />
-        <mark key="." line="66" column="16" />
-        <mark key="^" line="66" column="16" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" timestamp="1509171528119">
+        <mark key="'" line="131" column="15" />
+        <mark key="[" line="57" column="46" />
+        <mark key="]" line="57" column="48" />
+        <mark key="." line="57" column="48" />
+        <mark key="^" line="57" column="48" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/ckeditor/config.js" timestamp="1503389663974">
         <mark key="[" line="31" column="22" />
@@ -1257,7 +1257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="25" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
       <jump line="118" column="31" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
       <jump line="121" column="39" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
       <jump line="191" column="18" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
@@ -1357,6 +1356,7 @@
       <jump line="128" column="44" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
       <jump line="129" column="59" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
       <jump line="137" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
+      <jump line="131" column="15" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1376,7 +1376,7 @@
         <text>result.string()</text>
       </register>
       <register name="/" type="4">
-        <text>too</text>
+        <text>20</text>
       </register>
       <register name="0" type="4">
         <text>Amount amount is too big</text>
@@ -1413,9 +1413,9 @@
       </register>
     </registers>
     <search>
-      <last-search>too</last-search>
+      <last-search>20</last-search>
       <last-offset />
-      <last-pattern>too</last-pattern>
+      <last-pattern>20</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1423,7 +1423,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdG9wTG9zc09wZW5zXD4=</entry>
         <entry>rate</entry>
         <entry>pos</entry>
         <entry>isDe</entry>
@@ -1438,11 +1437,12 @@
         <entry>getYear</entry>
         <entry encoding="base64">XDxiZW5lZml0XD4=</entry>
         <entry>delete</entry>
-        <entry>200</entry>
         <entry encoding="base64">XDxkZWxldGVPcmRlclw+</entry>
         <entry>number</entry>
         <entry>amount</entry>
         <entry>too</entry>
+        <entry>200</entry>
+        <entry>20</entry>
       </history-search>
       <history-cmd>
         <entry>229</entry>
@@ -1460,10 +1460,10 @@
         <entry>bd</entry>
         <entry>71</entry>
         <entry>75,125d</entry>
-        <entry>1</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>412</entry>
         <entry>42</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
