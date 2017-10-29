@@ -768,12 +768,12 @@
         <mark key="." line="61" column="58" />
         <mark key="^" line="61" column="58" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" timestamp="1509263388631">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" timestamp="1509265335691">
         <mark key="'" line="38" column="30" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="36" />
-        <mark key="." line="134" column="0" />
-        <mark key="^" line="141" column="44" />
+        <mark key="[" line="171" column="17" />
+        <mark key="]" line="172" column="32" />
+        <mark key="." line="172" column="32" />
+        <mark key="^" line="172" column="32" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/ckeditor/config.js" timestamp="1503389663974">
         <mark key="[" line="31" column="22" />
@@ -1360,40 +1360,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGFzdExvc3Mg</text>
+        <text>to()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3dQcmljZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>amountPairOrder</text>
+        <text>position.stopLossOpens</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RMb3NzPWl0LnN0b3BMb3NzUmF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHBvc2l0aW9uLnN0b3BMb3NzT3BlbnMhPW51bGwpewogICAgICAgICAgICAgICAgICAgIHBvc2l0aW9uLnN0b3BMb3NzT3BlbnMuCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0LnN0b3BMb3NzUmF0ZSAhPSBudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RMb3NzID0gaXQuc3RvcExvc3NSYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoZWNrT3BlbnNNYWluKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImRvVXA9JGRvVXAgOiB0YXJnZXRSYXRlPSR0YXJnZXRSYXRlIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RMb3NzPWl0LnN0b3BMb3NzUmF0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0LnN0b3BMb3NzUmF0ZSAhPSBudWxsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RMb3NzID0gaXQuc3RvcExvc3NSYXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImRvVXA9JGRvVXAgOiB0YXJnZXRSYXRlPSR0YXJnZXRSYXRlIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2EK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
