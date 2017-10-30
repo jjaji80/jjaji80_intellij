@@ -760,8 +760,8 @@
         <mark key="." line="61" column="58" />
         <mark key="^" line="61" column="58" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" timestamp="1509319970799">
-        <mark key="'" line="277" column="186" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" timestamp="1509339176446">
+        <mark key="'" line="262" column="28" />
         <mark key="[" line="262" column="28" />
         <mark key="]" line="262" column="29" />
         <mark key="." line="262" column="29" />
@@ -1250,7 +1250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="70" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/templates/coincheck.html" />
       <jump line="166" column="61" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/templates/coincheck.html" />
       <jump line="174" column="107" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/templates/coincheck.html" />
       <jump line="176" column="58" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/templates/coincheck.html" />
@@ -1350,6 +1349,7 @@
       <jump line="128" column="18" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" />
       <jump line="130" column="18" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" />
       <jump line="277" column="186" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" />
+      <jump line="262" column="28" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1369,7 +1369,7 @@
         <text>new Date()</text>
       </register>
       <register name="/" type="4">
-        <text>, rate =</text>
+        <text>force</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">amRiYy51cmw9amRiYzpteXNxbDovL3Byb2R1Y3Rpb24tY2x1c3Rlci5jbHVzdGVyLWNpOXpuZjRwNmZmdi5hcC1ub3J0aGVhc3QtMS5yZHMuYW1hem9uYXdzLmNvbS9uZXdzcGlja3M/dXNlVW5pY29kZT10cnVlJmNoYXJhY3RlckVuY29kaW5nPVVURjgmYXV0b1JlY29ubmVjdD10cnVlJnVzZUxlZ2FjeURhdGV0aW1lQ29kZT1mYWxzZSZ1c2VTU0w9ZmFsc2Umc2VydmVyVGltZXpvbmU9VVRDCmpkYmMudXNlcm5hbWU9c3lzdGVtCmpkYmMucGFzc3dvcmQ9ZG9veDIwMTU=</text>
@@ -1406,9 +1406,9 @@
       </register>
     </registers>
     <search>
-      <last-search>, rate =</last-search>
+      <last-search>force</last-search>
       <last-offset />
-      <last-pattern>, rate =</last-pattern>
+      <last-pattern>force</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1416,7 +1416,6 @@
     </search>
     <history>
       <history-search>
-        <entry>too</entry>
         <entry>200</entry>
         <entry>20</entry>
         <entry>0.0</entry>
@@ -1436,6 +1435,7 @@
         <entry>rate</entry>
         <entry>rate =</entry>
         <entry>, rate =</entry>
+        <entry>force</entry>
       </history-search>
       <history-cmd>
         <entry>93,133y</entry>
