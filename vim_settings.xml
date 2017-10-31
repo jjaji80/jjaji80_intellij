@@ -999,7 +999,7 @@
         <mark key="^" line="117" column="49" />
         <mark key="." line="117" column="49" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/LongLong.kt" timestamp="1509457776782">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/LongLong.kt" timestamp="1509460457107">
         <mark key="'" line="24" column="4" />
         <mark key="[" line="32" column="12" />
         <mark key="]" line="32" column="12" />
@@ -1257,7 +1257,7 @@
         <text>api=api)</text>
       </register>
       <register name="/" type="4">
-        <text>read</text>
+        <text>rsi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBwYWlyT3JkZXJNb2RlID0gYXJnMC5lcXVhbHMoIlBhaXJPcmRlciIpCg==</text>
@@ -1290,13 +1290,13 @@
         <text encoding="base64">CQkkbW9kZWwgPSBDbGFzc1JlZ2lzdHJ5Ojppbml0KCdCbG9ncycpOwoJCXZhcl9kdW1wKCRtb2RlbC0+Z2V0RGF0YXNvdXJjZSgkbW9kZWwtPnVzZURiQ29uZmlnKS0+Y29uZmlnKTsKCQlkaWUoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
-      <last-search>read</last-search>
+      <last-search>rsi</last-search>
       <last-offset />
-      <last-pattern>read</last-pattern>
+      <last-pattern>rsi</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1304,7 +1304,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2luQ2hlY2tBcGlcPg==</entry>
         <entry encoding="base64">XDxyYXRlUGFpck9yZGVyXD4=</entry>
         <entry>1.2</entry>
         <entry>1.0</entry>
@@ -1324,6 +1323,7 @@
         <entry encoding="base64">XDxwYWlyT3JkZXJcPg==</entry>
         <entry encoding="base64">XDxsb25nTG9uZ1w+</entry>
         <entry>read</entry>
+        <entry>rsi</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -1338,7 +1338,6 @@
         <entry>426</entry>
         <entry>141</entry>
         <entry>75</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>35,38d</entry>
         <entry>61</entry>
         <entry>25</entry>
@@ -1346,6 +1345,7 @@
         <entry>14</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
