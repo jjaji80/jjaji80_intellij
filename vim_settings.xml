@@ -321,6 +321,9 @@
         <mark key="^" line="11" column="47" />
         <mark key="." line="11" column="47" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Controller/MypageController.php" timestamp="1509424294126">
+        <mark key="'" line="406" column="17" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/TagController.java" timestamp="1504091094717">
         <mark key="[" line="42" column="35" />
         <mark key="]" line="42" column="45" />
@@ -526,7 +529,10 @@
         <mark key="^" line="1" column="76" />
         <mark key="." line="1" column="76" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509500480615">
+      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/component/CoinCheckApiComponent.kt" timestamp="1509246814057">
+        <mark key="'" line="48" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1509501464134">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -626,6 +632,9 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" timestamp="1509068049878">
+        <mark key="'" line="8" column="26" />
+      </file>
       <file name="$USER_HOME$/git/hms/db/migrate/20170330064824_create_daily_sales_employees.rb" timestamp="1490856924803">
         <mark key="[" line="6" column="34" />
         <mark key="]" line="6" column="35" />
@@ -655,6 +664,9 @@
         <mark key="]" line="3" column="21" />
         <mark key="^" line="1" column="221" />
         <mark key="." line="1" column="221" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/js/app.js" timestamp="1509149081511">
+        <mark key="'" line="165" column="4" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/judge/impl/AwoJudgeUtil.kt" timestamp="1499872606023">
         <mark key="[" line="10" column="0" />
@@ -966,6 +978,9 @@
         <mark key="^" line="72" column="11" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/poloniex/DataLoader.kt" timestamp="1509110793022">
+        <mark key="'" line="7" column="46" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48c8cc7c-d816-4eff-873b-84328b4afb35/console.sql" timestamp="1508840333343">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="49" />
@@ -1181,6 +1196,9 @@
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" timestamp="1509501523121">
+        <mark key="'" line="1" column="24" />
+      </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/service/PushService.kt" timestamp="1500969501762">
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="35" />
@@ -1267,6 +1285,9 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Model/Entity/SavedSearch.php" timestamp="1508838469082">
+        <mark key="'" line="38" column="61" />
+      </file>
       <file name="$USER_HOME$/git/hms/db/migrate/20170331082816_rename_customer_column_to_daily_outstanding_customer.rb" timestamp="1490949018480">
         <mark key="[" line="2" column="71" />
         <mark key="]" line="2" column="73" />
@@ -1307,9 +1328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="314" column="44" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/templates/coincheck.html" />
-      <jump line="319" column="56" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/templates/coincheck.html" />
-      <jump line="320" column="40" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/templates/coincheck.html" />
       <jump line="321" column="57" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/templates/coincheck.html" />
       <jump line="82" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
       <jump line="128" column="44" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
@@ -1407,6 +1425,9 @@
       <jump line="12" column="40" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
       <jump line="45" column="17" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
       <jump line="13" column="34" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
+      <jump line="23" column="22" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" />
+      <jump line="32" column="36" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" />
+      <jump line="1" column="24" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1426,7 +1447,7 @@
         <text>coincheckApi</text>
       </register>
       <register name="/" type="4">
-        <text>else</text>
+        <text>image</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCTw/cGhwCgkJCQkJZWNobyAkdGhpcy0+Q29tbW9uLT5nZXRfaW1hZ2UoQCRibG9nWyJCbG9ncyJdWyJpZCJdLCAxKTsKCQkJCT8+Cg==</text>
@@ -1463,9 +1484,9 @@
       </register>
     </registers>
     <search>
-      <last-search>else</last-search>
+      <last-search>image</last-search>
       <last-offset />
-      <last-pattern>else</last-pattern>
+      <last-pattern>image</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1473,7 +1494,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mail</entry>
         <entry encoding="base64">XDxkb0Noa01haWxcPg==</entry>
         <entry>submi</entry>
         <entry>amount</entry>
@@ -1489,10 +1509,11 @@
         <entry>0.99</entry>
         <entry>show_</entry>
         <entry>endif</entry>
-        <entry>img</entry>
-        <entry>image</entry>
         <entry>edit</entry>
         <entry>else</entry>
+        <entry>img</entry>
+        <entry encoding="base64">PGltZw==</entry>
+        <entry>image</entry>
       </history-search>
       <history-cmd>
         <entry>142</entry>
