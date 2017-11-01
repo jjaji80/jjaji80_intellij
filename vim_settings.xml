@@ -34,6 +34,7 @@
         <mark key="^" line="5" column="134" />
         <mark key="." line="5" column="134" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Helper/CommonHelper.php" timestamp="1509502239965" />
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_menu.ctp" timestamp="1504156005880">
         <mark key="[" line="18" column="77" />
         <mark key="]" line="18" column="78" />
@@ -330,12 +331,6 @@
         <mark key="." line="42" column="45" />
         <mark key="^" line="42" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1509090486698">
-        <mark key="'" line="534" column="0" />
-        <mark key="[" line="598" column="0" />
-        <mark key="]" line="598" column="72" />
-        <mark key="." line="598" column="0" />
-      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/const.php" timestamp="1509427455210">
         <mark key="[" line="43" column="20" />
         <mark key="]" line="43" column="21" />
@@ -510,8 +505,8 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" timestamp="1509500511631">
-        <mark key="'" line="13" column="34" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" timestamp="1509502217914">
+        <mark key="'" line="20" column="10" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="10" />
         <mark key="." line="20" column="10" />
@@ -532,7 +527,7 @@
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/component/CoinCheckApiComponent.kt" timestamp="1509246814057">
         <mark key="'" line="48" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509501464134">
+      <file name="/Dummy.txt" timestamp="1509502359015">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -1190,14 +1185,8 @@
         <mark key="^" line="11" column="55" />
         <mark key="." line="11" column="55" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/ThemenewsController.php" timestamp="1509431801423">
-        <mark key="'" line="11" column="10" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" timestamp="1509501523121">
-        <mark key="'" line="1" column="24" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" timestamp="1509502192656">
+        <mark key="'" line="32" column="36" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/service/PushService.kt" timestamp="1500969501762">
         <mark key="[" line="16" column="24" />
@@ -1328,8 +1317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="57" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/templates/coincheck.html" />
-      <jump line="82" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
       <jump line="128" column="44" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
       <jump line="129" column="59" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
       <jump line="137" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
@@ -1426,8 +1413,10 @@
       <jump line="45" column="17" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
       <jump line="13" column="34" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
       <jump line="23" column="22" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" />
-      <jump line="32" column="36" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" />
       <jump line="1" column="24" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" />
+      <jump line="26" column="16" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" />
+      <jump line="32" column="36" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" />
+      <jump line="20" column="10" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1511,8 +1500,8 @@
         <entry>endif</entry>
         <entry>edit</entry>
         <entry>else</entry>
-        <entry>img</entry>
         <entry encoding="base64">PGltZw==</entry>
+        <entry>img</entry>
         <entry>image</entry>
       </history-search>
       <history-cmd>
