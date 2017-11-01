@@ -323,6 +323,13 @@
         <mark key="." line="42" column="45" />
         <mark key="^" line="42" column="45" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1509512481365">
+        <mark key="'" line="605" column="0" />
+        <mark key="[" line="603" column="25" />
+        <mark key="]" line="605" column="0" />
+        <mark key="." line="605" column="0" />
+        <mark key="^" line="605" column="0" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/const.php" timestamp="1509427455210">
         <mark key="[" line="43" column="20" />
         <mark key="]" line="43" column="21" />
@@ -1306,8 +1313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="22" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" />
-      <jump line="61" column="103" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" />
       <jump line="201" column="25" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" />
       <jump line="112" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" />
       <jump line="113" column="36" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" />
@@ -1406,6 +1411,8 @@
       <jump line="109" column="24" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="192" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="65" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" />
+      <jump line="561" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="605" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1425,7 +1432,7 @@
         <text encoding="base64">JHRoaXMtPkh0bWwtPmltYWdlKA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2hlY2tfdG9wX2ltYWdlXD4=</text>
+        <text>梓愛</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCTxpbWcgc3JjPSI8P3BocCBlY2hvICRibG9nWydCbG9ncyddWyd0b3BfaW1hZ2UnXT8+Ij4K</text>
@@ -1462,9 +1469,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2hlY2tfdG9wX2ltYWdlXD4=</last-search>
+      <last-search>梓愛</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2hlY2tfdG9wX2ltYWdlXD4=</last-pattern>
+      <last-pattern>梓愛</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1472,7 +1479,6 @@
     </search>
     <history>
       <history-search>
-        <entry>submi</entry>
         <entry>amount</entry>
         <entry>origi</entry>
         <entry encoding="base64">XDxnZXRfYmxvZ190b3RhbF9jb3VudFw+</entry>
@@ -1492,6 +1498,7 @@
         <entry>img</entry>
         <entry>image</entry>
         <entry encoding="base64">XDxfY2hlY2tfdG9wX2ltYWdlXD4=</entry>
+        <entry>梓愛</entry>
       </history-search>
       <history-cmd>
         <entry>142</entry>
