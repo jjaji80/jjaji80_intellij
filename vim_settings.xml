@@ -95,12 +95,12 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" timestamp="1509511126014">
-        <mark key="'" line="192" column="19" />
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="17" column="84" />
-        <mark key="^" line="17" column="84" />
-        <mark key="." line="17" column="84" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" timestamp="1509581341063">
+        <mark key="'" line="20" column="25" />
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="78" />
+        <mark key="^" line="58" column="42" />
+        <mark key="." line="58" column="42" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoinCheckProperties.kt" timestamp="1509525983542">
         <mark key="'" line="18" column="8" />
@@ -322,6 +322,11 @@
         <mark key="." line="42" column="45" />
         <mark key="^" line="42" column="45" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Themenews/original.ctp" timestamp="1509581130757">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1509512481365">
         <mark key="'" line="605" column="0" />
         <mark key="[" line="603" column="25" />
@@ -521,14 +526,14 @@
         <mark key="^" line="1" column="76" />
         <mark key="." line="1" column="76" />
       </file>
-      <file name="/dummy.sql" timestamp="1509527556246">
+      <file name="/dummy.sql" timestamp="1509580110768">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/component/CoinCheckApiComponent.kt" timestamp="1509246814057">
         <mark key="'" line="48" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509526272954">
-        <mark key="[" line="1" column="13" />
+      <file name="/Dummy.txt" timestamp="1509581341963">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
@@ -1039,12 +1044,12 @@
         <mark key="^" line="860" column="37" />
         <mark key="." line="860" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" timestamp="1509511404331">
-        <mark key="'" line="65" column="7" />
-        <mark key="[" line="65" column="20" />
-        <mark key="]" line="66" column="47" />
-        <mark key="^" line="66" column="47" />
-        <mark key="." line="66" column="47" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" timestamp="1509581095001">
+        <mark key="'" line="53" column="26" />
+        <mark key="[" line="65" column="36" />
+        <mark key="]" line="65" column="44" />
+        <mark key="^" line="65" column="44" />
+        <mark key="." line="65" column="44" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5f465f49-db82-4fde-81e3-3038a21ecefb/console.sql" timestamp="1509519930685">
         <mark key="'" line="36" column="9" />
@@ -1184,6 +1189,12 @@
         <mark key="^" line="11" column="55" />
         <mark key="." line="11" column="55" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/ThemenewsController.php" timestamp="1509580939585">
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="^" line="172" column="46" />
+        <mark key="." line="186" column="0" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" timestamp="1509502192656">
         <mark key="'" line="32" column="36" />
       </file>
@@ -1314,9 +1325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="55" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" />
-      <jump line="140" column="29" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" />
-      <jump line="195" column="103" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" />
       <jump line="217" column="83" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" />
       <jump line="238" column="41" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" />
       <jump line="257" column="217" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/PairOrder.kt" />
@@ -1389,7 +1397,6 @@
       <jump line="23" column="54" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
       <jump line="109" column="24" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="192" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
-      <jump line="65" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" />
       <jump line="561" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="605" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="333" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
@@ -1414,6 +1421,10 @@
       <jump line="47" column="66" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/LongLong.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" />
       <jump line="32" column="26" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/LongLong.kt" />
+      <jump line="20" column="25" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="66" column="47" filename="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" />
+      <jump line="65" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" />
+      <jump line="53" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1430,49 +1441,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text encoding="base64">PC9oMT4=</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>get_original_news</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI2xhc3RfYWpheF90aW1lJykuaHRtbCgiQzoiIC4gbW9tZW50KCkuZm9ybWF0KCJISDptbTpzcyIpKQo=</text>
+      <register name="0" type="4">
+        <text>CASE release_date when null then created else release_date end DESC</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
+        <text encoding="base64">CQkJCQkJCTxoMT48P3BocCBlY2hvICRuZXdzWydCbG9ncyddWydpZCddOz8+PC9oMT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZGllKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCT8+Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">Zm9yZWFjaCAoJG9yaWdpbmFsX25ld3MgYXMgJGtleSA9PiAkdmFsdWUpewoKCQkJCXZhcl9kdW1wKCR2YWx1ZVsnQmxvZ3MnXVsnaWQnXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCTw/cGhwCgkJCQlpZihpc3NldCgkYmxvZ1snQmxvZ3MnXVsndG9wX2ltYWdlJ10pKSB7CgkJCQkJZWNobyAkdGhpcy0+SHRtbC0+aW1hZ2UoJGJsb2dbIkJsb2dzIl1bInRvcF9pbWFnZSJdLCBhcnJheSgnYWx0JyA9PiAnJykpOwo=</text>
+        <text encoding="base64">CQkJZm9yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCTw/cGhwCgkJCQk/Pgo=</text>
+        <text encoding="base64">CQkJZm9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWlmKGlzc2V0KCRibG9nWydCbG9ncyddWyd0b3BfaW1hZ2UnXSkpewogICAgICAgICAgZWNobyAkYmxvZ1siQmxvZ3MiXVsidG9wX2ltYWdlIl0sIGFycmF5KCdhbHQnID0+ICcnKSk7CgkJCQl9Cg==</text>
+        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQllY2hvICR0aGlzLT5Db21tb24tPmdldF9pbWFnZShAJGJsb2dbIkJsb2dzIl1bImlkIl0sIDEpOwo=</text>
+        <text encoding="base64">CQkJCT8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>get_original_news</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>get_original_news</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1480,7 +1491,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rsi</entry>
         <entry>loss</entry>
         <entry>0.99</entry>
         <entry>show_</entry>
@@ -1500,6 +1510,7 @@
         <entry encoding="base64">XDxzdGFydExvbmdMb25nXD4=</entry>
         <entry>doBuy</entry>
         <entry>log</entry>
+        <entry>get_original_news</entry>
       </history-search>
       <history-cmd>
         <entry>75,125d</entry>
