@@ -872,12 +872,12 @@
         <mark key="." line="25" column="135" />
         <mark key="^" line="25" column="135" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1509874640084">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1509877187427">
         <mark key="'" line="27" column="25" />
-        <mark key="[" line="27" column="60" />
-        <mark key="]" line="27" column="70" />
+        <mark key="[" line="71" column="37" />
+        <mark key="]" line="71" column="38" />
         <mark key="^" line="27" column="70" />
-        <mark key="." line="27" column="70" />
+        <mark key="." line="71" column="38" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Admin/AnalysisResults/index.ctp" timestamp="1508144944172">
         <mark key="'" line="32" column="5" />
@@ -1511,31 +1511,36 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoIDEwKjEwMDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyZWFkIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCkK</text>
+      <register name="2" type="4">
+        <text>{
+                while (true) {
+                    trade.doOrder(0.02, &quot;1&quot;)
+                    Thread.sleep(10 * 1000)
+                }
+            }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoNTkgKiAxMDAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoNjAgKiA2MCAqIDEwMDAgLSAxMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoNjAgKiAzMCAqIDEwMDAgLSAxMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoNTkgKiAxMDAwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoNjAgKiA1ICogMTAwMCAtIDEwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoNjAgKiA2MCAqIDEwMDAgLSAxMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoNTkgKiAxMDAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoNjAgKiAzMCAqIDEwMDAgLSAxMCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
