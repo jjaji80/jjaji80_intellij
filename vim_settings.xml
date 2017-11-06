@@ -432,11 +432,11 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1509931022381">
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="4" column="14" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="4" column="14" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1509933429407">
+        <mark key="[" line="8" column="71" />
+        <mark key="]" line="8" column="72" />
+        <mark key="^" line="8" column="72" />
+        <mark key="." line="8" column="72" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/tags/index.php" timestamp="1506500959703">
         <mark key="[" line="131" column="0" />
@@ -888,12 +888,12 @@
         <mark key="." line="25" column="135" />
         <mark key="^" line="25" column="135" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1509886011116">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1509934338573">
         <mark key="'" line="27" column="25" />
-        <mark key="[" line="64" column="16" />
-        <mark key="]" line="64" column="16" />
-        <mark key="^" line="52" column="27" />
-        <mark key="." line="64" column="16" />
+        <mark key="[" line="68" column="33" />
+        <mark key="]" line="69" column="35" />
+        <mark key="^" line="69" column="35" />
+        <mark key="." line="69" column="35" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/js/coincheck.js" timestamp="1509723995272">
         <mark key="'" line="179" column="19" />
@@ -1527,24 +1527,36 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>trade</text>
+        <text>resultList</text>
       </register>
       <register name="/" type="4">
         <text>100</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoIDEwKjEwMDApCg==</text>
+        <text encoding="base64">U0VMRUNUIHRhcmdldCxyc2ksbWFjZCxtYWNkX3NpZ25hbCBGUk9NIGNvaW5jaGVja18xbWludXRlcyBXSEVSRSB0eXBlPSc1JyBhbmQgdGFyZ2V0PicyMDE3MTEwNjA3MDAnIE9SREVSIEJZIHRhcmdldCBERVNDIDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvbmdMb25nLnN0YXJ0KCkK</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoNjAgKiB0eXBlLnRvTG9uZygpICogMTAwMCAtIDEwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBsb25nTG9uZyA9IExvbmdMb25nKGNvaW5jaGVja0FwaSA9IGFwaSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMCAqIDEwMDApCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDYwICogdHlwZS50b0xvbmcoKSAqIDEwMDAgLSAxMCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxvbmdMb25nLnN0YXJ0KCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCBsb25nTG9uZyA9IExvbmdMb25nKGNvaW5jaGVja0FwaSA9IGFwaSkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyZWFkIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>{
                 while (true) {
                     trade.doOrder(0.02, &quot;1&quot;)
@@ -1552,20 +1564,8 @@
                 }
             }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoNTkgKiAxMDAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
