@@ -430,11 +430,12 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1509963076623">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="8" column="38" />
-        <mark key="^" line="8" column="38" />
-        <mark key="." line="8" column="38" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1509965704356">
+        <mark key="'" line="9" column="115" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="125" />
+        <mark key="^" line="11" column="124" />
+        <mark key="." line="11" column="124" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/tags/index.php" timestamp="1506500959703">
         <mark key="[" line="131" column="0" />
@@ -884,12 +885,12 @@
         <mark key="." line="25" column="135" />
         <mark key="^" line="25" column="135" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1509952990553">
-        <mark key="'" line="27" column="25" />
-        <mark key="[" line="52" column="51" />
-        <mark key="]" line="52" column="51" />
-        <mark key="^" line="48" column="37" />
-        <mark key="." line="52" column="51" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1509965515800">
+        <mark key="'" line="29" column="25" />
+        <mark key="[" line="58" column="25" />
+        <mark key="]" line="58" column="48" />
+        <mark key="." line="58" column="48" />
+        <mark key="^" line="58" column="48" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/js/coincheck.js" timestamp="1509723995272">
         <mark key="'" line="179" column="19" />
@@ -1406,7 +1407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="16" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="39" column="12" filename="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Layout/fortuneteller.ctp" />
       <jump line="26" column="8" filename="$USER_HOME$/git/utel/app/webroot/js/admin/common.js" />
       <jump line="57" column="8" filename="$USER_HOME$/git/utel/app/webroot/js/admin/common.js" />
@@ -1506,6 +1506,7 @@
       <jump line="80" column="112" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeManagementService.kt" />
       <jump line="95" column="29" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeManagementService.kt" />
       <jump line="124" column="41" filename="$USER_HOME$/git/ta4j/ta4j-examples/src/main/resources/bitstamp_trades_from_20131125_usd.csv" />
+      <jump line="9" column="115" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1522,45 +1523,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LSA=</text>
+        <text encoding="base64">REVTQyA=</text>
       </register>
       <register name="/" type="4">
         <text>100</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dGhyZWFkIHsKICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIGRvT3JkZXIoMC4yLCAiNSIpCiAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAgKiAxMDAwKQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">U0VMRUNUIHRhcmdldCxyc2ksbWFjZCxtYWNkX3NpZ25hbCxsYXN0IEZST00gY29pbmNoZWNrXzFtaW51dGVzIFdIRVJFIHR5cGU9JzYwJyBhbmQgdGFyZ2V0PicyMDE3MTEwNjA3MDAnIE9SREVSIEJZIHRhcmdldCBhc2M7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNTdGFydGVkKQogICAgICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0TGlzdDI9IG11dGFibGVMaXN0T2Y8Qm9vbGVhbj4oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoNjAgKiB0eXBlLnRvTG9uZygpICogMTAwMCAtIDEwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0TGlzdDIuYWRkKGl0W0NvaW5jaGVjazFtaW51dGVzLm1hY2RdLnRvRG91YmxlKCkgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMCAqIDEwMDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0TGlzdDIuYWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDYwICogdHlwZS50b0xvbmcoKSAqIDEwMDAgLSAxMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvbmdMb25nLnN0YXJ0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdExpc3QuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBsb25nTG9uZyA9IExvbmdMb25nKGNvaW5jaGVja0FwaSA9IGFwaSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNTdGFydGVkKQogICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyZWFkIAo=</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoNjAgKiB0eXBlLnRvTG9uZygpICogMTAwMCAtIDEwKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-                while (true) {
-                    trade.doOrder(0.02, &quot;1&quot;)
-                    Thread.sleep(10 * 1000)
-                }
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMCAqIDEwMDApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
