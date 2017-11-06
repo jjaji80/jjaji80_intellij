@@ -22,7 +22,6 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/git/ta4j/ta4j-examples/src/main/java/ta4jexamples/loaders/CsvTradesLoader.java" timestamp="1509894464737" />
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/arbitrage/DataLoader.kt" timestamp="1505988065709">
         <mark key="[" line="38" column="48" />
         <mark key="]" line="39" column="19" />
@@ -387,7 +386,6 @@
         <mark key="^" line="145" column="62" />
         <mark key="." line="145" column="62" />
       </file>
-      <file name="$USER_HOME$/git/ta4j/ta4j/src/test/java/eu/verdelhan/ta4j/indicators/trackers/RSIIndicatorTest.java" timestamp="1509775468576" />
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_setting_profile.ctp" timestamp="1503485787274">
         <mark key="[" line="74" column="47" />
         <mark key="]" line="74" column="63" />
@@ -462,7 +460,6 @@
         <mark key="." line="90" column="42" />
         <mark key="^" line="90" column="42" />
       </file>
-      <file name="$USER_HOME$/git/ta4j/ta4j/src/main/java/eu/verdelhan/ta4j/indicators/simple/FixedDecimalIndicator.java" timestamp="1509775411324" />
       <file name="$USER_HOME$/git/hti_mobile/tiapp.xml" timestamp="1509523917050">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="25" column="47" />
@@ -475,11 +472,11 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" timestamp="1509876162462">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" timestamp="1509948005913">
         <mark key="'" line="15" column="16" />
-        <mark key="[" line="94" column="21" />
-        <mark key="]" line="94" column="22" />
-        <mark key="." line="94" column="22" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
         <mark key="^" line="94" column="22" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Controller/AppController.php" timestamp="1509068644664">
@@ -563,7 +560,7 @@
         <mark key="^" line="1" column="76" />
         <mark key="." line="1" column="76" />
       </file>
-      <file name="/dummy.sql" timestamp="1509930972121">
+      <file name="/dummy.sql" timestamp="1509948043083">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -608,7 +605,6 @@
         <mark key="." line="16" column="46" />
         <mark key="^" line="21" column="33" />
       </file>
-      <file name="$USER_HOME$/git/ta4j/ta4j/src/test/java/eu/verdelhan/ta4j/TickTest.java" timestamp="1509776494910" />
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/dao/Coincheck1minutes.kt" timestamp="1509865094048">
         <mark key="'" line="16" column="46" />
         <mark key="[" line="32" column="8" />
@@ -888,12 +884,12 @@
         <mark key="." line="25" column="135" />
         <mark key="^" line="25" column="135" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1509934338573">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1509947303085">
         <mark key="'" line="27" column="25" />
-        <mark key="[" line="68" column="33" />
-        <mark key="]" line="69" column="35" />
-        <mark key="^" line="69" column="35" />
-        <mark key="." line="69" column="35" />
+        <mark key="[" line="48" column="37" />
+        <mark key="]" line="48" column="37" />
+        <mark key="^" line="48" column="37" />
+        <mark key="." line="48" column="37" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/js/coincheck.js" timestamp="1509723995272">
         <mark key="'" line="179" column="19" />
@@ -1254,7 +1250,7 @@
         <mark key="^" line="117" column="49" />
         <mark key="." line="117" column="49" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/LongLong.kt" timestamp="1509871031150">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/LongLong.kt" timestamp="1509946824719">
         <mark key="'" line="49" column="29" />
         <mark key="[" line="86" column="88" />
         <mark key="]" line="86" column="89" />
@@ -1395,7 +1391,6 @@
         <mark key="^" line="5767" column="0" />
         <mark key="." line="5767" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/left.ctp" timestamp="1509606093057" />
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/templates/coincheck.html" timestamp="1509723984333">
         <mark key="'" line="409" column="56" />
         <mark key="[" line="330" column="66" />
@@ -1532,40 +1527,40 @@
       <register name="/" type="4">
         <text>100</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIHRhcmdldCxyc2ksbWFjZCxtYWNkX3NpZ25hbCBGUk9NIGNvaW5jaGVja18xbWludXRlcyBXSEVSRSB0eXBlPSc1JyBhbmQgdGFyZ2V0PicyMDE3MTEwNjA3MDAnIE9SREVSIEJZIHRhcmdldCBERVNDIDsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">dGhyZWFkIHsKICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIGRvT3JkZXIoMC4yLCAiNSIpCiAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAgKiAxMDAwKQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoNjAgKiB0eXBlLnRvTG9uZygpICogMTAwMCAtIDEwKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNTdGFydGVkKQogICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMCAqIDEwMDApCg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoNjAgKiB0eXBlLnRvTG9uZygpICogMTAwMCAtIDEwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDYwICogdHlwZS50b0xvbmcoKSAqIDEwMDAgLSAxMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMCAqIDEwMDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDYwICogdHlwZS50b0xvbmcoKSAqIDEwMDAgLSAxMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvbmdMb25nLnN0YXJ0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBsb25nTG9uZyA9IExvbmdMb25nKGNvaW5jaGVja0FwaSA9IGFwaSkK</text>
+        <text encoding="base64">ICAgIGxvbmdMb25nLnN0YXJ0KCkK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCBsb25nTG9uZyA9IExvbmdMb25nKGNvaW5jaGVja0FwaSA9IGFwaSkK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyZWFkIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>{
                 while (true) {
                     trade.doOrder(0.02, &quot;1&quot;)
                     Thread.sleep(10 * 1000)
                 }
             }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1578,7 +1573,7 @@
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
