@@ -900,12 +900,12 @@
         <mark key="." line="25" column="135" />
         <mark key="^" line="25" column="135" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1510064449014">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1510092275955">
         <mark key="'" line="104" column="41" />
-        <mark key="[" line="225" column="32" />
-        <mark key="]" line="225" column="33" />
-        <mark key="." line="225" column="33" />
-        <mark key="^" line="225" column="33" />
+        <mark key="[" line="168" column="41" />
+        <mark key="]" line="168" column="42" />
+        <mark key="." line="168" column="42" />
+        <mark key="^" line="168" column="42" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/js/coincheck.js" timestamp="1510049918783">
         <mark key="'" line="115" column="37" />
@@ -1547,18 +1547,21 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>diffs</text>
+        <text>macds</text>
       </register>
       <register name="/" type="4">
         <text>tradePri</text>
       </register>
-      <register name="0" type="4">
-        <text>it.openRate * CoincheckApi.readConfig()[CoinCheckProperties.stopLossLongLong]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDApCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB0aHJlYWQgCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>{
             while (true) {
                 Thread.sleep(60 * 1000 * 2)
@@ -1566,26 +1569,23 @@
 
         }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvaW5jaGVja0FwaS5kZWxldGVPcGVuTGV2ZXJhZ2UoKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB0aHJlYWQge30K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgICAgICBkb09yZGVyKDAuMiwgIjUiKQogICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwICogMTAwMCkKICAgICAgICAgICAgfQogICAgICAgIA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0aHJlYWQge30K</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgICAgICBkb09yZGVyKDAuMiwgIjUiLCBmYWxzZSkKICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMCAqIDEwMDApCiAgICAgICAgICAgIH0KICAgICAgICA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCg2MCAqIHR5cGUudG9Mb25nKCkgKiAxMDAwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
