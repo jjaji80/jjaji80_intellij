@@ -77,12 +77,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" timestamp="1510049877483">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" timestamp="1510064311031">
         <mark key="'" line="504" column="92" />
-        <mark key="[" line="389" column="23" />
-        <mark key="]" line="389" column="23" />
-        <mark key="." line="389" column="23" />
-        <mark key="^" line="388" column="26" />
+        <mark key="[" line="549" column="89" />
+        <mark key="]" line="550" column="35" />
+        <mark key="." line="550" column="35" />
+        <mark key="^" line="550" column="35" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Bookings/index.ctp" timestamp="1508201249749">
         <mark key="[" line="33" column="163" />
@@ -900,12 +900,12 @@
         <mark key="." line="25" column="135" />
         <mark key="^" line="25" column="135" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1510062696625">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1510064449014">
         <mark key="'" line="104" column="41" />
-        <mark key="[" line="138" column="30" />
-        <mark key="]" line="138" column="34" />
-        <mark key="." line="138" column="34" />
-        <mark key="^" line="138" column="34" />
+        <mark key="[" line="225" column="32" />
+        <mark key="]" line="225" column="33" />
+        <mark key="." line="225" column="33" />
+        <mark key="^" line="225" column="33" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/js/coincheck.js" timestamp="1510049918783">
         <mark key="'" line="115" column="37" />
@@ -1556,35 +1556,36 @@
         <text>it.openRate * CoincheckApi.readConfig()[CoinCheckProperties.stopLossLongLong]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJlYWQgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWQge30K</text>
+      <register name="2" type="4">
+        <text>{
+            while (true) {
+                Thread.sleep(60 * 1000 * 2)
+            }
+
+        }</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgICAgICBkb09yZGVyKDAuMiwgIjUiKQogICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwICogMTAwMCkKICAgICAgICAgICAgfQogICAgICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvaW5jaGVja0FwaS5kZWxldGVPcGVuTGV2ZXJhZ2UoKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB0aHJlYWQge30K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgICAgICBkb09yZGVyKDAuMiwgIjUiLCBmYWxzZSkKICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMCAqIDEwMDApCiAgICAgICAgICAgIH0KICAgICAgICA=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCg2MCAqIHR5cGUudG9Mb25nKCkgKiAxMDAwKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgICAgICBkb09yZGVyKDAuMiwgIjUiKQogICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwICogMTAwMCkKICAgICAgICAgICAgfQogICAgICAgIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb3VudGVyID09IDApIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJlYWQge30K</text>
       </register>
       <register name="8" type="4">
-        <text>{
-                    Thread.sleep(10 * 1000)
-                    doOrder(amount, type, isBuy, counter + 1)
-                    return
-                }</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgICAgICBkb09yZGVyKDAuMiwgIjUiLCBmYWxzZSkKICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMCAqIDEwMDApCiAgICAgICAgICAgIH0KICAgICAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1c2hTZXJ2aWNlLnB1c2goIk1BQ0QgU0hPUlQgJHR5cGUg5aOy44KK44G+44GZ44CCIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCg2MCAqIHR5cGUudG9Mb25nKCkgKiAxMDAwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
