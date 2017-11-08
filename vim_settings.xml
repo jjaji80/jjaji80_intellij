@@ -584,7 +584,7 @@
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/component/CoinCheckApiComponent.kt" timestamp="1509246814057">
         <mark key="'" line="48" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510126478771">
+      <file name="/Dummy.txt" timestamp="1510127537336">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="16" />
@@ -799,12 +799,12 @@
         <mark key="^" line="5" column="345" />
         <mark key="." line="5" column="345" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" timestamp="1510126736178">
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" timestamp="1510127530453">
         <mark key="'" line="41" column="36" />
-        <mark key="[" line="41" column="92" />
-        <mark key="]" line="41" column="92" />
-        <mark key="." line="41" column="92" />
-        <mark key="^" line="43" column="49" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="99" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/js/const.js" timestamp="1501522773395">
         <mark key="[" line="3" column="30" />
@@ -1554,30 +1554,39 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_for_controller</text>
+        <text encoding="base64">LT5pZA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOZXdzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkkZGF0YVsibmV3c19zbGlkZSJdICA9IGFycmF5X3NsaWNlKCRuZXdzLT5zdW1tYXJpZXMsIDAsIFRPUF9TTElERV9DT1VOVCk7Cg==</text>
+        <text encoding="base64">CQkkZGF0YVsibmV3c19waWNrdXAiXSA9IGFycmF5X3NsaWNlKCRuZXdzLT5zdW1tYXJpZXMsIFRPUF9TTElERV9DT1VOVCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdmFyX2R1bXAoJG5ld3NbJ0Jsb2dzJ11bJ2lkJ10pO2RpZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkZGF0YVtdCg==</text>
+        <text encoding="base64">CQkkZGF0YVsibmV3c19waWNrdXAiXSA9IGFycmF5X3NsaWNlKCRuZXdzLT5zdW1tYXJpZXMsIFRPUF9TTElERV9DT1VOVCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJJG5ld3Nfc2xpZGUK</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkZGF0YVsnbmV3c19zbGlkZSddKTtkaWUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkdGhpcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CQkkZGF0YVtdCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJJG5ld3Nfc2xpZGUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkkdGhpcwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQkkdXJsCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>{
                 coincheckApi.openPositions.forEach {
                     if (it.side == &quot;buy&quot;) {
@@ -1590,19 +1599,8 @@
                 }
             }</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-               
-            }</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChvayAmJiBtYWNkc1swXSA+IHNpZ25hbHNbMF0pIHsKICAgICAgICAgICAgICAgIHN0ZXBPcmRlcihpc1VwKQogICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDYwICogdHlwZS50b0xvbmcoKSAvIDYgKiAxMDAwKQogICAgICAgICAgICAgICAgY29pbmNoZWNrQXBpLmRlbGV0ZU9wZW5MZXZlcmFnZSgpCiAgICAgICAgICAgIH0gZWxzZSBpZiAoZGlmZnNbMF0gPiBkaWZmc1sxXSkgewogICAgICAgICAgICAgICAKICAgICAgICAgICAgfQogICAgICAgIA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>33</text>
       </register>
     </registers>
     <search>
@@ -1638,8 +1636,6 @@
         <entry encoding="base64">XDxOZXdzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>61</entry>
-        <entry>25</entry>
         <entry>15,20d</entry>
         <entry>14</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -1656,8 +1652,10 @@
         <entry>119,124y</entry>
         <entry>14,32y</entry>
         <entry>45</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>42</entry>
+        <entry>w</entry>
+        <entry>33</entry>
       </history-cmd>
       <history-expr />
       <history-input />
