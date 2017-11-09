@@ -421,9 +421,12 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1510219213376">
-        <mark key="'" line="11" column="125" />
-        <mark key="^" line="12" column="126" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1510233414235">
+        <mark key="'" line="12" column="18" />
+        <mark key="[" line="18" column="60" />
+        <mark key="]" line="18" column="61" />
+        <mark key="^" line="18" column="61" />
+        <mark key="." line="18" column="61" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/tags/index.php" timestamp="1506500959703">
         <mark key="[" line="131" column="0" />
@@ -882,12 +885,12 @@
         <mark key="." line="24" column="91" />
         <mark key="^" line="24" column="91" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1510197932661">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1510233426401">
         <mark key="'" line="106" column="31" />
-        <mark key="[" line="143" column="58" />
-        <mark key="]" line="143" column="59" />
-        <mark key="." line="143" column="59" />
-        <mark key="^" line="186" column="30" />
+        <mark key="[" line="143" column="57" />
+        <mark key="]" line="143" column="58" />
+        <mark key="." line="143" column="58" />
+        <mark key="^" line="143" column="58" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Admin/AnalysisResults/index.ctp" timestamp="1508144944172">
         <mark key="'" line="32" column="5" />
@@ -1423,7 +1426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/NewsComponent.php" />
       <jump line="594" column="58" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="102" column="48" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
       <jump line="112" column="38" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
@@ -1523,6 +1525,7 @@
       <jump line="584" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="774" column="11" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="27" column="21" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
+      <jump line="12" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1539,13 +1542,13 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text encoding="base64">b3IgcnNpID4gNjU=</text>
       </register>
       <register name="/" type="4">
         <text>19</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIHRhcmdldCxyc2ksbWFjZCxtYWNkX3NpZ25hbCxsYXN0IEZST00gY29pbmNoZWNrXzFtaW51dGVzIFdIRVJFIHR5cGU9JzYwJyBhbmQgdGFyZ2V0PicyMDE3MTEwNjA3MDAnIE9SREVSIEJZIHRhcmdldCBERVNDIDsK</text>
+        <text encoding="base64">U0VMRUNUICogZnJvbSBjb2luY2hlY2tfMW1pbnV0ZXMgV0hFUkUgdHlwZT0nNjAnIGFuZCAocnNpIDwgMzAgb3IgcnNpID4gNjUpIE9SREVSIEJZIGlkIERFU0MgOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
