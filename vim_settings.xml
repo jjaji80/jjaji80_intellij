@@ -509,11 +509,11 @@
         <mark key="^" line="55" column="23" />
         <mark key="." line="55" column="23" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/check.password_register.js" timestamp="1510046573577">
-        <mark key="[" line="43" column="42" />
-        <mark key="]" line="43" column="52" />
-        <mark key="." line="43" column="52" />
-        <mark key="^" line="43" column="52" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/check.password_register.js" timestamp="1510212948286">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="20" column="50" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Model/Table/UsersTable.php" timestamp="1508837019261">
         <mark key="'" line="90" column="38" />
@@ -528,12 +528,12 @@
         <mark key="." line="15" column="39" />
         <mark key="^" line="15" column="39" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/PasswordController.php" timestamp="1510211277368">
-        <mark key="'" line="57" column="38" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="57" column="37" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/PasswordController.php" timestamp="1510212472997">
+        <mark key="'" line="29" column="27" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="38" column="31" />
       </file>
       <file name="$USER_HOME$/git/hms/app/models/search/daily_sales_employee_search_form.rb" timestamp="1490942621747">
         <mark key="[" line="7" column="20" />
@@ -659,12 +659,6 @@
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1510199262539">
-        <mark key="'" line="449" column="35" />
-        <mark key="[" line="313" column="0" />
-        <mark key="]" line="313" column="0" />
-        <mark key="." line="313" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/Order.kt" timestamp="1508826835765">
         <mark key="[" line="58" column="50" />
@@ -884,6 +878,10 @@
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" timestamp="1510201873552">
         <mark key="'" line="38" column="10" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" timestamp="1510128555735">
+        <mark key="[" line="71" column="8" />
+        <mark key="]" line="76" column="62" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/AsyncPreparedRequest.java" timestamp="1507097117818">
         <mark key="[" line="60" column="36" />
@@ -1360,6 +1358,10 @@
         <mark key="." line="22" column="129" />
         <mark key="^" line="22" column="129" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/regist.js" timestamp="1510212839201">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="32" />
+      </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/KtLog.kt" timestamp="1499747787110">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1450,7 +1452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="9" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="158" column="55" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="190" column="42" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="98" column="2" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
@@ -1543,13 +1544,14 @@
       <jump line="4" column="41" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="103" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="141" column="13" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="26" column="9" filename="$USER_HOME$/git/manganews-web-master/app/Controller/PasswordController.php" />
+      <jump line="27" column="21" filename="$USER_HOME$/git/manganews-web-master/app/Controller/PasswordController.php" />
+      <jump line="59" column="38" filename="$USER_HOME$/git/manganews-web-master/app/Controller/PasswordController.php" />
       <jump line="24" column="30" filename="$USER_HOME$/git/manganews-web-master/app/Controller/PasswordController.php" />
       <jump line="25" column="21" filename="$USER_HOME$/git/manganews-web-master/app/Controller/PasswordController.php" />
       <jump line="57" column="30" filename="$USER_HOME$/git/manganews-web-master/app/Controller/PasswordController.php" />
       <jump line="58" column="21" filename="$USER_HOME$/git/manganews-web-master/app/Controller/PasswordController.php" />
-      <jump line="26" column="9" filename="$USER_HOME$/git/manganews-web-master/app/Controller/PasswordController.php" />
-      <jump line="27" column="21" filename="$USER_HOME$/git/manganews-web-master/app/Controller/PasswordController.php" />
-      <jump line="59" column="38" filename="$USER_HOME$/git/manganews-web-master/app/Controller/PasswordController.php" />
+      <jump line="29" column="27" filename="$USER_HOME$/git/manganews-web-master/app/Controller/PasswordController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1566,49 +1568,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>get_api_host</text>
+        <text>していません</text>
       </register>
       <register name="/" type="4">
-        <text>die</text>
+        <text>token</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JHRoaXMtPkNvbW1vbi0+Z2V0X2FwaV9ob3N0KCkgLg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCXJldHVybjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQllY2hvICR1cmw7CgkJZGllKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdG9rZW4pOwoJCXZhcl9kdW1wKCEkdG9rZW4pOwoJCWRpZSgpOwo=</text>
+        <text encoding="base64">CQllY2hvICR1cmw7CgkJZGllKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcmVkaQo=</text>
+        <text encoding="base64">CQllY2hvICR1cmw7CgkJZGllKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkkZGF0YVsndG9rZW4nXSA9ICR0aGlzLT5yZXF1ZXN0LT5kYXRhKCd0b2tlbicpOwoK</text>
+        <text encoding="base64">CQllY2hvICR1cmw7CgkJZGllKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZihpc3MpCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQk8L2Rpdj4K</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJPGRpdiBjbGFzcz0idGl0bGUiPuODkeOCueODr+ODvOODiTI8L2Rpdj4K</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdG9rZW4pOwoJCXZhcl9kdW1wKCEkdG9rZW4pOwoJCWRpZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>die</last-search>
+      <last-search>token</last-search>
       <last-offset />
-      <last-pattern>die</last-pattern>
+      <last-pattern>token</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1616,7 +1618,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRCeVRhZ1w+</entry>
         <entry>die()</entry>
         <entry encoding="base64">XDxzdW1tYXJpZXNcPg==</entry>
         <entry>link</entry>
@@ -1634,8 +1635,9 @@
         <entry>Pass</entry>
         <entry>resu</entry>
         <entry>Api</entry>
-        <entry>api</entry>
         <entry>die</entry>
+        <entry>api</entry>
+        <entry>token</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
