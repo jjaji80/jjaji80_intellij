@@ -580,7 +580,7 @@
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/component/CoinCheckApiComponent.kt" timestamp="1509246814057">
         <mark key="'" line="48" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510130181318">
+      <file name="/Dummy.txt" timestamp="1510194078578">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="16" />
@@ -791,13 +791,13 @@
         <mark key="^" line="5" column="345" />
         <mark key="." line="5" column="345" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" timestamp="1510191231296">
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" timestamp="1510194058116">
         <mark key="a" line="42" column="4" />
         <mark key="'" line="98" column="48" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="43" column="36" />
+        <mark key="[" line="57" column="7" />
+        <mark key="]" line="57" column="16" />
+        <mark key="." line="57" column="16" />
+        <mark key="^" line="57" column="16" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/js/const.js" timestamp="1501522773395">
         <mark key="[" line="3" column="30" />
@@ -1560,7 +1560,7 @@
         <text encoding="base64">TE9ORyA=</text>
       </register>
       <register name="/" type="4">
-        <text>60</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3RhbFBsKz1pdC5wbAo=</text>
@@ -1593,13 +1593,13 @@
         <text encoding="base64">CTxhIGhyZWY9Ijw/JHRoaXMtPkh0bWwtPnVybCgnL25ld3MvJy5AJG5ld3MtPm5ld3MsIHRydWUpIj48L2E+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>60</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>60</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1607,8 +1607,6 @@
     </search>
     <history>
       <history-search>
-        <entry>send</entry>
-        <entry>_json_to_ajax</entry>
         <entry>cod</entry>
         <entry encoding="base64">XDxyZXF1ZXN0UmVzdFRva2VuXD4=</entry>
         <entry encoding="base64">XDxhbW91bnRcPg==</entry>
@@ -1627,6 +1625,8 @@
         <entry>link</entry>
         <entry encoding="base64">XDxzbGVlcFw+</entry>
         <entry>60</entry>
+        <entry>echo</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -1647,8 +1647,8 @@
         <entry>33</entry>
         <entry>1</entry>
         <entry>43</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
