@@ -791,7 +791,7 @@
         <mark key="^" line="5" column="345" />
         <mark key="." line="5" column="345" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" timestamp="1510133873236">
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" timestamp="1510191231296">
         <mark key="a" line="42" column="4" />
         <mark key="'" line="98" column="48" />
         <mark key="[" line="45" column="0" />
@@ -901,8 +901,8 @@
         <mark key="." line="25" column="135" />
         <mark key="^" line="25" column="135" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1510186051800">
-        <mark key="'" line="124" column="25" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1510190653434">
+        <mark key="'" line="104" column="31" />
         <mark key="[" line="204" column="30" />
         <mark key="]" line="204" column="31" />
         <mark key="." line="204" column="31" />
@@ -1441,8 +1441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="29" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/LongLong.kt" />
-      <jump line="80" column="112" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeManagementService.kt" />
       <jump line="95" column="29" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeManagementService.kt" />
       <jump line="124" column="41" filename="$USER_HOME$/git/ta4j/ta4j-examples/src/main/resources/bitstamp_trades_from_20131125_usd.csv" />
       <jump line="9" column="115" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" />
@@ -1534,13 +1532,15 @@
       <jump line="203" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="210" column="25" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="216" column="25" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
-      <jump line="49" column="21" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
-      <jump line="66" column="25" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
-      <jump line="82" column="25" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="98" column="29" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
-      <jump line="104" column="25" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="118" column="29" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="124" column="25" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
+      <jump line="47" column="49" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
+      <jump line="49" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
+      <jump line="66" column="31" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
+      <jump line="78" column="30" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
+      <jump line="82" column="31" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
+      <jump line="104" column="31" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1560,7 +1560,7 @@
         <text encoding="base64">TE9ORyA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzbGVlcFw+</text>
+        <text>60</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3RhbFBsKz1pdC5wbAo=</text>
@@ -1593,21 +1593,20 @@
         <text encoding="base64">CTxhIGhyZWY9Ijw/JHRoaXMtPkh0bWwtPnVybCgnL25ld3MvJy5AJG5ld3MtPm5ld3MsIHRydWUpIj48L2E+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzbGVlcFw+</last-search>
+      <last-search>60</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzbGVlcFw+</last-pattern>
+      <last-pattern>60</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>enc</entry>
         <entry>send</entry>
         <entry>_json_to_ajax</entry>
         <entry>cod</entry>
@@ -1627,9 +1626,9 @@
         <entry encoding="base64">XDxzdW1tYXJpZXNcPg==</entry>
         <entry>link</entry>
         <entry encoding="base64">XDxzbGVlcFw+</entry>
+        <entry>60</entry>
       </history-search>
       <history-cmd>
-        <entry>14</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>86</entry>
         <entry>126</entry>
@@ -1649,6 +1648,7 @@
         <entry>1</entry>
         <entry>43</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
