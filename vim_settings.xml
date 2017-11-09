@@ -428,12 +428,12 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1509981549431">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1510185488560">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="14" column="76" />
-        <mark key="]" line="14" column="78" />
-        <mark key="." line="14" column="78" />
-        <mark key="^" line="14" column="78" />
+        <mark key="[" line="11" column="122" />
+        <mark key="]" line="11" column="125" />
+        <mark key="." line="11" column="125" />
+        <mark key="^" line="11" column="125" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/tags/index.php" timestamp="1506500959703">
         <mark key="[" line="131" column="0" />
@@ -520,12 +520,6 @@
         <mark key="]" line="15" column="39" />
         <mark key="." line="15" column="39" />
         <mark key="^" line="15" column="39" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/PasswordController.php" timestamp="1510046797985">
-        <mark key="'" line="62" column="2" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/git/hms/app/models/search/daily_sales_employee_search_form.rb" timestamp="1490942621747">
         <mark key="[" line="7" column="20" />
@@ -901,11 +895,11 @@
         <mark key="." line="25" column="135" />
         <mark key="^" line="25" column="135" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1510149554321">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1510185466682">
         <mark key="'" line="124" column="25" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
+        <mark key="[" line="227" column="32" />
+        <mark key="]" line="227" column="33" />
+        <mark key="." line="227" column="33" />
         <mark key="^" line="157" column="54" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/js/coincheck.js" timestamp="1510049918783">
@@ -1558,13 +1552,13 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>coincheckApi</text>
+        <text>asc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbGVlcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvaW5jaGVja0FwaS5kZWxldGVPcGVuTGV2ZXJhZ2UoKQo=</text>
+        <text encoding="base64">U0VMRUNUIHRhcmdldCxyc2ksbWFjZCxtYWNkX3NpZ25hbCxsYXN0IEZST00gY29pbmNoZWNrXzFtaW51dGVzIFdIRVJFIHR5cGU9JzMwJyBhbmQgdGFyZ2V0PicyMDE3MTEwNjA3MDAnIE9SREVSIEJZIHRhcmdldCBERVNDIDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvaW5jaGVja0FwaS5kZWxldGVPcGVuTGV2ZXJhZ2UoKQo=</text>
@@ -1604,7 +1598,7 @@
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
