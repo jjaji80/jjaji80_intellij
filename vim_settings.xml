@@ -583,7 +583,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510234607217">
+      <file name="/Dummy.txt" timestamp="1510293026073">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="15" />
@@ -614,6 +614,7 @@
         <mark key="^" line="0" column="64" />
         <mark key="." line="0" column="64" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Mobile/hang_up.ctp" timestamp="1510293025012" />
       <file name="$USER_HOME$/git/hms/app/models/customer.rb" timestamp="1490745704704">
         <mark key="[" line="16" column="45" />
         <mark key="]" line="16" column="46" />
@@ -682,6 +683,9 @@
         <mark key="]" line="1" column="27" />
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" timestamp="1510292950719">
+        <mark key="'" line="12" column="18" />
       </file>
       <file name="$USER_HOME$/git/hms/db/migrate/20170330064824_create_daily_sales_employees.rb" timestamp="1490856924803">
         <mark key="[" line="6" column="34" />
@@ -1298,9 +1302,9 @@
         <mark key="^" line="35" column="28" />
         <mark key="." line="35" column="28" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1510218440948">
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1510292965974">
         <mark key="a" line="774" column="11" />
-        <mark key="'" line="774" column="11" />
+        <mark key="'" line="586" column="58" />
         <mark key="[" line="773" column="29" />
         <mark key="]" line="774" column="35" />
         <mark key="." line="774" column="35" />
@@ -1429,8 +1433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="48" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
-      <jump line="100" column="34" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
       <jump line="99" column="48" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
       <jump line="98" column="48" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
       <jump line="5" column="4" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/slide.ctp" />
@@ -1529,6 +1531,8 @@
       <jump line="85" column="88" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/js/coincheck.js" />
       <jump line="193" column="17" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="199" column="37" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
+      <jump line="12" column="18" filename="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" />
+      <jump line="586" column="58" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1548,7 +1552,7 @@
         <text>diffs3</text>
       </register>
       <register name="/" type="4">
-        <text>15</text>
+        <text encoding="base64">XDxjb25uZWN0ZWRfdXJsXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">bWFjZHMzWzBdIDwgc2lnbmFsczNbMF0gJiYgZGlmZnNbMF0gPCBkaWZmc1sxXSB8fCBkaWZmc1swXSA8IGRpZmZzWzFd</text>
@@ -1585,9 +1589,9 @@
       </register>
     </registers>
     <search>
-      <last-search>15</last-search>
+      <last-search encoding="base64">XDxjb25uZWN0ZWRfdXJsXD4=</last-search>
       <last-offset />
-      <last-pattern>15</last-pattern>
+      <last-pattern encoding="base64">XDxjb25uZWN0ZWRfdXJsXD4=</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1595,8 +1599,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0X3RvcG5ld3NcPg==</entry>
-        <entry>comme</entry>
         <entry>user</entry>
         <entry encoding="base64">XDxpc19zbWFydHBob25lXD4=</entry>
         <entry>tabarea</entry>
@@ -1615,6 +1617,8 @@
         <entry>19</entry>
         <entry encoding="base64">XDxvcmRlckJvb2tcPg==</entry>
         <entry>15</entry>
+        <entry>hang</entry>
+        <entry encoding="base64">XDxjb25uZWN0ZWRfdXJsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
