@@ -83,12 +83,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" timestamp="1510147719070">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" timestamp="1510408287494">
         <mark key="'" line="504" column="92" />
-        <mark key="[" line="623" column="5" />
-        <mark key="]" line="624" column="3" />
-        <mark key="." line="624" column="3" />
-        <mark key="^" line="624" column="3" />
+        <mark key="[" line="623" column="112" />
+        <mark key="]" line="623" column="112" />
+        <mark key="." line="623" column="112" />
+        <mark key="^" line="623" column="112" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Bookings/index.ctp" timestamp="1508201249749">
         <mark key="[" line="33" column="163" />
@@ -680,11 +680,12 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1510404231658">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1510408175504">
         <mark key="'" line="284" column="0" />
-        <mark key="[" line="313" column="0" />
-        <mark key="]" line="313" column="0" />
-        <mark key="." line="313" column="0" />
+        <mark key="[" line="312" column="35" />
+        <mark key="]" line="313" column="17" />
+        <mark key="." line="313" column="17" />
+        <mark key="^" line="313" column="17" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/Order.kt" timestamp="1508826835765">
         <mark key="[" line="58" column="50" />
@@ -1601,7 +1602,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>debug();</text>
+        <text>&quot;buy&quot;</text>
       </register>
       <register name="/" type="4">
         <text>LongLong</text>
@@ -1610,31 +1611,31 @@
         <text encoding="base64">ICAgICAgICBFbHNhVXRpbC5kZWJ1ZyhjbGllbnRBY3Rpdml0eSwiY2FsbCBvbiBKYXZhc2NyaXB0SW50ZXJmYWNlIik7CiAgICAgICAgY2xpZW50QWN0aXZpdHkuYWxlcnREaWFsKGlkLCBtZXNzYWdlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dvdXQoKTsK</text>
+        <text encoding="base64">ICAgIGFwaS5jbG9zZUFsbCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDlpKfpmKrjga7lpKnmsJfkuojloLFYTUzjg4fjg7zjgr8K</text>
+        <text encoding="base64">ICAgICAgICBsb2dvdXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBFeHBhbmRhYmxlTGlzdEFjdGl2aXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDlpKfpmKrjga7lpKnmsJfkuojloLFYTUzjg4fjg7zjgr8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFeHBhbmRhYmxlTGlzdEFjdGl2aXR5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRBY3Rpdml0eS5hbGVydERpYWwoaWQsIG1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBkZWJ1ZyhTdHJpbmcgbWVzc2FnZSl7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnRBY3Rpdml0eS5hbGVydERpYWwoaWQsIG1lc3NhZ2UpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZihsZXZlbC5lcXVhbHMoRGVidWdMb2cuREVCVUcpKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBkZWJ1ZyhTdHJpbmcgbWVzc2FnZSl7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWcoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZihsZXZlbC5lcXVhbHMoRGVidWdMb2cuREVCVUcpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjbGllbnRBY3Rpdml0eSE9bnVsbCl7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWcoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
