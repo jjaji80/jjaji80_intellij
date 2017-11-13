@@ -146,12 +146,12 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1510202302604">
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1510556429309">
         <mark key="'" line="1453" column="1" />
-        <mark key="[" line="4464" column="0" />
-        <mark key="]" line="4464" column="0" />
-        <mark key="." line="4464" column="0" />
-        <mark key="^" line="4464" column="29" />
+        <mark key="[" line="6405" column="1" />
+        <mark key="]" line="6451" column="0" />
+        <mark key="." line="6451" column="0" />
+        <mark key="^" line="6451" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/judge/BuyJudge.kt" timestamp="1499239865391">
         <mark key="[" line="7" column="19" />
@@ -617,7 +617,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510472941439">
+      <file name="/Dummy.txt" timestamp="1510556254067">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="15" />
@@ -1229,11 +1229,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="73" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1507021260914">
-        <mark key="[" line="434" column="56" />
-        <mark key="]" line="434" column="56" />
-        <mark key="^" line="434" column="58" />
-        <mark key="." line="434" column="56" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1510556311349">
+        <mark key="[" line="389" column="0" />
+        <mark key="]" line="389" column="0" />
+        <mark key="^" line="390" column="0" />
+        <mark key="." line="389" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/UserController.java" timestamp="1510211413442">
         <mark key="'" line="238" column="18" />
@@ -1607,8 +1607,8 @@
       <register name="/" type="4">
         <text>closeAll</text>
       </register>
-      <register name="0" type="4">
-        <text>diffs[1]</text>
+      <register name="0" type="2">
+        <text encoding="base64">CTxzY3JpcHQgYXN5bmMgc3JjPSI8P3BocCBlY2hvIGgoV0VCX0hPU1QuJ2pzL2pxdWVyeS5jb29raWUuanM/djIwMTcwODMxJyk7ID8+Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -1674,9 +1674,6 @@
         <entry>closeAll</entry>
       </history-search>
       <history-cmd>
-        <entry>19</entry>
-        <entry>428</entry>
-        <entry encoding="base64">JzwsJz4x</entry>
         <entry>111</entry>
         <entry>18</entry>
         <entry>63</entry>
@@ -1693,6 +1690,9 @@
         <entry>32</entry>
         <entry>34,37y</entry>
         <entry>1</entry>
+        <entry>6211</entry>
+        <entry>6310</entry>
+        <entry>6407</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
