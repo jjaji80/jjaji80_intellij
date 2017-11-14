@@ -934,11 +934,11 @@
         <mark key="^" line="43" column="70" />
         <mark key="." line="43" column="70" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1510297427552">
+      <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1510637524822">
         <mark key="'" line="27" column="21" />
-        <mark key="[" line="68" column="43" />
-        <mark key="]" line="68" column="43" />
-        <mark key="." line="68" column="43" />
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="25" />
+        <mark key="." line="39" column="25" />
         <mark key="^" line="68" column="43" />
       </file>
       <file name="$USER_HOME$/git/hms/db/migrate/20170330064846_create_daily_outstanding_customers.rb" timestamp="1496615481558">
@@ -1354,12 +1354,12 @@
         <mark key="^" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1510635831395">
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1510637504282">
         <mark key="a" line="806" column="27" />
         <mark key="'" line="808" column="26" />
-        <mark key="[" line="198" column="19" />
-        <mark key="]" line="198" column="19" />
-        <mark key="." line="198" column="19" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
         <mark key="^" line="198" column="19" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Shell/ScheduleShell.php" timestamp="1508759858384">
@@ -1406,11 +1406,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/proguard-rules.pro" timestamp="1507101475208">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="34" />
-        <mark key="^" line="17" column="25" />
-        <mark key="." line="17" column="34" />
+      <file name="$USER_HOME$/git/utelAndroid/app/proguard-rules.pro" timestamp="1510637913003">
+        <mark key="'" line="17" column="36" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/ConditionCls.kt" timestamp="1502518132571">
         <mark key="[" line="11" column="51" />
@@ -1487,7 +1488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="608" column="17" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="759" column="16" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="1041" column="8" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="611" column="12" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
@@ -1587,6 +1587,7 @@
       <jump line="205" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
       <jump line="284" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
       <jump line="301" column="50" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
+      <jump line="17" column="36" filename="$USER_HOME$/git/utelAndroid/app/proguard-rules.pro" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1612,36 +1613,36 @@
         <text>http://fluent.ajio.net:8888/utel.%s?json=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXh0ZW5kID0gImRlYnVnIjsK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1ZygidGVzdCIpOwogICAgICAgIGVycm9yKCJ0ZXN0MiIpOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXh0ZW5kID0gImRlYnVnIjsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBpZihqc29uQXJyYXkudG9TdHJpbmcoKS5jb250YWlucygiZXJyb3IiKSkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
             extend = &quot;error&quot;;
         }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB3aGlsZSAoanNvbkFycmF5Lml0ZXJhdG9yKCkuaGFzTmV4dCgpKSAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ewogICAgICAgICAgICBKc29uRWxlbWVudCBqc29uRWxlbWVudCA9IGpzb25BcnJheS5pdGVyYXRvcigpLm5leHQoKTsKICAgICAgICAgICAgaWYgKGpzb25FbGVtZW50LmlzSnNvbk9iamVjdCgpICYmIGpzb25FbGVtZW50LmdldEFzU3RyaW5nKCkuZXF1YWxzKCJFUlJPUiIpKSB7CiAgICAgICAgICAgICAgICBleHRlbmQgPSAiZXJyb3IiOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlzRXJyb3IgPSB0cnVlOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBib29sZWFuIGlzRXJyb3IgPSBmYWxzZTsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZXh0ZW5kID0iZGVidWciOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>39</text>
       </register>
     </registers>
     <search>
@@ -1677,7 +1678,6 @@
         <entry>closeAll</entry>
       </history-search>
       <history-cmd>
-        <entry>111</entry>
         <entry>18</entry>
         <entry>63</entry>
         <entry>26</entry>
@@ -1697,6 +1697,7 @@
         <entry>6310</entry>
         <entry>6407</entry>
         <entry>w</entry>
+        <entry>39</entry>
       </history-cmd>
       <history-expr />
       <history-input />
