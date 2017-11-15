@@ -370,12 +370,12 @@
         <mark key="." line="42" column="45" />
         <mark key="^" line="42" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1510729684238">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1510732335030">
         <mark key="'" line="620" column="0" />
         <mark key="[" line="625" column="7" />
-        <mark key="]" line="625" column="7" />
-        <mark key="." line="625" column="7" />
-        <mark key="^" line="625" column="8" />
+        <mark key="]" line="625" column="9" />
+        <mark key="." line="625" column="9" />
+        <mark key="^" line="625" column="9" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/const.php" timestamp="1509427455210">
         <mark key="[" line="43" column="20" />
@@ -675,11 +675,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1644b90c-f489-4bbc-808b-2190296f157a/console.sql" timestamp="1508316880707">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="33" />
-        <mark key="^" line="0" column="33" />
-        <mark key="." line="0" column="33" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1644b90c-f489-4bbc-808b-2190296f157a/console.sql" timestamp="1510732093598">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1510474378371">
         <mark key="'" line="301" column="50" />
@@ -961,12 +960,12 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeManagementService.kt" timestamp="1510659414173">
-        <mark key="'" line="204" column="26" />
-        <mark key="[" line="201" column="35" />
-        <mark key="]" line="201" column="36" />
-        <mark key="." line="201" column="36" />
-        <mark key="^" line="201" column="35" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeManagementService.kt" timestamp="1510732979192">
+        <mark key="'" line="216" column="26" />
+        <mark key="[" line="84" column="48" />
+        <mark key="]" line="84" column="52" />
+        <mark key="." line="84" column="52" />
+        <mark key="^" line="84" column="52" />
       </file>
       <file name="$USER_HOME$/git/hms/app/views/daily_sales_employees/_search.html.erb" timestamp="1490941952432">
         <mark key="[" line="23" column="52" />
@@ -1608,40 +1607,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>os</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb09yZGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb2luY2hlY2tBcGkuZGVsZXRlT3BlbkxldmVyYWdlKCkK</text>
+        <text encoding="base64">U0VMRUNUIGNvdW50KCopIEZST00gZWRpdG9yc19uZXdzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2cuZGVidWcoInNlY29uZD0iICsgcmVzdWx0LnNlY29uZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFjZHMuYWRkKGl0W0NvaW5jaGVjazFtaW51dGVzLm1hY2RdLnRvRG91YmxlKCkpCiAgICAgICAgICAgIHNpZ25hbHMuYWRkKGl0W0NvaW5jaGVjazFtaW51dGVzLm1hY2RTaWduYWxdLnRvRG91YmxlKCkpCg==</text>
+        <text encoding="base64">U0VMRUNUIGNvdW50KCopIEZST00gZWRpdG9yc19uZXdzIDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCaWdEZWNpbWFsLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0W3Jlc3VsdC5maXJzdF0gPSBCaWdEZWNpbWFsLnZhbHVlT2YocmVzdWx0LnNlY29uZCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFjZHMuYWRkKGl0W0NvaW5jaGVjazFtaW51dGVzLm1hY2RdLnRvRG91YmxlKCkpCiAgICAgICAgICAgIHNpZ25hbHMuYWRkKGl0W0NvaW5jaGVjazFtaW51dGVzLm1hY2RTaWduYWxdLnRvRG91YmxlKCkpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGx1c0hvdXIgPSBjYWxlbmRhci5nZXQoQ2FsZW5kYXIuSE9VUl9PRl9EQVkpICsgdGFyZ2V0SG91cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybkBmb3JFYWNoCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1680,8 +1679,6 @@
         <entry encoding="base64">XDxkb09yZGVyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>18</entry>
-        <entry>63</entry>
         <entry>26</entry>
         <entry>15</entry>
         <entry>119,124y</entry>
@@ -1699,6 +1696,8 @@
         <entry>39</entry>
         <entry>wq</entry>
         <entry>1</entry>
+        <entry>80</entry>
+        <entry>84</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
