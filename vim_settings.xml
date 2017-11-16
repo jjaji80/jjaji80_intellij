@@ -370,12 +370,12 @@
         <mark key="." line="42" column="45" />
         <mark key="^" line="42" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1510732335030">
-        <mark key="'" line="620" column="0" />
-        <mark key="[" line="625" column="7" />
-        <mark key="]" line="625" column="9" />
-        <mark key="." line="625" column="9" />
-        <mark key="^" line="625" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1510822784867">
+        <mark key="'" line="628" column="46" />
+        <mark key="[" line="631" column="7" />
+        <mark key="]" line="631" column="9" />
+        <mark key="." line="631" column="9" />
+        <mark key="^" line="631" column="9" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/const.php" timestamp="1509427455210">
         <mark key="[" line="43" column="20" />
@@ -624,7 +624,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510799076807">
+      <file name="/Dummy.txt" timestamp="1510823232800">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="15" />
@@ -1368,6 +1368,14 @@
         <mark key="^" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1510823476917">
+        <mark key="a" line="848" column="67" />
+        <mark key="'" line="378" column="15" />
+        <mark key="[" line="850" column="0" />
+        <mark key="]" line="850" column="0" />
+        <mark key="." line="850" column="0" />
+        <mark key="^" line="852" column="0" />
+      </file>
       <file name="$USER_HOME$/git/utel/app/src/Shell/ScheduleShell.php" timestamp="1508759858384">
         <mark key="[" line="39" column="7" />
         <mark key="]" line="39" column="21" />
@@ -1413,7 +1421,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/proguard-rules.pro" timestamp="1510637913003">
+      <file name="$USER_HOME$/git/utelAndroid/app/proguard-rules.pro" timestamp="1510823230164">
         <mark key="'" line="17" column="36" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="24" column="0" />
@@ -1495,7 +1503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="617" column="44" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="201" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
       <jump line="584" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="774" column="11" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
@@ -1595,6 +1602,7 @@
       <jump line="50" column="28" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="17" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="620" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="628" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
