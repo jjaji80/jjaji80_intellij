@@ -362,12 +362,8 @@
         <mark key="^" line="11" column="47" />
         <mark key="." line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/git/hti_mobile/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json" timestamp="1510880810139">
-        <mark key="'" line="27" column="21" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="29" column="29" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/git/hti_mobile/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json" timestamp="1510883756539">
+        <mark key="'" line="39" column="15" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/TagController.java" timestamp="1504091094717">
         <mark key="[" line="42" column="35" />
@@ -456,10 +452,10 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1510876337005">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1510884084430">
         <mark key="'" line="27" column="38" />
-        <mark key="[" line="27" column="94" />
-        <mark key="]" line="27" column="98" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="127" />
         <mark key="." line="27" column="98" />
         <mark key="^" line="27" column="98" />
       </file>
@@ -487,10 +483,11 @@
         <mark key="." line="90" column="42" />
         <mark key="^" line="90" column="42" />
       </file>
-      <file name="$USER_HOME$/git/hti_mobile/tiapp.xml" timestamp="1510880847737">
+      <file name="$USER_HOME$/git/hti_mobile/tiapp.xml" timestamp="1510883440884">
+        <mark key="'" line="19" column="21" />
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="18" />
-        <mark key="^" line="24" column="44" />
+        <mark key="^" line="25" column="46" />
         <mark key="." line="4" column="18" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/service/poloniex/CheckUtil.kt" timestamp="1499518037321">
@@ -629,7 +626,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510880710330">
+      <file name="/Dummy.txt" timestamp="1510882900268">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="15" />
@@ -1264,6 +1261,7 @@
         <mark key="." line="258" column="18" />
         <mark key="^" line="258" column="18" />
       </file>
+      <file name="$USER_HOME$/git/hti_mobile/app/lib/notification_ios.js" timestamp="1510882651006" />
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Topnews/index.ctp" timestamp="1510634314941">
         <mark key="[" line="26" column="15" />
         <mark key="]" line="26" column="33" />
@@ -1510,8 +1508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="18" filename="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" />
-      <jump line="586" column="58" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="555" column="81" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="30" column="25" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="31" column="25" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
@@ -1605,11 +1601,13 @@
       <jump line="5" column="28" filename="$USER_HOME$/git/hti_mobile/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json" />
       <jump line="9" column="19" filename="$USER_HOME$/git/hti_mobile/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json" />
       <jump line="11" column="28" filename="$USER_HOME$/git/hti_mobile/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json" />
-      <jump line="15" column="16" filename="$USER_HOME$/git/hti_mobile/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json" />
       <jump line="17" column="28" filename="$USER_HOME$/git/hti_mobile/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json" />
       <jump line="21" column="17" filename="$USER_HOME$/git/hti_mobile/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json" />
       <jump line="23" column="29" filename="$USER_HOME$/git/hti_mobile/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json" />
       <jump line="27" column="21" filename="$USER_HOME$/git/hti_mobile/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <jump line="19" column="21" filename="$USER_HOME$/git/hti_mobile/tiapp.xml" />
+      <jump line="15" column="16" filename="$USER_HOME$/git/hti_mobile/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <jump line="39" column="15" filename="$USER_HOME$/git/hti_mobile/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1626,18 +1624,13 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>76</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>76</text>
+        <text>152</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-      &quot;size&quot;: &quot;76x76&quot;,
-      &quot;idiom&quot;: &quot;ipad&quot;,
-      &quot;filename&quot;: &quot;appicon-76.png&quot;,
-      &quot;scale&quot;: &quot;1x&quot;
-    },</text>
+      <register name="0" type="2">
+        <text encoding="base64">U0VMRUNUIHRhcmdldCxyc2ksbWFjZCxtYWNkX3NpZ25hbCxsYXN0IEZST00gY29pbmNoZWNrXzFtaW51dGVzIFdIRVJFIHR5cGU9JzEnIGFuZCB0YXJnZXQ+JzIwMTcxMTA2MDcwMCcgT1JERVIgQlkgdGFyZ2V0IERFU0MgOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICwK</text>
@@ -1671,9 +1664,9 @@
       </register>
     </registers>
     <search>
-      <last-search>76</last-search>
+      <last-search>152</last-search>
       <last-offset />
-      <last-pattern>76</last-pattern>
+      <last-pattern>152</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1681,11 +1674,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Pure</entry>
-        <entry>log</entry>
-        <entry encoding="base64">XDxsb2dpbkN1c3RvbWVySWRcPg==</entry>
-        <entry encoding="base64">XDxsb2dpbkZvcnR1bmVUZWxsZXJJZFw+</entry>
-        <entry encoding="base64">XDxUQUdcPg==</entry>
         <entry>,</entry>
         <entry>TAG</entry>
         <entry>String</entry>
@@ -1701,6 +1689,11 @@
         <entry>next</entry>
         <entry>65</entry>
         <entry>76</entry>
+        <entry encoding="base64">XDxOU0JsdWV0b290aFBlcmlwaGVyYWxVc2FnZURlc2NyaXB0aW9uXD4=</entry>
+        <entry>module</entry>
+        <entry>29</entry>
+        <entry>60</entry>
+        <entry>152</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
