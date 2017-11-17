@@ -452,8 +452,8 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1510884084430">
-        <mark key="'" line="27" column="38" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1510885116364">
+        <mark key="'" line="29" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="127" />
         <mark key="." line="27" column="98" />
@@ -1508,8 +1508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="555" column="81" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
-      <jump line="30" column="25" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="31" column="25" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="166" column="18" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="167" column="8" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
@@ -1608,6 +1606,8 @@
       <jump line="19" column="21" filename="$USER_HOME$/git/hti_mobile/tiapp.xml" />
       <jump line="15" column="16" filename="$USER_HOME$/git/hti_mobile/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json" />
       <jump line="39" column="15" filename="$USER_HOME$/git/hti_mobile/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <jump line="8" column="126" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" />
+      <jump line="29" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1627,7 +1627,7 @@
         <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>152</text>
+        <text>240</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U0VMRUNUIHRhcmdldCxyc2ksbWFjZCxtYWNkX3NpZ25hbCxsYXN0IEZST00gY29pbmNoZWNrXzFtaW51dGVzIFdIRVJFIHR5cGU9JzEnIGFuZCB0YXJnZXQ+JzIwMTcxMTA2MDcwMCcgT1JERVIgQlkgdGFyZ2V0IERFU0MgOwo=</text>
@@ -1664,9 +1664,9 @@
       </register>
     </registers>
     <search>
-      <last-search>152</last-search>
+      <last-search>240</last-search>
       <last-offset />
-      <last-pattern>152</last-pattern>
+      <last-pattern>240</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1674,7 +1674,6 @@
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
         <entry>TAG</entry>
         <entry>String</entry>
         <entry>String.*%</entry>
@@ -1694,6 +1693,7 @@
         <entry>29</entry>
         <entry>60</entry>
         <entry>152</entry>
+        <entry>240</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
