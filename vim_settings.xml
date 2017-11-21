@@ -381,7 +381,6 @@
         <mark key="." line="631" column="9" />
         <mark key="^" line="631" column="9" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" timestamp="1511163793757" />
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/const.php" timestamp="1511161078497">
         <mark key="'" line="37" column="8" />
         <mark key="[" line="17" column="8" />
@@ -632,7 +631,6 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1511163801614" />
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
         <mark key="[" line="60" column="20" />
         <mark key="]" line="60" column="32" />
@@ -658,7 +656,6 @@
         <mark key="^" line="0" column="64" />
         <mark key="." line="0" column="64" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogTagsComponent.php" timestamp="1511164849999" />
       <file name="$USER_HOME$/git/hms/app/models/customer.rb" timestamp="1490745704704">
         <mark key="[" line="16" column="45" />
         <mark key="]" line="16" column="46" />
@@ -957,11 +954,11 @@
         <mark key="]" line="33" column="44" />
         <mark key="." line="33" column="44" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1510906465831">
-        <mark key="'" line="34" column="14" />
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="44" column="21" />
-        <mark key="." line="44" column="21" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1511276007133">
+        <mark key="'" line="21" column="41" />
+        <mark key="[" line="268" column="29" />
+        <mark key="]" line="268" column="30" />
+        <mark key="." line="268" column="30" />
         <mark key="^" line="44" column="21" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Admin/AnalysisResults/index.ctp" timestamp="1508144944172">
@@ -978,7 +975,6 @@
         <mark key="." line="39" column="25" />
         <mark key="^" line="68" column="43" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/AdvertisementsComponent.php" timestamp="1511167137605" />
       <file name="$USER_HOME$/git/hms/db/migrate/20170330064846_create_daily_outstanding_customers.rb" timestamp="1496615481558">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="3" column="38" />
@@ -1534,7 +1530,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="21" filename="$USER_HOME$/git/hti_mobile/tiapp.xml" />
       <jump line="15" column="16" filename="$USER_HOME$/git/hti_mobile/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json" />
       <jump line="39" column="15" filename="$USER_HOME$/git/hti_mobile/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json" />
       <jump line="8" column="126" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" />
@@ -1634,6 +1629,7 @@
       <jump line="397" column="23" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="418" column="111" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="320" column="15" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
+      <jump line="21" column="41" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1686,7 +1682,7 @@
         <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1738,10 +1734,10 @@
         <entry>4646</entry>
         <entry>47</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry>56</entry>
         <entry>205</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
