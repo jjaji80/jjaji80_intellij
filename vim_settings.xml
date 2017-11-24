@@ -324,7 +324,8 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" timestamp="1511502237902">
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" timestamp="1511503020505">
+        <mark key="'" line="3" column="18" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
@@ -1052,11 +1053,6 @@
         <mark key="^" line="11" column="55" />
         <mark key="." line="11" column="55" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/error.ctp" timestamp="1511265956726">
-        <mark key="[" line="330" column="0" />
-        <mark key="]" line="330" column="0" />
-        <mark key="." line="330" column="0" />
-      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/ThemenewsController.php" timestamp="1511493555396">
         <mark key="[" line="193" column="0" />
         <mark key="]" line="193" column="64" />
@@ -1185,8 +1181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="212" column="36" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
       <jump line="138" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
       <jump line="124" column="54" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
       <jump line="318" column="20" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
@@ -1285,6 +1279,8 @@
       <jump line="387" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="65" column="21" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="64" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="57" column="48" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" />
+      <jump line="3" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
