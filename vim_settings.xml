@@ -151,12 +151,12 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1511491335451">
-        <mark key="'" line="5045" column="27" />
-        <mark key="[" line="6520" column="0" />
-        <mark key="]" line="6520" column="0" />
-        <mark key="." line="6520" column="0" />
-        <mark key="^" line="6518" column="15" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1511511661720">
+        <mark key="'" line="5050" column="27" />
+        <mark key="[" line="6230" column="0" />
+        <mark key="]" line="6230" column="0" />
+        <mark key="." line="6230" column="0" />
+        <mark key="^" line="6232" column="4" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/judge/BuyJudge.kt" timestamp="1499239865391">
         <mark key="[" line="7" column="19" />
@@ -391,11 +391,11 @@
         <mark key="." line="631" column="9" />
         <mark key="^" line="631" column="9" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" timestamp="1511504715466">
-        <mark key="'" line="3" column="18" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" timestamp="1511512540924">
+        <mark key="'" line="26" column="16" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
         <mark key="^" line="58" column="9" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/const.php" timestamp="1511508457368">
@@ -635,7 +635,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511510374097">
+      <file name="/Dummy.txt" timestamp="1511512513096">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
@@ -1227,7 +1227,7 @@
         <mark key="." line="47" column="55" />
         <mark key="^" line="47" column="55" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TagController.php" timestamp="1511501877516">
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TagController.php" timestamp="1511512519525">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -1566,7 +1566,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="329" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="137" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="494" column="16" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="37" column="8" filename="$USER_HOME$/git/manganews-web-master/app/Config/const.php" />
@@ -1666,6 +1665,7 @@
       <jump line="38" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="41" column="56" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="96" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
+      <jump line="26" column="16" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1691,31 +1691,31 @@
         <text>$data['searched_news_max_page']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JCXJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">CQlDYWNoZTo6c2V0KGFycmF5KCdkdXJhdGlvbicgPT4gJys2MCBzZWNvbmRzJykpOwoJCUNhY2hlOjp3cml0ZSgndGFnJywgJGRhdGEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkZWZpbmUoJ1NFQVJDSF9CTE9HU19OVU0nLCAyKTsgLy8g44K144Kk44OI5qSc57Si5pmC44Gu5Y+W5b6X5pWwCg==</text>
+        <text encoding="base64">CQlpZiAoQ2FjaGU6OnJlYWQoJ3RhZycpKSB7CgkJCXJldHVybiBDYWNoZTo6cmVhZCgndGFnJyk7CgkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkbGltaXQpO2RpZSgpOwo=</text>
+        <text encoding="base64">I3RhYmFyZWEgLml0ZW06bnRoLWNoaWxkKGV2ZW4pIHsKCW1hcmdpbjogMTVweCAwIDAgMSU7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8JCXJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlkZWZpCg==</text>
+        <text encoding="base64">CQlkZWZpbmUoJ1NFQVJDSF9CTE9HU19OVU0nLCAyKTsgLy8g44K144Kk44OI5qSc57Si5pmC44Gu5Y+W5b6X5pWwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlTRUFSQ0hfQkxPR1NfTlVNID0gMjsK</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkbGltaXQpO2RpZSgpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCS8vIEJsb2fjgYvjgolOZXdz44OH44O844K/44KS5Y+W5b6X5Ye65p2l44Gq44GL44Gj44Gf5aC05ZCI44Gu5Yem55CGCg==</text>
+        <text encoding="base64">CQlkZWZpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgpCg==</text>
+        <text encoding="base64">CQlTRUFSQ0hfQkxPR1NfTlVNID0gMjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1754,9 +1754,6 @@
         <entry>= 2</entry>
       </history-search>
       <history-cmd>
-        <entry>6211</entry>
-        <entry>6310</entry>
-        <entry>6407</entry>
         <entry>39</entry>
         <entry>wq</entry>
         <entry>80</entry>
@@ -1773,6 +1770,9 @@
         <entry>65</entry>
         <entry>155</entry>
         <entry>186</entry>
+        <entry>1302</entry>
+        <entry>7231</entry>
+        <entry>6231</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
