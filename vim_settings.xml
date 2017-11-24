@@ -96,12 +96,6 @@
         <mark key="." line="33" column="341" />
         <mark key="^" line="33" column="341" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/CommonComponent.php" timestamp="1511493986381">
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="234" column="15" />
-        <mark key="." line="234" column="15" />
-        <mark key="^" line="234" column="15" />
-      </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="12" />
@@ -982,12 +976,12 @@
         <mark key="." line="39" column="25" />
         <mark key="^" line="68" column="43" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" timestamp="1511493736654">
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" timestamp="1511495610575">
         <mark key="a" line="191" column="55" />
         <mark key="'" line="179" column="26" />
-        <mark key="[" line="184" column="77" />
-        <mark key="]" line="184" column="82" />
-        <mark key="." line="184" column="82" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
         <mark key="^" line="184" column="82" />
       </file>
       <file name="$USER_HOME$/git/hms/db/migrate/20170330064846_create_daily_outstanding_customers.rb" timestamp="1496615481558">
@@ -1290,12 +1284,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="73" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1511494113055">
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1511495558672">
         <mark key="'" line="387" column="0" />
-        <mark key="[" line="387" column="0" />
-        <mark key="]" line="387" column="55" />
-        <mark key="." line="477" column="57" />
-        <mark key="^" line="477" column="57" />
+        <mark key="[" line="481" column="0" />
+        <mark key="]" line="481" column="43" />
+        <mark key="." line="481" column="0" />
+        <mark key="^" line="480" column="41" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/UserController.java" timestamp="1510211413442">
         <mark key="'" line="238" column="18" />
@@ -1658,31 +1652,31 @@
         <text>foot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXNldFRpbWVvdXQoIiQoJyN0YWJhcmVhIC5pdGVtJykubWF0Y2hIZWlnaHQoKSIsMTAwMCk7Cg==</text>
+        <text encoding="base64">CQk8P3BocCBlY2hvICR0aGlzLT5lbGVtZW50KCdfZm9vdGVyJyk7Pz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXNldFRpbWVvdXQoIiQoJyN0YWJhcmVhIC5pdGVtJykubWF0Y2hIZWlnaHQoKSIsMTAwMCk7Cg==</text>
+        <text encoding="base64">CQlkZWZpbmUoJ1NFQVJDSF9CTE9HU19OVU0nLCAyMCk7IC8vIOOCteOCpOODiOaknOe0ouaZguOBruWPluW+l+aVsAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkc2VhcmNoZWRfbmV3cyA9ICR0aGlzLT5fZ2V0X25ld3NfZnJvbV9ibG9ncygkc2VhcmNoZWRfbmV3cyk7Cg==</text>
+        <text encoding="base64">Ly8JCXJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8P3BocCBlbHNlaWY7ID8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCSdsaW1pdCcgPT4gJGxpbWl0LAo=</text>
+        <text encoding="base64">CXNldFRpbWVvdXQoIiQoJyN0YWJhcmVhIC5pdGVtJykubWF0Y2hIZWlnaHQoKSIsMTAwMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCSdvcmRlcicgPT4gJG9yZGVyLAo=</text>
+        <text encoding="base64">CQkkc2VhcmNoZWRfbmV3cyA9ICR0aGlzLT5fZ2V0X25ld3NfZnJvbV9ibG9ncygkc2VhcmNoZWRfbmV3cyk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkY29uZGl0aW9ucyA9IGFycmF5KCdkZWxldGVkJyA9PiBudWxsLCAnc3RhdHVzJyA9PiBTVEFUVVNfU0hPV0lORyk7CgkJJGNvbmRpdGlvbnNbJ09SJ10gPSBhcnJheSgndGl0bGUgTElLRScgPT4gIiUiLiR3b3JkLiIlIiwgJ2JvZHkxIExJS0UnID0+ICIlIi4kd29yZC4iJSIpOwo=</text>
+        <text encoding="base64">CQkJCSdsaW1pdCcgPT4gJGxpbWl0LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlpZigK</text>
+        <text encoding="base64">CQkJCSdvcmRlcicgPT4gJG9yZGVyLAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
