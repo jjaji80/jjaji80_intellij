@@ -40,7 +40,12 @@
         <mark key="." line="8" column="112" />
         <mark key="^" line="8" column="112" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Helper/CommonHelper.php" timestamp="1511587659977" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Helper/CommonHelper.php" timestamp="1511601378943">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="^" line="150" column="25" />
+        <mark key="." line="150" column="0" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_menu.ctp" timestamp="1511265484069">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="4" />
@@ -638,7 +643,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511589890398">
+      <file name="/Dummy.txt" timestamp="1511601407566">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
@@ -758,13 +763,13 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" timestamp="1511590370054">
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" timestamp="1511601425185">
         <mark key="a" line="111" column="2" />
-        <mark key="'" line="45" column="7" />
-        <mark key="[" line="69" column="31" />
-        <mark key="]" line="69" column="32" />
-        <mark key="." line="69" column="32" />
-        <mark key="^" line="69" column="32" />
+        <mark key="'" line="69" column="32" />
+        <mark key="[" line="155" column="30" />
+        <mark key="]" line="155" column="51" />
+        <mark key="." line="155" column="51" />
+        <mark key="^" line="155" column="51" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/component/BitPointApiComponet.kt" timestamp="1502523721817">
         <mark key="[" line="29" column="0" />
@@ -1304,12 +1309,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="73" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1511587390996">
-        <mark key="'" line="387" column="0" />
-        <mark key="[" line="465" column="205" />
-        <mark key="]" line="465" column="206" />
-        <mark key="." line="465" column="206" />
-        <mark key="^" line="480" column="41" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1511600662742">
+        <mark key="'" line="18" column="40" />
+        <mark key="[" line="18" column="48" />
+        <mark key="]" line="18" column="68" />
+        <mark key="." line="18" column="68" />
+        <mark key="^" line="18" column="68" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/UserController.java" timestamp="1510211413442">
         <mark key="'" line="238" column="18" />
@@ -1561,8 +1566,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="25" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
-      <jump line="92" column="1" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
       <jump line="134" column="56" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
       <jump line="238" column="24" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
       <jump line="127" column="31" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
@@ -1661,6 +1664,8 @@
       <jump line="45" column="7" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
       <jump line="17" column="58" filename="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" />
       <jump line="83" column="207" filename="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" />
+      <jump line="18" column="40" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
+      <jump line="69" column="32" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1677,49 +1682,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGlzdGluY3Qg</text>
+        <text encoding="base64">LCAnJnF1b3Q7JywgJyZhbXA7JywgJyZsdDsnLCAnJmd0OycsICcmbmJzcDsnLCAnJmlleGNsOycsICcmY2VudDsnLCAnJnBvdW5kOycsICcmY3VycmVuOycsICcmeWVuOycsICcmYnJ2YmFyOycsICcmc2VjdDsnLCAnJnVtbDsnLCAnJmNvcHk7JywgJyZvcmRmOycsICcmbGFxdW87JywgJyZub3Q7JywgJyZzaHk7JywgJyZyZWc7JywgJyZtYWNyOycsICcmZGVnOycsICcmcGx1c21uOycsICcmc3VwMjsnLCAnJnN1cDM7JywgJyZhY3V0ZTsnLCAnJm1pY3JvOycsICcmcGFyYTsnLCAnJm1pZGRvdDsnLCAnJmNlZGlsOycsICcmc3VwMTsnLCAnJm9yZG07JywgJyZyYXF1bzsnLCAnJmZyYWMxNDsnLCAnJmZyYWMxMjsnLCAnJmZyYWMzNDsnLCAnJmlxdWVzdDsnLCAnJkFncmF2ZTsnLCAnJkFhY3V0ZTsnLCAnJkFjaXJjOycsICcmQXRpbGRlOycsICcmQXVtbDsnLCAnJkFyaW5nOycsICcmQUVsaWc7JywgJyZDY2VkaWw7JywgJyZFZ3JhdmU7JywgJyZFYWN1dGU7JywgJyZFY2lyYzsnLCAnJkV1bWw7JywgJyZJZ3JhdmU7JywgJyZJYWN1dGU7JywgJyZJY2lyYzsnLCAnJkl1bWw7JywgJyZFVEg7JywgJyZOdGlsZGU7JywgJyZPZ3JhdmU7JywgJyZPYWN1dGU7JywgJyZPY2lyYzsnLCAnJk90aWxkZTsnLCAnJk91bWw7JywgJyZ0aW1lczsnLCAnJk9zbGFzaDsnLCAnJlVncmF2ZTsnLCAnJlVhY3V0ZTsnLCAnJlVjaXJjOycsICcmVXVtbDsnLCAnJllhY3V0ZTsnLCAnJlRIT1JOOycsICcmc3psaWc7JywgJyZhZ3JhdmU7JywgJyZhYWN1dGU7JywgJyZhY2lyYzsnLCAnJmF0aWxkZTsnLCAnJmF1bWw7JywgJyZhcmluZzsnLCAnJmFlbGlnOycsICcmY2NlZGlsOycsICcmZWdyYXZlOycsICcmZWFjdXRlOycsICcmZWNpcmM7JywgJyZldW1sOycsICcmaWdyYXZlOycsICcmaWFjdXRlOycsICcmaWNpcmM7JywgJyZpdW1sOycsICcmZXRoOycsICcmbnRpbGRlOycsICcmb2dyYXZlOycsICcmb2FjdXRlOycsICcmb2NpcmM7JywgJyZvdGlsZGU7JywgJyZvdW1sOycsICcmZGl2aWRlOycsICcmb3NsYXNoOycsICcmdWdyYXZlOycsICcmdWFjdXRlOycsICcmdWNpcmM7JywgJyZ1dW1sOycsICcmeWFjdXRlOycsICcmdGhvcm47JywgJyZ5dW1sOycsICcmT0VsaWc7JywgJyZvZWxpZzsnLCAnJlNjYXJvbjsnLCAnJnNjYXJvbjsnLCAnJll1bWw7JywgJyZmbm9mOycsICcmY2lyYzsnLCAnJnRpbGRlOycsICcmQWxwaGE7JywgJyZCZXRhOycsICcmR2FtbWE7JywgJyZEZWx0YTsnLCAnJkVwc2lsb247JywgJyZaZXRhOycsICcmRXRhOycsICcmVGhldGE7JywgJyZJb3RhOycsICcmS2FwcGE7JywgJyZMYW1iZGE7JywgJyZNdTsnLCAnJk51OycsICcmWGk7JywgJyZPbWljcm9uOycsICcmUGk7JywgJyZSaG87JywgJyZTaWdtYTsnLCAnJlRhdTsnLCAnJlVwc2lsb247JywgJyZQaGk7JywgJyZDaGk7JywgJyZQc2k7JywgJyZPbWVnYTsnLCAnJmFscGhhOycsICcmYmV0YTsnLCAnJmdhbW1hOycsICcmZGVsdGE7JywgJyZlcHNpbG9uOycsICcmemV0YTsnLCAnJmV0YTsnLCAnJnRoZXRhOycsICcmaW90YTsnLCAnJmthcHBhOycsICcmbGFtYmRhOycsICcmbXU7JywgJyZudTsnLCAnJnhpOycsICcmb21pY3JvbjsnLCAnJnBpOycsICcmcmhvOycsICcmc2lnbWFmOycsICcmc2lnbWE7JywgJyZ0YXU7JywgJyZ1cHNpbG9uOycsICcmcGhpOycsICcmY2hpOycsICcmcHNpOycsICcmb21lZ2E7JywgJyZ0aGV0YXN5bTsnLCAnJnVwc2loOycsICcmcGl2OycsICcmYnVsbDsnLCAnJmhlbGxpcDsnLCAnJnByaW1lOycsICcmUHJpbWU7JywgJyZvbGluZTsnLCAnJmZyYXNsOycsICcmd2VpZXJwOycsICcmaW1hZ2U7JywgJyZyZWFsOycsICcmdHJhZGU7JywgJyZhbGVmc3ltOycsICcmbGFycjsnLCAnJnVhcnI7JywgJyZyYXJyOycsICcmZGFycjsnLCAnJmhhcnI7JywgJyZjcmFycjsnLCAnJmxBcnI7JywgJyZ1QXJyOycsICcmckFycjsnLCAnJmRBcnI7JywgJyZoQXJyOycsICcmZm9yYWxsOycsICcmcGFydDsnLCAnJmV4aXN0OycsICcmZW1wdHk7JywgJyZuYWJsYTsnLCAnJmlzaW47JywgJyZub3RpbjsnLCAnJm5pOycsICcmcHJvZDsnLCAnJnN1bTsnLCAnJm1pbnVzOycsICcmbG93YXN0OycsICcmcmFkaWM7JywgJyZwcm9wOycsICcmaW5maW47JywgJyZhbmc7JywgJyZhbmQ7JywgJyZvcjsnLCAnJmNhcDsnLCAnJmN1cDsnLCAnJmludDsnLCAnJnRoZXJlNDsnLCAnJnNpbTsnLCAnJmNvbmc7JywgJyZhc3ltcDsnLCAnJm5lOycsICcmZXF1aXY7JywgJyZsZTsnLCAnJmdlOycsICcmc3ViOycsICcmc3VwOycsICcmbnN1YjsnLCAnJnN1YmU7JywgJyZzdXBlOycsICcmb3BsdXM7JywgJyZvdGltZXM7JywgJyZwZXJwOycsICcmc2RvdDsnLCAnJmxjZWlsOycsICcmcmNlaWw7JywgJyZsZmxvb3I7JywgJyZyZmxvb3I7JywgJyZsYW5nOycsICcmcmFuZzsnLCAnJmxvejsnLCAnJnNwYWRlczsnLCAnJmNsdWJzOycsICcmaGVhcnRzOycsICcmZGlhbXM7JywgJyZlbnNwOycsICcmZW1zcDsnLCAnJnRoaW5zcDsnLCAnJnp3bmo7JywgJyZ6d2o7JywgJyZscm07JywgJyZybG07JywgJyZuZGFzaDsnLCAnJm1kYXNoOycsICcmbHNxdW87JywgJyZyc3F1bzsnLCAnJnNicXVvOycsICcmbGRxdW87JywgJyZyZHF1bzsnLCAnJmJkcXVvOycsICcmZGFnZ2VyOycsICcmRGFnZ2VyOycsICcmcGVybWlsOycsICcmbHNhcXVvOyc=</text>
       </register>
       <register name="/" type="4">
-        <text>common</text>
+        <text>cut</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aHRtbCwgYm9keSwgZGl2LCBzcGFuLCBhcHBsZXQsIG9iamVjdCwgaWZyYW1lLApoMSwgaDIsIGgzLCBoNCwgaDUsIGg2LCBwLCBibG9ja3F1b3RlLCBwcmUsCmEsIGFiYnIsIGFjcm9ueW0sIGFkZHJlc3MsIGJpZywgY2l0ZSwgY29kZSwKZGVsLCBkZm4sIGVtLCBpbWcsIGlucywga2JkLCBxLCBzLCBzYW1wLApzbWFsbCwgc3RyaWtlLCBzdHJvbmcsIHN1Yiwgc3VwLCB0dCwgdmFyLApiLCB1LCBpLCBjZW50ZXIsCmRsLCBkdCwgZGQsIG9sLCB1bCwgbGksCmZpZWxkc2V0LCBmb3JtLCBsYWJlbCwgbGVnZW5kLAp0YWJsZSwgY2FwdGlvbiwgdGJvZHksIHRmb290LCB0aGVhZCwgdHIsIHRoLCB0ZCwKYXJ0aWNsZSwgYXNpZGUsIGNhbnZhcywgZGV0YWlscywgZW1iZWQsCmZpZ3VyZSwgZmlnY2FwdGlvbiwgZm9vdGVyLCBoZWFkZXIsIGhncm91cCwKbWVudSwgbmF2LCBvdXRwdXQsIHJ1YnksIHNlY3Rpb24sIHN1bW1hcnksCnRpbWUsIG1hcmssIGF1ZGlvLCB2aWRlbyB7CgltYXJnaW46IDA7CglwYWRkaW5nOiAwOwoJYm9yZGVyOiAwOwoJZm9udC1zdHlsZTpub3JtYWw7Cglmb250LXdlaWdodDogbm9ybWFsOwoJZm9udC1zaXplOiAxMDAlOwoJdmVydGljYWwtYWxpZ246IGJhc2VsaW5lOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQknQmxvZ1RhZ3MudGFnX2lkIG5vdCBpbicgPT4gJHRoaXMtPmlnbm9yZV90YWdzCg==</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdGV4dCk7ZGllKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdGV4dCk7ZGllKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJJ2pvaW5zJyA9PiBhcnJheSgnQmxvZ1RhZ3MnID0+ICd0YWJsZScgPT4gJ2Jsb2dfdGFncycgKSwK</text>
+        <text encoding="base64">CQkJc3Vic3RyKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJCQknQmxvZ1RhZ3MudGFnX2lkIG5vdCBpbicgPT4gJHRoaXMtPmlnbm9yZV90YWdzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgJGNvbW1vbl9oZWxwZXIgPSBuZXcgQ29tbW9uSGVscGVyKG5ldyBWaWV3KCkpOwo=</text>
+        <text encoding="base64">CQkJJ2pvaW5zJyA9PiBhcnJheSgnQmxvZ1RhZ3MnID0+ICd0YWJsZScgPT4gJ2Jsb2dfdGFncycgKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJJGJsb2dbJ2ludHJvZHVjdGlvbiddCg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJJCgnI2xvYWRpbWcnKS5hdHRyKCduYW1lJywgb3JpZ2luYWxfbmV3cy5uZXdzX2NvdW50ICsgIi8iICsgb3JpZ2luYWxfbmV3cy5nbG9iYWwtc2VhcmNoLXdvcmQpOyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlDYWNoZTo6c2V0KGFycmF5KCdkdXJhdGlvbicgPT4gJys2MCBzZWNvbmRzJykpOwoJCUNhY2hlOjp3cml0ZSgndGFnJywgJGRhdGEpOwo=</text>
+        <text encoding="base64">CXByaXZhdGUgJGNvbW1vbl9oZWxwZXIgPSBuZXcgQ29tbW9uSGVscGVyKG5ldyBWaWV3KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>common</last-search>
+      <last-search>cut</last-search>
       <last-offset />
-      <last-pattern>common</last-pattern>
+      <last-pattern>cut</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1727,8 +1732,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRDaGlsZFw+</entry>
-        <entry encoding="base64">XDxSU1MyXD4=</entry>
         <entry>ad_data</entry>
         <entry encoding="base64">XDxfbWFrZV9zcG9uc29yX2l0ZW1cPg==</entry>
         <entry>adconten</entry>
@@ -1747,6 +1750,8 @@
         <entry>-</entry>
         <entry encoding="base64">XDxsb2FkaW1nXD4=</entry>
         <entry>common</entry>
+        <entry encoding="base64">XDxjdXRfdGV4dFw+</entry>
+        <entry>cut</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -1766,8 +1771,8 @@
         <entry>7231</entry>
         <entry>6231</entry>
         <entry>11</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>1</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
