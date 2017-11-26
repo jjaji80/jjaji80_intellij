@@ -643,7 +643,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511732334089">
+      <file name="/Dummy.txt" timestamp="1511733539663">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
@@ -1169,6 +1169,11 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-manganews/app/Config/Env/Development/bootstrap.php" timestamp="1511733578402">
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="44" column="34" />
+        <mark key="." line="44" column="34" />
+      </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/Ro/News/List.php" timestamp="1508232462677">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
@@ -1205,7 +1210,7 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Development/bootstrap.php" timestamp="1511732040842">
+      <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Development/bootstrap.php" timestamp="1511733539049">
         <mark key="[" line="33" column="34" />
         <mark key="]" line="33" column="34" />
         <mark key="^" line="29" column="50" />
@@ -1729,7 +1734,7 @@
         <text encoding="base64">CQl2YXJfZHVtcCgkZGF0YSk7ZGllKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>251</text>
       </register>
     </registers>
     <search>
@@ -1765,7 +1770,6 @@
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>80</entry>
         <entry>84</entry>
         <entry>4646</entry>
         <entry>47</entry>
@@ -1785,6 +1789,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>125</entry>
         <entry>w</entry>
+        <entry>251</entry>
       </history-cmd>
       <history-expr />
       <history-input />
