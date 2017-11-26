@@ -655,7 +655,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511736309778">
+      <file name="/Dummy.txt" timestamp="1511739250638">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
@@ -773,14 +773,6 @@
         <mark key="]" line="6" column="35" />
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" timestamp="1511601425185">
-        <mark key="a" line="111" column="2" />
-        <mark key="'" line="69" column="32" />
-        <mark key="[" line="155" column="30" />
-        <mark key="]" line="155" column="51" />
-        <mark key="." line="155" column="51" />
-        <mark key="^" line="155" column="51" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php" timestamp="1511732399551">
         <mark key="'" line="137" column="59" />
@@ -925,6 +917,12 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_comment_card.ctp" timestamp="1511739375722">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="68" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Testing/const.php" timestamp="1504244064666">
         <mark key="[" line="3" column="47" />
         <mark key="]" line="3" column="47" />
@@ -1019,14 +1017,6 @@
         <mark key="]" line="39" column="25" />
         <mark key="." line="39" column="25" />
         <mark key="^" line="68" column="43" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" timestamp="1511521338110">
-        <mark key="a" line="191" column="55" />
-        <mark key="'" line="179" column="26" />
-        <mark key="[" line="213" column="24" />
-        <mark key="]" line="213" column="25" />
-        <mark key="." line="213" column="25" />
-        <mark key="^" line="227" column="25" />
       </file>
       <file name="$USER_HOME$/git/hms/db/migrate/20170330064846_create_daily_outstanding_customers.rb" timestamp="1496615481558">
         <mark key="[" line="3" column="24" />
@@ -1732,7 +1722,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>webpick</text>
+        <text encoding="base64">ZWNobyA=</text>
       </register>
       <register name="/" type="4">
         <text>user_ty</text>
@@ -1741,25 +1731,25 @@
         <text encoding="base64">PD9waHAgZWNobyAkdGhpcy0+ZWxlbWVudCgnX3lhaG9vJyk7Pz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PD9waHAgZWNobyAkdXNlcl90eXBlOz8+Cg==</text>
+        <text encoding="base64">CQkJCTw/cGhwIHZhcl9kdW1wKCRjb21tZW50LT51c2VyKT8+CgkJCQk8P3BocCB2YXJfZHVtcCgkdXNlcl9pZCk/Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PD9waHAgdmFyX2R1bXAoJHVzZXJfdHlwZSk7ZGllKCk/Pgo=</text>
+        <text encoding="base64">PD9waHAgZWNobyAkdXNlcl90eXBlOz8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PD9waHAgZWNobyAkdXNlcl90eXBlO2RpZSgpOz8+Cg==</text>
+        <text encoding="base64">PD9waHAgdmFyX2R1bXAoJHVzZXJfdHlwZSk7ZGllKCk/Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZQo=</text>
+        <text encoding="base64">PD9waHAgZWNobyAkdXNlcl90eXBlO2RpZSgpOz8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSAK</text>
+        <text encoding="base64">c2VsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdXNlcik7CgkJZGllKCk7Cg==</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CTw/cGhwIGVjaG8gJHVzZXJfdHlwZTtkaWUoKTs/Pgo=</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdXNlcik7CgkJZGllKCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CTw/cGhwIGVjaG8gJHVzZXJfdHlwZTtkaWUoKTs/Pgo=</text>
