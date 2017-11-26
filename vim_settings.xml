@@ -643,7 +643,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511671670996">
+      <file name="/Dummy.txt" timestamp="1511732334089">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
@@ -769,6 +769,13 @@
         <mark key="]" line="155" column="51" />
         <mark key="." line="155" column="51" />
         <mark key="^" line="155" column="51" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php" timestamp="1511732399551">
+        <mark key="'" line="137" column="59" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+        <mark key="^" line="132" column="30" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/component/BitPointApiComponet.kt" timestamp="1502523721817">
         <mark key="[" line="29" column="0" />
@@ -1198,11 +1205,11 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Development/bootstrap.php" timestamp="1498278456208">
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="50" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Development/bootstrap.php" timestamp="1511732040842">
+        <mark key="[" line="33" column="34" />
+        <mark key="]" line="33" column="34" />
         <mark key="^" line="29" column="50" />
-        <mark key="." line="29" column="50" />
+        <mark key="." line="33" column="34" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/MyFcmListenerService.java" timestamp="1504918453017">
         <mark key="[" line="18" column="0" />
@@ -1321,6 +1328,11 @@
         <mark key="]" line="258" column="18" />
         <mark key="." line="258" column="18" />
         <mark key="^" line="258" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/.htaccess" timestamp="1511732046936">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Topnews/index.ctp" timestamp="1510897165923">
         <mark key="[" line="16" column="86" />
@@ -1565,9 +1577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="24" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="127" column="31" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="10" column="28" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
       <jump line="143" column="65" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
       <jump line="86" column="5" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
       <jump line="97" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
@@ -1665,6 +1674,9 @@
       <jump line="18" column="40" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="69" column="32" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
       <jump line="86" column="210" filename="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" />
+      <jump line="92" column="12" filename="$USER_HOME$/git/manganews-web-master/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php" />
+      <jump line="139" column="25" filename="$USER_HOME$/git/manganews-web-master/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php" />
+      <jump line="134" column="59" filename="$USER_HOME$/git/manganews-web-master/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1681,49 +1693,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXJyYXkoJ0Jsb2cnID0+IGFycmF5KCd1c2VyX2lkJyA9PiAkdGhpcy0+dXNlcl9pZCwpKTs=</text>
+        <text>manganews-web</text>
       </register>
       <register name="/" type="4">
-        <text>cut</text>
+        <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aHRtbCwgYm9keSwgZGl2LCBzcGFuLCBhcHBsZXQsIG9iamVjdCwgaWZyYW1lLApoMSwgaDIsIGgzLCBoNCwgaDUsIGg2LCBwLCBibG9ja3F1b3RlLCBwcmUsCmEsIGFiYnIsIGFjcm9ueW0sIGFkZHJlc3MsIGJpZywgY2l0ZSwgY29kZSwKZGVsLCBkZm4sIGVtLCBpbWcsIGlucywga2JkLCBxLCBzLCBzYW1wLApzbWFsbCwgc3RyaWtlLCBzdHJvbmcsIHN1Yiwgc3VwLCB0dCwgdmFyLApiLCB1LCBpLCBjZW50ZXIsCmRsLCBkdCwgZGQsIG9sLCB1bCwgbGksCmZpZWxkc2V0LCBmb3JtLCBsYWJlbCwgbGVnZW5kLAp0YWJsZSwgY2FwdGlvbiwgdGJvZHksIHRmb290LCB0aGVhZCwgdHIsIHRoLCB0ZCwKYXJ0aWNsZSwgYXNpZGUsIGNhbnZhcywgZGV0YWlscywgZW1iZWQsCmZpZ3VyZSwgZmlnY2FwdGlvbiwgZm9vdGVyLCBoZWFkZXIsIGhncm91cCwKbWVudSwgbmF2LCBvdXRwdXQsIHJ1YnksIHNlY3Rpb24sIHN1bW1hcnksCnRpbWUsIG1hcmssIGF1ZGlvLCB2aWRlbyB7CgltYXJnaW46IDA7CglwYWRkaW5nOiAwOwoJYm9yZGVyOiAwOwoJZm9udC1zdHlsZTpub3JtYWw7Cglmb250LXdlaWdodDogbm9ybWFsOwoJZm9udC1zaXplOiAxMDAlOwoJdmVydGljYWwtYWxpZ246IGJhc2VsaW5lOwp9Cg==</text>
+        <text encoding="base64">JHRoaXMtPmVudlsncGF0aCdd</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJdmFyX2R1bXAoJGRhdGEpO2RpZSgpOwo=</text>
+        <text encoding="base64">CQkkdGhpcy0+ZW52WydwYXRoJ109Jy9hdXRoJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkZGF0YSk7ZGllKCk7Cg==</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgKCQkJJHRoaXMtPmVudlsncGF0aCddCgkJKTtkaWUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJdmFyX2R1bXAoJGRhdGFbJ3RtcF9ibG9nJ10pOwoJCQlkaWUoKTsK</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgKCQkJJHRoaXMtPmVudlsncGF0aCddCgkJKTtkaWUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkZGF0YVsndG1wX2Jsb2cnXSk7CgkJZGllKCk7Cg==</text>
+        <text encoding="base64">CQkJc3Vic3RyKCR0aGlzLT5lbnZbJ3JlcXVlc3RfdXJpJ10sIHN0cmxlbigkdGhpcy0+ZW52WydwYXRoJ10pIC0gMSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkZGF0YVsndG1wX2Jsb2cnXSk7CgkJZGllKCk7Cg==</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdGhpcy0+ZW52WydyZXF1ZXN0J10pO2RpZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdGV4dCk7ZGllKCk7Cg==</text>
+        <text encoding="base64">CQl2YQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdGV4dCk7ZGllKCk7Cg==</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdGhpcy0+ZW52WydwYXJhbXMnXSk7ZGllKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJc3Vic3RyKCkK</text>
+        <text encoding="base64">CQkJdmFyX2R1bXAoJGRhdGEpO2RpZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQknQmxvZ1RhZ3MudGFnX2lkIG5vdCBpbicgPT4gJHRoaXMtPmlnbm9yZV90YWdzCg==</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkZGF0YSk7ZGllKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cut</last-search>
+      <last-search encoding="base64">XDxyZXF1ZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern>cut</last-pattern>
+      <last-pattern encoding="base64">XDxyZXF1ZXN0XD4=</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1731,7 +1743,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ad_data</entry>
         <entry encoding="base64">XDxfbWFrZV9zcG9uc29yX2l0ZW1cPg==</entry>
         <entry>adconten</entry>
         <entry>SEARCH_BLOGS_NUM</entry>
@@ -1751,9 +1762,9 @@
         <entry>common</entry>
         <entry encoding="base64">XDxjdXRfdGV4dFw+</entry>
         <entry>cut</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>80</entry>
         <entry>84</entry>
         <entry>4646</entry>
@@ -1772,6 +1783,7 @@
         <entry>11</entry>
         <entry>1</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>125</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
