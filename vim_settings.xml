@@ -67,6 +67,10 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
+      <file name="$USER_HOME$/git/ex2/script/docker.sh" timestamp="1511767610100">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="53" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Staging/const.php" timestamp="1504244069925">
         <mark key="[" line="3" column="47" />
         <mark key="]" line="3" column="47" />
@@ -1157,12 +1161,12 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/git/ex2/public/js/hikikae.js" timestamp="1511766157215">
-        <mark key="'" line="352" column="414" />
-        <mark key="[" line="167" column="28" />
-        <mark key="]" line="167" column="31" />
-        <mark key="^" line="167" column="31" />
-        <mark key="." line="167" column="31" />
+      <file name="$USER_HOME$/git/ex2/public/js/hikikae.js" timestamp="1511768447245">
+        <mark key="'" line="31" column="19" />
+        <mark key="[" line="43" column="16" />
+        <mark key="]" line="43" column="19" />
+        <mark key="^" line="43" column="19" />
+        <mark key="." line="43" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dcda3a33-cfd6-4372-a78f-ca7e8acd9bb5/console.sql" timestamp="1508120407371">
         <mark key="'" line="10" column="34" />
@@ -1257,12 +1261,12 @@
         <mark key="." line="10" column="42" />
         <mark key="^" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" timestamp="1511766323876">
-        <mark key="'" line="96" column="17" />
-        <mark key="[" line="267" column="62" />
-        <mark key="]" line="267" column="63" />
+      <file name="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" timestamp="1511767960834">
+        <mark key="'" line="294" column="40" />
+        <mark key="[" line="324" column="62" />
+        <mark key="]" line="324" column="63" />
         <mark key="^" line="267" column="65" />
-        <mark key="." line="267" column="63" />
+        <mark key="." line="324" column="63" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/UserService.java" timestamp="1510046118863">
         <mark key="'" line="858" column="49" />
@@ -1586,11 +1590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
-      <jump line="86" column="33" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
-      <jump line="159" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
-      <jump line="186" column="71" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
-      <jump line="37" column="10" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
       <jump line="74" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
       <jump line="82" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
       <jump line="83" column="13" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
@@ -1686,6 +1685,11 @@
       <jump line="385" column="0" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="352" column="414" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="96" column="17" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
+      <jump line="272" column="14" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
+      <jump line="273" column="23" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
+      <jump line="284" column="15" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
+      <jump line="294" column="40" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
+      <jump line="25" column="19" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1702,49 +1706,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>hide</text>
+        <text>cruise</text>
       </register>
       <register name="/" type="4">
-        <text>USJ</text>
+        <text>val</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjZGVsaXZlcnlfZGF0ZSIpLmhpZGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZigkKHRoaXMpLnZhbCgpID09ICIzIil7CiAgICAgICAgICAgICQoJyNjcnVpc2UnKS5zaG93KCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI3Vzal90aWNrZXRfYmFua19kaXYnKS5zaG93KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZWZ0IEpPSU4gY2FsbF9sb2dzIGFzIEMgb24gQy5ib29raW5nX2lkPUJvb2tpbmdzLmlkCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGNoZWNrT3JkZXIoJCgiI29yZGVyX2lkIikudmFsKCksICQoIiNvcmRlcl9pZF9jb25maXJtIikudmFsKCksIHRydWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VMRUNUICogCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChDbGllbnRBY3Rpdml0eS50aGlzLCAi44ON44OD44OI44Ov44O844Kv5YiH5pat44GM55m655Sf44GX44G+44GX44Gf44CC5LiA56uv44Ki44OX44Oq44KS5YaN6LW35YuV44GX44Gm44GP44Gg44GV44GEIiwgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKTsK</text>
+        <text encoding="base64">ICBsZWZ0IEpPSU4gY2FsbF9sb2dzIGFzIEMgb24gQy5ib29raW5nX2lkPUJvb2tpbmdzLmlkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChDbGllbnRBY3Rpdml0eS50aGlzLCAi44ON44OD44OI44Ov44O844Kv5YiH5pat44GM55m655Sf44GX44G+44GX44Gf44CC5LiA56uv44Ki44OX44Oq44KS5YaN6LW35YuV44GX44Gm44GP44Gg44GV44GEIiwgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dChDbGllbnRBY3Rpdml0eS50aGlzLCAi44ON44OD44OI44Ov44O844Kv5YiH5pat44GM55m655Sf44GX44G+44GX44Gf44CC5LiA56uv44Ki44OX44Oq44KS5YaN6LW35YuV44GX44Gm44GP44Gg44GV44GEIiwgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKTsK</text>
+        <text encoding="base64">U0VMRUNUICogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChDbGllbnRBY3Rpdml0eS50aGlzLCAi44ON44OD44OI44Ov44O844Kv5YiH5pat44GM55m655Sf44GX44G+44GX44Gf44CC5LiA56uv44Ki44OX44Oq44KS5YaN6LW35YuV44GX44Gm44GP44Gg44GV44GEIiwgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>USJ</last-search>
+      <last-search>val</last-search>
       <last-offset />
-      <last-pattern>USJ</last-pattern>
+      <last-pattern>val</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1752,7 +1756,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0bXBfYmxvZ1w+</entry>
         <entry>edit</entry>
         <entry encoding="base64">XDxkaWZmc1w+</entry>
         <entry>= 2</entry>
@@ -1772,6 +1775,7 @@
         <entry>delivery_date</entry>
         <entry>usj_ticket</entry>
         <entry>USJ</entry>
+        <entry>val</entry>
       </history-search>
       <history-cmd>
         <entry>84</entry>
