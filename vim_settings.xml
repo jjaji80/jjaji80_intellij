@@ -496,12 +496,12 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1511253778857">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="16" column="72" />
-        <mark key="]" line="17" column="1" />
-        <mark key="." line="17" column="1" />
-        <mark key="^" line="17" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1511805794306">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="8" column="76" />
+        <mark key="]" line="8" column="77" />
+        <mark key="." line="8" column="77" />
+        <mark key="^" line="8" column="114" />
       </file>
       <file name="$USER_HOME$/git/hms/spec/models/outstanding_spec.rb" timestamp="1490757922478">
         <mark key="[" line="5" column="16" />
@@ -1710,7 +1710,7 @@
         <text>picks</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkKHRoaXMpLnZhbCgpID09ICIzIil7CiAgICAgICAgICAgICQoJyNjcnVpc2UnKS5zaG93KCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">U0VMRUNUIHRhcmdldCxyc2ksbWFjZCxtYWNkX3NpZ25hbCxsYXN0IEZST00gY29pbmNoZWNrXzFtaW51dGVzIFdIRVJFIHR5cGU9JzUnIGFuZCB0YXJnZXQ+JzIwMTcxMTA2MDcwMCcgT1JERVIgQlkgdGFyZ2V0IERFU0MgOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBtYXJnaW46IDEwNnB4IDAlIDMwcHggMi42JTsK</text>
@@ -1740,7 +1740,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>7</text>
       </register>
     </registers>
     <search>
@@ -1776,7 +1776,6 @@
         <entry>picks</entry>
       </history-search>
       <history-cmd>
-        <entry>4646</entry>
         <entry>47</entry>
         <entry>56</entry>
         <entry>205</entry>
@@ -1796,6 +1795,7 @@
         <entry>1</entry>
         <entry>6471</entry>
         <entry>w</entry>
+        <entry>7</entry>
       </history-cmd>
       <history-expr />
       <history-input />
