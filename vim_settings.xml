@@ -650,7 +650,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511847722329">
+      <file name="/Dummy.txt" timestamp="1511849675815">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
@@ -1337,7 +1337,9 @@
         <mark key="." line="49" column="43" />
         <mark key="^" line="49" column="20" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1511742604655">
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1511849541259">
+        <mark key="a" line="394" column="16" />
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="398" column="35" />
         <mark key="]" line="398" column="35" />
         <mark key="^" line="398" column="35" />
@@ -1568,29 +1570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="75" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="293" column="70" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="26" column="5" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="159" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="164" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="171" column="4" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="295" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="191" column="4" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="232" column="166" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="12" column="2" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
-      <jump line="6525" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="3049" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="4428" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="5045" column="27" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="201" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
-      <jump line="55" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
-      <jump line="179" column="26" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
-      <jump line="387" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="65" column="21" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="64" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
-      <jump line="57" column="48" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" />
-      <jump line="3" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" />
-      <jump line="38" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="41" column="56" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="96" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="26" column="16" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" />
@@ -1668,6 +1647,29 @@
       <jump line="41" column="27" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ex2/Dockerfile" />
+      <jump line="394" column="16" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="18" column="41" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="19" column="41" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="45" column="39" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="115" column="36" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="163" column="36" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="956" column="18" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="957" column="32" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="958" column="16" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="959" column="22" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="966" column="47" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="974" column="34" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="1005" column="78" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="1031" column="0" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="1032" column="50" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="1034" column="41" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="1037" column="21" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="1100" column="41" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="1293" column="64" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="1297" column="23" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="1302" column="23" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="1338" column="37" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1687,7 +1689,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>bund</text>
+        <text>like</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c3RycG9zKCRuZXdzLT5saW5rLCBXRUJfSE9TVCk=</text>
@@ -1720,13 +1722,13 @@
         <text encoding="base64">ICAgICAgcmV0dXJuIGNoZWNrT3JkZXIoJCgiI29yZGVyX2lkIikudmFsKCksICQoIiNvcmRlcl9pZF9jb25maXJtIikudmFsKCksIHRydWUpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>bund</last-search>
+      <last-search>like</last-search>
       <last-offset />
-      <last-pattern>bund</last-pattern>
+      <last-pattern>like</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1734,8 +1736,6 @@
     </search>
     <history>
       <history-search>
-        <entry>-</entry>
-        <entry encoding="base64">XDxsb2FkaW1nXD4=</entry>
         <entry>common</entry>
         <entry encoding="base64">XDxjdXRfdGV4dFw+</entry>
         <entry>cut</entry>
@@ -1750,10 +1750,12 @@
         <entry>usj_ticket</entry>
         <entry>USJ</entry>
         <entry>val</entry>
-        <entry>comment</entry>
         <entry>picks</entry>
         <entry>style.css</entry>
         <entry>bund</entry>
+        <entry>comment</entry>
+        <entry>commentSer</entry>
+        <entry>like</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
@@ -1769,13 +1771,13 @@
         <entry>11</entry>
         <entry>125</entry>
         <entry>251</entry>
-        <entry>1</entry>
         <entry>6471</entry>
         <entry>7</entry>
         <entry>%y</entry>
         <entry>41</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
