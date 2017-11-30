@@ -655,7 +655,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512030991147">
+      <file name="/Dummy.txt" timestamp="1512033759523">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
@@ -1423,7 +1423,8 @@
         <mark key="^" line="201" column="6" />
         <mark key="." line="201" column="6" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" timestamp="1512031826560">
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" timestamp="1512033966246">
+        <mark key="'" line="12" column="15" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -1579,8 +1580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="14" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
-      <jump line="273" column="23" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
       <jump line="284" column="15" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
       <jump line="25" column="19" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="237" column="33" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
@@ -1679,6 +1678,8 @@
       <jump line="17" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_comment_card.ctp" />
       <jump line="18" column="17" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="19" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_comment_card.ctp" />
+      <jump line="14" column="53" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" />
+      <jump line="12" column="15" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1698,7 +1699,7 @@
         <text>type=&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>delete-button-wrap</text>
+        <text encoding="base64">XDx0aXRsZVw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Q29uZmlndXJlOjp3cml0ZSgnT3BhdXRoLlN0cmF0ZWd5LlR3aXR0ZXInLCBhcnJheSgKICAna2V5JyAgICA9PiAnOTM2MTMwODUwMDY3OTYzOTA0LVlFM2RMY1VNYzZSVGhmWXEzTDk3Z3ZZVHVudHJqc3UnLAogICdzZWNyZXQnID0+ICdBSEFlcEtvNkNzc2ttYXk1eWNYcDFZRlVRQktwQklzUGxVNjgzbmtOZ0x6S1EnCikpOw==</text>
@@ -1735,9 +1736,9 @@
       </register>
     </registers>
     <search>
-      <last-search>delete-button-wrap</last-search>
+      <last-search encoding="base64">XDx0aXRsZVw+</last-search>
       <last-offset />
-      <last-pattern>delete-button-wrap</last-pattern>
+      <last-pattern encoding="base64">XDx0aXRsZVw+</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1745,7 +1746,6 @@
     </search>
     <history>
       <history-search>
-        <entry>button</entry>
         <entry>240</entry>
         <entry encoding="base64">XDxOYU5cPg==</entry>
         <entry>NaN</entry>
@@ -1765,6 +1765,7 @@
         <entry encoding="base64">XDzliYrpmaRcPg==</entry>
         <entry>like_n</entry>
         <entry>delete-button-wrap</entry>
+        <entry encoding="base64">XDx0aXRsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>168</entry>
