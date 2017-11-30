@@ -1152,12 +1152,12 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/git/ex2/public/js/hikikae.js" timestamp="1512029484314">
-        <mark key="'" line="153" column="12" />
-        <mark key="[" line="38" column="48" />
-        <mark key="]" line="38" column="48" />
-        <mark key="." line="38" column="48" />
-        <mark key="^" line="38" column="48" />
+      <file name="$USER_HOME$/git/ex2/public/js/hikikae.js" timestamp="1512036603150">
+        <mark key="'" line="27" column="8" />
+        <mark key="[" line="39" column="20" />
+        <mark key="]" line="39" column="20" />
+        <mark key="." line="39" column="20" />
+        <mark key="^" line="39" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dcda3a33-cfd6-4372-a78f-ca7e8acd9bb5/console.sql" timestamp="1508120407371">
         <mark key="'" line="10" column="34" />
@@ -1580,12 +1580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="15" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
-      <jump line="25" column="19" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="237" column="33" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
-      <jump line="243" column="41" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
-      <jump line="249" column="20" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
       <jump line="42" column="7" filename="$USER_HOME$/git/manganews-server/manganews-contents/src/main/java/com/newspicks/contents/controller/NewsController.java" />
       <jump line="49" column="24" filename="$USER_HOME$/git/manganews-server/manganews-contents/src/main/java/com/newspicks/contents/controller/NewsController.java" />
       <jump line="89" column="44" filename="$USER_HOME$/git/manganews-server/manganews-contents/src/main/java/com/newspicks/contents/controller/NewsController.java" />
@@ -1680,6 +1674,12 @@
       <jump line="19" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_comment_card.ctp" />
       <jump line="14" column="53" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" />
       <jump line="12" column="15" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" />
+      <jump line="38" column="48" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
+      <jump line="45" column="16" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
+      <jump line="173" column="8" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
+      <jump line="179" column="12" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
+      <jump line="192" column="12" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
+      <jump line="27" column="8" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1696,13 +1696,13 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>type=&quot;</text>
+        <text>disney_usj</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aXRsZVw+</text>
+        <text>usj_ticket_bank_div</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Q29uZmlndXJlOjp3cml0ZSgnT3BhdXRoLlN0cmF0ZWd5LlR3aXR0ZXInLCBhcnJheSgKICAna2V5JyAgICA9PiAnOTM2MTMwODUwMDY3OTYzOTA0LVlFM2RMY1VNYzZSVGhmWXEzTDk3Z3ZZVHVudHJqc3UnLAogICdzZWNyZXQnID0+ICdBSEFlcEtvNkNzc2ttYXk1eWNYcDFZRlVRQktwQklzUGxVNjgzbmtOZ0x6S1EnCikpOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgJCgnI2Rpc25leV91c2onKS52YWwoIiIpLnRyaWdnZXIoJ2NoYW5nZScpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCTxidXR0b24gY2xhc3M9ImRlbGV0ZS1idXR0b24td3JhcCI+Cg==</text>
@@ -1736,9 +1736,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aXRsZVw+</last-search>
+      <last-search>usj_ticket_bank_div</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aXRsZVw+</last-pattern>
+      <last-pattern>usj_ticket_bank_div</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1746,7 +1746,6 @@
     </search>
     <history>
       <history-search>
-        <entry>240</entry>
         <entry encoding="base64">XDxOYU5cPg==</entry>
         <entry>NaN</entry>
         <entry encoding="base64">PHJhZGlv</entry>
@@ -1766,6 +1765,7 @@
         <entry>like_n</entry>
         <entry>delete-button-wrap</entry>
         <entry encoding="base64">XDx0aXRsZVw+</entry>
+        <entry>usj_ticket_bank_div</entry>
       </history-search>
       <history-cmd>
         <entry>168</entry>
