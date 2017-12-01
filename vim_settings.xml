@@ -658,7 +658,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512044432386">
+      <file name="/Dummy.txt" timestamp="1512095067349">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="16" />
         <mark key="^" line="2" column="16" />
@@ -716,6 +716,7 @@
         <mark key="^" line="32" column="49" />
         <mark key="." line="32" column="49" />
       </file>
+      <file name="/composer.json" timestamp="1512095131936" />
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/config.yml" timestamp="1508233101994">
         <mark key="'" line="9" column="31" />
         <mark key="[" line="5" column="20" />
@@ -1700,7 +1701,7 @@
         <text>edit</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2xsZWN0aW9uXD4=</text>
+        <text>com</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQl2YXJfZHVtcCgnb2snKTtkaWUoKTsK</text>
@@ -1737,9 +1738,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2xsZWN0aW9uXD4=</last-search>
+      <last-search>com</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2xsZWN0aW9uXD4=</last-pattern>
+      <last-pattern>com</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1747,7 +1748,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXh0YXJlYVw+</entry>
         <entry encoding="base64">XDx1c2pfdGlja2V0X2JhbmtcPg==</entry>
         <entry encoding="base64">XDx1c2pfYmFua19kaXZcPg==</entry>
         <entry encoding="base64">XDx1c2pfYmFua1w+</entry>
@@ -1767,6 +1767,7 @@
         <entry encoding="base64">PGR0</entry>
         <entry>nbsp</entry>
         <entry encoding="base64">XDxjb2xsZWN0aW9uXD4=</entry>
+        <entry>com</entry>
       </history-search>
       <history-cmd>
         <entry>168</entry>
