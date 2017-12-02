@@ -1013,12 +1013,12 @@
         <mark key="." line="21" column="20" />
         <mark key="^" line="16" column="51" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1512192543414">
-        <mark key="'" line="126" column="12" />
-        <mark key="[" line="59" column="49" />
-        <mark key="]" line="59" column="50" />
-        <mark key="." line="59" column="50" />
-        <mark key="^" line="59" column="46" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1512213934788">
+        <mark key="'" line="25" column="40" />
+        <mark key="[" line="27" column="59" />
+        <mark key="]" line="27" column="60" />
+        <mark key="." line="27" column="60" />
+        <mark key="^" line="27" column="60" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Admin/AnalysisResults/index.ctp" timestamp="1508144944172">
         <mark key="'" line="32" column="5" />
@@ -1592,7 +1592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
       <jump line="63" column="41" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" />
       <jump line="240" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
       <jump line="247" column="21" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
@@ -1692,6 +1691,7 @@
       <jump line="90" column="8" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
       <jump line="236" column="60" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
       <jump line="329" column="122" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
+      <jump line="25" column="40" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1708,10 +1708,10 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>lessDiff</text>
+        <text>240</text>
       </register>
       <register name="/" type="4">
-        <text>ディズニー</text>
+        <text encoding="base64">XDx0eXBlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>greaterDiff(macdDiff5, 0)</text>
@@ -1748,17 +1748,16 @@
       </register>
     </registers>
     <search>
-      <last-search>ディズニー</last-search>
+      <last-search encoding="base64">XDx0eXBlXD4=</last-search>
       <last-offset />
-      <last-pattern>ディズニー</last-pattern>
+      <last-pattern encoding="base64">XDx0eXBlXD4=</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tiwt</entry>
         <entry>TWI</entry>
         <entry>TWITTER</entry>
         <entry encoding="base64">XDzliYrpmaRcPg==</entry>
@@ -1778,6 +1777,7 @@
         <entry>usj_bank_div</entry>
         <entry>hikikae</entry>
         <entry>ディズニー</entry>
+        <entry encoding="base64">XDx0eXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>168</entry>
