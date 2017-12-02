@@ -1013,11 +1013,12 @@
         <mark key="." line="21" column="20" />
         <mark key="^" line="16" column="51" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1512190974297">
-        <mark key="'" line="112" column="12" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="9" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1512192543414">
+        <mark key="'" line="126" column="12" />
+        <mark key="[" line="59" column="49" />
+        <mark key="]" line="59" column="50" />
+        <mark key="." line="59" column="50" />
+        <mark key="^" line="59" column="46" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Admin/AnalysisResults/index.ctp" timestamp="1508144944172">
         <mark key="'" line="32" column="5" />
@@ -1707,40 +1708,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>lessDiff</text>
       </register>
       <register name="/" type="4">
         <text>ディズニー</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYWNkcy5mb3JFYWNoSW5kZXhlZCB7IGluZGV4LCBkIC0+CiAgICAgICAgICAgIGRpZmZzLmFkZChkIC0gc2lnbmFsc1tpbmRleF0pCiAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>greaterDiff(macdDiff5, 0)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9rID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVsZXNCdXkubWEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9rID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBydWxlc0J1eS5hZGQoZ3JlYXRlckRpZmYobWFjZERpZmYsIDApKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1c2hTZXJ2aWNlLnB1c2goIuWjsuOCiuOBvuOBmSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWFjZERpZmYgPSBNYWNkRGlmZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1c2hTZXJ2aWNlLnB1c2goIuiyt+OBhOOBvuOBmSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGlmZnM0ID0gbXV0YWJsZUxpc3RPZjxEb3VibGU+KCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodG90YWxQbCAhPSAwLjApCiAgICAgICAgICAgIHB1c2hTZXJ2aWNlLnB1c2goIk1BQ0QgJHR5cGUg5rG65riI44GX44G+44GZ44CCICR0b3RhbFBsIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">44OQ44O844K444On44Oz5pu05pawCg==</text>
+        <text encoding="base64">ICAgICAgICBpZihtYWNkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">5b6u6Kq/5pW0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">5byV5o+b5Yi444Gu6YG45oqe44KS5LiA44Gk44Gu44G/44GrIC8gVVNK44OB44Kx44OD44OI44KS5biM5pyb44Gu5aC05ZCI44CB44GK5bGK44GR5biM5pyb5pel5qyE44KS6KGo56S644GX44Gq44GECg==</text>
+        <text encoding="base64">ICAgICAgICBtYWNkRGlmZiA9IHRyYWRlTWFuYWdlbWVudFNlcnZpY2UuY29udmVydE1hY2REaWZmKGRhdGEpCiAgICAgICAgbWFjZERpZmY1ID0gdHJhZGVNYW5hZ2VtZW50U2VydmljZS5jb252ZXJ0TWFjZERpZmYoZGF0YTQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Um91dGVyOjpjb25uZWN0KCcvYmxvZy90d2VldCcsCQkJCWFycmF5KCdjb250cm9sbGVyJyA9PiAnQmxvZycsICdhY3Rpb24nID0+J3R3ZWV0JykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoZGlmZnMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
