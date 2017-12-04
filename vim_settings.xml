@@ -189,11 +189,11 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MacdDiff.kt" timestamp="1512190770290">
-        <mark key="[" line="2" column="68" />
-        <mark key="]" line="2" column="89" />
-        <mark key="^" line="2" column="89" />
-        <mark key="." line="2" column="89" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MacdDiff.kt" timestamp="1512347617611">
+        <mark key="[" line="2" column="95" />
+        <mark key="]" line="2" column="115" />
+        <mark key="^" line="2" column="115" />
+        <mark key="." line="2" column="115" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1512031659627">
         <mark key="'" line="18" column="17" />
@@ -1013,12 +1013,12 @@
         <mark key="." line="21" column="20" />
         <mark key="^" line="16" column="51" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1512225520029">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1512348081450">
         <mark key="'" line="25" column="40" />
-        <mark key="[" line="27" column="59" />
-        <mark key="]" line="27" column="61" />
-        <mark key="." line="27" column="61" />
-        <mark key="^" line="27" column="61" />
+        <mark key="[" line="44" column="28" />
+        <mark key="]" line="44" column="31" />
+        <mark key="^" line="44" column="31" />
+        <mark key="." line="44" column="31" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Admin/AnalysisResults/index.ctp" timestamp="1508144944172">
         <mark key="'" line="32" column="5" />
@@ -1052,12 +1052,12 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeManagementService.kt" timestamp="1512190977327">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeManagementService.kt" timestamp="1512347642885">
         <mark key="'" line="80" column="65" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="136" column="9" />
-        <mark key="^" line="131" column="22" />
-        <mark key="." line="134" column="0" />
+        <mark key="[" line="139" column="46" />
+        <mark key="]" line="139" column="50" />
+        <mark key="." line="139" column="50" />
+        <mark key="^" line="139" column="50" />
       </file>
       <file name="$USER_HOME$/git/hms/app/views/daily_sales_employees/_search.html.erb" timestamp="1490941952432">
         <mark key="[" line="23" column="52" />
@@ -1708,40 +1708,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>240</text>
+        <text>diffs</text>
       </register>
       <register name="/" type="4">
         <text>240</text>
       </register>
-      <register name="0" type="4">
-        <text>greaterDiff(macdDiff5, 0)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcobWFjZERpZmY/LmRpZmZzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVsZXNCdXkubWEK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcobWFjZERpZmY1Py5kaWZmcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBydWxlc0J1eS5hZGQoZ3JlYXRlckRpZmYobWFjZERpZmYsIDApKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVsZXNTYWxlLmFkZChncmVhdGVyRGlmZihtYWNkRGlmZjUsIDEpKQogICAgICAgICAgICBydWxlc1NhbGUuYWRkKGdyZWF0ZXJEaWZmKG1hY2REaWZmNSwgMikpCiAgICAgICAgICAgIHJ1bGVzU2FsZS5hZGQobGVzc0RpZmYobWFjZERpZmY1LCAwKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1c2hTZXJ2aWNlLnB1c2goIuWjsuOCiuOBvuOBmSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVsZXNCdXkuYWRkKGdyZWF0ZXJEaWZmKG1hY2REaWZmNSwgMCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1c2hTZXJ2aWNlLnB1c2goIuiyt+OBhOOBvuOBmSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVsZXNCdXkuYWRkKGxlc3NEaWZmKG1hY2REaWZmNSwgMSkpCiAgICAgICAgICAgIHJ1bGVzQnV5LmFkZChsZXNzRGlmZihtYWNkRGlmZjUsIDIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodG90YWxQbCAhPSAwLjApCiAgICAgICAgICAgIHB1c2hTZXJ2aWNlLnB1c2goIk1BQ0QgJHR5cGUg5rG65riI44GX44G+44GZ44CCICR0b3RhbFBsIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihtYWNkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVsZXNCdXkubWEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBydWxlc0J1eS5hZGQoZ3JlYXRlckRpZmYobWFjZERpZmYsIDApKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYWNkRGlmZiA9IHRyYWRlTWFuYWdlbWVudFNlcnZpY2UuY29udmVydE1hY2REaWZmKGRhdGEpCiAgICAgICAgbWFjZERpZmY1ID0gdHJhZGVNYW5hZ2VtZW50U2VydmljZS5jb252ZXJ0TWFjZERpZmYoZGF0YTQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1c2hTZXJ2aWNlLnB1c2goIuWjsuOCiuOBvuOBmSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoZGlmZnMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1c2hTZXJ2aWNlLnB1c2goIuiyt+OBhOOBvuOBmSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1780,7 +1780,6 @@
         <entry>240</entry>
       </history-search>
       <history-cmd>
-        <entry>168</entry>
         <entry>136</entry>
         <entry>65</entry>
         <entry>155</entry>
@@ -1799,6 +1798,7 @@
         <entry>%y</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>1</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
