@@ -313,7 +313,7 @@
         <mark key="^" line="11" column="106" />
         <mark key="." line="11" column="107" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512039469547">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512350003993">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -663,13 +663,13 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="75" column="60" />
       </file>
-      <file name="/dummy.sql" timestamp="1512185670307">
+      <file name="/dummy.sql" timestamp="1512349987354">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512119609578">
+      <file name="/Dummy.txt" timestamp="1512349431797">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -869,11 +869,11 @@
         <mark key="^" line="39" column="14" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_picks_card.ctp" timestamp="1509510813402">
-        <mark key="[" line="26" column="132" />
-        <mark key="]" line="26" column="211" />
-        <mark key="^" line="20" column="68" />
-        <mark key="." line="20" column="68" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_picks_card.ctp" timestamp="1512349523901">
+        <mark key="[" line="7" column="60" />
+        <mark key="]" line="7" column="67" />
+        <mark key="^" line="7" column="67" />
+        <mark key="." line="7" column="67" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_login.ctp" timestamp="1511264240783">
         <mark key="[" line="53" column="48" />
@@ -1436,10 +1436,10 @@
         <mark key="^" line="201" column="6" />
         <mark key="." line="201" column="6" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" timestamp="1512033966246">
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" timestamp="1512349472317">
         <mark key="'" line="12" column="15" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="3" column="16" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="84" />
       </file>
@@ -1708,13 +1708,13 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>diffs</text>
+        <text>news</text>
       </register>
       <register name="/" type="4">
         <text>240</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcobWFjZERpZmY/LmRpZmZzKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">PD9waHAgaWYgKHN0cnBvcygkbmV3cy0+bGluaywgV0VCX0hPU1QpID09PSBmYWxzZSAmJiBpc3NldCgkdXNlcl90eXBlKSAmJiAkdXNlcl90eXBlID09ICdBRE1JTicpOiA/PgoJCTxidXR0b24gY2xhc3M9ImRlbGV0ZSIgb25jbGljaz0iZGVsZXRlUGljayg8P3BocCBlY2hvICRuZXdzLT5uZXdzPz4pIj48aW1nIHNyYz0iL2ltZy9kdXN0LWJpbi5wbmciIGFsdD0iIj48L2J1dHRvbj4KCTw/cGhwIGVuZGlmOyA/Pg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsb2cuZGVidWcobWFjZERpZmY1Py5kaWZmcykK</text>
