@@ -121,12 +121,12 @@
         <mark key="." line="33" column="341" />
         <mark key="^" line="33" column="341" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1512489961642">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1512491817935">
         <mark key="'" line="34" column="23" />
-        <mark key="[" line="28" column="25" />
-        <mark key="]" line="28" column="41" />
-        <mark key="." line="28" column="25" />
-        <mark key="^" line="28" column="24" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="35" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="60" column="39" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
@@ -486,12 +486,12 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1512486826856">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1512491529001">
         <mark key="'" line="16" column="7" />
-        <mark key="[" line="47" column="87" />
-        <mark key="]" line="47" column="88" />
-        <mark key="." line="47" column="88" />
-        <mark key="^" line="47" column="88" />
+        <mark key="[" line="47" column="86" />
+        <mark key="]" line="47" column="87" />
+        <mark key="." line="47" column="87" />
+        <mark key="^" line="47" column="87" />
       </file>
       <file name="$USER_HOME$/git/hms/spec/models/outstanding_spec.rb" timestamp="1490757922478">
         <mark key="[" line="5" column="16" />
@@ -655,7 +655,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512489944810">
+      <file name="/Dummy.txt" timestamp="1512491827248">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -1745,40 +1745,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>1.02</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb25nTG9uZ1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>macdDiff.rsis[0]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDEuMDE1Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYmFsYW5jZUJ0YyA9IGNvaW5jaGVja0FwaSEhLmJhbGFuY2VCdGMK</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCAqIDYwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDAwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVzaFNlcnZpY2UucHVzaCgi5aOy44KK44KS44K744OD44OI44GX44G+44GZIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJvd2FibGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWEK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmF0ZSA9IAo=</text>
+        <text encoding="base64">ICAgIHZhbCBzdWI6IERvdWJsZQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
