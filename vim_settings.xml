@@ -624,12 +624,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="14" column="57" />
       </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-manganews/app/Config/const.php" timestamp="1512457872978">
-        <mark key="'" line="36" column="93" />
-        <mark key="[" line="90" column="49" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-manganews/app/Config/const.php" timestamp="1512473753617">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/MediaPlayerUtil.java" timestamp="1496370524221">
         <mark key="[" line="18" column="12" />
@@ -649,7 +648,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512462627114">
+      <file name="/Dummy.txt" timestamp="1512475598879">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -707,8 +706,12 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/News/body.ctp" timestamp="1512380015439">
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/News/body.ctp" timestamp="1512475554245">
         <mark key="'" line="1" column="44" />
+        <mark key="[" line="48" column="48" />
+        <mark key="]" line="48" column="48" />
+        <mark key="." line="48" column="48" />
+        <mark key="^" line="48" column="46" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Company/curator.ctp" timestamp="1512457811960">
         <mark key="[" line="25" column="63" />
@@ -1044,11 +1047,10 @@
         <mark key="." line="39" column="25" />
         <mark key="^" line="68" column="43" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" timestamp="1512468278525">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="93" column="26" />
-        <mark key="." line="93" column="26" />
-        <mark key="^" line="93" column="26" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" timestamp="1512475614445">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/git/hms/db/migrate/20170330064846_create_daily_outstanding_customers.rb" timestamp="1496615481558">
         <mark key="[" line="3" column="24" />
@@ -1620,7 +1622,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="10" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="25" column="8" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="159" column="45" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="39" column="25" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
@@ -1720,6 +1721,7 @@
       <jump line="89" column="4" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
       <jump line="365" column="31" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
       <jump line="123" column="55" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
+      <jump line="93" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-manganews/app/Config/const.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1736,40 +1738,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>node</text>
+        <text encoding="base64">44CA4oaQ5Ye654mI56S+</text>
       </register>
       <register name="/" type="4">
         <text>==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8g44Kt44Ol44Os44O844K/44O86KGo56S65Lu25pWwCmRlZmluZSgnQ1VSQVRPUl9SSUdIVCcsIDQ1KTsKZGVmaW5lKCdDVVJBVE9SX01BSU4nLCAyMCk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">PD9waHAgZWNobygkbGRfYm9va1sndGl0bGUnXSk7Pz4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCSRyZXN1bHRbXQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxiciAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkcmVzCg==</text>
+        <text encoding="base64">CQkJCXZhcl9kdW1wKCRtYXRjaCk7ZGllKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl2YQo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXZhcl9kdW1wKCRtYXRjaCk7ZGllKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkZG9tID0gCg==</text>
+        <text encoding="base64">CQkJCXZhcl9kdW1wKCRtYXRjaCk7ZGllKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkZGEK</text>
+        <text encoding="base64">CQkJCXZhcl9kdW1wKCdvaycpO2RpZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSRib29rWyd5ZWFyJ10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
