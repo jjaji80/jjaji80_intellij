@@ -121,12 +121,12 @@
         <mark key="." line="33" column="341" />
         <mark key="^" line="33" column="341" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1512485485788">
-        <mark key="'" line="33" column="23" />
-        <mark key="[" line="43" column="35" />
-        <mark key="]" line="43" column="36" />
-        <mark key="." line="43" column="36" />
-        <mark key="^" line="28" column="55" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1512489961642">
+        <mark key="'" line="34" column="23" />
+        <mark key="[" line="28" column="25" />
+        <mark key="]" line="28" column="41" />
+        <mark key="." line="28" column="25" />
+        <mark key="^" line="28" column="24" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
@@ -655,7 +655,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512483033503">
+      <file name="/Dummy.txt" timestamp="1512489944810">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -1750,8 +1750,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxsb25nTG9uZ1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgb3JkZXJCb29rcyA9IGNvaW5jaGVja0FwaSEhLm9yZGVyQm9va3MKICAgICAgICB2YWwgcmF0ZSA9IG9yZGVyQm9va3MuYmlkc1sxMF0K</text>
+      <register name="0" type="4">
+        <text>macdDiff.rsis[0]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgYmFsYW5jZUJ0YyA9IGNvaW5jaGVja0FwaSEhLmJhbGFuY2VCdGMK</text>
