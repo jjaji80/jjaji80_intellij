@@ -58,6 +58,14 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" timestamp="1512522859664">
+        <mark key="'" line="329" column="122" />
+        <mark key="[" line="26" column="80" />
+        <mark key="]" line="26" column="81" />
+        <mark key="." line="26" column="81" />
+        <mark key="^" line="338" column="136" />
+        <mark key="n" line="235" column="60" />
+      </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/Call.java" timestamp="1510304523925">
         <mark key="[" line="9" column="3" />
         <mark key="]" line="10" column="4" />
@@ -662,11 +670,11 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512516220311">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-        <mark key="^" line="0" column="14" />
+      <file name="/Dummy.txt" timestamp="1512522943229">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
         <mark key="[" line="60" column="20" />
@@ -1193,12 +1201,12 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/git/ex2/public/js/hikikae.js" timestamp="1512118725612">
-        <mark key="'" line="38" column="25" />
-        <mark key="[" line="42" column="12" />
-        <mark key="]" line="42" column="13" />
-        <mark key="." line="42" column="13" />
-        <mark key="^" line="42" column="13" />
+      <file name="$USER_HOME$/git/ex2/public/js/hikikae.js" timestamp="1512522806955">
+        <mark key="'" line="144" column="12" />
+        <mark key="[" line="153" column="28" />
+        <mark key="]" line="153" column="31" />
+        <mark key="." line="153" column="31" />
+        <mark key="^" line="153" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dcda3a33-cfd6-4372-a78f-ca7e8acd9bb5/console.sql" timestamp="1508120407371">
         <mark key="'" line="10" column="34" />
@@ -1293,11 +1301,11 @@
         <mark key="." line="10" column="42" />
         <mark key="^" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" timestamp="1512119564884">
+      <file name="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" timestamp="1512522863805">
         <mark key="'" line="276" column="14" />
-        <mark key="[" line="278" column="101" />
-        <mark key="]" line="278" column="117" />
-        <mark key="." line="278" column="101" />
+        <mark key="[" line="21" column="80" />
+        <mark key="]" line="21" column="81" />
+        <mark key="." line="21" column="81" />
         <mark key="^" line="21" column="80" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/UserService.java" timestamp="1510046118863">
@@ -1628,8 +1636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="50" filename="$USER_HOME$/git/manganews-web-master/app/View/News/password.ctp" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Model/Blog.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Blog/_preview.ctp" />
       <jump line="1" column="10" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_breadcrumb.ctp" />
       <jump line="4" column="31" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_breadcrumb.ctp" />
@@ -1728,6 +1734,8 @@
       <jump line="186" column="39" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/NewsComponent.php" />
       <jump line="27" column="40" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/NewsComponent.php" />
+      <jump line="46" column="0" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
+      <jump line="144" column="12" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1744,49 +1752,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>test23</text>
+        <text encoding="base64">cmVmcyA=</text>
       </register>
       <register name="/" type="4">
-        <text>redirect</text>
+        <text encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDEuMDE1Cg==</text>
+        <text encoding="base64">ICAgICAgICAkKCcjZGVsaXZlcnlfZGF0ZScpLmhpZGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJdmFyX2R1bXAoJHRtcCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkaWUoKTsK</text>
+        <text encoding="base64">6aCG5bqP44GM5L+d6Ki844GV44KM44KL5a6f6KOF5pa55rOV44Gr5aSJ5pu0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJdmFyX2R1bXAoKQo=</text>
+        <text encoding="base64">Mjk0NDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQk8P3BocCB2YXJfZHVtcCgkdXNlcik7Pz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI3Vzal90aWNrZXRfYmFua19kaXYnKS5oaWRlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCAqIDYwKQo=</text>
+        <text encoding="base64">CQkJdmFyX2R1bXAoJHRtcCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDAwKQo=</text>
+        <text encoding="base64">CQlkaWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVzaFNlcnZpY2UucHVzaCgi5aOy44KK44KS44K744OD44OI44GX44G+44GZIikK</text>
+        <text encoding="base64">CQkJdmFyX2R1bXAoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQk8P3BocCB2YXJfZHVtcCgkdXNlcik7Pz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCAqIDYwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>redirect</last-search>
+      <last-search encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern>redirect</last-pattern>
+      <last-pattern encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxldGVPcGVuTGV2ZXJhZ2VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1794,8 +1802,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Blog</entry>
-        <entry encoding="base64">XDxVc2Vyc1w+</entry>
         <entry>style.c</entry>
         <entry>image_</entry>
         <entry encoding="base64">XDxfcHV0X2ZpbGVcPg==</entry>
@@ -1814,6 +1820,8 @@
         <entry encoding="base64">XDxkZWxldGVPcGVuTGV2ZXJhZ2VcPg==</entry>
         <entry encoding="base64">XDxsb25nTG9uZ1w+</entry>
         <entry>redirect</entry>
+        <entry>disney_usj</entry>
+        <entry encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
