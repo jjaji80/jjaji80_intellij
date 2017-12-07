@@ -140,13 +140,13 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" timestamp="1512632121599">
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" timestamp="1512633175744">
         <mark key="a" line="271" column="4" />
-        <mark key="'" line="264" column="27" />
-        <mark key="[" line="291" column="92" />
-        <mark key="]" line="291" column="101" />
-        <mark key="." line="291" column="101" />
-        <mark key="^" line="291" column="101" />
+        <mark key="'" line="255" column="0" />
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="0" />
+        <mark key="." line="268" column="0" />
+        <mark key="^" line="268" column="24" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/JavaScriptInterface.java" timestamp="1510898144549">
         <mark key="[" line="108" column="58" />
@@ -1302,9 +1302,9 @@
         <mark key="." line="122" column="31" />
         <mark key="^" line="122" column="31" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5f465f49-db82-4fde-81e3-3038a21ecefb/console.sql" timestamp="1512632093868">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="64" column="29" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5f465f49-db82-4fde-81e3-3038a21ecefb/console.sql" timestamp="1512633157019">
+        <mark key="'" line="64" column="58" />
+        <mark key="[" line="64" column="125" />
         <mark key="]" line="64" column="124" />
         <mark key="." line="64" column="124" />
         <mark key="^" line="64" column="124" />
@@ -1625,8 +1625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
-      <jump line="291" column="21" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="343" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="54" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="60" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
@@ -1725,6 +1723,8 @@
       <jump line="276" column="36" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
       <jump line="122" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/700b3247-5acd-4389-95b6-4e68e03ea964/console.sql" />
       <jump line="34" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5f465f49-db82-4fde-81e3-3038a21ecefb/console.sql" />
+      <jump line="64" column="58" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5f465f49-db82-4fde-81e3-3038a21ecefb/console.sql" />
+      <jump line="255" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1744,46 +1744,46 @@
         <text>blog_socials</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxlY3RlZF90eXBlXD4=</text>
+        <text>die</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IE9SREVSIEJZIHVzZXJfaWQgPSAzNTAyODggZGVzYyx1c2VyX2lkID0gMzUwNDc1IGRlc2MsIGlkIERFU0MgIEw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">44CM5b+F6aCI5YWl5Yqb6aCF55uu44KS44GK56K644GL44KB5LiL44GV44GE44CC44CN44Go6KGo56S644GV44KM44G+44GZ44CC44Go44GE44GG5ZWP6aGM5L+u5q2jCg==</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkc3FsKTtkaWUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZsYXNoLm5vd1s6bm90aWNlXT1wYXJhbXMKICAgIEBkZWxpdmVyeV9kYXRlX29wdGlvbiB8fD0gZ2V0X2RlbGl2ZXJ5X2RhdGVfb3B0aW9uCiAgICByZW5kZXIgOmxheW91dD0+ZmFsc2UsIDphY3Rpb24gPT4gOmhpa2lrYWUgYW5kIHJldHVybgo=</text>
+        <text encoding="base64">44CM5b+F6aCI5YWl5Yqb6aCF55uu44KS44GK56K644GL44KB5LiL44GV44GE44CC44CN44Go6KGo56S644GV44KM44G+44GZ44CC44Go44GE44GG5ZWP6aGM5L+u5q2jCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB1bmxlc3MgY2hlY2tfd2lubmVyKHBhcmFtc1s6b3JkZXJfaWRdKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZsYXNoLm5vd1s6bm90aWNlXT1wYXJhbXMKICAgIEBkZWxpdmVyeV9kYXRlX29wdGlvbiB8fD0gZ2V0X2RlbGl2ZXJ5X2RhdGVfb3B0aW9uCiAgICByZW5kZXIgOmxheW91dD0+ZmFsc2UsIDphY3Rpb24gPT4gOmhpa2lrYWUgYW5kIHJldHVybgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB1bmxlc3MgY2hlY2tfd2lubmVyKHBhcmFtc1s6b3JkZXJfaWRdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0gPSBEYXRlLnRvZGF5LnN0cmZ0aW1lKCIlWS0lbS0lZCIpIGlmKHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0uYmxhbms/KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0gPSBEYXRlLnRvZGF5LnN0cmZ0aW1lKCIlWS0lbS0lZCIpIGlmKHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0uYmxhbms/KQo=</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbm93U3RyaW5nID0gbm93LmdldEZ1bGxZZWFyKCkgKyAiLSIgKyBub3cuZ2V0TW9udGgoKSArIDEgKyAiLSIgKyBub3cuZ2V0RGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgIHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0gPSBEYXRlLnRvZGF5LnN0cmZ0aW1lKCIlWS0lbS0lZCIpIGlmKHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0uYmxhbms/KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxlY3RlZF90eXBlXD4=</last-search>
+      <last-search>die</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxlY3RlZF90eXBlXD4=</last-pattern>
+      <last-pattern>die</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1791,7 +1791,6 @@
     </search>
     <history>
       <history-search>
-        <entry>redirect</entry>
         <entry>disney_usj</entry>
         <entry>&quot;5</entry>
         <entry encoding="base64">XDxiYWxhbmNlSnB5XD4=</entry>
@@ -1811,6 +1810,7 @@
         <entry>title</entry>
         <entry>radio</entry>
         <entry encoding="base64">XDxzZWxlY3RlZF90eXBlXD4=</entry>
+        <entry>die</entry>
       </history-search>
       <history-cmd>
         <entry>%y</entry>
