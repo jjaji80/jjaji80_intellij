@@ -132,12 +132,12 @@
         <mark key="^" line="56" column="40" />
         <mark key="." line="56" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1512645827101">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1512659463346">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="51" column="38" />
-        <mark key="]" line="51" column="39" />
-        <mark key="." line="51" column="39" />
-        <mark key="^" line="51" column="56" />
+        <mark key="[" line="51" column="63" />
+        <mark key="]" line="51" column="64" />
+        <mark key="." line="51" column="64" />
+        <mark key="^" line="53" column="78" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/SocialController.php" timestamp="1512448104497">
         <mark key="[" line="98" column="38" />
@@ -731,7 +731,7 @@
         <text encoding="base64">CQkkXyA9IGZ1bmN0aW9uKCRzKXtyZXR1cm4gJHM7fTsvL+WxlemWi+eUqAo=</text>
       </register>
       <register name=":" type="4">
-        <text>%y</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -785,8 +785,8 @@
         <entry>118</entry>
         <entry>96</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry>%y</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
