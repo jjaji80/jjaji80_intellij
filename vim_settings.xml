@@ -318,8 +318,11 @@
         <mark key="^" line="11" column="106" />
         <mark key="." line="11" column="107" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512719432506">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512721811128">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/LeverageDepositDetail.kt" timestamp="1508809905802">
         <mark key="[" line="17" column="38" />
@@ -652,13 +655,13 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="75" column="60" />
       </file>
-      <file name="/dummy.sql" timestamp="1512720624564">
+      <file name="/dummy.sql" timestamp="1512721804412">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512719194585">
+      <file name="/Dummy.txt" timestamp="1512721550477">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -977,12 +980,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="3" column="77" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" timestamp="1512721048600">
-        <mark key="'" line="225" column="0" />
-        <mark key="[" line="240" column="43" />
-        <mark key="]" line="240" column="39" />
-        <mark key="." line="240" column="39" />
-        <mark key="^" line="240" column="39" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" timestamp="1512721947542">
+        <mark key="'" line="242" column="2" />
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="253" column="52" />
+        <mark key="." line="240" column="19" />
+        <mark key="^" line="240" column="19" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" timestamp="1511854231883">
         <mark key="'" line="63" column="41" />
@@ -1267,10 +1270,11 @@
         <mark key="." line="47" column="55" />
         <mark key="^" line="47" column="55" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TagController.php" timestamp="1512720180124">
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="0" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TagController.php" timestamp="1512721963437">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="23" column="54" />
       </file>
       <file name="$USER_HOME$/git/utel/app/webroot/js/user/common.js" timestamp="1508743051890">
         <mark key="'" line="3" column="37" />
@@ -1643,7 +1647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="343" column="0" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="204" column="4" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="352" column="3" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="43" column="8" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
@@ -1743,6 +1746,7 @@
       <jump line="61" column="4" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogRestController.php" />
       <jump line="40" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
       <jump line="225" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
+      <jump line="242" column="2" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1759,43 +1763,43 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPlNlc3Npb24tPnJlYWQoJ3BhZ2VfdmlldycpOw==</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkkcGFnZV92aWV3ID0gJHRoaXMtPlNlc3Npb24tPnJlYWQoJ3BhZ2VfdmlldycpOwo=</text>
+        <text encoding="base64">CQkJQ2FjaGU6OnNldChhcnJheSgnZHVyYXRpb24nID0+ICcrNCBob3VycycpKTsKCQkJQ2FjaGU6OndyaXRlKCdwYWdlX3JhbmtpbmdfZm9yX2FwcCcsICRyZXN1bHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkcmVzCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkcGFnZV92aWV3ID0gbnVsbDsK</text>
+        <text encoding="base64">CQkkZGF0YVsncGFnZV92aWV3X2J5X3RhZyddID0gJHRoaXMtPkJsb2dzLT5nZXRfcGFnZV92aWV3X3JhbmtpbmcoJGRhdGFbJ3RhZyddLT5pZCwgZmFsc2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkYmxvZyk7ZGllKCk7Cg==</text>
+        <text encoding="base64">CQkJdmFyX2R1bXAoJHJlc3VsdF90aGlzX3dlZWspOwoJCQlkaWUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJdmFyX2R1bXAoJCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJJHJlcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkcmVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkZGF0YVsncGFnZV92aWV3J10pO2RpZSgpOwo=</text>
+        <text encoding="base64">CQkkcGFnZV92aWV3ID0gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1849,8 +1853,8 @@
         <entry>349</entry>
         <entry>337</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
