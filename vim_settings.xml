@@ -120,12 +120,12 @@
         <mark key="." line="33" column="341" />
         <mark key="^" line="33" column="341" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1512897279913">
-        <mark key="'" line="170" column="53" />
-        <mark key="[" line="172" column="71" />
-        <mark key="]" line="172" column="75" />
-        <mark key="." line="172" column="75" />
-        <mark key="^" line="172" column="75" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1512898420025">
+        <mark key="'" line="174" column="53" />
+        <mark key="[" line="168" column="113" />
+        <mark key="]" line="168" column="123" />
+        <mark key="." line="168" column="123" />
+        <mark key="^" line="168" column="123" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
@@ -1314,7 +1314,7 @@
         <mark key="^" line="9" column="96" />
         <mark key="." line="9" column="96" />
       </file>
-      <file name="/fragment.kt" timestamp="1512894469993">
+      <file name="/fragment.kt" timestamp="1512898381442">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="62" />
@@ -1756,31 +1756,31 @@
         <text encoding="base64">ICAgICAgICAgICAgKDEuLjUpLmZvckVhY2ggewogICAgICAgICAgICAgICAgdGVzdE1haW4odHJhZGUsIGl0LnRvRG91YmxlKCkgLyAxMCwgMC4wNSkKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZygibWludXNNaW51dGVzID0gJG1pbnVzTWludXRlcyA6IHdpbiA9ICR3aW5Db3VudGVyIikK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5tYXAgeyBsb2cuZGVidWcoIiR7aXRbQ29pbmNoZWNrMW1pbnV0ZXMudGFyZ2V0XX0gOiAke2l0W0NvaW5jaGVjazFtaW51dGVzLmxhc3RdfSIpIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB1bgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LnRvCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZygibWludXNNaW51dGVzID0gJG1pbnVzTWludXRlcyA6IHdpbiA9ICR3aW5Db3VudGVyIikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5tYXAgeyBsb2cuZGVidWcoIiR7aXRbQ29pbmNoZWNrMW1pbnV0ZXMudGFyZ2V0XX0gOiAke2l0W0NvaW5jaGVjazFtaW51dGVzLmxhc3RdfSIpIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB1bgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKDAuMi4uMC40KS5mb3JFYWNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LnRvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKDAuMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKDAuMi4uMC40KS5mb3JFYWNoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKDAuMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKDAuMSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
