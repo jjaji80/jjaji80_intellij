@@ -120,12 +120,12 @@
         <mark key="." line="33" column="341" />
         <mark key="^" line="33" column="341" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1512895883677">
-        <mark key="'" line="41" column="54" />
-        <mark key="[" line="146" column="13" />
-        <mark key="]" line="146" column="14" />
-        <mark key="." line="146" column="14" />
-        <mark key="^" line="147" column="54" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1512896553572">
+        <mark key="'" line="170" column="53" />
+        <mark key="[" line="172" column="71" />
+        <mark key="]" line="172" column="74" />
+        <mark key="." line="172" column="74" />
+        <mark key="^" line="172" column="74" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
@@ -1628,7 +1628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="116" column="8" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="117" column="53" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="118" column="12" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
@@ -1728,6 +1727,7 @@
       <jump line="39" column="54" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="142" column="69" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="40" column="54" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
+      <jump line="170" column="53" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1744,10 +1744,10 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>lo</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>240</text>
+        <text>rsi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKDEuLjUpLmZvckVhY2ggewogICAgICAgICAgICAgICAgdGVzdE1haW4odHJhZGUsIGl0LnRvRG91YmxlKCkgLyAxMCwgMC4wNSkKICAgICAgICAgICAgfQo=</text>
@@ -1784,9 +1784,9 @@
       </register>
     </registers>
     <search>
-      <last-search>240</last-search>
+      <last-search>rsi</last-search>
       <last-offset />
-      <last-pattern>240</last-pattern>
+      <last-pattern>rsi</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1794,7 +1794,6 @@
     </search>
     <history>
       <history-search>
-        <entry>title</entry>
         <entry>radio</entry>
         <entry encoding="base64">XDxzZWxlY3RlZF90eXBlXD4=</entry>
         <entry>die</entry>
@@ -1814,6 +1813,7 @@
         <entry>select</entry>
         <entry encoding="base64">XDxhcGlfaG9zdFw+</entry>
         <entry>240</entry>
+        <entry>rsi</entry>
       </history-search>
       <history-cmd>
         <entry>4,20y</entry>
