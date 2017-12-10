@@ -120,12 +120,12 @@
         <mark key="." line="33" column="341" />
         <mark key="^" line="33" column="341" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1512718148575">
-        <mark key="'" line="42" column="25" />
-        <mark key="[" line="83" column="32" />
-        <mark key="]" line="83" column="33" />
-        <mark key="." line="83" column="33" />
-        <mark key="^" line="83" column="33" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1512868698369">
+        <mark key="'" line="46" column="25" />
+        <mark key="[" line="85" column="131" />
+        <mark key="]" line="85" column="131" />
+        <mark key="." line="85" column="131" />
+        <mark key="^" line="85" column="152" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
@@ -1311,7 +1311,7 @@
         <mark key="^" line="9" column="96" />
         <mark key="." line="9" column="96" />
       </file>
-      <file name="/fragment.kt" timestamp="1512713979335">
+      <file name="/fragment.kt" timestamp="1512868676735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="62" />
@@ -1744,43 +1744,43 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ci0+ZGlzcGxheU5hbWU=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcGlfaG9zdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkkdGhpcy0+U2Vzc2lvbi0+d3JpdGUoJ3VzZXJfaWQnLCAgICAgICR1c2VyLT51c2VyKTsKCQkkdGhpcy0+U2Vzc2lvbi0+d3JpdGUoJ2Rpc3BsYXluYW1lJywgICR1c2VyLT5kaXNwbGF5TmFtZSk7CgkJJHRoaXMtPlNlc3Npb24tPndyaXRlKCdhcGlfaG9zdCcsICAgICAkdGhpcy0+YXBpX2hvc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvaW5jaGVja0FwaSA9IENvaW5jaGVja0FwaS5tYWtlTWUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWdyID0gUG9vbGluZ0NsaWVudENvbm5lY3Rpb25NYW5hZ2VyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG5vd1ByaWNlID0gdHJhZGVTZXJ2aWNlLm5vd1ByaWNlISEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdGhpcy0+U2Vzc2lvbi0+cmVhZCgnYXBpX2hvc3QnKSk7ZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbm93Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG90YWxKcHkgPSBjb2luY2hlY2tBcGkhIS5iYWxhbmNlSnB5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSB1c2VycyBXSEVSRSAK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWdyID0gUG9vbGluZ0NsaWVudENvbm5lY3Rpb25NYW5hZ2VyKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdGhpcy0+U2Vzc2lvbi0+cmVhZCgnYXBpX2hvc3QnKSk7ZGllKCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkZGF0YVsncGFnZV92aWV3X2J5X3RhZyddID0gJHRoaXMtPkJsb2dzLT5nZXRfcGFnZV92aWV3X3JhbmtpbmcoJGRhdGFbJ3RhZyddLT5pZCwgZmFsc2UpOwo=</text>
+        <text encoding="base64">c2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJdmFyX2R1bXAoJHJlc3VsdF90aGlzX3dlZWspOwoJCQlkaWUoKTsK</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSB1c2VycyBXSEVSRSAK</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1834,8 +1834,8 @@
         <entry>349</entry>
         <entry>337</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
