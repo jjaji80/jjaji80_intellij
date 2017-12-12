@@ -976,6 +976,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="3" column="77" />
       </file>
+      <file name="$USER_HOME$/git/hms/app/views/daily_reports/input.html.erb" timestamp="1513057466638">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" timestamp="1511854231883">
         <mark key="'" line="63" column="41" />
         <mark key="[" line="141" column="103" />
@@ -1161,6 +1167,12 @@
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/LoginController.php" timestamp="1512723373716">
         <mark key="'" line="128" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/hms/app/controllers/daily_reports_controller.rb" timestamp="1513057425905">
+        <mark key="[" line="74" column="11" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="77" column="1" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Layout/fortuneteller.ctp" timestamp="1509526225330">
         <mark key="'" line="39" column="12" />
@@ -1751,31 +1763,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcnNpID4gMjUgLT4gcmV0dXJuIDEuMDMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZygibWludXNNaW51dGVzID0gJG1pbnVzTWludXRlcyA6IHdpbiA9ICR3aW5Db3VudGVyIikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5tYXAgeyBsb2cuZGVidWcoIiR7aXRbQ29pbmNoZWNrMW1pbnV0ZXMudGFyZ2V0XX0gOiAke2l0W0NvaW5jaGVjazFtaW51dGVzLmxhc3RdfSIpIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB1bgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LnRvCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZygibWludXNNaW51dGVzID0gJG1pbnVzTWludXRlcyA6IHdpbiA9ICR3aW5Db3VudGVyIikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5tYXAgeyBsb2cuZGVidWcoIiR7aXRbQ29pbmNoZWNrMW1pbnV0ZXMudGFyZ2V0XX0gOiAke2l0W0NvaW5jaGVjazFtaW51dGVzLmxhc3RdfSIpIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB1bgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LnRvCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKDAuMi4uMC40KS5mb3JFYWNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
