@@ -683,11 +683,11 @@
         <mark key="^" line="2" column="58" />
         <mark key="." line="2" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513156279188">
+      <file name="/Dummy.txt" timestamp="1513157939490">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="12" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="8" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
         <mark key="[" line="60" column="20" />
@@ -952,9 +952,6 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/hms/db/schema.rb" timestamp="1513062082849">
-        <mark key="'" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_comment_card.ctp" timestamp="1512032281223">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="22" column="17" />
@@ -1198,14 +1195,11 @@
         <mark key="." line="19" column="29" />
         <mark key="^" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/LoginController.php" timestamp="1512723373716">
-        <mark key="'" line="128" column="49" />
-      </file>
-      <file name="$USER_HOME$/git/hms/app/controllers/daily_report_customized_controller.rb" timestamp="1513156261501">
-        <mark key="[" line="50" column="5" />
-        <mark key="]" line="50" column="30" />
-        <mark key="." line="50" column="30" />
-        <mark key="^" line="50" column="30" />
+      <file name="$USER_HOME$/git/hms/app/controllers/daily_report_customized_controller.rb" timestamp="1513157911393">
+        <mark key="[" line="49" column="5" />
+        <mark key="]" line="49" column="5" />
+        <mark key="." line="49" column="5" />
+        <mark key="^" line="43" column="50" />
       </file>
       <file name="$USER_HOME$/git/hms/docker-compose.yml" timestamp="1513058577971">
         <mark key="[" line="3" column="23" />
@@ -1510,9 +1504,6 @@
         <mark key="^" line="201" column="6" />
         <mark key="." line="201" column="6" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" timestamp="1512380149550">
-        <mark key="'" line="1" column="21" />
-      </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/service/PushService.kt" timestamp="1500969501762">
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="35" />
@@ -1555,9 +1546,6 @@
         <mark key="]" line="31" column="96" />
         <mark key="^" line="31" column="96" />
         <mark key="." line="31" column="96" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Config/routes.php" timestamp="1512717971294">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/composer.json" timestamp="1508461703569">
         <mark key="[" line="24" column="26" />
@@ -1640,9 +1628,6 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="33" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/Blog/_title.ctp" timestamp="1512638069456">
-        <mark key="'" line="230" column="18" />
       </file>
       <file name="$USER_HOME$/git/ex2/app/views/winners/hikikae_confirm_smart_phone.html.erb" timestamp="1512630656823">
         <mark key="'" line="4" column="0" />
@@ -1806,40 +1791,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>daily_reports</text>
+        <text>.references(:daily_reports)</text>
       </register>
       <register name="/" type="4">
         <text>right</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGNsYXNzPSJudW1lcmljIg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHAgIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">44Ob44O844Og44Oa44O844K45ZCN44KS44Ob44K544OI566h55CG44Gr6L+95YqgCg==</text>
+        <text encoding="base64">5pel5aCx5LiA6Kan55m76Yyy44Gr44Gm44CB5pel5LuY44GM57We44KJ44KM44Gm44GE44Gq44GECg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Lgo=</text>
+        <text encoding="base64">ICAgIHAgIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIKICAgIHAgQGVtcGxveWVlc1swXS5kYWlseV9yZXBvcnRzCiAgICBwICItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjZmQ4OTVjOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOmVudHJ5X2RhdGUgPT4gcGFyYW1zWzp0YXJnZXRfZGF0ZV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWNvbG9yOiAjNzc3Owo=</text>
+        <text encoding="base64">44Ob44O844Og44Oa44O844K45ZCN44KS44Ob44K544OI566h55CG44Gr6L+95YqgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcCAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IgogICAgICBwIGlkCiAgICAgIHAgIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIK</text>
+        <text encoding="base64">CWJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjZmQ4OTVjOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcCAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IgogICAgICBwIHBhcmFtc1s6aWRdCiAgICAgIHAgIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIK</text>
+        <text encoding="base64">CWNvbG9yOiAjNzc3Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcCBpbmRleAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmlld19pZCA9IGlkW2luZGV4XQo=</text>
+        <text encoding="base64">ICAgICAgcCAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IgogICAgICBwIGlkCiAgICAgIHAgIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
