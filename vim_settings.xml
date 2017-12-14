@@ -691,12 +691,13 @@
         <mark key="^" line="2" column="58" />
         <mark key="." line="2" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513232451208">
+      <file name="/Dummy.txt" timestamp="1513234071511">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1513234102207" />
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
         <mark key="[" line="60" column="20" />
         <mark key="]" line="60" column="32" />
@@ -741,6 +742,9 @@
         <mark key="]" line="32" column="49" />
         <mark key="^" line="32" column="49" />
         <mark key="." line="32" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.url.js" timestamp="1513234064925">
+        <mark key="'" line="54" column="4" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/config.yml" timestamp="1508233101994">
         <mark key="'" line="9" column="31" />
@@ -1714,7 +1718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="414" column="41" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
       <jump line="38" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
       <jump line="73" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
       <jump line="73" column="41" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
@@ -1814,6 +1817,7 @@
       <jump line="6" column="15" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" />
       <jump line="50" column="4" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_right.ctp" />
       <jump line="355" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="54" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.url.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1833,7 +1837,7 @@
         <text encoding="base64">cGFnZV92aWV3X3JhbmtpbmdfdGhpc193ZWVrIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaW1pdFw+</text>
+        <text encoding="base64">XDxnZXRfaW5zZXJ0X2xpbmtfYWpheFw+</text>
       </register>
       <register name="0" type="4">
         <text>http://image.manga-news.jp/common/logo.png</text>
@@ -1866,13 +1870,13 @@
         <text encoding="base64">CQkJCQkJPD9waHAgdmFyX2R1bXAoJHZhbHVlKT8+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>77</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaW1pdFw+</last-search>
+      <last-search encoding="base64">XDxnZXRfaW5zZXJ0X2xpbmtfYWpheFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaW1pdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfaW5zZXJ0X2xpbmtfYWpheFw+</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1880,7 +1884,6 @@
     </search>
     <history>
       <history-search>
-        <entry>組数</entry>
         <entry encoding="base64">XDxzbGlwX2NvdW50XD4=</entry>
         <entry>table</entry>
         <entry>input</entry>
@@ -1900,9 +1903,9 @@
         <entry>img</entry>
         <entry>image</entry>
         <entry encoding="base64">XDxsaW1pdFw+</entry>
+        <entry encoding="base64">XDxnZXRfaW5zZXJ0X2xpbmtfYWpheFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>69,124d</entry>
         <entry>22</entry>
         <entry>10</entry>
         <entry>63</entry>
@@ -1922,6 +1925,7 @@
         <entry>33,50d</entry>
         <entry>30,38y</entry>
         <entry>w</entry>
+        <entry>77</entry>
       </history-cmd>
       <history-expr />
       <history-input />
