@@ -691,7 +691,7 @@
         <mark key="^" line="2" column="58" />
         <mark key="." line="2" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513228523167">
+      <file name="/Dummy.txt" timestamp="1513230424044">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -824,10 +824,10 @@
         <mark key="." line="200" column="38" />
         <mark key="^" line="200" column="38" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_ld_news.ctp" timestamp="1512613061316">
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_ld_news.ctp" timestamp="1513230442795">
         <mark key="'" line="20" column="56" />
-        <mark key="[" line="20" column="56" />
-        <mark key="]" line="20" column="72" />
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="55" />
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="89" />
       </file>
@@ -1017,11 +1017,11 @@
         <mark key="." line="16" column="46" />
         <mark key="^" line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_page_view_ranking_card.ctp" timestamp="1513224626528">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="170" />
-        <mark key="." line="8" column="170" />
-        <mark key="^" line="8" column="170" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_page_view_ranking_card.ctp" timestamp="1513230449144">
+        <mark key="[" line="8" column="62" />
+        <mark key="]" line="8" column="62" />
+        <mark key="." line="8" column="62" />
+        <mark key="^" line="8" column="61" />
       </file>
       <file name="$USER_HOME$/git/hms/app/views/daily_reports/input.html.erb" timestamp="1513057466638">
         <mark key="[" line="0" column="0" />
@@ -1836,7 +1836,7 @@
         <text encoding="base64">XDxsaW1pdFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PHNlY3Rpb24gY2xhc3M9ImFydGljbGUtcmFuayI+CgkJPGgyIGNsYXNzPSJ0aXRsZSByYW5raW5nUiI+5LuK6YCx44Gu5Lq65rCX6KiY5LqL44Op44Oz44Kt44Oz44KwPC9oMj4KCQk8P3BocCBmb3JlYWNoICgkcGFnZV92aWV3X3JhbmtpbmdfdGhpc193ZWVrIGFzICRpbmRleCA9PiAkdmFsdWUpIHsgPz4KCQkJPD9waHAgZWNobyAkdGhpcy0+ZWxlbWVudCgnX3BhZ2Vfdmlld19yYW5raW5nX2NhcmQnLCBhcnJheSgndmFsdWUnID0+ICR2YWx1ZSwgJ2luZGV4JyA9PiAkaW5kZXgpKTsgPz4KCQk8P3BocCB9ID8+CgkJPGRpdiBjbGFzcz0idG9saXN0Ij4KCQkJPHA+PGEgaHJlZj0iIj7kurrmsJfjga7oqJjkuovjga7kuIDopqc8L2E+PC9wPgoJCTwvZGl2PgoJPC9zZWN0aW9uPjwhLS0gL2FydGljbGUtcmFuayAtLT4=</text>
+        <text>http://image.manga-news.jp/common/logo.png</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQk8ZGl2IGNsYXNzPSJ0YWJjb250IHJhbmtpbmciPgoJCQk8YSBocmVmPSIiPgoJCQkJPGRpdiBjbGFzcz0idXNlcnRpbGUiPgoJCQkJCTxkaXYgY2xhc3M9InJhbmsgbjAxIj48P3BocCBlY2hvICRpbmRleCArIDE7Pz48L2Rpdj4KCQkJCQk8ZGl2IGNsYXNzPSJpbWciPgoJCQkJCQk8P3BocCBpZihpc3NldCgkdmFsdWVbJ05ld3MnXS0+aW1hZ2UpKTogPz4KCQkJCQkJCTxpbWcgc3JjPSI8P3BocCBlY2hvICR2YWx1ZVsnTmV3cyddLT5pbWFnZTs/PiIgYWx0PSIiPgoJCQkJCQk8P3BocCBlbHNlOj8+CgkJCQkJCQk8aW1nIHNyYz0iIiBhbHQ9IiI+CgkJCQkJCTw/cGhwIGVuZGlmOz8+CgkJCQkJPC9kaXY+CgkJCQkJPGRpdiBjbGFzcz0idHh0Ij4KCQkJCQkJPGgzPjw/cGhwIGVjaG8gaCgkdGhpcy0+Q29tbW9uLT5jdXRfdGV4dCgkdmFsdWVbJ05ld3MnXS0+dGl0bGUsVElUTEVfQ1VUX05VTSkpOz8+PC9oMz4KCQkJCQkJPHAgY2xhc3M9ImRhdGUiPjw/cGhwIGVjaG8gaChkYXRlKCdZ5bm0beaciGTml6UnLCBzdHJ0b3RpbWUoJHZhbHVlWydOZXdzJ10tPnB1Ymxpc2hlZCkpKTsgPz48L3A+CgkJCQkJPC9kaXY+CgkJCQk8L2Rpdj4KCQkJPC9hPgoJCTwvZGl2Pgo=</text>
