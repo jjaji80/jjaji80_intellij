@@ -155,8 +155,8 @@
         <mark key="^" line="2" column="115" />
         <mark key="." line="2" column="115" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1513320272606">
-        <mark key="'" line="309" column="4" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1513324158208">
+        <mark key="'" line="6282" column="6" />
         <mark key="[" line="1379" column="18" />
         <mark key="]" line="1379" column="28" />
         <mark key="^" line="1379" column="28" />
@@ -536,7 +536,7 @@
         <mark key="^" line="2" column="58" />
         <mark key="." line="2" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513322123929">
+      <file name="/Dummy.txt" timestamp="1513323858916">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
@@ -1272,9 +1272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="26" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
-      <jump line="7" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
-      <jump line="39" column="54" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="142" column="69" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="40" column="54" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="170" column="53" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
@@ -1372,6 +1369,9 @@
       <jump line="293" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="8" column="30" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/left.ctp" />
       <jump line="309" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="1375" column="18" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="1389" column="10" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="6282" column="6" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1391,7 +1391,7 @@
         <text encoding="base64">Q29tbW9uLT4=</text>
       </register>
       <register name="/" type="4">
-        <text>hide</text>
+        <text>height: 270</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlBcHA6OnVzZXMoJ0NvbW1vbkhlbHBlcicsICdWaWUvSGVscGVyJyk7Cg==</text>
@@ -1428,9 +1428,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hide</last-search>
+      <last-search>height: 270</last-search>
       <last-offset />
-      <last-pattern>hide</last-pattern>
+      <last-pattern>height: 270</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1438,8 +1438,6 @@
     </search>
     <history>
       <history-search>
-        <entry>right</entry>
-        <entry>title</entry>
         <entry encoding="base64">PGltZw==</entry>
         <entry>img</entry>
         <entry>image</entry>
@@ -1458,6 +1456,8 @@
         <entry>#tabarea .tabcont</entry>
         <entry>height: 0px</entry>
         <entry>hide</entry>
+        <entry>item</entry>
+        <entry>height: 270</entry>
       </history-search>
       <history-cmd>
         <entry>141</entry>
