@@ -97,12 +97,12 @@
         <mark key="." line="33" column="341" />
         <mark key="^" line="33" column="341" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1513447212173">
-        <mark key="'" line="76" column="16" />
-        <mark key="[" line="76" column="37" />
-        <mark key="]" line="77" column="18" />
-        <mark key="." line="77" column="18" />
-        <mark key="^" line="77" column="18" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1513455681612">
+        <mark key="'" line="18" column="27" />
+        <mark key="[" line="159" column="52" />
+        <mark key="]" line="159" column="55" />
+        <mark key="." line="159" column="55" />
+        <mark key="^" line="159" column="55" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
@@ -1307,7 +1307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="307" column="0" filename="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" />
       <jump line="6" column="26" filename="$USER_HOME$/git/hms/app/views/daily_report_customized/input.html.erb" />
       <jump line="7" column="2" filename="$USER_HOME$/git/hms/app/views/daily_report_customized/input.html.erb" />
       <jump line="4" column="0" filename="$USER_HOME$/git/hms/app/controllers/daily_report_customized_controller.rb" />
@@ -1407,6 +1406,7 @@
       <jump line="73" column="44" filename="$USER_HOME$/git/ora/pom.xml" />
       <jump line="39" column="44" filename="$USER_HOME$/git/ora/pom.xml" />
       <jump line="71" column="0" filename="$USER_HOME$/git/ora/pom.xml" />
+      <jump line="18" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1423,7 +1423,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>testuser</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>jpa</text>
@@ -1469,7 +1469,7 @@
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
