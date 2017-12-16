@@ -463,11 +463,11 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/index.html" timestamp="1513454962469">
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="12" column="6" />
-        <mark key="^" line="12" column="6" />
-        <mark key="." line="12" column="6" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/index.html" timestamp="1513456622894">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="6" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="6" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/tab.js" timestamp="1513325827723">
         <mark key="'" line="25" column="59" />
@@ -1146,11 +1146,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/application.yml" timestamp="1513455078997">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/application.yml" timestamp="1513456212756">
+        <mark key="'" line="4" column="19" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/UsersComponent.php" timestamp="1511738640507">
         <mark key="[" line="13" column="7" />
@@ -1248,8 +1249,8 @@
         <mark key="." line="28" column="59" />
         <mark key="^" line="28" column="59" />
       </file>
-      <file name="$USER_HOME$/git/ora/pom.xml" timestamp="1513455129115">
-        <mark key="'" line="76" column="0" />
+      <file name="$USER_HOME$/git/ora/pom.xml" timestamp="1513456284249">
+        <mark key="'" line="23" column="44" />
         <mark key="[" line="70" column="21" />
         <mark key="]" line="75" column="20" />
         <mark key="." line="75" column="20" />
@@ -1307,11 +1308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="26" filename="$USER_HOME$/git/hms/app/views/daily_report_customized/input.html.erb" />
-      <jump line="7" column="2" filename="$USER_HOME$/git/hms/app/views/daily_report_customized/input.html.erb" />
-      <jump line="4" column="0" filename="$USER_HOME$/git/hms/app/controllers/daily_report_customized_controller.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/git/hms/app/controllers/daily_report_customized_controller.rb" />
-      <jump line="1" column="36" filename="$USER_HOME$/git/hms/app/views/daily_report_customized/input.html.erb" />
       <jump line="8" column="0" filename="$USER_HOME$/git/hms/app/controllers/daily_report_customized_controller.rb" />
       <jump line="17" column="20" filename="$USER_HOME$/git/hms/app/controllers/daily_report_customized_controller.rb" />
       <jump line="46" column="69" filename="$USER_HOME$/git/hms/app/views/daily_report_customized/index.html.erb" />
@@ -1407,6 +1403,11 @@
       <jump line="39" column="44" filename="$USER_HOME$/git/ora/pom.xml" />
       <jump line="71" column="0" filename="$USER_HOME$/git/ora/pom.xml" />
       <jump line="18" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
+      <jump line="77" column="32" filename="$USER_HOME$/git/ora/pom.xml" />
+      <jump line="35" column="44" filename="$USER_HOME$/git/ora/pom.xml" />
+      <jump line="66" column="24" filename="$USER_HOME$/git/ora/pom.xml" />
+      <jump line="4" column="19" filename="$USER_HOME$/git/ora/src/main/resources/application.yml" />
+      <jump line="23" column="44" filename="$USER_HOME$/git/ora/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1423,10 +1424,10 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
-        <text>jpa</text>
+        <text>devtools</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LS0gYXV0by1nZW5lcmF0ZWQgZGVmaW5pdGlvbgpDUkVBVEUgVEFCTEUgdXNlcnMKKAogIGlkICAgICAgICAgQklHSU5UIEFVVE9fSU5DUkVNRU5UCiAgICBQUklNQVJZIEtFWSwKICBwdXNoX2lkICAgIFZBUkNIQVIoMjU0KSAgICAgICAgICAgICAgICAgICAgICAgTlVMTAogIENPTU1FTlQgJ+ODl+ODg+OCt+ODpUlEJywKICBvcyAgICAgICAgIFZBUkNIQVIoMTApICAgICAgICAgICAgICAgICAgICAgICAgTlVMTCwKICBjcmVhdGVkX2F0IERBVEVUSU1FIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgTlVMTCwKICB1cGRhdGVkX2F0IERBVEVUSU1FIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgTlVMTCwKICB2ZXJzaW9uX25vIElOVCBERUZBVUxUICcwJyAgICAgICAgICAgICAgICAgICAgTlVMTCwKICBDT05TVFJBSU5UIGlkCiAgVU5JUVVFIChpZCkKKQogIENPTU1FTlQgJ+ODpuODvOOCtuODvCc7Cg==</text>
@@ -1463,19 +1464,16 @@
       </register>
     </registers>
     <search>
-      <last-search>jpa</last-search>
+      <last-search>devtools</last-search>
       <last-offset />
-      <last-pattern>jpa</last-pattern>
+      <last-pattern>devtools</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXdzX3BpY2t1cFw+</entry>
-        <entry>flex</entry>
-        <entry>#tabarea .tabcont</entry>
         <entry>height: 0px</entry>
         <entry>hide</entry>
         <entry>item</entry>
@@ -1493,6 +1491,9 @@
         <entry>the</entry>
         <entry encoding="base64">XDx3ZWJcPg==</entry>
         <entry>jpa</entry>
+        <entry>secr</entry>
+        <entry>sec</entry>
+        <entry>devtools</entry>
       </history-search>
       <history-cmd>
         <entry>349</entry>
@@ -1512,8 +1513,8 @@
         <entry>20,68d</entry>
         <entry>15</entry>
         <entry>47</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>%y</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
