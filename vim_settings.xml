@@ -548,7 +548,7 @@
         <mark key="^" line="2" column="58" />
         <mark key="." line="2" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513559578704">
+      <file name="/Dummy.txt" timestamp="1513561529501">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
@@ -646,8 +646,12 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php" timestamp="1513559868785">
+      <file name="$USER_HOME$/git/manganews-web-master/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php" timestamp="1513561763838">
         <mark key="'" line="191" column="30" />
+        <mark key="[" line="195" column="43" />
+        <mark key="]" line="196" column="28" />
+        <mark key="^" line="196" column="28" />
+        <mark key="." line="196" column="28" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_ld_news.ctp" timestamp="1513306897872">
         <mark key="'" line="20" column="56" />
@@ -1435,8 +1439,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lc3RhbXBcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYWtlQ3N2KGZ1dHVyZSwgbGlzdCkK</text>
+      <register name="0" type="4">
+        <text>$timestamp_int</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5wcmludGxuKCkK</text>
@@ -1466,7 +1470,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbGluZSs9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1520,8 +1524,8 @@
         <entry>13</entry>
         <entry>36</entry>
         <entry>%y</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
