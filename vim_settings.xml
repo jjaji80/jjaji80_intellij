@@ -93,12 +93,12 @@
         <mark key="." line="33" column="341" />
         <mark key="^" line="33" column="341" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1513602006766">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1513604445456">
         <mark key="'" line="6" column="6" />
-        <mark key="[" line="55" column="97" />
-        <mark key="]" line="55" column="96" />
-        <mark key="." line="55" column="96" />
-        <mark key="^" line="55" column="96" />
+        <mark key="[" line="55" column="100" />
+        <mark key="]" line="55" column="112" />
+        <mark key="." line="55" column="112" />
+        <mark key="^" line="55" column="112" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
@@ -1516,7 +1516,7 @@
         <text encoding="base64">PGRpdiBpZD0iY29udGVudHMiIGNsYXNzPSJjbGVhcmZpeCI+Cgk8ZGl2IGlkPSJsZWZ0Ij4KCQk8ZGl2IGlkPSJjb250ZW50cyIgY2xhc3M9Imxpc3QgY2xlYXJmaXgiIHN0eWxlPSJtYXJnaW4tYm90dG9tOiAyMHB4O21hcmdpbi10b3A6IDA7d2lkdGg6IDEwMCU7Ij4KCQkJPGRpdiBpZD0idGFiYXJlYSI+CgkJCQk8dWwgY2xhc3M9InRhYiI+CgkJCQkJPGxpIGNsYXNzPSJzZWxlY3QiIGlkPSJ0YWIxIj7mnIDmlrDjga7oqJjkuos8L2xpPgoJCQkJCTxsaSBpZD0idGFiMiI+UElDSzwvbGk+CgkJCQk8L3VsPgoJCQkJPGRpdiBpZD0idGFiYXJlYSI+CgkJCQkJPGRpdiBjbGFzcz0idGFiY29udCI+CgkJCQkJCTw/cGhwIGZvcmVhY2ggKCRkYXRhWyJvcmlnaW5hbF9uZXdzIl0gYXMgJG5ld3MpOiA/PgoJCQkJCQkJPD9waHAgZWNobyAkdGhpcy0+ZWxlbWVudCgnX25ld3NfY2FyZCcsIGFycmF5KCduZXdzJyA9PiAkbmV3c1snbmV3cyddKSk7ID8+CgkJCQkJCTw/cGhwIGVuZGZvcmVhY2g7ID8+CgkJCQkJPC9kaXY+CgkJCQkJPGRpdiBjbGFzcz0idGFiY29udCIgc3R5bGU9ImRpc3BsYXk6bm9uZSI+CgkJCQkJCTw/cGhwIGlmICgkZGF0YVsibmV3c19sYXRlc3QiXS0+c3VtbWFyaWVzKTogPz4KCQkJCQkJCTw/cGhwIGZvcmVhY2ggKCRkYXRhWyJuZXdzX2xhdGVzdCJdLT5zdW1tYXJpZXMgYXMgJG5ld3MpOiA/PgoJCQkJCQkJCTw/cGhwIGVjaG8gJHRoaXMtPmVsZW1lbnQoJ19uZXdzX2NhcmQnLCBhcnJheSgnbmV3cycgPT4gJG5ld3MpKTsgPz4KCQkJCQkJCTw/cGhwIGVuZGZvcmVhY2g7ID8+CgkJCQkJCTw/cGhwIGVuZGlmOyA/PgoJCQkJCTwvZGl2PgoJCQkJPC9kaXY+CgkJCTwvZGl2PgoJCTwvZGl2PgoJPC9kaXY+CjwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>55</text>
       </register>
     </registers>
     <search>
@@ -1552,7 +1552,6 @@
         <entry encoding="base64">XDxzZXRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>35</entry>
         <entry>46,101d</entry>
         <entry>33,50d</entry>
         <entry>30,38y</entry>
@@ -1570,8 +1569,9 @@
         <entry>27</entry>
         <entry>15</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
+        <entry>55</entry>
       </history-cmd>
       <history-expr />
       <history-input />
