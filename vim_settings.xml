@@ -153,11 +153,10 @@
         <mark key="." line="2" column="115" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1513327368084">
-        <mark key="'" line="6280" column="15" />
-        <mark key="[" line="6627" column="0" />
-        <mark key="]" line="6627" column="0" />
-        <mark key="^" line="6627" column="0" />
-        <mark key="." line="6627" column="0" />
+        <mark key="[" line="6623" column="0" />
+        <mark key="]" line="6623" column="0" />
+        <mark key="^" line="6623" column="0" />
+        <mark key="." line="6623" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/judge/BuyJudge.kt" timestamp="1499239865391">
         <mark key="[" line="7" column="19" />
@@ -1136,11 +1135,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="73" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1513567062118">
-        <mark key="'" line="9" column="10" />
-        <mark key="[" line="475" column="18" />
-        <mark key="]" line="476" column="16" />
-        <mark key="." line="476" column="16" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1513581971070">
+        <mark key="'" line="459" column="12" />
+        <mark key="[" line="41" column="44" />
+        <mark key="]" line="41" column="45" />
+        <mark key="." line="41" column="45" />
         <mark key="^" line="476" column="16" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Topnews/index.ctp" timestamp="1513566803686">
@@ -1343,7 +1342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="21" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="13" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="45" column="29" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="76" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
@@ -1443,6 +1441,7 @@
       <jump line="21" column="11" filename="$USER_HOME$/git/manganews-web-master/app/View/Quick/index.ctp" />
       <jump line="6" column="15" filename="$USER_HOME$/git/manganews-web-master/app/View/Quick/index.ctp" />
       <jump line="71" column="66" filename="$USER_HOME$/git/manganews-web-master/app/Controller/QuickController.php" />
+      <jump line="459" column="12" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1462,7 +1461,7 @@
         <text encoding="base64">PCEtLXRhYmFyZWEtLT4=</text>
       </register>
       <register name="/" type="4">
-        <text>taboriginal</text>
+        <text>style.css</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CQkJPD9waHAgaWYoJGRhdGFbIm5ld3NfbGF0ZXN0Il0tPnN1bW1hcmllcyk6ID8+CgkJCQk8P3BocCBmb3JlYWNoKCRkYXRhWyJuZXdzX2xhdGVzdCJdLT5zdW1tYXJpZXMgYXMgJG5ld3MpOiA/PgoJCQkJCTw/cGhwIGVjaG8gJHRoaXMtPmVsZW1lbnQoJ19uZXdzX2NhcmQnLCBhcnJheSgnbmV3cycgPT4gJG5ld3MpKTs/PgoJCQkJPD9waHAgZW5kZm9yZWFjaDsgPz4KCQkJPD9waHAgZW5kaWY7ID8+</text>
@@ -1495,13 +1494,13 @@
         <text encoding="base64">CQkvLyDkurrmsJfjg4vjg6Xjg7zjgrnlj5blvpcK</text>
       </register>
       <register name=":" type="4">
-        <text>27</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>taboriginal</last-search>
+      <last-search>style.css</last-search>
       <last-offset />
-      <last-pattern>taboriginal</last-pattern>
+      <last-pattern>style.css</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1509,7 +1508,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sec</entry>
         <entry>devtools</entry>
         <entry>ja</entry>
         <entry>scr</entry>
@@ -1529,6 +1527,7 @@
         <entry>tab</entry>
         <entry>tabare</entry>
         <entry>taboriginal</entry>
+        <entry>style.css</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
@@ -1549,8 +1548,8 @@
         <entry>%y</entry>
         <entry>1</entry>
         <entry>18,24y</entry>
-        <entry>w</entry>
         <entry>27</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
