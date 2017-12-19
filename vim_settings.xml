@@ -100,12 +100,12 @@
         <mark key="." line="33" column="341" />
         <mark key="^" line="33" column="341" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1513689693557">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1513701420294">
         <mark key="'" line="6" column="6" />
-        <mark key="[" line="60" column="60" />
+        <mark key="[" line="60" column="61" />
         <mark key="]" line="60" column="61" />
         <mark key="." line="60" column="61" />
-        <mark key="^" line="55" column="112" />
+        <mark key="^" line="60" column="61" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
@@ -1518,13 +1518,18 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9zY3JpcHQ+</text>
+        <text encoding="base64">ID86IHJhKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>$.cookie(&quot;twitter_opauth_jquery&quot;)</text>
+        <text>coincheckApi!!.makeOrder(isBuy = true,
+                amount = amount,
+                isClose = false,
+                rate = rate,
+                isLeverage = false
+        )</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CTxzY3JpcHQgIXNyYz0iIj48L3NjcmlwdD4K</text>
