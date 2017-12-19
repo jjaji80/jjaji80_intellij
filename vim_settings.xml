@@ -444,12 +444,12 @@
         <mark key="^" line="98" column="49" />
         <mark key="." line="98" column="49" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Quick/index.ctp" timestamp="1513673550350">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="5" column="83" />
-        <mark key="]" line="5" column="83" />
-        <mark key="." line="5" column="83" />
-        <mark key="^" line="5" column="87" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Quick/index.ctp" timestamp="1513681886651">
+        <mark key="'" line="19" column="81" />
+        <mark key="[" line="32" column="2" />
+        <mark key="]" line="32" column="11" />
+        <mark key="." line="32" column="2" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/text.php" timestamp="1499413550612">
         <mark key="[" line="0" column="0" />
@@ -542,11 +542,11 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/QuickController.php" timestamp="1513675294003">
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/QuickController.php" timestamp="1513681425364">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="46" />
-        <mark key="]" line="50" column="4" />
-        <mark key="." line="50" column="4" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="75" />
+        <mark key="." line="21" column="0" />
         <mark key="^" line="50" column="4" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/AsyncJsonLoader.java" timestamp="1510303681128">
@@ -1271,12 +1271,12 @@
         <mark key="^" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Quick/do_login.ctp" timestamp="1513673113020">
-        <mark key="'" line="11" column="30" />
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="17" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Quick/do_login.ctp" timestamp="1513681829017">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="40" />
         <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="17" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Controller/Component/GcmComponent.php" timestamp="1492043997997">
         <mark key="[" line="35" column="20" />
@@ -1402,9 +1402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="4" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
-      <jump line="114" column="35" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
-      <jump line="125" column="4" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="130" column="45" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="132" column="116" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="156" column="31" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
@@ -1502,6 +1499,9 @@
       <jump line="36" column="58" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
       <jump line="40" column="32" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
       <jump line="43" column="36" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
+      <jump line="19" column="81" filename="$USER_HOME$/git/manganews-web-master/app/View/Quick/index.ctp" />
+      <jump line="14" column="29" filename="$USER_HOME$/git/manganews-web-master/app/View/Quick/do_login.ctp" />
+      <jump line="12" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Quick/do_login.ctp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1518,40 +1518,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>blog_id</text>
+        <text encoding="base64">PC9zY3JpcHQ+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">J25ld3NfZm9yX2luZGV4XycgLiAkbmV3c19pZCA=</text>
+        <text>$.cookie(&quot;twitter_opauth_jquery&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkZGF0YVsibmV3cyJdID0gJG5ld3M7Cg==</text>
+        <text encoding="base64">CTxzY3JpcHQgIXNyYz0iIj48L3NjcmlwdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkZGF0YSA9IFtdOwo=</text>
+        <text encoding="base64">CQlpZiAoJHRoaXMtPlNlc3Npb24tPmNoZWNrKCd0d2l0dGVyX29wYXV0aCcpKQoJCQkkdGhpcy0+c2V0KCd0d2l0dGVyX29wYXV0aCcsICR0aGlzLT5TZXNzaW9uLT5yZWFkKCd0d2l0dGVyX29wYXV0aCcpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTw/cGhwIGVuZGlmOz8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkZGF0YVsibmV3cyJdID0gJG5ld3M7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JCQo=</text>
+        <text encoding="base64">CQkkZGF0YSA9IFtdOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByb3RlY3RlZCAkdHdpdHRlcl9lbmNyeXB0X2tleSA9ICd3dDFVNU1BQ1dKRlRYR2VuRm9ab2lMd1FHckxnZGJIQSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC9oMj4K</text>
+        <text encoding="base64">Ly8JCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
