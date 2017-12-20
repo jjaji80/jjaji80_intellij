@@ -306,7 +306,6 @@
         <mark key="." line="10" column="70" />
         <mark key="^" line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Development/database.php" timestamp="1513754151928" />
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/ApiController.php" timestamp="1506590600248">
         <mark key="[" line="22" column="40" />
         <mark key="]" line="23" column="0" />
@@ -560,6 +559,11 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="75" column="60" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-local/aws.properties" timestamp="1513755281822">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+      </file>
       <file name="/dummy.sql" timestamp="1513730266317">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -812,7 +816,6 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/lib/Cake/Utility/Xml.php" timestamp="1513734274902" />
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Testing/const.php" timestamp="1504244064666">
         <mark key="[" line="3" column="47" />
         <mark key="]" line="3" column="47" />
@@ -1203,7 +1206,6 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources/applicationContext.xml" timestamp="1513754046507" />
       <file name="$USER_HOME$/git/manganews-server/manganews-model/src/main/java/com/newspicks/model/PickedNewsModel.java" timestamp="1513071662429">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -1506,13 +1508,13 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>Local-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0X3RvcG5ld3NfZm9yX29yaWdpbmFsXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ewoJCSR0aGlzLT5nZXRfb3JpZ2luYWwoJGRhdGEpOwoJCSRuZXdzX3NsaWRlID0gYXJyYXkoKTsKCQlmb3JlYWNoICgkZGF0YVsnb3JpZ2luYWxfbmV3cyddIGFzICRuZXdzKSB7CgkJCSRyZXN1bHQgPSAkdGhpcy0+TmV3cy0+Z2V0X2Zyb21fdXJsKFdFQl9IT1NUIC4gJ25ld3MvYm9keS8nIC4gJG5ld3NbJ0Jsb2dzJ11bJ2lkJ10pOwoJCQlpZiAoIWlzc2V0KCRyZXN1bHQtPnN0YXR1cykgfHwgICRyZXN1bHQtPnN0YXR1cyAhPSA0MDQpIHsKCQkJCSRzbGlkZSA9ICRyZXN1bHQtPnN1bW1hcmllc1swXTsKCQkJCWlmICghaXNzZXQoJHNsaWRlLT5zdW1tYXJ5KSkgewoJCQkJCSRzbGlkZS0+c3VtbWFyeSA9ICRuZXdzWydCbG9ncyddWydib2R5MSddOwoJCQkJfQoJCQkJaWYoc3RybGVuKCRzbGlkZS0+c3VtbWFyeSk+MCkgewoJCQkJCSR0bXAgPSAiIjsKCQkJCQkkZG9tID0gbmV3IERPTURvY3VtZW50KCk7CgkJCQkJbGlieG1sX3VzZV9pbnRlcm5hbF9lcnJvcnModHJ1ZSk7CgkJCQkJJGRvbS0+bG9hZEhUTUwobWJfY29udmVydF9lbmNvZGluZygkc2xpZGUtPnN1bW1hcnksICdIVE1MLUVOVElUSUVTJywgJ1VURjgnKSk7CgkJCQkJbGlieG1sX2NsZWFyX2Vycm9ycygpOwoJCQkJCSR4cGF0aCA9IG5ldyBET01YUGF0aCgkZG9tKTsKCQkJCQlmb3JlYWNoICgkeHBhdGgtPnF1ZXJ5KCcvL3AnKSBhcyAkbm9kZSkgewoJCQkJCQkkdG1wIC49ICRub2RlLT5ub2RlVmFsdWU7CgkJCQkJfQoJCQkJCSRzbGlkZS0+c3VtbWFyeSA9ICR0bXA7CgkJCQl9CgoJCQkJYXJyYXlfcHVzaCgkbmV3c19zbGlkZSwgJHNsaWRlKTsKCQkJfQoJCX0KCQkkZGF0YVsibmV3c19zbGlkZSJdID0gYXJyYXlfc2xpY2UoJG5ld3Nfc2xpZGUsIDAsIFRPUF9TTElERV9DT1VOVCk7CgkJJGRhdGFbJ29yaWdpbmFsX25ld3MnXSA9IGFycmF5X3NsaWNlKCRkYXRhWydvcmlnaW5hbF9uZXdzJ10sIFRPUF9TTElERV9DT1VOVCw2KTsKCX0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZHluYW1vZGIudGFibGVuYW1lLnByZWZpeD1Mb2NhbC0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJJHRoaXMtPl9hZGRfcGFnZV92aWV3KCRvcmlnaW5hbFsnaWQnXSk7Cg==</text>
@@ -1552,7 +1554,7 @@
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
