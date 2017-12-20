@@ -769,8 +769,8 @@
         <mark key="^" line="53" column="56" />
         <mark key="." line="53" column="56" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" timestamp="1513669623729">
-        <mark key="'" line="30" column="14" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" timestamp="1513731666874">
+        <mark key="'" line="59" column="19" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="32" />
         <mark key="." line="47" column="0" />
@@ -1408,7 +1408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="31" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="172" column="43" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="189" column="127" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="186" column="43" filename="$USER_HOME$/git/manganews-web-master/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php" />
@@ -1508,6 +1507,7 @@
       <jump line="12" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Quick/do_login.ctp" />
       <jump line="106" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
       <jump line="468" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
+      <jump line="59" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1527,7 +1527,7 @@
         <text>original</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYWRkX3BhZ2Vfdmlld1w+</text>
+        <text encoding="base64">XDxnZXRfb3JpZ2luYWxcPg==</text>
       </register>
       <register name="0" type="4">
         <text>$data[&quot;original&quot;]</text>
@@ -1564,9 +1564,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfYWRkX3BhZ2Vfdmlld1w+</last-search>
+      <last-search encoding="base64">XDxnZXRfb3JpZ2luYWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYWRkX3BhZ2Vfdmlld1w+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfb3JpZ2luYWxcPg==</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1574,7 +1574,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tabare</entry>
         <entry>taboriginal</entry>
         <entry>style.css</entry>
         <entry>240</entry>
@@ -1594,6 +1593,7 @@
         <entry encoding="base64">MSA=</entry>
         <entry encoding="base64">XDxuZXdzXD4=</entry>
         <entry encoding="base64">XDxfYWRkX3BhZ2Vfdmlld1w+</entry>
+        <entry encoding="base64">XDxnZXRfb3JpZ2luYWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>11</entry>
