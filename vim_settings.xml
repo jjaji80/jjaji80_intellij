@@ -439,6 +439,11 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
+      <file name="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/header.php" timestamp="1513830973003">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="115" />
+      </file>
       <file name="$USER_HOME$/git/hms/spec/models/outstanding_spec.rb" timestamp="1490757922478">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="6" column="5" />
@@ -1224,13 +1229,13 @@
         <mark key="^" line="44" column="41" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/single-item.php" timestamp="1513819694274">
+      <file name="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/single-item.php" timestamp="1513831113191">
         <mark key="a" line="107" column="84" />
-        <mark key="'" line="84" column="24" />
-        <mark key="[" line="407" column="0" />
-        <mark key="]" line="407" column="0" />
-        <mark key="^" line="388" column="9" />
-        <mark key="." line="407" column="0" />
+        <mark key="'" line="1" column="2" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="412" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/FakeApiClient.java" timestamp="1510298389631">
         <mark key="[" line="4" column="17" />
@@ -1424,10 +1429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/QuickController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" />
-      <jump line="95" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
-      <jump line="152" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
       <jump line="0" column="43" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_right.ctp" />
       <jump line="1" column="2" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_right.ctp" />
       <jump line="61" column="2" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
@@ -1512,7 +1513,6 @@
       <jump line="977" column="25" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="1009" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/slide.ctp" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/single-item.php" />
       <jump line="106" column="84" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/single-item.php" />
       <jump line="223" column="4" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/single-item.php" />
       <jump line="267" column="4" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/single-item.php" />
@@ -1524,6 +1524,11 @@
       <jump line="8" column="24" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-includes/js/cart.js" />
       <jump line="11" column="24" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-includes/js/cart.js" />
       <jump line="173" column="24" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-includes/js/cart.js" />
+      <jump line="18" column="35" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/header.php" />
+      <jump line="37" column="74" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/header.php" />
+      <jump line="147" column="109" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/header.php" />
+      <jump line="11" column="0" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/header.php" />
+      <jump line="1" column="2" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/single-item.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1540,49 +1545,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">PD9waHAgZ2V0X3RlbXBsYXRlX2RpcmVjdG9yeV91cmkoKTsgPz4=</text>
       </register>
       <register name="/" type="4">
-        <text>dialog</text>
+        <text>js</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY2FydC1jb250Ij4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">PD9waHAgZWNobyBlc2NfdXJsICggZ2V0X3RlbXBsYXRlX2RpcmVjdG9yeV91cmkoKSApOyA/Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSI8P3BocCBlY2hvIGVzY191cmwgKCBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpICk7ID8+L2Nzcy9pdGVtLmNzcyI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS5vd2wtbmF2IHsKCQlkaXNwbGF5OiBub25lOwoJfQo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS5vd2wtc3RhZ2Utb3V0ZXIgewoJCWJhY2tncm91bmQ6ICNmZmY7Cgl9Cg==</text>
+        <text encoding="base64">CS5vd2wtbmF2IHsKCQlkaXNwbGF5OiBub25lOwoJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2R5bmFtb2RiLnRhYmxlbmFtZS5wcmVmaXg9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPl9hZGRfcGFnZV92aWV3KCRvcmlnaW5hbFsnaWQnXSk7Cg==</text>
+        <text encoding="base64">CS5vd2wtc3RhZ2Utb3V0ZXIgewoJCWJhY2tncm91bmQ6ICNmZmY7Cgl9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dialog</last-search>
+      <last-search>js</last-search>
       <last-offset />
-      <last-pattern>dialog</last-pattern>
+      <last-pattern>js</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1590,7 +1595,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Cooki</entry>
         <entry encoding="base64">XDx0d2l0dGVyX29wYXV0aFw+</entry>
         <entry>sche</entry>
         <entry>cookie</entry>
@@ -1610,6 +1614,7 @@
         <entry>class=&quot;copy</entry>
         <entry>dial</entry>
         <entry>dialog</entry>
+        <entry>js</entry>
       </history-search>
       <history-cmd>
         <entry>11</entry>
@@ -1630,8 +1635,8 @@
         <entry>208</entry>
         <entry>65</entry>
         <entry>64</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
