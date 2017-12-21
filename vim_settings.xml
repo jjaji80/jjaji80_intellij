@@ -297,6 +297,13 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="11" />
       </file>
+      <file name="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-includes/js/cart.js" timestamp="1513819516256">
+        <mark key="'" line="173" column="24" />
+        <mark key="[" line="173" column="8" />
+        <mark key="]" line="173" column="20" />
+        <mark key="." line="173" column="20" />
+        <mark key="^" line="173" column="20" />
+      </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-manganews/app/Config/core.php" timestamp="1513583314196">
         <mark key="'" line="38" column="15" />
         <mark key="[" line="142" column="36" />
@@ -1217,13 +1224,13 @@
         <mark key="^" line="44" column="41" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/single-item.php" timestamp="1513816508992">
+      <file name="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/single-item.php" timestamp="1513819694274">
         <mark key="a" line="107" column="84" />
         <mark key="'" line="84" column="24" />
-        <mark key="[" line="344" column="22" />
-        <mark key="]" line="375" column="0" />
-        <mark key="^" line="375" column="0" />
-        <mark key="." line="375" column="0" />
+        <mark key="[" line="407" column="0" />
+        <mark key="]" line="407" column="0" />
+        <mark key="^" line="388" column="9" />
+        <mark key="." line="407" column="0" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/FakeApiClient.java" timestamp="1510298389631">
         <mark key="[" line="4" column="17" />
@@ -1417,12 +1424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="60" filename="$USER_HOME$/git/manganews-web-master/app/Config/core.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-manganews/app/Config/core.php" />
-      <jump line="38" column="15" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-manganews/app/Config/core.php" />
-      <jump line="210" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Config/core.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Config/Env/Development/bootstrap.php" />
-      <jump line="36" column="64" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-manganews/app/Config/Env/Development/bootstrap.php" />
       <jump line="26" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/QuickController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" />
       <jump line="95" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
@@ -1517,6 +1518,12 @@
       <jump line="267" column="4" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/single-item.php" />
       <jump line="91" column="0" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/single-item.php" />
       <jump line="84" column="24" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/single-item.php" />
+      <jump line="159" column="30" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-includes/js/cart.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-includes/js/cart.js" />
+      <jump line="2" column="26" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-includes/js/cart.js" />
+      <jump line="8" column="24" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-includes/js/cart.js" />
+      <jump line="11" column="24" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-includes/js/cart.js" />
+      <jump line="173" column="24" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-includes/js/cart.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1533,49 +1540,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>dial</text>
+        <text>dialog</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ijw/cGhwIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCk7ID8+L2pzL2NhcnQuanMiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY2FydC1jb250Ij4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS5vd2wtbmF2IHsKCQlkaXNwbGF5OiBub25lOwoJfQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CS5vd2wtc3RhZ2Utb3V0ZXIgewoJCWJhY2tncm91bmQ6ICNmZmY7Cgl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2R5bmFtb2RiLnRhYmxlbmFtZS5wcmVmaXg9Cg==</text>
+        <text encoding="base64">CS5vd2wtbmF2IHsKCQlkaXNwbGF5OiBub25lOwoJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPl9hZGRfcGFnZV92aWV3KCRvcmlnaW5hbFsnaWQnXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CTxzY3JpcHQgIXNyYz0iIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">CS5vd2wtc3RhZ2Utb3V0ZXIgewoJCWJhY2tncm91bmQ6ICNmZmY7Cgl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiAoJHRoaXMtPlNlc3Npb24tPmNoZWNrKCd0d2l0dGVyX29wYXV0aCcpKQoJCQkkdGhpcy0+c2V0KCd0d2l0dGVyX29wYXV0aCcsICR0aGlzLT5TZXNzaW9uLT5yZWFkKCd0d2l0dGVyX29wYXV0aCcpKTsK</text>
+        <text encoding="base64">I2R5bmFtb2RiLnRhYmxlbmFtZS5wcmVmaXg9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CTw/cGhwIGVuZGlmOz8+Cg==</text>
+        <text encoding="base64">CQkJJHRoaXMtPl9hZGRfcGFnZV92aWV3KCRvcmlnaW5hbFsnaWQnXSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>dial</last-search>
+      <last-search>dialog</last-search>
       <last-offset />
-      <last-pattern>dial</last-pattern>
+      <last-pattern>dialog</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1583,7 +1590,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jquery</entry>
         <entry>Cooki</entry>
         <entry encoding="base64">XDx0d2l0dGVyX29wYXV0aFw+</entry>
         <entry>sche</entry>
@@ -1603,6 +1609,7 @@
         <entry>class=&quot;co</entry>
         <entry>class=&quot;copy</entry>
         <entry>dial</entry>
+        <entry>dialog</entry>
       </history-search>
       <history-cmd>
         <entry>11</entry>
@@ -1623,8 +1630,8 @@
         <entry>208</entry>
         <entry>65</entry>
         <entry>64</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
