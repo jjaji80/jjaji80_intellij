@@ -221,18 +221,15 @@
         <mark key="." line="90" column="3" />
       </file>
       <file name="$USER_HOME$/git/hms/config/routes.rb" timestamp="1513080635878">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="36" />
-        <mark key="." line="4" column="36" />
-        <mark key="^" line="4" column="36" />
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+        <mark key="^" line="6" column="36" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/aws.properties" timestamp="1513756668686">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1513658852740">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/TestController.kt" timestamp="1509111465204">
         <mark key="[" line="17" column="35" />
@@ -472,9 +469,6 @@
         <mark key="." line="32" column="2" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8338dcfa-a8f1-4897-87d6-299a12e27acc/console.sql" timestamp="1513736467125">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/text.php" timestamp="1499413550612">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="257" column="7" />
@@ -498,6 +492,11 @@
         <mark key="]" line="14" column="4" />
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
+      </file>
+      <file name="$USER_HOME$/git/hms/app/controllers/sales_controller.rb" timestamp="1513910069912">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/tab.js" timestamp="1513648820002">
         <mark key="'" line="25" column="59" />
@@ -596,7 +595,7 @@
         <mark key="^" line="2" column="58" />
         <mark key="." line="2" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513908278907">
+      <file name="/Dummy.txt" timestamp="1513909980952">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
@@ -835,6 +834,9 @@
         <mark key="]" line="3" column="19" />
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/hms/db/schema.rb" timestamp="1513909652784">
+        <mark key="'" line="132" column="13" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Testing/const.php" timestamp="1504244064666">
         <mark key="[" line="3" column="47" />
@@ -1447,8 +1449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="41" filename="$USER_HOME$/git/utel/app/src/Controller/SearchController.php" />
-      <jump line="169" column="19" filename="$USER_HOME$/git/utel/app/src/Controller/SearchController.php" />
       <jump line="60" column="28" filename="$USER_HOME$/git/utel/app/src/Controller/SearchController.php" />
       <jump line="59" column="26" filename="$USER_HOME$/git/utel/app/src/Controller/SearchController.php" />
       <jump line="53" column="13" filename="$USER_HOME$/git/utel/app/src/Controller/SearchController.php" />
@@ -1547,6 +1547,8 @@
       <jump line="37" column="9" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/js/cart.js" />
       <jump line="40" column="18" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/js/cart.js" />
       <jump line="70" column="9" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/js/cart.js" />
+      <jump line="169" column="2" filename="$USER_HOME$/git/hms/db/schema.rb" />
+      <jump line="132" column="13" filename="$USER_HOME$/git/hms/db/schema.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1566,46 +1568,46 @@
         <text>$('input[name=cart-value]')</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWxvYWRPYmplY3RDYXJ0c1w+</text>
+        <text>売上</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JChmdW5jdGlvbigpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEVtcGxveWVlU2hvcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKCQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVyCg==</text>
+        <text encoding="base64">ICAgIGlmKCQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gZXNjX3VybCAoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vanMvY2FydC5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gZXNjX3VybCAoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vanMvanF1ZXJ5LmNvb2tpZS5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gZXNjX3VybCAoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vanMvY2FydC5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gZXNjX3VybCAoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vanMvanF1ZXJ5LmNvb2tpZS5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KPHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gZXNjX3VybCAoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vanMvY2FydC5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gZXNjX3VybCAoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vanMvanF1ZXJ5LmNvb2tpZS5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gZXNjX3VybCAoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vanMvanF1ZXJ5LmNvb2tpZS5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KPHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gZXNjX3VybCAoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vanMvY2FydC5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gZXNjX3VybCAoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vanMvanF1ZXJ5LmNvb2tpZS5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWxvYWRPYmplY3RDYXJ0c1w+</last-search>
+      <last-search>売上</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWxvYWRPYmplY3RDYXJ0c1w+</last-pattern>
+      <last-pattern>売上</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1613,8 +1615,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.owl-nav</entry>
-        <entry>modal-open</entry>
         <entry>class=&quot;co</entry>
         <entry>class=&quot;copy</entry>
         <entry>dial</entry>
@@ -1633,6 +1633,8 @@
         <entry>cart</entry>
         <entry>deleteR</entry>
         <entry encoding="base64">XDxyZWxvYWRPYmplY3RDYXJ0c1w+</entry>
+        <entry>slips</entry>
+        <entry>売上</entry>
       </history-search>
       <history-cmd>
         <entry>11</entry>
