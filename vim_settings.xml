@@ -220,7 +220,8 @@
         <mark key="^" line="90" column="3" />
         <mark key="." line="90" column="3" />
       </file>
-      <file name="$USER_HOME$/git/hms/config/routes.rb" timestamp="1513080635878">
+      <file name="$USER_HOME$/git/hms/config/routes.rb" timestamp="1513910258446">
+        <mark key="'" line="8" column="24" />
         <mark key="[" line="6" column="32" />
         <mark key="]" line="6" column="36" />
         <mark key="." line="6" column="36" />
@@ -493,10 +494,11 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/git/hms/app/controllers/sales_controller.rb" timestamp="1513910069912">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/git/hms/app/controllers/sales_controller.rb" timestamp="1513910736945">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+        <mark key="^" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/tab.js" timestamp="1513648820002">
         <mark key="'" line="25" column="59" />
@@ -595,7 +597,7 @@
         <mark key="^" line="2" column="58" />
         <mark key="." line="2" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513909980952">
+      <file name="/Dummy.txt" timestamp="1513910675115">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
@@ -868,10 +870,6 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Production/database.php" timestamp="1513754157058">
-        <mark key="[" line="73" column="15" />
-        <mark key="]" line="73" column="86" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c4cc2453-7d6d-449a-8067-5861135a1976/console.sql" timestamp="1491202685615">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -926,6 +924,9 @@
         <mark key="]" line="3" column="38" />
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/hms/app/models/employee.rb" timestamp="1513910705333">
+        <mark key="'" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/git/hms/spec/models/employee_shop_spec.rb" timestamp="1490756737220">
         <mark key="[" line="13" column="19" />
@@ -1167,6 +1168,9 @@
         <mark key="]" line="2" column="32" />
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/hms/app/controllers/employees_controller.rb" timestamp="1513910268562">
+        <mark key="'" line="111" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5f465f49-db82-4fde-81e3-3038a21ecefb/console.sql" timestamp="1513448284457">
         <mark key="'" line="88" column="64" />
@@ -1449,13 +1453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="28" filename="$USER_HOME$/git/utel/app/src/Controller/SearchController.php" />
-      <jump line="59" column="26" filename="$USER_HOME$/git/utel/app/src/Controller/SearchController.php" />
-      <jump line="53" column="13" filename="$USER_HOME$/git/utel/app/src/Controller/SearchController.php" />
-      <jump line="196" column="24" filename="$USER_HOME$/git/utel/app/src/Controller/SearchController.php" />
-      <jump line="190" column="32" filename="$USER_HOME$/git/utel/app/src/Controller/SearchController.php" />
-      <jump line="186" column="25" filename="$USER_HOME$/git/utel/app/src/Controller/SearchController.php" />
-      <jump line="3" column="50" filename="$USER_HOME$/git/manganews-web-master/app/Config/Env/Development/const.php" />
       <jump line="12" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-manganews/app/Config/Env/Development/const.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/QuickController.php" />
       <jump line="30" column="14" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
@@ -1549,6 +1546,13 @@
       <jump line="70" column="9" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/js/cart.js" />
       <jump line="169" column="2" filename="$USER_HOME$/git/hms/db/schema.rb" />
       <jump line="132" column="13" filename="$USER_HOME$/git/hms/db/schema.rb" />
+      <jump line="3" column="28" filename="$USER_HOME$/git/hms/config/routes.rb" />
+      <jump line="8" column="24" filename="$USER_HOME$/git/hms/config/routes.rb" />
+      <jump line="111" column="27" filename="$USER_HOME$/git/hms/app/controllers/employees_controller.rb" />
+      <jump line="18" column="6" filename="$USER_HOME$/git/hms/app/models/employee.rb" />
+      <jump line="40" column="4" filename="$USER_HOME$/git/hms/app/models/employee.rb" />
+      <jump line="64" column="0" filename="$USER_HOME$/git/hms/app/models/employee.rb" />
+      <jump line="29" column="0" filename="$USER_HOME$/git/hms/app/models/employee.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1565,49 +1569,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$('input[name=cart-value]')</text>
+        <text>each_char {||}</text>
       </register>
       <register name="/" type="4">
-        <text>売上</text>
+        <text>all</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JChmdW5jdGlvbigpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEVtcGxveWVlU2hvcAo=</text>
+        <text encoding="base64">ICAgIFNob3AuZm8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEVtcGxveWVlU2hvcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKCQpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVyCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmKCQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVyCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gZXNjX3VybCAoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vanMvY2FydC5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gZXNjX3VybCAoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vanMvanF1ZXJ5LmNvb2tpZS5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gZXNjX3VybCAoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vanMvY2FydC5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gZXNjX3VybCAoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vanMvanF1ZXJ5LmNvb2tpZS5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KPHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gZXNjX3VybCAoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vanMvY2FydC5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gZXNjX3VybCAoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vanMvanF1ZXJ5LmNvb2tpZS5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gZXNjX3VybCAoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vanMvanF1ZXJ5LmNvb2tpZS5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KPHNjcmlwdCBzcmM9Ijw/cGhwIGVjaG8gZXNjX3VybCAoIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgKTsgPz4vanMvY2FydC5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>売上</last-search>
+      <last-search>all</last-search>
       <last-offset />
-      <last-pattern>売上</last-pattern>
+      <last-pattern>all</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1615,10 +1619,6 @@
     </search>
     <history>
       <history-search>
-        <entry>class=&quot;co</entry>
-        <entry>class=&quot;copy</entry>
-        <entry>dial</entry>
-        <entry>js</entry>
         <entry>Share</entry>
         <entry>json</entry>
         <entry>addCar</entry>
@@ -1635,6 +1635,10 @@
         <entry encoding="base64">XDxyZWxvYWRPYmplY3RDYXJ0c1w+</entry>
         <entry>slips</entry>
         <entry>売上</entry>
+        <entry>make</entry>
+        <entry>make_sa</entry>
+        <entry encoding="base64">XDxub3dfc2hvcFw+</entry>
+        <entry>all</entry>
       </history-search>
       <history-cmd>
         <entry>11</entry>
@@ -1655,8 +1659,8 @@
         <entry>65</entry>
         <entry>64</entry>
         <entry>%y</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
