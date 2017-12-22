@@ -314,11 +314,11 @@
         <mark key="." line="10" column="70" />
         <mark key="^" line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/git/hms/app/views/sales/index.html.erb" timestamp="1513930327758">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git/hms/app/views/sales/index.html.erb" timestamp="1513931943498">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="28" />
+        <mark key="^" line="25" column="28" />
+        <mark key="." line="25" column="28" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/ApiController.php" timestamp="1506590600248">
         <mark key="[" line="22" column="40" />
@@ -344,10 +344,10 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/git/hms/config/locales/ja.yml" timestamp="1513593228968">
-        <mark key="'" line="98" column="44" />
-        <mark key="[" line="215" column="19" />
-        <mark key="]" line="215" column="20" />
+      <file name="$USER_HOME$/git/hms/config/locales/ja.yml" timestamp="1513931866799">
+        <mark key="'" line="137" column="25" />
+        <mark key="[" line="252" column="8" />
+        <mark key="]" line="252" column="49" />
         <mark key="." line="215" column="20" />
         <mark key="^" line="215" column="20" />
       </file>
@@ -477,11 +477,12 @@
         <mark key="." line="90" column="42" />
         <mark key="^" line="90" column="42" />
       </file>
-      <file name="$USER_HOME$/git/hms/app/models/shop.rb" timestamp="1513917210774">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="1" column="25" />
-        <mark key="." line="1" column="25" />
-        <mark key="^" line="1" column="25" />
+      <file name="$USER_HOME$/git/hms/app/models/shop.rb" timestamp="1513931884917">
+        <mark key="'" line="22" column="15" />
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="29" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/service/poloniex/CheckUtil.kt" timestamp="1499518037321">
         <mark key="[" line="13" column="46" />
@@ -501,11 +502,11 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/git/hms/app/controllers/sales_controller.rb" timestamp="1513917411518">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="26" />
+      <file name="$USER_HOME$/git/hms/app/controllers/sales_controller.rb" timestamp="1513931913459">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/tab.js" timestamp="1513648820002">
         <mark key="'" line="25" column="59" />
@@ -988,6 +989,11 @@
         <mark key="." line="142" column="40" />
         <mark key="^" line="142" column="40" />
       </file>
+      <file name="$USER_HOME$/git/hms/app/models/employee_shop.rb" timestamp="1513930767590">
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Development/const.php" timestamp="1513669499154">
         <mark key="'" line="3" column="50" />
         <mark key="[" line="8" column="0" />
@@ -1450,14 +1456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="50" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
-      <jump line="58" column="26" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
-      <jump line="64" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
-      <jump line="62" column="2" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
-      <jump line="23" column="12" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="75" column="54" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="11" column="30" filename="$USER_HOME$/git/manganews-web-master/app/View/Quick/do_login.ctp" />
-      <jump line="3" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Quick/index.ctp" />
       <jump line="41" column="28" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
       <jump line="27" column="43" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
       <jump line="216" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
@@ -1550,6 +1548,14 @@
       <jump line="103" column="13" filename="$USER_HOME$/git/hms/app/controllers/employees_controller.rb" />
       <jump line="62" column="21" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="175" column="54" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
+      <jump line="96" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="89" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="253" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="95" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="139" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="135" column="25" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="137" column="25" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="12" column="15" filename="$USER_HOME$/git/hms/app/models/shop.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1566,49 +1572,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZW5kIA==</text>
+        <text>format_export_column_header_name</text>
       </register>
       <register name="/" type="4">
-        <text>005</text>
+        <text>employee_shops</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">JChmdW5jdGlvbigpIHsK</text>
+      <register name="0" type="4">
+        <text>outstanding_sales_excluce_other_shop_saved</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGgxPlNhbGVzI2luZGV4PC9oMT4KPHA+RmluZCBtZSBpbiBhcHAvdmlld3Mvc2FsZXMvaW5kZXguaHRtbC5lcmI8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgc2FsZXNfc3VtIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBlbXBsb3llZXMgPSBFbXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVtcGxvCg==</text>
+        <text encoding="base64">ICAgICAgICA8dGg+PC90aD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaG9wLgo=</text>
+        <text encoding="base64">ICAgIDx0cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYocykK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW1wbG95ZWUuCg==</text>
+        <text encoding="base64">ICAgIEVtcGxveWVlLmFsbC5lYWNoIHt8ZW1wbG95ZWV8CiAgICAgIEBzaG9wcy5lYWNoIHt8c2hvcHwKICAgICAgICBzaG9wLmVtcGxveWVlX3Nob3BzIDw8IGVtcGxveWVlIGlmIHNob3AuaWQgPT0gZW1wbG95ZWUubm93X3Nob3AudHJ5KDppZCkKICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gbm93X3Nob3Djga7ln7rlubkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgc2hvcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNob3AuZm8K</text>
+        <text encoding="base64">ICAgICAgICBzaG9wCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>005</last-search>
+      <last-search>employee_shops</last-search>
       <last-offset />
-      <last-pattern>005</last-pattern>
+      <last-pattern>employee_shops</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1616,11 +1622,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addCar</entry>
-        <entry>dialg</entry>
-        <entry>dialog</entry>
-        <entry encoding="base64">XDxjYXRfaFw+</entry>
-        <entry>cat_h</entry>
         <entry>addCa</entry>
         <entry>modal-close</entry>
         <entry>href</entry>
@@ -1636,6 +1637,11 @@
         <entry>all</entry>
         <entry>0.05</entry>
         <entry>005</entry>
+        <entry encoding="base64">XDxzYWxlc19yYW5rX2Zvcl9zYWxlc19yYW5rX3NhdmVkXD4=</entry>
+        <entry>ranking</entry>
+        <entry>ランキング</entry>
+        <entry>順位</entry>
+        <entry>employee_shops</entry>
       </history-search>
       <history-cmd>
         <entry>11</entry>
