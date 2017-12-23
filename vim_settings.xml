@@ -246,11 +246,13 @@
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/git/p1-doc/要件定義/01_main.md" timestamp="1514017754917">
-        <mark key="[" line="56" column="32" />
-        <mark key="]" line="56" column="33" />
-        <mark key="." line="56" column="33" />
-        <mark key="^" line="56" column="33" />
+      <file name="$USER_HOME$/git/p1-doc/要件定義/01_main.md" timestamp="1514018471007">
+        <mark key="a" line="66" column="7" />
+        <mark key="'" line="379" column="3" />
+        <mark key="[" line="58" column="26" />
+        <mark key="]" line="59" column="29" />
+        <mark key="." line="59" column="29" />
+        <mark key="^" line="59" column="29" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/OutLogcat.java" timestamp="1510297647379">
         <mark key="[" line="7" column="44" />
@@ -1470,18 +1472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="58" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
-      <jump line="40" column="32" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
-      <jump line="43" column="36" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
-      <jump line="19" column="81" filename="$USER_HOME$/git/manganews-web-master/app/View/Quick/index.ctp" />
-      <jump line="14" column="29" filename="$USER_HOME$/git/manganews-web-master/app/View/Quick/do_login.ctp" />
-      <jump line="12" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Quick/do_login.ctp" />
-      <jump line="106" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
-      <jump line="468" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
-      <jump line="59" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="856" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="465" column="11" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="37" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
       <jump line="6609" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="817" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
@@ -1570,6 +1560,18 @@
       <jump line="310" column="1" filename="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" />
       <jump line="314" column="1" filename="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" />
       <jump line="318" column="0" filename="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" />
+      <jump line="63" column="7" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="201" column="7" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="202" column="15" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="204" column="8" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="205" column="22" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="206" column="22" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="208" column="7" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="214" column="14" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="217" column="7" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="226" column="47" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="227" column="41" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="371" column="3" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1586,13 +1588,13 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>追加</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>margin-le</text>
+        <text>300</text>
       </register>
       <register name="0" type="4">
-        <text>課金をどのように増やすか</text>
+        <text>チケットの購入費用</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyMjCg==</text>
@@ -1622,22 +1624,20 @@
         <text encoding="base64">PGRpdiBjbGEK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>margin-le</last-search>
+      <last-search>300</last-search>
       <last-offset />
-      <last-pattern>margin-le</last-pattern>
+      <last-pattern>300</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cart</entry>
-        <entry>deleteR</entry>
         <entry encoding="base64">XDxyZWxvYWRPYmplY3RDYXJ0c1w+</entry>
         <entry>slips</entry>
         <entry>売上</entry>
@@ -1656,6 +1656,8 @@
         <entry>box</entry>
         <entry>table</entry>
         <entry>margin-le</entry>
+        <entry>50</entry>
+        <entry>300</entry>
       </history-search>
       <history-cmd>
         <entry>11</entry>
@@ -1676,8 +1678,8 @@
         <entry>65</entry>
         <entry>64</entry>
         <entry>%y</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
