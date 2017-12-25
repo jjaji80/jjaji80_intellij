@@ -246,13 +246,13 @@
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/git/p1-doc/要件定義/01_main.md" timestamp="1514181108107">
+      <file name="$USER_HOME$/git/p1-doc/要件定義/01_main.md" timestamp="1514182058295">
         <mark key="a" line="178" column="5" />
-        <mark key="'" line="62" column="3" />
-        <mark key="[" line="216" column="21" />
-        <mark key="]" line="216" column="24" />
-        <mark key="." line="216" column="24" />
-        <mark key="^" line="216" column="24" />
+        <mark key="'" line="221" column="32" />
+        <mark key="[" line="219" column="30" />
+        <mark key="]" line="219" column="32" />
+        <mark key="." line="219" column="32" />
+        <mark key="^" line="219" column="32" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/OutLogcat.java" timestamp="1510297647379">
         <mark key="[" line="7" column="44" />
@@ -1468,7 +1468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6574" column="17" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="6133" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="962" column="25" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="972" column="25" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
@@ -1568,6 +1567,7 @@
       <jump line="61" column="25" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="170" column="5" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="62" column="3" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="221" column="32" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1587,7 +1587,7 @@
         <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>300</text>
+        <text>成長の方法</text>
       </register>
       <register name="0" type="4">
         <text>ユーザーが増えた場合の案</text>
@@ -1624,9 +1624,9 @@
       </register>
     </registers>
     <search>
-      <last-search>300</last-search>
+      <last-search>成長の方法</last-search>
       <last-offset />
-      <last-pattern>300</last-pattern>
+      <last-pattern>成長の方法</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1634,7 +1634,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWxvYWRPYmplY3RDYXJ0c1w+</entry>
         <entry>slips</entry>
         <entry>売上</entry>
         <entry>make</entry>
@@ -1654,6 +1653,7 @@
         <entry>margin-le</entry>
         <entry>50</entry>
         <entry>300</entry>
+        <entry>成長の方法</entry>
       </history-search>
       <history-cmd>
         <entry>11</entry>
