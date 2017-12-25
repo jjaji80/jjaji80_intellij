@@ -246,13 +246,13 @@
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/git/p1-doc/要件定義/01_main.md" timestamp="1514184672412">
-        <mark key="a" line="387" column="0" />
-        <mark key="'" line="224" column="32" />
-        <mark key="[" line="428" column="4" />
-        <mark key="]" line="428" column="5" />
-        <mark key="." line="428" column="5" />
-        <mark key="^" line="428" column="5" />
+      <file name="$USER_HOME$/git/p1-doc/要件定義/01_main.md" timestamp="1514185838162">
+        <mark key="a" line="463" column="0" />
+        <mark key="'" line="479" column="8" />
+        <mark key="[" line="68" column="35" />
+        <mark key="]" line="69" column="30" />
+        <mark key="." line="69" column="30" />
+        <mark key="^" line="69" column="30" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/OutLogcat.java" timestamp="1510297647379">
         <mark key="[" line="7" column="44" />
@@ -838,6 +838,10 @@
         <mark key="]" line="2" column="76" />
         <mark key="." line="2" column="75" />
         <mark key="^" line="2" column="75" />
+      </file>
+      <file name="$USER_HOME$/git/p1-doc/要件定義/make.sh" timestamp="1514186040696">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="1" column="61" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/Prepared.java" timestamp="1510304504944">
         <mark key="[" line="17" column="3" />
@@ -1468,7 +1472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6133" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="962" column="25" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="972" column="25" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="977" column="25" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
@@ -1568,6 +1571,7 @@
       <jump line="170" column="5" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="62" column="3" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="221" column="32" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="475" column="8" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1587,10 +1591,10 @@
         <text>TODO追加</text>
       </register>
       <register name="/" type="4">
-        <text>成長の方法</text>
+        <text>プレイ画面</text>
       </register>
       <register name="0" type="4">
-        <text>アイテムに関して</text>
+        <text>ajio/docker-pandoc</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">5Lul5LiL5Luu44Gu6Kit5a6aCg==</text>
@@ -1624,9 +1628,9 @@
       </register>
     </registers>
     <search>
-      <last-search>成長の方法</last-search>
+      <last-search>プレイ画面</last-search>
       <last-offset />
-      <last-pattern>成長の方法</last-pattern>
+      <last-pattern>プレイ画面</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1634,7 +1638,6 @@
     </search>
     <history>
       <history-search>
-        <entry>slips</entry>
         <entry>売上</entry>
         <entry>make</entry>
         <entry>make_sa</entry>
@@ -1654,6 +1657,7 @@
         <entry>50</entry>
         <entry>300</entry>
         <entry>成長の方法</entry>
+        <entry>プレイ画面</entry>
       </history-search>
       <history-cmd>
         <entry>11</entry>
