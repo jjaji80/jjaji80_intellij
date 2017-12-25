@@ -246,13 +246,13 @@
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/git/p1-doc/要件定義/01_main.md" timestamp="1514180204829">
-        <mark key="a" line="156" column="3" />
-        <mark key="'" line="61" column="25" />
-        <mark key="[" line="60" column="26" />
-        <mark key="]" line="61" column="25" />
-        <mark key="." line="61" column="25" />
-        <mark key="^" line="61" column="25" />
+      <file name="$USER_HOME$/git/p1-doc/要件定義/01_main.md" timestamp="1514181108107">
+        <mark key="a" line="178" column="5" />
+        <mark key="'" line="62" column="3" />
+        <mark key="[" line="216" column="21" />
+        <mark key="]" line="216" column="24" />
+        <mark key="." line="216" column="24" />
+        <mark key="^" line="216" column="24" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/OutLogcat.java" timestamp="1510297647379">
         <mark key="[" line="7" column="44" />
@@ -1468,8 +1468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6609" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="817" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="6574" column="17" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="6133" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="962" column="25" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
@@ -1568,6 +1566,8 @@
       <jump line="227" column="41" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="371" column="3" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="61" column="25" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="170" column="5" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="62" column="3" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1584,40 +1584,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2017/12/25</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>300</text>
       </register>
       <register name="0" type="4">
-        <text>ログイン促進</text>
+        <text>ユーザーが増えた場合の案</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjCg==</text>
+        <text encoding="base64">KiBb44Om44O844K244O844GM5aKX44GI44Gf5aC05ZCI44Gu5qGIXSgj44Om44O844K244O844GM5aKX44GI44Gf5aC05ZCI44Gu5qGIKeOCkui/veWKoAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgbWFpbiAtPiBwcmludGY7CiAgIGV4ZWN1dGUgLT4gY29tcGFyZTsK</text>
+        <text encoding="base64">IyMjIyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgbWFpbiAtPiBjbGVhbnVwOwogICBleGVjdXRlIC0+IG1ha2Vfc3RyaW5nOwogICBleGVjdXRlIC0+IHByaW50ZgogICBpbml0IC0+IG1ha2Vfc3RyaW5nOwo=</text>
+        <text encoding="base64">IyMjIyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyMjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgbWFpbiAtPiBwcmludGY7CiAgIGV4ZWN1dGUgLT4gY29tcGFyZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgbWFpbiAtPiBjbGVhbnVwOwogICBleGVjdXRlIC0+IG1ha2Vfc3RyaW5nOwogICBleGVjdXRlIC0+IHByaW50ZgogICBpbml0IC0+IG1ha2Vfc3RyaW5nOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iYm94Ij4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">PGRpdiBjbGEK</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
