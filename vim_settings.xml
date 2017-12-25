@@ -246,13 +246,13 @@
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/git/p1-doc/要件定義/01_main.md" timestamp="1514018575669">
-        <mark key="a" line="67" column="7" />
-        <mark key="'" line="380" column="3" />
-        <mark key="[" line="59" column="30" />
-        <mark key="]" line="60" column="25" />
-        <mark key="." line="60" column="25" />
-        <mark key="^" line="60" column="25" />
+      <file name="$USER_HOME$/git/p1-doc/要件定義/01_main.md" timestamp="1514180204829">
+        <mark key="a" line="156" column="3" />
+        <mark key="'" line="61" column="25" />
+        <mark key="[" line="60" column="26" />
+        <mark key="]" line="61" column="25" />
+        <mark key="." line="61" column="25" />
+        <mark key="^" line="61" column="25" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/OutLogcat.java" timestamp="1510297647379">
         <mark key="[" line="7" column="44" />
@@ -1468,7 +1468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
       <jump line="6609" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="817" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="6574" column="17" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
@@ -1568,6 +1567,7 @@
       <jump line="226" column="47" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="227" column="41" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="371" column="3" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="61" column="25" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1584,13 +1584,13 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>2017/12/25</text>
       </register>
       <register name="/" type="4">
         <text>300</text>
       </register>
       <register name="0" type="4">
-        <text>有料会員の特典</text>
+        <text>ログイン促進</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyMjCg==</text>
