@@ -284,8 +284,8 @@
         <mark key="^" line="11" column="106" />
         <mark key="." line="11" column="107" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1513736716663">
-        <mark key="[" line="4" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1514274151798">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -329,12 +329,12 @@
         <mark key="." line="10" column="70" />
         <mark key="^" line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/git/hms/app/views/sales/index.html.erb" timestamp="1514001030499">
-        <mark key="'" line="47" column="4" />
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="31" />
-        <mark key="^" line="8" column="31" />
-        <mark key="." line="8" column="31" />
+      <file name="$USER_HOME$/git/hms/app/views/sales/index.html.erb" timestamp="1514273955470">
+        <mark key="'" line="58" column="4" />
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="33" column="23" />
+        <mark key="^" line="33" column="23" />
+        <mark key="." line="33" column="23" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/ApiController.php" timestamp="1506590600248">
         <mark key="[" line="22" column="40" />
@@ -360,8 +360,8 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/git/hms/config/locales/ja.yml" timestamp="1513931866799">
-        <mark key="'" line="137" column="25" />
+      <file name="$USER_HOME$/git/hms/config/locales/ja.yml" timestamp="1514273964913">
+        <mark key="'" line="251" column="8" />
         <mark key="[" line="252" column="8" />
         <mark key="]" line="252" column="49" />
         <mark key="." line="215" column="20" />
@@ -599,7 +599,7 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="75" column="60" />
       </file>
-      <file name="/dummy.sql" timestamp="1513730266317">
+      <file name="/dummy.sql" timestamp="1514274098718">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -1471,7 +1471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/header.php" />
       <jump line="1" column="2" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/single-item.php" />
       <jump line="210" column="64" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="332" column="56" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
@@ -1571,6 +1570,7 @@
       <jump line="149" column="8" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="209" column="3" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="221" column="3" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="251" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1587,49 +1587,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>アイテムはガチャではなく購入</text>
+        <text encoding="base64">PCU9IGVtcGxveWVlX3Nob3AuZW1wbG95ZWUubmFtZSAlPg==</text>
       </register>
       <register name="/" type="4">
-        <text>階層</text>
+        <text>cash_card_outstanding_for_graph_saved</text>
       </register>
-      <register name="0" type="4">
-        <text>ユーザーが増えた場合の案</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgPHRkPjwlPSBlbXBsb3llZV9zaG9wLnNhbGVzX3JhbmtfZm9yX2dyYXBoX3NhdmVkICU+PC90ZD4KICAgICAgICAgICAgICAgICAgPHRkPjwlPSBlbXBsb3llZV9zaG9wLmVtcGxveWVlLm5hbWUgJT48L3RkPgogICAgICAgICAgICAgICAgICA8dGQ+PCU9IGVtcGxveWVlX3Nob3AuY2FzaF9jYXJkX291dHN0YW5kaW5nX2Zvcl9ncmFwaF9zYXZlZCAlPjwvdGQ+CiAgICAgICAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">6KaL56mN5pu46L+95YqgCiAgICAgICAgICAgICAgICAgZml4ZWQgIzI4MTQ1IEAxLjUK</text>
+        <text encoding="base64">ICAgICAgICA8dHI+CiAgICAgICAgICA8dGQ+Jm5ic3A7PC90ZD4KICAgICAgICAgIDx0ZD4mbmJzcDs8L3RkPgogICAgICAgICAgPHRkPiZuYnNwOzwvdGQ+CiAgICAgICAgPC90cj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KiDjgqLjgqTjg4bjg6Djga/jgqzjg4Hjg6Pjgafjga/jgarjgY/os7zlhaUK</text>
+        <text encoding="base64">6KaL56mN5pu46L+95YqgCiAgICAgICAgICAgICAgICAgZml4ZWQgIzI4MTQ1IEAxLjUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiBb44OX44Os44Kk55S76Z2i5qaC6KaBXSgj44OX44Os44Kk55S76Z2i5qaC6KaBKeOBq+OAgeWLleeUu+aSruW9seapn+iDvei/veWKoAo=</text>
+        <text encoding="base64">KiDjgqLjgqTjg4bjg6Djga/jgqzjg4Hjg6Pjgafjga/jgarjgY/os7zlhaUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiBb44OX44Os44Kk55S76Z2i5qaC6KaBXSgj44OX44Os44Kk55S76Z2i5qaC6KaBKeOBq+OAgeWLleeUu+aSruW9seapn+iDvei/veWKoAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KiDli5XnlLvjgpLmkq7lvbHmqZ/og70KICAgICog44Om44O844K244O844Gu5Lu75oSP44Gu44K/44Kk44Of44Oz44Kw44Gn5pKu5b2x5Y+v6IO9CiAgICAqIOaSruW9seOBl+OBn+WLleeUu+OCklNOU+OBuOaKleeov+WPr+iDvQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCEtLSAhW10oaHR0cHM6Ly9nLmdyYXZpem8uY29tL3N2Zz8lMjBkaWdyYXBoJTIwRyUyMHslMjAlRTYlOUMlODklRTYlOTYlOTklRTQlQkMlOUElRTUlOTMlQTElMjAtJTNFJTIwJUU1JUExJUJFOyUyMCVFNiU5QyU4OSVFNiU5NiU5OSVFNCVCQyU5QSVFNSU5MyVBMSUyMC0lM0UlMjAlRTMlODMlODElRTMlODIlQjElRTMlODMlODMlRTMlODMlODglRTMlODElQUUlRTklODUlOEQlRTUlQjglODNUT0RPOyUyMCVFNiU5QyU4OSVFNiU5NiU5OSVFNCVCQyU5QSVFNSU5MyVBMSUyMC0lM0UlMjAlRTglQUElQjIlRTklODclOTE7JTIwJUU3JTg0JUExJUU2JTk2JTk5JUU0JUJDJTlBJUU1JTkzJUExJTIwLSUzRSUyMCVFOCVBQSVCMiVFOSU4NyU5MTslMjAlRTglQUElQjIlRTklODclOTElMjAtJTNFJTIwJUUzJTgyJUIzJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUI4JUU1JUE0JTg5JUU2JThGJTlCOyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODIlQUMlRTMlODMlODElRTMlODMlQTM7JTIwJUUzJTgyJUIzJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUI4JUU1JUE0JTg5JUU2JThGJTlCJTIwLSUzRSUyMEFJJUU2JTlFJUEwJUUzJTgxJUFFJUU2JThCJUExJUU1JUJDJUI1OyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODMlOTQlRTMlODMlQTklRTMlODMlOUYlRTMlODMlODMlRTMlODMlODklRTQlQjglOEElRTUlQjElQTQlRTUlOEYlODIlRTUlOEElQTAlRTYlQTglQTlUT0RPOyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODIlQjUlRTMlODIlQTQlRTMlODMlODklRTMlODIlQjIlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQTIlRTMlODIlQTQlRTMlODMlODYlRTMlODMlQTA7JTIwfSkgLS0+Cg==</text>
+        <text encoding="base64">KiDli5XnlLvjgpLmkq7lvbHmqZ/og70KICAgICog44Om44O844K244O844Gu5Lu75oSP44Gu44K/44Kk44Of44Oz44Kw44Gn5pKu5b2x5Y+v6IO9CiAgICAqIOaSruW9seOBl+OBn+WLleeUu+OCklNOU+OBuOaKleeov+WPr+iDvQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aHR0cHM6Ly9nLmdyYXZpem8uY29tL3N2Zz8lMjBkaWdyYXBoJTIwRyUyMHslMjAlRTYlOUMlODklRTYlOTYlOTklRTQlQkMlOUElRTUlOTMlQTElMjAtJTNFJTIwJUU1JUExJUJFOyUyMCVFNiU5QyU4OSVFNiU5NiU5OSVFNCVCQyU5QSVFNSU5MyVBMSUyMC0lM0UlMjAlRTMlODMlODElRTMlODIlQjElRTMlODMlODMlRTMlODMlODglRTMlODElQUUlRTklODUlOEQlRTUlQjglODNUT0RPOyUyMCVFNiU5QyU4OSVFNiU5NiU5OSVFNCVCQyU5QSVFNSU5MyVBMSUyMC0lM0UlMjAlRTglQUElQjIlRTklODclOTE7JTIwJUU3JTg0JUExJUU2JTk2JTk5JUU0JUJDJTlBJUU1JTkzJUExJTIwLSUzRSUyMCVFOCVBQSVCMiVFOSU4NyU5MTslMjAlRTglQUElQjIlRTklODclOTElMjAtJTNFJTIwJUUzJTgyJUIzJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUI4JUU1JUE0JTg5JUU2JThGJTlCOyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODIlQUMlRTMlODMlODElRTMlODMlQTM7JTIwJUUzJTgyJUIzJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUI4JUU1JUE0JTg5JUU2JThGJTlCJTIwLSUzRSUyMEFJJUU2JTlFJUEwJUUzJTgxJUFFJUU2JThCJUExJUU1JUJDJUI1OyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODMlOTQlRTMlODMlQTklRTMlODMlOUYlRTMlODMlODMlRTMlODMlODklRTQlQjglOEElRTUlQjElQTQlRTUlOEYlODIlRTUlOEElQTAlRTYlQTglQTlUT0RPOyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODIlQjUlRTMlODIlQTQlRTMlODMlODklRTMlODIlQjIlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQTIlRTMlODIlQTQlRTMlODMlODYlRTMlODMlQTA7JTIwfQo=</text>
+        <text encoding="base64">PCEtLSAhW10oaHR0cHM6Ly9nLmdyYXZpem8uY29tL3N2Zz8lMjBkaWdyYXBoJTIwRyUyMHslMjAlRTYlOUMlODklRTYlOTYlOTklRTQlQkMlOUElRTUlOTMlQTElMjAtJTNFJTIwJUU1JUExJUJFOyUyMCVFNiU5QyU4OSVFNiU5NiU5OSVFNCVCQyU5QSVFNSU5MyVBMSUyMC0lM0UlMjAlRTMlODMlODElRTMlODIlQjElRTMlODMlODMlRTMlODMlODglRTMlODElQUUlRTklODUlOEQlRTUlQjglODNUT0RPOyUyMCVFNiU5QyU4OSVFNiU5NiU5OSVFNCVCQyU5QSVFNSU5MyVBMSUyMC0lM0UlMjAlRTglQUElQjIlRTklODclOTE7JTIwJUU3JTg0JUExJUU2JTk2JTk5JUU0JUJDJTlBJUU1JTkzJUExJTIwLSUzRSUyMCVFOCVBQSVCMiVFOSU4NyU5MTslMjAlRTglQUElQjIlRTklODclOTElMjAtJTNFJTIwJUUzJTgyJUIzJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUI4JUU1JUE0JTg5JUU2JThGJTlCOyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODIlQUMlRTMlODMlODElRTMlODMlQTM7JTIwJUUzJTgyJUIzJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUI4JUU1JUE0JTg5JUU2JThGJTlCJTIwLSUzRSUyMEFJJUU2JTlFJUEwJUUzJTgxJUFFJUU2JThCJUExJUU1JUJDJUI1OyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODMlOTQlRTMlODMlQTklRTMlODMlOUYlRTMlODMlODMlRTMlODMlODklRTQlQjglOEElRTUlQjElQTQlRTUlOEYlODIlRTUlOEElQTAlRTYlQTglQTlUT0RPOyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODIlQjUlRTMlODIlQTQlRTMlODMlODklRTMlODIlQjIlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQTIlRTMlODIlQTQlRTMlODMlODYlRTMlODMlQTA7JTIwfSkgLS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IVvjgqjjg5Pjg5Xjg6njgqTjg4jjg6njgqTjgqLjg7PjgrDjg6tdKGh0dHA6Ly9pLmltZ3VyLmNvbS9KandzYy5qcGcgIuOCteODs+ODl+ODqyIpCg==</text>
+        <text encoding="base64">aHR0cHM6Ly9nLmdyYXZpem8uY29tL3N2Zz8lMjBkaWdyYXBoJTIwRyUyMHslMjAlRTYlOUMlODklRTYlOTYlOTklRTQlQkMlOUElRTUlOTMlQTElMjAtJTNFJTIwJUU1JUExJUJFOyUyMCVFNiU5QyU4OSVFNiU5NiU5OSVFNCVCQyU5QSVFNSU5MyVBMSUyMC0lM0UlMjAlRTMlODMlODElRTMlODIlQjElRTMlODMlODMlRTMlODMlODglRTMlODElQUUlRTklODUlOEQlRTUlQjglODNUT0RPOyUyMCVFNiU5QyU4OSVFNiU5NiU5OSVFNCVCQyU5QSVFNSU5MyVBMSUyMC0lM0UlMjAlRTglQUElQjIlRTklODclOTE7JTIwJUU3JTg0JUExJUU2JTk2JTk5JUU0JUJDJTlBJUU1JTkzJUExJTIwLSUzRSUyMCVFOCVBQSVCMiVFOSU4NyU5MTslMjAlRTglQUElQjIlRTklODclOTElMjAtJTNFJTIwJUUzJTgyJUIzJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUI4JUU1JUE0JTg5JUU2JThGJTlCOyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODIlQUMlRTMlODMlODElRTMlODMlQTM7JTIwJUUzJTgyJUIzJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUI4JUU1JUE0JTg5JUU2JThGJTlCJTIwLSUzRSUyMEFJJUU2JTlFJUEwJUUzJTgxJUFFJUU2JThCJUExJUU1JUJDJUI1OyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODMlOTQlRTMlODMlQTklRTMlODMlOUYlRTMlODMlODMlRTMlODMlODklRTQlQjglOEElRTUlQjElQTQlRTUlOEYlODIlRTUlOEElQTAlRTYlQTglQTlUT0RPOyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODIlQjUlRTMlODIlQTQlRTMlODMlODklRTMlODIlQjIlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQTIlRTMlODIlQTQlRTMlODMlODYlRTMlODMlQTA7JTIwfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>階層</last-search>
+      <last-search>cash_card_outstanding_for_graph_saved</last-search>
       <last-offset />
-      <last-pattern>階層</last-pattern>
+      <last-pattern>cash_card_outstanding_for_graph_saved</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1637,7 +1637,6 @@
     </search>
     <history>
       <history-search>
-        <entry>box</entry>
         <entry>table</entry>
         <entry>margin-le</entry>
         <entry>50</entry>
@@ -1657,6 +1656,7 @@
         <entry>アイテムはガチャではなく購入</entry>
         <entry>アイテムは</entry>
         <entry>階層</entry>
+        <entry>cash_card_outstanding_for_graph_saved</entry>
       </history-search>
       <history-cmd>
         <entry>13</entry>
