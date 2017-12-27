@@ -990,12 +990,12 @@
         <mark key="." line="11" column="25" />
         <mark key="^" line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/js/cart.js" timestamp="1514344383077">
-        <mark key="'" line="161" column="22" />
-        <mark key="[" line="107" column="8" />
-        <mark key="]" line="107" column="13" />
-        <mark key="." line="107" column="13" />
-        <mark key="^" line="107" column="13" />
+      <file name="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/js/cart.js" timestamp="1514363531877">
+        <mark key="'" line="158" column="20" />
+        <mark key="[" line="100" column="59" />
+        <mark key="]" line="100" column="60" />
+        <mark key="^" line="100" column="60" />
+        <mark key="." line="100" column="60" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/core.php" timestamp="1513583763577">
         <mark key="'" line="210" column="0" />
@@ -1470,7 +1470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="9" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-includes/js/cart.js" />
       <jump line="2" column="9" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-includes/js/cart.js" />
       <jump line="0" column="0" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-includes/js/jquery/jquery.cookie.js" />
       <jump line="16" column="39" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/single-item.php" />
@@ -1570,6 +1569,7 @@
       <jump line="165" column="28" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/single-item.php" />
       <jump line="108" column="100" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/single-item.php" />
       <jump line="161" column="22" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/js/cart.js" />
+      <jump line="154" column="20" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/js/cart.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1586,49 +1586,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;1220&quot;</text>
+        <text>型番|個数|単価|小計\n</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmljZVw+</text>
+        <text>|</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PD9waHAgZWNobyAkaW5mb19wcmljZTsgPz4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FydF9kYXRhID0gY2FydF9kYXRhICsgIuWNmOS+oXwgIiArIGNhcnQucHJpY2UrICJcbiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8dHI+CiAgICAgICAgICA8dGQ+Jm5ic3A7PC90ZD4KICAgICAgICAgIDx0ZD4mbmJzcDs8L3RkPgogICAgICAgICAgPHRkPiZuYnNwOzwvdGQ+CiAgICAgICAgPC90cj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FydF9kYXRhID0gY2FydF9kYXRhICsgY2FydC50eXBlICsgInwiICsgY2FydC5hbW91bnQgKyAifCIgKyBjYXJ0LnByaWNlICsgInwiICsgc3VidG90YWwgKyAiXG4iOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">6KaL56mN5pu46L+95YqgCiAgICAgICAgICAgICAgICAgZml4ZWQgIzI4MTQ1IEAxLjUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiDjgqLjgqTjg4bjg6Djga/jgqzjg4Hjg6Pjgafjga/jgarjgY/os7zlhaUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FydF9kYXRhID0gY2FydF9kYXRhICsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KiBb44OX44Os44Kk55S76Z2i5qaC6KaBXSgj44OX44Os44Kk55S76Z2i5qaC6KaBKeOBq+OAgeWLleeUu+aSruW9seapn+iDvei/veWKoAo=</text>
+        <text encoding="base64">ICAgIGNhcnRfZGF0YSA9ICLllYblk4HlkI185Z6L55WqIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dHI+CiAgICAgICAgICA8dGQ+Jm5ic3A7PC90ZD4KICAgICAgICAgIDx0ZD4mbmJzcDs8L3RkPgogICAgICAgICAgPHRkPiZuYnNwOzwvdGQ+CiAgICAgICAgPC90cj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">6KaL56mN5pu46L+95YqgCiAgICAgICAgICAgICAgICAgZml4ZWQgIzI4MTQ1IEAxLjUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KiDli5XnlLvjgpLmkq7lvbHmqZ/og70KICAgICog44Om44O844K244O844Gu5Lu75oSP44Gu44K/44Kk44Of44Oz44Kw44Gn5pKu5b2x5Y+v6IO9CiAgICAqIOaSruW9seOBl+OBn+WLleeUu+OCklNOU+OBuOaKleeov+WPr+iDvQo=</text>
+        <text encoding="base64">KiDjgqLjgqTjg4bjg6Djga/jgqzjg4Hjg6Pjgafjga/jgarjgY/os7zlhaUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCEtLSAhW10oaHR0cHM6Ly9nLmdyYXZpem8uY29tL3N2Zz8lMjBkaWdyYXBoJTIwRyUyMHslMjAlRTYlOUMlODklRTYlOTYlOTklRTQlQkMlOUElRTUlOTMlQTElMjAtJTNFJTIwJUU1JUExJUJFOyUyMCVFNiU5QyU4OSVFNiU5NiU5OSVFNCVCQyU5QSVFNSU5MyVBMSUyMC0lM0UlMjAlRTMlODMlODElRTMlODIlQjElRTMlODMlODMlRTMlODMlODglRTMlODElQUUlRTklODUlOEQlRTUlQjglODNUT0RPOyUyMCVFNiU5QyU4OSVFNiU5NiU5OSVFNCVCQyU5QSVFNSU5MyVBMSUyMC0lM0UlMjAlRTglQUElQjIlRTklODclOTE7JTIwJUU3JTg0JUExJUU2JTk2JTk5JUU0JUJDJTlBJUU1JTkzJUExJTIwLSUzRSUyMCVFOCVBQSVCMiVFOSU4NyU5MTslMjAlRTglQUElQjIlRTklODclOTElMjAtJTNFJTIwJUUzJTgyJUIzJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUI4JUU1JUE0JTg5JUU2JThGJTlCOyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODIlQUMlRTMlODMlODElRTMlODMlQTM7JTIwJUUzJTgyJUIzJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUI4JUU1JUE0JTg5JUU2JThGJTlCJTIwLSUzRSUyMEFJJUU2JTlFJUEwJUUzJTgxJUFFJUU2JThCJUExJUU1JUJDJUI1OyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODMlOTQlRTMlODMlQTklRTMlODMlOUYlRTMlODMlODMlRTMlODMlODklRTQlQjglOEElRTUlQjElQTQlRTUlOEYlODIlRTUlOEElQTAlRTYlQTglQTlUT0RPOyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODIlQjUlRTMlODIlQTQlRTMlODMlODklRTMlODIlQjIlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQTIlRTMlODIlQTQlRTMlODMlODYlRTMlODMlQTA7JTIwfSkgLS0+Cg==</text>
+        <text encoding="base64">KiBb44OX44Os44Kk55S76Z2i5qaC6KaBXSgj44OX44Os44Kk55S76Z2i5qaC6KaBKeOBq+OAgeWLleeUu+aSruW9seapn+iDvei/veWKoAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aHR0cHM6Ly9nLmdyYXZpem8uY29tL3N2Zz8lMjBkaWdyYXBoJTIwRyUyMHslMjAlRTYlOUMlODklRTYlOTYlOTklRTQlQkMlOUElRTUlOTMlQTElMjAtJTNFJTIwJUU1JUExJUJFOyUyMCVFNiU5QyU4OSVFNiU5NiU5OSVFNCVCQyU5QSVFNSU5MyVBMSUyMC0lM0UlMjAlRTMlODMlODElRTMlODIlQjElRTMlODMlODMlRTMlODMlODglRTMlODElQUUlRTklODUlOEQlRTUlQjglODNUT0RPOyUyMCVFNiU5QyU4OSVFNiU5NiU5OSVFNCVCQyU5QSVFNSU5MyVBMSUyMC0lM0UlMjAlRTglQUElQjIlRTklODclOTE7JTIwJUU3JTg0JUExJUU2JTk2JTk5JUU0JUJDJTlBJUU1JTkzJUExJTIwLSUzRSUyMCVFOCVBQSVCMiVFOSU4NyU5MTslMjAlRTglQUElQjIlRTklODclOTElMjAtJTNFJTIwJUUzJTgyJUIzJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUI4JUU1JUE0JTg5JUU2JThGJTlCOyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODIlQUMlRTMlODMlODElRTMlODMlQTM7JTIwJUUzJTgyJUIzJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUI4JUU1JUE0JTg5JUU2JThGJTlCJTIwLSUzRSUyMEFJJUU2JTlFJUEwJUUzJTgxJUFFJUU2JThCJUExJUU1JUJDJUI1OyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODMlOTQlRTMlODMlQTklRTMlODMlOUYlRTMlODMlODMlRTMlODMlODklRTQlQjglOEElRTUlQjElQTQlRTUlOEYlODIlRTUlOEElQTAlRTYlQTglQTlUT0RPOyUyMCVFMyU4MiVCMyVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVCOCVFNSVBNCU4OSVFNiU4RiU5QiUyMC0lM0UlMjAlRTMlODIlQjUlRTMlODIlQTQlRTMlODMlODklRTMlODIlQjIlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQTIlRTMlODIlQTQlRTMlODMlODYlRTMlODMlQTA7JTIwfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmljZVw+</last-search>
+      <last-search>|</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmljZVw+</last-pattern>
+      <last-pattern>|</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1636,7 +1636,6 @@
     </search>
     <history>
       <history-search>
-        <entry>プレイ画面</entry>
         <entry>チケットの購入費用</entry>
         <entry>jpg</entry>
         <entry>トーナメント</entry>
@@ -1656,6 +1655,7 @@
         <entry>addCart</entry>
         <entry>item-price cf</entry>
         <entry encoding="base64">XDxwcmljZVw+</entry>
+        <entry>|</entry>
       </history-search>
       <history-cmd>
         <entry>13</entry>
