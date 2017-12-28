@@ -103,12 +103,11 @@
       <file name="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-includes/js/jquery/jquery.cookie.js" timestamp="1513849506052">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1514429469267">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1514432116382">
         <mark key="'" line="156" column="23" />
-        <mark key="[" line="39" column="58" />
-        <mark key="]" line="39" column="58" />
-        <mark key="^" line="39" column="58" />
-        <mark key="." line="39" column="58" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
@@ -625,10 +624,11 @@
         <mark key="^" line="2" column="58" />
         <mark key="." line="2" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514273616317">
+      <file name="/Dummy.txt" timestamp="1514432266292">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="9" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
         <mark key="[" line="60" column="20" />
@@ -655,11 +655,11 @@
         <mark key="^" line="21" column="33" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/dao/Coincheck1minutes.kt" timestamp="1513487907966">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="38" column="49" />
-        <mark key="]" line="38" column="50" />
-        <mark key="." line="38" column="50" />
-        <mark key="^" line="38" column="50" />
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="37" column="49" />
+        <mark key="]" line="37" column="50" />
+        <mark key="." line="37" column="50" />
+        <mark key="^" line="37" column="50" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Company/curator.ctp" timestamp="1512457811960">
         <mark key="[" line="25" column="63" />
@@ -1605,34 +1605,34 @@
         <text encoding="base64">XDwwMDVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIHRhcmdldCxyc2ksbWFjZCxtYWNkX3NpZ25hbCxsYXN0IEZST00gY29pbmNoZWNrXzFtaW51dGVzIFdIRVJFIHR5cGU9JzQ4MCcgYW5kIHRhcmdldD4nMjAxNzExMDYwNzAwJyBPUkRFUiBCWSB0YXJnZXQgREVTQyA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDAgKiA2MCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGFyZ2V0VHlwZSA9PSA1TCkgewogICAgICAgICAgICBsb2cuZGVidWcoImdvIikKICAgICAgICB9Cg==</text>
+        <text encoding="base64">MzDliIbotrPjga5tYWNk44KC44OB44Kn44OD44KvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDAgKiA2MCozKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGFyZ2V0TGltaXQgPSBtYWNkc1sobWFjZERpZmYubWFjZHMubGFzdEluZGV4ICogb3ZlcikudG9JbnQoKV0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGFyZ2V0VHlwZSA9PSA1TCkgewogICAgICAgICAgICBsb2cuZGVidWcoImdvIikKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGFyZ2V0VXAgPSBtYWNkc1sobWFjZERpZmYubWFjZHMubGFzdEluZGV4ICogdW5kZXIpLnRvSW50KCldCg==</text>
+        <text encoding="base64">c2VsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYWNkcyA9IG1hY2RzLnNvcnRlZEJ5IHsgaXQgfQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGFyZ2V0TGltaXQgPSBtYWNkc1sobWFjZERpZmYubWFjZHMubGFzdEluZGV4ICogb3ZlcikudG9JbnQoKV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbm93TWFjZCA9IG1hY2RzWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGFyZ2V0VXAgPSBtYWNkc1sobWFjZERpZmYubWFjZHMubGFzdEluZGV4ICogdW5kZXIpLnRvSW50KCldCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbWFjZHMgPSBtYWNkRGlmZi5tYWNkcwo=</text>
+        <text encoding="base64">ICAgICAgICBtYWNkcyA9IG1hY2RzLnNvcnRlZEJ5IHsgaXQgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbm93TWFjZCA9IG1hY2RzWzBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGlzQnV5KCkK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbWFjZHMgPSBtYWNkRGlmZi5tYWNkcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
