@@ -523,9 +523,9 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/git/hms/app/controllers/sales_controller.rb" timestamp="1514532794105">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
+      <file name="$USER_HOME$/git/hms/app/controllers/sales_controller.rb" timestamp="1514534497451">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="103" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="5" column="100" />
       </file>
@@ -621,6 +621,11 @@
         <mark key="]" line="78" column="63" />
         <mark key="." line="78" column="0" />
         <mark key="^" line="75" column="60" />
+      </file>
+      <file name="$USER_HOME$/git/hms/app/controllers/outstanding_aggregate_controller.rb" timestamp="1514534498916">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="103" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1514531212677">
         <mark key="[" line="0" column="0" />
@@ -1625,7 +1630,7 @@
         <text>red</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxsaT48YSBocmVmPSIvZGFpbHlfb3V0c3RhbmRpbmdfY3VzdG9tZXJzIj7mnKrlj47norroqo3nlKg8L2E+PC9saT4K</text>
+        <text encoding="base64">ICAgIEBzaG9wcyA9IFNob3AuZmluZF93aXRoX25vd19lbXBsb3llZV9zaG9wKHNldHRpbmcuZW1wbG95ZWVfZGF0ZV9zdGFydDEsIHNldHRpbmcuZW1wbG95ZWVfZGF0ZV9lbmQxKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">5paw6KaP5aOy5LiK6ZuG6KiI55S76Z2iCg==</text>
