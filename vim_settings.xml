@@ -240,12 +240,12 @@
         <mark key="." line="14" column="48" />
         <mark key="^" line="14" column="48" />
       </file>
-      <file name="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" timestamp="1514687467169">
-        <mark key="'" line="47" column="4" />
-        <mark key="[" line="338" column="1" />
-        <mark key="]" line="339" column="31" />
-        <mark key="." line="339" column="31" />
-        <mark key="^" line="339" column="31" />
+      <file name="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" timestamp="1514693959036">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="328" column="16" />
+        <mark key="]" line="328" column="16" />
+        <mark key="." line="328" column="16" />
+        <mark key="^" line="328" column="16" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/TestController.kt" timestamp="1509111465204">
         <mark key="[" line="17" column="35" />
@@ -647,6 +647,12 @@
         <mark key="^" line="2" column="58" />
         <mark key="." line="2" column="58" />
       </file>
+      <file name="/Dummy.txt" timestamp="1514694007288">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
         <mark key="[" line="60" column="20" />
         <mark key="]" line="60" column="32" />
@@ -696,12 +702,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/hms/app/views/outstanding_note/index.html.erb" timestamp="1514692966454">
-        <mark key="'" line="2" column="67" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="17" column="153" />
+      <file name="$USER_HOME$/git/hms/app/views/outstanding_note/index.html.erb" timestamp="1514693979565">
+        <mark key="'" line="8" column="114" />
+        <mark key="[" line="35" column="19" />
+        <mark key="]" line="35" column="40" />
+        <mark key="." line="35" column="40" />
+        <mark key="^" line="35" column="40" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1514617849787">
         <mark key="'" line="310" column="0" />
@@ -1517,12 +1523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="14" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
-      <jump line="327" column="0" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
-      <jump line="317" column="3" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
-      <jump line="488" column="6" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
-      <jump line="86" column="44" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
-      <jump line="149" column="8" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="209" column="3" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="221" column="3" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="251" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
@@ -1613,10 +1613,16 @@
       <jump line="326" column="0" filename="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" />
       <jump line="20" column="9" filename="$USER_HOME$/git/hms/app/views/outstanding_note/index.html.erb" />
       <jump line="47" column="4" filename="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" />
-      <jump line="8" column="11" filename="$USER_HOME$/git/hms/app/views/outstanding_note/index.html.erb" />
       <jump line="10" column="10" filename="$USER_HOME$/git/hms/app/controllers/outstanding_note_controller.rb" />
       <jump line="24" column="6" filename="$USER_HOME$/git/hms/app/controllers/outstanding_note_controller.rb" />
       <jump line="2" column="67" filename="$USER_HOME$/git/hms/app/views/outstanding_note/index.html.erb" />
+      <jump line="342" column="0" filename="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" />
+      <jump line="25" column="4" filename="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" />
+      <jump line="37" column="4" filename="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" />
+      <jump line="324" column="4" filename="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" />
+      <jump line="332" column="4" filename="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" />
+      <jump line="17" column="4" filename="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" />
+      <jump line="8" column="114" filename="$USER_HOME$/git/hms/app/views/outstanding_note/index.html.erb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1633,49 +1639,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>[0]</text>
+        <text>1.0</text>
       </register>
       <register name="/" type="4">
-        <text>clear</text>
+        <text>table</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAg5Lyd56Wo55Wq5Y+3OjwlPSBjdXN0b21lcl9ncm91cFsnc2xpcCddWzBdLmlkICU+CiAgICAgICAgICAgICAgPCUgZW5kICU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlIGVuZCAlPgo=</text>
+        <text encoding="base64">5paw6KaP5pyq5Y+O44OO44O844OI5Ye65Yqb55S76Z2iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwlIGVuZCAlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzbGlwLmN1c3RvbWVyLnByZXNlbnQ/Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzbGlwLmN1c3RvbWVyLnByZXNlbnQ/Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvdXRzdGFuZGluZy5jdXN0b21lci5wcmVzZW50Pwo=</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpZiBvdXRzdGFuZGluZy5jdXN0b21lci5wcmVzZW50Pwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBvdXRzdGFuZGluZy5jdXN0b21lci5wcmVzZW50Pwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">5paw6KaP5pyq5Y+O44OO44O844OI5Ye65Yqb55S76Z2iCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>clear</last-search>
+      <last-search>table</last-search>
       <last-offset />
-      <last-pattern>clear</last-pattern>
+      <last-pattern>table</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1683,8 +1689,6 @@
     </search>
     <history>
       <history-search>
-        <entry>順位</entry>
-        <entry>rank</entry>
         <entry>未収</entry>
         <entry encoding="base64">XDxvdXRzdGFuZGluZ19zYWxlc19leGNsdWNlX290aGVyX3Nob3Bfc2F2ZWRcPg==</entry>
         <entry>,</entry>
@@ -1703,6 +1707,8 @@
         <entry>slip:</entry>
         <entry>outstanding:</entry>
         <entry>clear</entry>
+        <entry>margin</entry>
+        <entry>table</entry>
       </history-search>
       <history-cmd>
         <entry>18,24y</entry>
