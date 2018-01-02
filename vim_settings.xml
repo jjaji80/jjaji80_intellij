@@ -641,7 +641,7 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="75" column="60" />
       </file>
-      <file name="/dummy.sql" timestamp="1514919175779">
+      <file name="/dummy.sql" timestamp="1514919271389">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -653,7 +653,7 @@
         <mark key="^" line="2" column="58" />
         <mark key="." line="2" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514879357703">
+      <file name="/Dummy.txt" timestamp="1514919870183">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
@@ -690,12 +690,12 @@
         <mark key="^" line="43" column="21" />
         <mark key="." line="43" column="21" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/dao/Coincheck1minutes.kt" timestamp="1513487907966">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="37" column="49" />
-        <mark key="]" line="37" column="50" />
-        <mark key="." line="37" column="50" />
-        <mark key="^" line="37" column="50" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/dao/Coincheck1minutes.kt" timestamp="1514919471317">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="35" column="50" />
+        <mark key="]" line="36" column="41" />
+        <mark key="." line="36" column="41" />
+        <mark key="^" line="36" column="41" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Company/curator.ctp" timestamp="1512457811960">
         <mark key="[" line="25" column="63" />
@@ -1000,6 +1000,13 @@
         <mark key="]" line="13" column="7" />
         <mark key="^" line="13" column="7" />
         <mark key="." line="13" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeManagementService.kt" timestamp="1514920014787">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="33" column="9" />
+        <mark key="]" line="34" column="8" />
+        <mark key="." line="34" column="8" />
+        <mark key="^" line="34" column="8" />
       </file>
       <file name="$USER_HOME$/git/hms/app/views/daily_sales_employees/_search.html.erb" timestamp="1490941952432">
         <mark key="[" line="23" column="52" />
@@ -1542,9 +1549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
-      <jump line="118" column="43" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeManagementService.kt" />
       <jump line="27" column="13" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/DefaultTechnicalService.kt" />
       <jump line="159" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="39" column="54" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
@@ -1642,6 +1646,9 @@
       <jump line="12" column="4" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/judge/impl/MacdMacdUpJudge.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="7" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
+      <jump line="48" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeManagementService.kt" />
+      <jump line="54" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeManagementService.kt" />
+      <jump line="130" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeManagementService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1658,49 +1665,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>macdDiff</text>
+        <text>main()</text>
       </register>
       <register name="/" type="4">
-        <text>Judge</text>
+        <text>volume</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIGxvZyBieSBLdExvZygpCiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIENvaW5jaGVjazFtaW51dGVzLnNlbGVjdCh7CiAgICAgICAgICAgICAgICBDb2luY2hlY2sxbWludXRlcy50eXBlLmVxKHR5cGUpLgogICAgICAgICAgICAgICAgICAgICAgICBhbmQoQ29pbmNoZWNrMW1pbnV0ZXMudGFyZ2V0Lmxlc3NFcSh0YXJnZXQpKQogICAgICAgICAgICB9KS5saW1pdChsaW1pdCkub3JkZXJCeShDb2luY2hlY2sxbWludXRlcy50YXJnZXQsIGZhbHNlKS5mb3JFYWNoIHsKICAgICAgICAgICAgICAgIGxpc3QuYWRkKGl0KQogICAgICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyZWFkIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnN0YQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYnV5SnVkZ2VzID0gbXV0YWJsZUxpc3RPZjxNYWNkRGlmZkJ1eUp1ZGdlPigpCiAgICAgICAgYnV5SnVkZ2VzLmFkZChNYWNkTWFjZFVwSnVkZ2UoKSkKICAgICAgICBidXlKdWRnZXMuYWRkKE1hY2RSc2lVcEp1ZGdlKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3QuYWRkKGl0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYnV5SnVkZ2U6IE1hY2REaWZmQnV5SnVkZ2UgPSBNYWNkTWFjZFVwSnVkZ2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kKENvaW5jaGVjazFtaW51dGVzLnRhcmdldC5sZXNzRXEodGFyZ2V0KSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29pbmNoZWNrVHJhZGVzLnNlbGVjdEFsbCgpLm9yZGVyQnkoQ29pbmNoZWNrVHJhZGVzLmlkKS5saW1pdCgxMDAwKS5tYXAgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIHNjaGVtYV92ZXJzaW9uCigKICB2ZXJzaW9uX3JhbmsgICBJTlQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBOT1QgTlVMTCwKICBpbnN0YWxsZWRfcmFuayBJTlQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBOT1QgTlVMTCwKICB2ZXJzaW9uICAgICAgICBWQVJDSEFSKDUwKSAgICAgICAgICAgICAgICAgICAgICAgICBOT1QgTlVMTAogICAgUFJJTUFSWSBLRVksCiAgZGVzY3JpcHRpb24gICAgVkFSQ0hBUigyMDApICAgICAgICAgICAgICAgICAgICAgICAgTk9UIE5VTEwsCiAgdHlwZSAgICAgICAgICAgVkFSQ0hBUigyMCkgICAgICAgICAgICAgICAgICAgICAgICAgTk9UIE5VTEwsCiAgc2NyaXB0ICAgICAgICAgVkFSQ0hBUigxMDAwKSAgICAgICAgICAgICAgICAgICAgICAgTk9UIE5VTEwsCiAgY2hlY2tzdW0gICAgICAgSU5UICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTlVMTCwKICBpbnN0YWxsZWRfYnkgICBWQVJDSEFSKDEwMCkgICAgICAgICAgICAgICAgICAgICAgICBOT1QgTlVMTCwKICBpbnN0YWxsZWRfb24gICBUSU1FU1RBTVAgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCBOT1QgTlVMTCwKICBleGVjdXRpb25fdGltZSBJTlQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBOT1QgTlVMTCwKICBzdWNjZXNzICAgICAgICBUSU5ZSU5UKDEpICAgICAgICAgICAgICAgICAgICAgICAgICBOT1QgTlVMTAopCiAgRU5HSU5FID0gSW5ub0RCOwoKQ1JFQVRFIElOREVYIHNjaGVtYV92ZXJzaW9uX3ZyX2lkeAogIE9OIHNjaGVtYV92ZXJzaW9uICh2ZXJzaW9uX3JhbmspOwoKQ1JFQVRFIElOREVYIHNjaGVtYV92ZXJzaW9uX2lyX2lkeAogIE9OIHNjaGVtYV92ZXJzaW9uIChpbnN0YWxsZWRfcmFuayk7CgpDUkVBVEUgSU5ERVggc2NoZW1hX3ZlcnNpb25fc19pZHgKICBPTiBzY2hlbWFfdmVyc2lvbiAoc3VjY2Vzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0gYXV0by1nZW5lcmF0ZWQgZGVmaW5pdGlvbgpDUkVBVEUgVEFCTEUgdXNlcnMKKAogIGlkICAgICAgICAgQklHSU5UIEFVVE9fSU5DUkVNRU5UCiAgICBQUklNQVJZIEtFWSwKICBwdXNoX2lkICAgIFZBUkNIQVIoMjU0KSAgICAgICAgICAgICAgICAgICAgICAgTlVMTAogIENPTU1FTlQgJ+ODl+ODg+OCt+ODpUlEJywKICBvcyAgICAgICAgIFZBUkNIQVIoMTApICAgICAgICAgICAgICAgICAgICAgICAgTlVMTCwKICBjcmVhdGVkX2F0IERBVEVUSU1FIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgTlVMTCwKICB1cGRhdGVkX2F0IERBVEVUSU1FIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgTlVMTCwKICB2ZXJzaW9uX25vIElOVCBERUZBVUxUICcwJyAgICAgICAgICAgICAgICAgICAgTlVMTCwKICBDT05TVFJBSU5UIGlkCiAgVU5JUVVFIChpZCkKKQogIENPTU1FTlQgJ+ODpuODvOOCtuODvCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYnV5SnVkZ2VzID0gbXV0YWJsZUxpc3RPZjxNYWNkRGlmZkJ1eUp1ZGdlPigpCiAgICAgICAgYnV5SnVkZ2VzLmFkZChNYWNkTWFjZFVwSnVkZ2UoKSkKICAgICAgICBidXlKdWRnZXMuYWRkKE1hY2RSc2lVcEp1ZGdlKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Judge</last-search>
+      <last-search>volume</last-search>
       <last-offset />
-      <last-pattern>Judge</last-pattern>
+      <last-pattern>volume</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1708,8 +1715,6 @@
     </search>
     <history>
       <history-search>
-        <entry>select</entry>
-        <entry encoding="base64">XDxmb3JFYWNoXD4=</entry>
         <entry>nowPri</entry>
         <entry>noLe</entry>
         <entry encoding="base64">XDxzZWxlY3RcPg==</entry>
@@ -1728,6 +1733,8 @@
         <entry>sch</entry>
         <entry>fi</entry>
         <entry>Judge</entry>
+        <entry encoding="base64">XDx0cmFuc2FjdGlvblw+</entry>
+        <entry>volume</entry>
       </history-search>
       <history-cmd>
         <entry>15</entry>
