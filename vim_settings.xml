@@ -100,12 +100,11 @@
         <mark key="." line="33" column="341" />
         <mark key="^" line="33" column="341" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1514786321314">
-        <mark key="'" line="69" column="48" />
-        <mark key="[" line="57" column="34" />
-        <mark key="]" line="57" column="37" />
-        <mark key="." line="57" column="37" />
-        <mark key="^" line="57" column="37" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1514861329564">
+        <mark key="[" line="77" column="44" />
+        <mark key="]" line="78" column="47" />
+        <mark key="." line="78" column="47" />
+        <mark key="^" line="78" column="47" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
@@ -1654,7 +1653,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>isBuy</text>
+        <text>lossCut</text>
       </register>
       <register name="/" type="4">
         <text>red_no</text>
@@ -1663,31 +1662,31 @@
         <text encoding="base64">ICAgICAgPCUgKGNvdW50ZXIuLnNob3AubWF4X3Jvdy0yKS5lYWNoIHt8aXwgJT4KICAgICAgPHRyPjx0ZD4mbmJzcDs8L3RkPjx0ZD4mbmJzcDs8L3RkPjx0ZD4mbmJzcDs8L3RkPjwvdHI+CiAgICAgIDwlIH0gJT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhbGMK</text>
+        <text encoding="base64">ICAgICAgICBhcGkub3BlbnMoKS5mb3JFYWNoIHsKICAgICAgICAgICAgbG9nLmRlYnVnKCIke3RyYWRlTWFuYWdlbWVudFNlcnZpY2Uubm93UHJpY2UubWludXMoaXQucmF0ZSkgLyB0cmFkZU1hbmFnZW1lbnRTZXJ2aWNlLm5vd1ByaWNlICogMTAwfSA6ICR7aXQucmF0ZX0iKQogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlIGNvdW50ZXIgPSAwICU+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2hvcHMubWF4X3IK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgIGNhbGMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbWF4X3IK</text>
+        <text encoding="base64">ICAgICAgICAgIDwlIGNvdW50ZXIgPSAwICU+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEB0b3RhbF9vdXRzdGFuZGluZyA9IEBzaG9wcy5pbmplY3QoMCkge3xzdW0sIHNob3B8IHNob3Aub3V0c3RhbmRpbmdfc3VtfQo=</text>
+        <text encoding="base64">ICAgICAgc2hvcHMubWF4X3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBzaG9wcy5lYWNoIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
