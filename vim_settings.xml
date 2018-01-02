@@ -247,7 +247,7 @@
         <mark key="." line="15" column="42" />
         <mark key="^" line="15" column="42" />
       </file>
-      <file name="/a.sql" timestamp="1514878673627">
+      <file name="/a.sql" timestamp="1514879932764">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" timestamp="1514693959036">
@@ -641,7 +641,7 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="75" column="60" />
       </file>
-      <file name="/dummy.sql" timestamp="1514878850050">
+      <file name="/dummy.sql" timestamp="1514879915165">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -653,8 +653,8 @@
         <mark key="^" line="2" column="58" />
         <mark key="." line="2" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514696094888">
-        <mark key="[" line="1" column="14" />
+      <file name="/Dummy.txt" timestamp="1514879357703">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
@@ -1219,11 +1219,12 @@
         <mark key="." line="47" column="55" />
         <mark key="^" line="47" column="55" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" timestamp="1513455345367">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="17" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" timestamp="1514879493714">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="^" line="216" column="10" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TagController.php" timestamp="1513449880254">
         <mark key="[" line="19" column="58" />
@@ -1248,6 +1249,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/User.kt" timestamp="1514880022986">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="45" />
+        <mark key="." line="9" column="38" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrencyPair.java" timestamp="1499154251470">
         <mark key="[" line="9" column="94" />
@@ -1476,10 +1483,10 @@
         <mark key="." line="28" column="59" />
         <mark key="^" line="28" column="59" />
       </file>
-      <file name="$USER_HOME$/git/ora/pom.xml" timestamp="1513456284249">
-        <mark key="'" line="23" column="44" />
-        <mark key="[" line="70" column="21" />
-        <mark key="]" line="75" column="20" />
+      <file name="$USER_HOME$/git/ora/pom.xml" timestamp="1514879516336">
+        <mark key="'" line="99" column="21" />
+        <mark key="[" line="77" column="25" />
+        <mark key="]" line="77" column="32" />
         <mark key="." line="75" column="20" />
         <mark key="^" line="75" column="20" />
       </file>
@@ -1528,10 +1535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="100" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/single-item.php" />
-      <jump line="161" column="22" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/js/cart.js" />
-      <jump line="154" column="20" filename="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/js/cart.js" />
-      <jump line="50" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="119" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="8" column="76" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" />
       <jump line="16" column="85" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" />
@@ -1628,6 +1631,10 @@
       <jump line="19" column="70" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ora.git.old/Dockerfile" />
       <jump line="28" column="28" filename="$USER_HOME$/git/ora.git.old/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
+      <jump line="48" column="50" filename="$USER_HOME$/git/ora/pom.xml" />
+      <jump line="94" column="20" filename="$USER_HOME$/git/ora/pom.xml" />
+      <jump line="99" column="21" filename="$USER_HOME$/git/ora/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1644,49 +1651,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>Datetime</text>
       </register>
       <register name="/" type="4">
-        <text>bundle</text>
+        <text>fi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Q29pbkNoZWNrUHJvcGVydGllcy5ub0xldmVyYWdlU3RvcExvc3M9MTAuMAo=</text>
+      <register name="0" type="4">
+        <text>flywaydb</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIHNjaGVtYV92ZXJzaW9uCigKICB2ZXJzaW9uX3JhbmsgICBJTlQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBOT1QgTlVMTCwKICBpbnN0YWxsZWRfcmFuayBJTlQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBOT1QgTlVMTCwKICB2ZXJzaW9uICAgICAgICBWQVJDSEFSKDUwKSAgICAgICAgICAgICAgICAgICAgICAgICBOT1QgTlVMTAogICAgUFJJTUFSWSBLRVksCiAgZGVzY3JpcHRpb24gICAgVkFSQ0hBUigyMDApICAgICAgICAgICAgICAgICAgICAgICAgTk9UIE5VTEwsCiAgdHlwZSAgICAgICAgICAgVkFSQ0hBUigyMCkgICAgICAgICAgICAgICAgICAgICAgICAgTk9UIE5VTEwsCiAgc2NyaXB0ICAgICAgICAgVkFSQ0hBUigxMDAwKSAgICAgICAgICAgICAgICAgICAgICAgTk9UIE5VTEwsCiAgY2hlY2tzdW0gICAgICAgSU5UICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTlVMTCwKICBpbnN0YWxsZWRfYnkgICBWQVJDSEFSKDEwMCkgICAgICAgICAgICAgICAgICAgICAgICBOT1QgTlVMTCwKICBpbnN0YWxsZWRfb24gICBUSU1FU1RBTVAgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCBOT1QgTlVMTCwKICBleGVjdXRpb25fdGltZSBJTlQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBOT1QgTlVMTCwKICBzdWNjZXNzICAgICAgICBUSU5ZSU5UKDEpICAgICAgICAgICAgICAgICAgICAgICAgICBOT1QgTlVMTAopCiAgRU5HSU5FID0gSW5ub0RCOwoKQ1JFQVRFIElOREVYIHNjaGVtYV92ZXJzaW9uX3ZyX2lkeAogIE9OIHNjaGVtYV92ZXJzaW9uICh2ZXJzaW9uX3JhbmspOwoKQ1JFQVRFIElOREVYIHNjaGVtYV92ZXJzaW9uX2lyX2lkeAogIE9OIHNjaGVtYV92ZXJzaW9uIChpbnN0YWxsZWRfcmFuayk7CgpDUkVBVEUgSU5ERVggc2NoZW1hX3ZlcnNpb25fc19pZHgKICBPTiBzY2hlbWFfdmVyc2lvbiAoc3VjY2Vzcyk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcGkub3BlbnMoKS5mb3JFYWNoIHsKICAgICAgICAgICAgbG9nLmRlYnVnKCIke3RyYWRlTWFuYWdlbWVudFNlcnZpY2Uubm93UHJpY2UubWludXMoaXQucmF0ZSkgLyB0cmFkZU1hbmFnZW1lbnRTZXJ2aWNlLm5vd1ByaWNlICogMTAwfSA6ICR7aXQucmF0ZX0iKQogICAgICAgIH0K</text>
+        <text encoding="base64">LS0gYXV0by1nZW5lcmF0ZWQgZGVmaW5pdGlvbgpDUkVBVEUgVEFCTEUgdXNlcnMKKAogIGlkICAgICAgICAgQklHSU5UIEFVVE9fSU5DUkVNRU5UCiAgICBQUklNQVJZIEtFWSwKICBwdXNoX2lkICAgIFZBUkNIQVIoMjU0KSAgICAgICAgICAgICAgICAgICAgICAgTlVMTAogIENPTU1FTlQgJ+ODl+ODg+OCt+ODpUlEJywKICBvcyAgICAgICAgIFZBUkNIQVIoMTApICAgICAgICAgICAgICAgICAgICAgICAgTlVMTCwKICBjcmVhdGVkX2F0IERBVEVUSU1FIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgTlVMTCwKICB1cGRhdGVkX2F0IERBVEVUSU1FIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgTlVMTCwKICB2ZXJzaW9uX25vIElOVCBERUZBVUxUICcwJyAgICAgICAgICAgICAgICAgICAgTlVMTCwKICBDT05TVFJBSU5UIGlkCiAgVU5JUVVFIChpZCkKKQogIENPTU1FTlQgJ+ODpuODvOOCtuODvCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhbGMK</text>
+        <text encoding="base64">ICAgICAgICBhcGkub3BlbnMoKS5mb3JFYWNoIHsKICAgICAgICAgICAgbG9nLmRlYnVnKCIke3RyYWRlTWFuYWdlbWVudFNlcnZpY2Uubm93UHJpY2UubWludXMoaXQucmF0ZSkgLyB0cmFkZU1hbmFnZW1lbnRTZXJ2aWNlLm5vd1ByaWNlICogMTAwfSA6ICR7aXQucmF0ZX0iKQogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwlIGNvdW50ZXIgPSAwICU+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2hvcHMubWF4X3IK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgIGNhbGMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>bundle</last-search>
+      <last-search>fi</last-search>
       <last-offset />
-      <last-pattern>bundle</last-pattern>
+      <last-pattern>fi</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1694,8 +1701,6 @@
     </search>
     <history>
       <history-search>
-        <entry>outstand</entry>
-        <entry encoding="base64">XDxzbGlwXD4=</entry>
         <entry>outstanding</entry>
         <entry>select</entry>
         <entry encoding="base64">XDxmb3JFYWNoXD4=</entry>
@@ -1714,9 +1719,10 @@
         <entry>loss</entry>
         <entry encoding="base64">XDxyZWFkQ29uZmlnXD4=</entry>
         <entry>bundle</entry>
+        <entry>sch</entry>
+        <entry>fi</entry>
       </history-search>
       <history-cmd>
-        <entry>18,24y</entry>
         <entry>27</entry>
         <entry>15</entry>
         <entry>55</entry>
@@ -1735,6 +1741,7 @@
         <entry>23</entry>
         <entry>1</entry>
         <entry>4</entry>
+        <entry>203,227d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
