@@ -94,6 +94,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
+      <file name="$USER_HOME$/git/ora.git.old/docker-compose.yml" timestamp="1514876538658">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="6" />
+        <mark key="." line="10" column="6" />
+        <mark key="^" line="10" column="29" />
+      </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Bookings/index.ctp" timestamp="1508201249749">
         <mark key="[" line="33" column="163" />
         <mark key="]" line="33" column="363" />
@@ -1643,7 +1649,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFkQ29uZmlnXD4=</text>
@@ -1689,7 +1695,7 @@
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1721,7 +1727,6 @@
         <entry>55</entry>
         <entry>61</entry>
         <entry>33</entry>
-        <entry>4</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>45</entry>
         <entry>208</entry>
@@ -1734,6 +1739,7 @@
         <entry>35,38y</entry>
         <entry>23</entry>
         <entry>1</entry>
+        <entry>4</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
