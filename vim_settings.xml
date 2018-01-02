@@ -106,12 +106,12 @@
         <mark key="." line="33" column="341" />
         <mark key="^" line="33" column="341" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1514912256264">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="68" column="31" />
-        <mark key="]" line="68" column="31" />
-        <mark key="." line="68" column="31" />
-        <mark key="^" line="68" column="28" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" timestamp="1514921091002">
+        <mark key="'" line="40" column="16" />
+        <mark key="[" line="53" column="58" />
+        <mark key="]" line="53" column="59" />
+        <mark key="." line="53" column="59" />
+        <mark key="^" line="75" column="24" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
@@ -1549,7 +1549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="13" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/DefaultTechnicalService.kt" />
       <jump line="159" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="39" column="54" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="49" column="35" filename="$USER_HOME$/git/tools.manga-news.jp-master/htdocs/admin/blogs/index.php" />
@@ -1649,6 +1648,7 @@
       <jump line="48" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeManagementService.kt" />
       <jump line="54" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeManagementService.kt" />
       <jump line="130" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeManagementService.kt" />
+      <jump line="40" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1668,7 +1668,7 @@
         <text>main()</text>
       </register>
       <register name="/" type="4">
-        <text>volume</text>
+        <text>0.00</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIENvaW5jaGVjazFtaW51dGVzLnNlbGVjdCh7CiAgICAgICAgICAgICAgICBDb2luY2hlY2sxbWludXRlcy50eXBlLmVxKHR5cGUpLgogICAgICAgICAgICAgICAgICAgICAgICBhbmQoQ29pbmNoZWNrMW1pbnV0ZXMudGFyZ2V0Lmxlc3NFcSh0YXJnZXQpKQogICAgICAgICAgICB9KS5saW1pdChsaW1pdCkub3JkZXJCeShDb2luY2hlY2sxbWludXRlcy50YXJnZXQsIGZhbHNlKS5mb3JFYWNoIHsKICAgICAgICAgICAgICAgIGxpc3QuYWRkKGl0KQogICAgICAgICAgICB9</text>
@@ -1705,9 +1705,9 @@
       </register>
     </registers>
     <search>
-      <last-search>volume</last-search>
+      <last-search>0.00</last-search>
       <last-offset />
-      <last-pattern>volume</last-pattern>
+      <last-pattern>0.00</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1715,7 +1715,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nowPri</entry>
         <entry>noLe</entry>
         <entry encoding="base64">XDxzZWxlY3RcPg==</entry>
         <entry>slip</entry>
@@ -1735,6 +1734,7 @@
         <entry>Judge</entry>
         <entry encoding="base64">XDx0cmFuc2FjdGlvblw+</entry>
         <entry>volume</entry>
+        <entry>0.00</entry>
       </history-search>
       <history-cmd>
         <entry>15</entry>
