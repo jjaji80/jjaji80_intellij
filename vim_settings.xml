@@ -132,6 +132,12 @@
         <mark key="." line="78" column="100" />
         <mark key="^" line="78" column="100" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/UserAdministration.kt" timestamp="1515025265012">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="58" />
+        <mark key="^" line="5" column="58" />
+        <mark key="." line="5" column="58" />
+      </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="12" />
@@ -710,11 +716,21 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="75" column="60" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/test/kotlin/leadlife/co/jp/ora/repository/UserRepositoryTest.kt" timestamp="1514968980729">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1514996871827">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="41" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/LightAdminBootApplication.kt" timestamp="1515024918844">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/git/hms/db/migrate/20171212112649_add_companion_to_slip.rb" timestamp="1513078047134">
         <mark key="[" line="2" column="56" />
@@ -1632,12 +1648,11 @@
         <mark key="." line="28" column="59" />
         <mark key="^" line="28" column="59" />
       </file>
-      <file name="$USER_HOME$/git/ora/pom.xml" timestamp="1514991553572">
-        <mark key="'" line="99" column="21" />
-        <mark key="[" line="77" column="25" />
-        <mark key="]" line="77" column="32" />
-        <mark key="." line="75" column="20" />
-        <mark key="^" line="75" column="20" />
+      <file name="$USER_HOME$/git/ora/pom.xml" timestamp="1515024871232">
+        <mark key="'" line="135" column="21" />
+        <mark key="]" line="111" column="4" />
+        <mark key="^" line="111" column="4" />
+        <mark key="." line="111" column="4" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/repository/CategoryRepository.kt" timestamp="1514969249251">
         <mark key="[" line="5" column="29" />
@@ -1812,40 +1827,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>BereaveRepository</text>
+        <text>LightAdminBootApplication</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
       <register name="0" type="4">
-        <text>,</text>
+        <text>http://lightadmin.org/nexus/content/repositories/releases</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBMaWdodEEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmxpZ2h0YWRtaW4vbGlnaHRhZG1pbiAtLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaWdodEEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmxpZ2h0YWRtaW48L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmxpZ2h0YWRtaW48L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjEuMi4wLlJDMTwvdmVyc2lvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgQEkK</text>
+        <text encoding="base64">CQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fCDjg5Hjgrnjg6/jg7zjg4njga7lho3oqK3lrpogfCBhY2NvdW50X3Bzd2RfcmVzZXQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8ICAgICAgICAgIHwgICAgICAgICAgIHwK</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmxpZ2h0YWRtaW48L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmxpZ2h0YWRtaW48L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjEuMC4wLk0zPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">55S76Z2i44Gu6Kaq55S76Z2i5L2c5oiQCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">55S76Z2i44Gu6Kaq55S76Z2i5L2c5oiQCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1884,8 +1899,6 @@
         <entry>$</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>45</entry>
         <entry>208</entry>
         <entry>65</entry>
         <entry>64</entry>
@@ -1902,7 +1915,9 @@
         <entry>103,118d</entry>
         <entry>1</entry>
         <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
+        <entry encoding="base64">JzwsJz45NQ==</entry>
         <entry>9</entry>
+        <entry>95</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
