@@ -256,9 +256,6 @@
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="68" />
       </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-manganews/app/Config/Env/Development/database.php" timestamp="1513756717305">
-        <mark key="[" line="79" column="4" />
-      </file>
       <file name="$USER_HOME$/git/hms/config/routes.rb" timestamp="1513910258446">
         <mark key="'" line="8" column="24" />
         <mark key="[" line="6" column="32" />
@@ -272,9 +269,6 @@
         <mark key="]" line="15" column="43" />
         <mark key="." line="15" column="42" />
         <mark key="^" line="15" column="42" />
-      </file>
-      <file name="/a.sql" timestamp="1515393744546">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" timestamp="1514693959036">
         <mark key="'" line="17" column="4" />
@@ -306,6 +300,13 @@
         <mark key="]" line="197" column="0" />
         <mark key="^" line="197" column="25" />
         <mark key="." line="197" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ora/docker-entrypoint-initdb.d/init.sql" timestamp="1515402597119">
+        <mark key="'" line="1" column="15" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="57" />
+        <mark key="^" line="6" column="55" />
+        <mark key="." line="6" column="55" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/repository/ForumRepository.kt" timestamp="1515036537775">
         <mark key="[" line="3" column="0" />
@@ -692,12 +693,12 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Account.kt" timestamp="1515391730035">
-        <mark key="'" line="14" column="8" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="42" column="73" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Account.kt" timestamp="1515400911998">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="28" />
+        <mark key="." line="29" column="28" />
+        <mark key="^" line="29" column="28" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Password/register.ctp" timestamp="1512365122774">
         <mark key="[" line="4" column="1" />
@@ -730,16 +731,11 @@
         <mark key="." line="16" column="26" />
         <mark key="^" line="16" column="26" />
       </file>
-      <file name="/dummy.sql" timestamp="1515397948218">
+      <file name="/dummy.sql" timestamp="1515402517328">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="41" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/LightAdminBootApplication.kt" timestamp="1515024918844">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/git/hms/db/migrate/20171212112649_add_companion_to_slip.rb" timestamp="1513078047134">
         <mark key="[" line="2" column="56" />
@@ -754,7 +750,7 @@
         <mark key="^" line="24" column="77" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515399687450">
+      <file name="/Dummy.txt" timestamp="1515402781836">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="15" />
@@ -804,11 +800,12 @@
         <mark key="." line="25" column="74" />
         <mark key="^" line="25" column="74" />
       </file>
-      <file name="$USER_HOME$/git/ora/docker-compose.yml" timestamp="1513452623620">
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="7" column="39" />
-        <mark key="^" line="7" column="39" />
-        <mark key="." line="7" column="39" />
+      <file name="$USER_HOME$/git/ora/docker-compose.yml" timestamp="1515402476556">
+        <mark key="'" line="13" column="16" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="22" column="36" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/docs/.gitignore" timestamp="1489570869370">
         <mark key="[" line="0" column="0" />
@@ -1220,9 +1217,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/fragment.rb" timestamp="1514686630852">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/sp/Mobile/dial.ctp" timestamp="1493176013951">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1279,11 +1273,6 @@
         <mark key="^" line="26" column="39" />
         <mark key="." line="26" column="39" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/controller/LoginController.kt" timestamp="1515396543743">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/git/ora/docs/function_list.md" timestamp="1514975114465">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -1321,9 +1310,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="5" column="43" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/judge/MacdDiffBuyJudge.kt" timestamp="1514785946324">
-        <mark key="[" line="4" column="27" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Tag/list_news.ctp" timestamp="1511510382689">
         <mark key="[" line="3" column="0" />
@@ -1411,12 +1397,12 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/User.kt" timestamp="1515398786775">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/User.kt" timestamp="1515400809432">
         <mark key="'" line="27" column="24" />
-        <mark key="[" line="52" column="20" />
-        <mark key="]" line="52" column="36" />
-        <mark key="^" line="52" column="36" />
-        <mark key="." line="52" column="36" />
+        <mark key="[" line="46" column="25" />
+        <mark key="]" line="46" column="35" />
+        <mark key="^" line="46" column="35" />
+        <mark key="." line="46" column="35" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Category.kt" timestamp="1515384000548">
         <mark key="[" line="12" column="23" />
@@ -1478,6 +1464,10 @@
         <mark key="]" line="11" column="19" />
         <mark key="^" line="8" column="42" />
         <mark key="." line="11" column="19" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.1.61/kotlin-stdlib-1.1.61-sources.jar!/kotlin/collections/Collections.kt" timestamp="1515400798405">
+        <mark key="[" line="95" column="39" />
+        <mark key="]" line="95" column="49" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Topnews/index.ctp" timestamp="1513566803686">
         <mark key="[" line="24" column="0" />
@@ -1572,6 +1562,12 @@
         <mark key="^" line="201" column="6" />
         <mark key="." line="201" column="6" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6ca0997b-3e8e-44a3-9b5f-d4fb724e8368/console.sql" timestamp="1515402628023">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="60" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/service/PushService.kt" timestamp="1500969501762">
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="35" />
@@ -1622,18 +1618,24 @@
         <mark key="^" line="31" column="96" />
         <mark key="." line="31" column="96" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/service/UserService.kt" timestamp="1515400174129">
-        <mark key="'" line="19" column="16" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="55" column="21" />
-        <mark key="." line="55" column="21" />
-        <mark key="^" line="55" column="21" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/service/UserService.kt" timestamp="1515400832226">
+        <mark key="'" line="25" column="19" />
+        <mark key="[" line="62" column="11" />
+        <mark key="]" line="62" column="18" />
+        <mark key="." line="62" column="18" />
+        <mark key="^" line="62" column="18" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/composer.json" timestamp="1508461703569">
         <mark key="[" line="24" column="26" />
         <mark key="]" line="24" column="8" />
         <mark key="^" line="24" column="8" />
         <mark key="." line="24" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/test/resources/application.yml" timestamp="1515402441931">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="2" column="39" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/KtLog.kt" timestamp="1499747787110">
         <mark key="[" line="6" column="0" />
@@ -1729,12 +1731,6 @@
         <mark key="^" line="2" column="73" />
         <mark key="." line="2" column="73" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/config/Role.kt" timestamp="1515394491835">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="13" />
-        <mark key="^" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-      </file>
       <file name="$USER_HOME$/git/airbnbClient/pom.xml" timestamp="1501025859120">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="20" column="20" />
@@ -1755,17 +1751,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="28" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Column.kt" />
-      <jump line="49" column="80" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Account.kt" />
-      <jump line="20" column="24" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Account.kt" />
-      <jump line="22" column="42" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Account.kt" />
-      <jump line="6" column="14" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
       <jump line="21" column="27" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
       <jump line="24" column="67" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
       <jump line="37" column="324" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
       <jump line="13" column="9" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
       <jump line="12" column="41" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Bereave.kt" />
-      <jump line="24" column="24" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Account.kt" />
       <jump line="12" column="75" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Account.kt" />
       <jump line="13" column="80" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Account.kt" />
       <jump line="23" column="46" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Account.kt" />
@@ -1847,7 +1837,6 @@
       <jump line="44" column="8" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/User.kt" />
       <jump line="46" column="30" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/User.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/service/UserService.kt" />
-      <jump line="25" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/service/UserService.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/test/kotlin/leadlife/co/jp/ora/service/UserServiceTest.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/controller/TopController.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/application.yml" />
@@ -1855,6 +1844,13 @@
       <jump line="27" column="24" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/User.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/service/UserService.kt" />
       <jump line="19" column="16" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/service/UserService.kt" />
+      <jump line="66" column="13" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/service/UserService.kt" />
+      <jump line="25" column="19" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/service/UserService.kt" />
+      <jump line="24" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Account.kt" />
+      <jump line="0" column="23" filename="$USER_HOME$/git/ora/docker-entrypoint-initdb.d/init.sql" />
+      <jump line="1" column="15" filename="$USER_HOME$/git/ora/docker-entrypoint-initdb.d/init.sql" />
+      <jump line="2" column="8" filename="$USER_HOME$/git/ora/docker-compose.yml" />
+      <jump line="14" column="16" filename="$USER_HOME$/git/ora/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1871,49 +1867,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cDAg</text>
+        <text>testDB</text>
       </register>
       <register name="/" type="4">
-        <text>passwo</text>
+        <text encoding="base64">XDxNWVNRTF9VU0VSXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBuYW1lIOODreOCsOOCpOODs+WQjQogICAgICogQHBhcmFtIGVtYWlsIOODoeODvOODq+OCouODieODrOOCuQogICAgICogQHBhcmFtIHBhc3N3b3JkIOODkeOCueODr+ODvOODiQo=</text>
+        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIElGIE5PVCBFWElTVFMgb3JhX3Rlc3Q7CkdSQU5UIEFMTCBPTiBvcmFfdGVzdC4qIFRPICdvcmEnQCclJyBJREVOVElGSUVEIEJZICdzZWNyZXQnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKiAgKi8K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICovCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">5Lya5ZOh55m76Yyy44O744Ot44Kw44Kk44Oz55S76Z2iCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkYl90ZXN0OgogICAgICAgICAgICAgICAgaW1hZ2U6IG15c3FsCiAgICAgICAgICAgICAgICBlbnZpcm9ubWVudDoKICAgICAgICAgICAgICAgICAgICAgICAgLSBNWVNRTF9ST09UX1BBU1NXT1JEPXNlY3JldAogICAgICAgICAgICAgICAgICAgICAgICAtIE1ZU1FMX0RBVEFCQVNFPW9yYV90ZXN0CiAgICAgICAgICAgICAgICAgICAgICAgIC0gTVlTUUxfVVNFUj1vcmEKICAgICAgICAgICAgICAgICAgICAgICAgLSBNWVNRTF9QQVNTV09SRD1zZWNyZXQKICAgICAgICAgICAgICAgIHBvcnRzOgogICAgICAgICAgICAgICAgICAgICAgICAtICIzMzA3OjMzMDciCiAgICAgICAgICAgICAgICB2b2x1bWVzOgogICAgICAgICAgICAgICAgICAtICIuL2RvY2tlci9kYl90ZXN0L21vdW50LzovdmFyL2xpYi9teXNxbDpjYWNoZWQiCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyLmFjY291bnRMaXN0ISEuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyLmFjY291bnRMaXN0LmFkZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhY2NvdW50Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlcj8uZW5jcnlwdGVkUGFzc3dvcmQyaXNCbGFuaygpKQogICAgICAgICAgICB0aHJvdyBVc2VybmFtZU5vdEZvdW5kRXhjZXB0aW9uKCIkcDAgaXMgbm90IHNldCBwYXNzd29yZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBVc2VyKHVzZXIuZW1haWwsIHVzZXIuZW5jcnlwdGVkUGFzc3dvcmQsIENvbGxlY3Rpb25zLnNpbmdsZXRvbihTaW1wbGVHcmFudGVkQXV0aG9yaXR5KHVzZXIudXNlclR5cGUpKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>passwo</last-search>
+      <last-search encoding="base64">XDxNWVNRTF9VU0VSXD4=</last-search>
       <last-offset />
-      <last-pattern>passwo</last-pattern>
+      <last-pattern encoding="base64">XDxNWVNRTF9VU0VSXD4=</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1921,7 +1917,6 @@
     </search>
     <history>
       <history-search>
-        <entry>account</entry>
         <entry>user_id</entry>
         <entry>open</entry>
         <entry>href</entry>
@@ -1933,7 +1928,6 @@
         <entry>notes</entry>
         <entry>conten</entry>
         <entry>pom</entry>
-        <entry>user</entry>
         <entry>uniq</entry>
         <entry>passw</entry>
         <entry>secu</entry>
@@ -1941,6 +1935,8 @@
         <entry>type</entry>
         <entry>var</entry>
         <entry>passwo</entry>
+        <entry>user</entry>
+        <entry encoding="base64">XDxNWVNRTF9VU0VSXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%y</entry>
