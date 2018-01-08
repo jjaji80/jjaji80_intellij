@@ -697,8 +697,8 @@
         <mark key="." line="39" column="99" />
         <mark key="^" line="31" column="53" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" timestamp="1515374433727">
-        <mark key="'" line="21" column="68" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" timestamp="1515375121657">
+        <mark key="'" line="13" column="9" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/MediaPlayerUtil.java" timestamp="1496370524221">
         <mark key="[" line="18" column="12" />
@@ -1712,9 +1712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="20" filename="$USER_HOME$/git/ora/pom.xml" />
-      <jump line="99" column="21" filename="$USER_HOME$/git/ora/pom.xml" />
-      <jump line="77" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="12" column="4" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/judge/impl/MacdMacdUpJudge.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
       <jump line="7" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
@@ -1811,7 +1808,10 @@
       <jump line="22" column="42" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Account.kt" />
       <jump line="23" column="12" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Account.kt" />
       <jump line="6" column="14" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
-      <jump line="21" column="68" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
+      <jump line="21" column="27" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
+      <jump line="24" column="67" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
+      <jump line="37" column="324" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
+      <jump line="13" column="9" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1831,7 +1831,7 @@
         <text>Int</text>
       </register>
       <register name="/" type="4">
-        <text>open</text>
+        <text>href</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHR5cGU9ImFwcGxpY2F0aW9uL2xkK2pzb24i</text>
@@ -1868,9 +1868,9 @@
       </register>
     </registers>
     <search>
-      <last-search>open</last-search>
+      <last-search>href</last-search>
       <last-offset />
-      <last-pattern>open</last-pattern>
+      <last-pattern>href</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1878,7 +1878,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sch</entry>
         <entry>fi</entry>
         <entry>Judge</entry>
         <entry encoding="base64">XDx0cmFuc2FjdGlvblw+</entry>
@@ -1898,6 +1897,7 @@
         <entry>user_id</entry>
         <entry>user</entry>
         <entry>open</entry>
+        <entry>href</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
