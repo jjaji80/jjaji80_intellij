@@ -46,9 +46,6 @@
         <mark key="^" line="5" column="47" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/OneToMany.java" timestamp="1515037884744">
-        <mark key="'" line="83" column="18" />
-      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Helper/CommonHelper.php" timestamp="1511601378943">
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="0" />
@@ -700,6 +697,9 @@
         <mark key="." line="39" column="99" />
         <mark key="^" line="31" column="53" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" timestamp="1515374433727">
+        <mark key="'" line="21" column="68" />
+      </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/MediaPlayerUtil.java" timestamp="1496370524221">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="18" column="24" />
@@ -748,11 +748,11 @@
         <mark key="^" line="25" column="22" />
         <mark key="." line="25" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515042172457">
+      <file name="/Dummy.txt" timestamp="1515374226539">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="15" />
+        <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="15" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
         <mark key="[" line="60" column="20" />
@@ -860,12 +860,12 @@
         <mark key="^" line="196" column="44" />
         <mark key="." line="196" column="44" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_ld_news.ctp" timestamp="1513587271523">
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_ld_news.ctp" timestamp="1515373480665">
         <mark key="'" line="18" column="56" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="40" column="89" />
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="33" />
+        <mark key="." line="16" column="79" />
+        <mark key="^" line="16" column="79" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/component/BitPointApiComponet.kt" timestamp="1502523721817">
         <mark key="[" line="29" column="0" />
@@ -1461,12 +1461,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="73" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1513733856662">
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1515373506528">
         <mark key="'" line="465" column="11" />
-        <mark key="[" line="41" column="43" />
-        <mark key="]" line="41" column="44" />
-        <mark key="." line="41" column="44" />
-        <mark key="^" line="41" column="44" />
+        <mark key="[" line="478" column="10" />
+        <mark key="]" line="478" column="10" />
+        <mark key="." line="478" column="10" />
+        <mark key="^" line="478" column="36" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/.htaccess" timestamp="1514518128214">
         <mark key="[" line="11" column="19" />
@@ -1712,8 +1712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
-      <jump line="48" column="50" filename="$USER_HOME$/git/ora/pom.xml" />
       <jump line="94" column="20" filename="$USER_HOME$/git/ora/pom.xml" />
       <jump line="99" column="21" filename="$USER_HOME$/git/ora/pom.xml" />
       <jump line="77" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
@@ -1812,6 +1810,8 @@
       <jump line="20" column="24" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Account.kt" />
       <jump line="22" column="42" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Account.kt" />
       <jump line="23" column="12" filename="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Account.kt" />
+      <jump line="6" column="14" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
+      <jump line="21" column="68" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1831,10 +1831,10 @@
         <text>Int</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>open</text>
       </register>
       <register name="0" type="4">
-        <text>,insertable = false,updatable = false</text>
+        <text encoding="base64">IHR5cGU9ImFwcGxpY2F0aW9uL2xkK2pzb24i</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -1864,13 +1864,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>14</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>open</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>open</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1878,7 +1878,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bundle</entry>
         <entry>sch</entry>
         <entry>fi</entry>
         <entry>Judge</entry>
@@ -1898,6 +1897,7 @@
         <entry>account</entry>
         <entry>user_id</entry>
         <entry>user</entry>
+        <entry>open</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
@@ -1918,8 +1918,8 @@
         <entry encoding="base64">JzwsJz45NQ==</entry>
         <entry>9</entry>
         <entry>95</entry>
-        <entry>w</entry>
         <entry>14</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
