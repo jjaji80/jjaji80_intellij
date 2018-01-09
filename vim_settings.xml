@@ -9,6 +9,12 @@
         <mark key="^" line="4" column="47" />
         <mark key="." line="4" column="47" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Account.kt" timestamp="1515488094740">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="44" />
+        <mark key="^" line="28" column="44" />
+        <mark key="." line="28" column="44" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/RefTradeTypeCls.kt" timestamp="1503473727290">
         <mark key="[" line="12" column="57" />
         <mark key="]" line="12" column="68" />
@@ -256,9 +262,6 @@
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="68" />
       </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-manganews/app/Config/Env/Development/database.php" timestamp="1513756717305">
-        <mark key="[" line="79" column="4" />
-      </file>
       <file name="$USER_HOME$/git/hms/config/routes.rb" timestamp="1513910258446">
         <mark key="'" line="8" column="24" />
         <mark key="[" line="6" column="32" />
@@ -273,7 +276,7 @@
         <mark key="." line="15" column="42" />
         <mark key="^" line="15" column="42" />
       </file>
-      <file name="/a.sql" timestamp="1515487008560">
+      <file name="/a.sql" timestamp="1515488048393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" timestamp="1514693959036">
@@ -508,11 +511,11 @@
         <mark key="." line="387" column="28" />
         <mark key="^" line="387" column="28" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/User.kt" timestamp="1515407486464">
-        <mark key="[" line="47" column="25" />
-        <mark key="]" line="47" column="28" />
-        <mark key="." line="47" column="28" />
-        <mark key="^" line="47" column="28" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/User.kt" timestamp="1515487919881">
+        <mark key="[" line="43" column="34" />
+        <mark key="]" line="44" column="42" />
+        <mark key="." line="44" column="42" />
+        <mark key="^" line="44" column="42" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/sp/Mobile/dial.ctp" timestamp="1505577946182">
         <mark key="[" line="4" column="0" />
@@ -764,7 +767,7 @@
         <mark key="." line="16" column="26" />
         <mark key="^" line="16" column="26" />
       </file>
-      <file name="/dummy.sql" timestamp="1515481906948">
+      <file name="/dummy.sql" timestamp="1515487976559">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -783,7 +786,7 @@
         <mark key="^" line="24" column="77" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515487056922">
+      <file name="/Dummy.txt" timestamp="1515487604617">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -1266,9 +1269,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/fragment.rb" timestamp="1514686630852">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/sp/Mobile/dial.ctp" timestamp="1493176013951">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1362,9 +1362,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="5" column="43" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/judge/MacdDiffBuyJudge.kt" timestamp="1514785946324">
-        <mark key="[" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Tag/list_news.ctp" timestamp="1511510382689">
         <mark key="[" line="3" column="0" />
@@ -1943,13 +1940,13 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>get_host()</text>
+        <text>is_premium</text>
       </register>
       <register name="/" type="4">
         <text>newspicks</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dGhpcy0+QXBpUmVxdWVzdC0+cmVxdWVzdA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBAQ29sdW1uKG5hbWUgPSAiaXNfcHJlbWl1bSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">MjAxOC8wMS8wOSAxNjowMCDjg6rjg6rjg7zjgrkK</text>
