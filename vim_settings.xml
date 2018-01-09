@@ -785,7 +785,7 @@
         <mark key="^" line="24" column="77" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515474868802">
+      <file name="/Dummy.txt" timestamp="1515481313091">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="15" />
@@ -1510,12 +1510,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="73" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1515373506528">
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1515481522050">
         <mark key="'" line="465" column="11" />
-        <mark key="[" line="478" column="10" />
-        <mark key="]" line="478" column="10" />
-        <mark key="." line="478" column="10" />
-        <mark key="^" line="478" column="36" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="83" />
+        <mark key="." line="65" column="65" />
+        <mark key="^" line="65" column="65" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/.htaccess" timestamp="1514518128214">
         <mark key="[" line="11" column="19" />
@@ -1939,8 +1939,8 @@
       <register name="/" type="4">
         <text>blog_car</text>
       </register>
-      <register name="0" type="4">
-        <text>$('.loginbtn')</text>
+      <register name="0" type="2">
+        <text encoding="base64">CTxzY3JpcHQgYXN5bmMgc3JjPSI8P3BocCBlY2hvIGgoV0VCX0hPU1QuJ2pzL3RhYi5qcz8yMDE4MDEwOTAzMDInKTsgPz4iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQo=</text>
@@ -1970,7 +1970,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb3VudGVyID0gMAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2024,8 +2024,8 @@
         <entry>13</entry>
         <entry>9</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
