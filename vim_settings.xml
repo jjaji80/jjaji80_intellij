@@ -108,16 +108,17 @@
         <mark key="^" line="11" column="11" />
         <mark key="." line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/form/SignupForm.kt" timestamp="1515725325690">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="18" column="33" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/form/SignupForm.kt" timestamp="1515726887495">
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="28" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/ValidationMessages.properties" timestamp="1515725118394">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/ValidationMessages.properties" timestamp="1515726772739">
+        <mark key="[" line="0" column="59" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="1" column="25" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/dto/TradeHistoryDto.kt" timestamp="1499956317883">
         <mark key="[" line="9" column="94" />
@@ -592,11 +593,6 @@
         <mark key="]" line="0" column="54" />
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Column.kt" timestamp="1515555907895">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="25" />
-        <mark key="." line="9" column="25" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/IndividualNoteCategory.kt" timestamp="1515557996830">
         <mark key="'" line="10" column="34" />
@@ -1416,11 +1412,6 @@
         <mark key="^" line="168" column="46" />
         <mark key="." line="168" column="46" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/individualNoteAttachment.kt" timestamp="1515555349118">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-      </file>
       <file name="$USER_HOME$/git/hms/app/controllers/daily_reports_controller.rb" timestamp="1513060510820">
         <mark key="[" line="74" column="11" />
         <mark key="]" line="82" column="30" />
@@ -2096,32 +2087,32 @@
       <register name="/" type="4">
         <text>TABLE shops</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAZ2V0OlNpemUobWF4ID0gMjU0KQo=</text>
+      <register name="0" type="4">
+        <text>checkedAuthentication</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAZ2V0OiBFbWFpbFQK</text>
+        <text encoding="base64">Y2hlY2tlZEF1dGhlbnRpY2F0aW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmFtZS5yZXF1aXJlZD0ibmFtZSBpcyByZXF1aXJlZCIK</text>
+        <text encoding="base64">ICAgICAgICBAZ2V0OiBFbWFpbFQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZS5yZXF1aXJlZD0ibmFtZSBpcyByZXF1aXJlZCIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhdGVVc2VyQW5kU2V0U2Vzc2lvbihzaWdudXBGb3JtLCByZXF1ZXN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhdGVVc2VyQW5kU2V0U2Vzc2lvbihzaWdudXBGb3JtLCByZXF1ZXN0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEVtcHR5Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhdGVVc2VyQW5kU2V0U2Vzc2lvbihzaWdudXBGb3JtLCByZXF1ZXN0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEVtcHR5Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
