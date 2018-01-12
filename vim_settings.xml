@@ -108,17 +108,17 @@
         <mark key="^" line="11" column="11" />
         <mark key="." line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/form/SignupForm.kt" timestamp="1515729510286">
-        <mark key="[" line="25" column="28" />
-        <mark key="]" line="25" column="41" />
-        <mark key="." line="25" column="41" />
-        <mark key="^" line="25" column="41" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/form/SignupForm.kt" timestamp="1515732257679">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="25" column="58" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/ValidationMessages.properties" timestamp="1515729241985">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-        <mark key="^" line="1" column="18" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/ValidationMessages.properties" timestamp="1515732380879">
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="4" column="64" />
+        <mark key="." line="4" column="64" />
+        <mark key="^" line="4" column="64" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/dto/TradeHistoryDto.kt" timestamp="1499956317883">
         <mark key="[" line="9" column="94" />
@@ -403,12 +403,12 @@
       <file name="/Thymeleaf Expressions Fragment (input.html:1936).thymes" timestamp="1515728564361">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/signup/input.html" timestamp="1515729345416">
-        <mark key="'" line="44" column="39" />
-        <mark key="[" line="66" column="18" />
-        <mark key="]" line="68" column="15" />
-        <mark key="." line="68" column="15" />
-        <mark key="^" line="68" column="15" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/signup/input.html" timestamp="1515732287294">
+        <mark key="'" line="51" column="39" />
+        <mark key="[" line="61" column="53" />
+        <mark key="]" line="61" column="60" />
+        <mark key="." line="61" column="60" />
+        <mark key="^" line="61" column="60" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-manganews/app/Config/core.php" timestamp="1513583314196">
         <mark key="'" line="38" column="15" />
@@ -855,7 +855,7 @@
         <mark key="^" line="24" column="77" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515724291532">
+      <file name="/Dummy.txt" timestamp="1515731553789">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
@@ -2085,40 +2085,40 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>checkedAuthentication</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>TABLE shops</text>
       </register>
-      <register name="0" type="4">
-        <text>OneCheckedAuthentication</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8dWwgdGg6ZWFjaD0iZXJyb3IgOiAkeyNmaWVsZHMuZXJyb3JzKCduYW1lJyl9Ij4KICAgICAgICAgICAgICAgIDxsaSB0aDp0ZXh0PSIke2Vycm9yfSI+PC9saT4KICAgICAgICAgICAgICA8L3VsPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICDjgqjjg6njg7zjg6Hjg4Pjgrvjg7zjgrgK</text>
+        <text encoding="base64">b3JnLmhpYmVybmF0ZS52YWxpZGF0b3IuY29uc3RyYWludHMuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBc3NlcnRUcnVlKG1lc3NhZ2UgPSAie2NoZWNrZWQub3J9IikKICAgIGZ1biBpc0NoZWNrZWRBdXRoZW50aWNhdGlvbigpOiBCb29sZWFuIHsKICAgICAgICByZXR1cm4gYXV0aGVudGljYXRpb25NZXRob2RGaW5nZXJwcmludCB8fCBhdXRoZW50aWNhdGlvbk1ldGhvZFBhc3N3b3JkCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBAQXNzZXJ0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2hlY2tlZEF1dGhlbnRpY2F0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICDjgqjjg6njg7zjg6Hjg4Pjgrvjg7zjgrgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAZ2V0OiBFbWFpbFQK</text>
+        <text encoding="base64">ICAgIEBBc3NlcnRUcnVlKG1lc3NhZ2UgPSAie2NoZWNrZWQub3J9IikKICAgIGZ1biBpc0NoZWNrZWRBdXRoZW50aWNhdGlvbigpOiBCb29sZWFuIHsKICAgICAgICByZXR1cm4gYXV0aGVudGljYXRpb25NZXRob2RGaW5nZXJwcmludCB8fCBhdXRoZW50aWNhdGlvbk1ldGhvZFBhc3N3b3JkCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmFtZS5yZXF1aXJlZD0ibmFtZSBpcyByZXF1aXJlZCIK</text>
+        <text encoding="base64">Y2hlY2tlZEF1dGhlbnRpY2F0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAZ2V0OiBFbWFpbFQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZS5yZXF1aXJlZD0ibmFtZSBpcyByZXF1aXJlZCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhdGVVc2VyQW5kU2V0U2Vzc2lvbihzaWdudXBGb3JtLCByZXF1ZXN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhdGVVc2VyQW5kU2V0U2Vzc2lvbihzaWdudXBGb3JtLCByZXF1ZXN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
