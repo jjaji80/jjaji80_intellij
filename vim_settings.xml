@@ -888,8 +888,8 @@
         <mark key="^" line="24" column="77" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515993486898">
-        <mark key="[" line="1" column="15" />
+      <file name="/Dummy.txt" timestamp="1515997278399">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="16" />
@@ -1195,6 +1195,12 @@
         <mark key="." line="33" column="61" />
         <mark key="^" line="30" column="7" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/PickRepository.java" timestamp="1515997236397">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="64" />
+        <mark key="^" line="7" column="64" />
+        <mark key="." line="7" column="64" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Testing/const.php" timestamp="1504244064666">
         <mark key="[" line="3" column="47" />
         <mark key="]" line="3" column="47" />
@@ -1307,6 +1313,12 @@
         <mark key="]" line="106" column="43" />
         <mark key="." line="106" column="43" />
         <mark key="^" line="50" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/NewsHibernateRepository.java" timestamp="1515997185817">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="7" column="73" />
+        <mark key="^" line="7" column="73" />
+        <mark key="." line="7" column="73" />
       </file>
       <file name="$USER_HOME$/git/hms/db/migrate/20170330064846_create_daily_outstanding_customers.rb" timestamp="1496615481558">
         <mark key="[" line="3" column="24" />
@@ -1864,7 +1876,7 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/tag/TagRepository.java" timestamp="1504090902665">
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/tag/TagRepository.java" timestamp="1515997164513">
         <mark key="[" line="31" column="77" />
         <mark key="]" line="31" column="96" />
         <mark key="^" line="31" column="96" />
@@ -2151,31 +2163,31 @@
         <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IDFMOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFJlc3Bvc2kK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgbG9uZyBnZXRTZXJpYWxWZXJzaW9uVUlEKCkgewogICAgICAgIHJldHVybiBzZXJpYWxWZXJzaW9uVUlEOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgbG9uZyBnZXRTZXJpYWxWZXJzaW9uVUlEKCkgewogICAgICAgIHJldHVybiBzZXJpYWxWZXJzaW9uVUlEOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgbG9uZyBnZXRTZXJpYWxWZXJzaW9uVUlEKCkgewogICAgICAgIHJldHVybiBzZXJpYWxWZXJzaW9uVUlEOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgbG9uZyBnZXRTZXJpYWxWZXJzaW9uVUlEKCkgewogICAgICAgIHJldHVybiBzZXJpYWxWZXJzaW9uVUlEOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
