@@ -1436,11 +1436,12 @@
         <mark key="." line="36" column="15" />
         <mark key="^" line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/ValidationMessages.properties" timestamp="1516172155704">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="20" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/ValidationMessages.properties" timestamp="1516400632611">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="14" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/dto/TradeHistoryDto.kt" timestamp="1499956317883">
         <mark key="[" line="9" column="94" />
@@ -1601,8 +1602,8 @@
         <mark key="^" line="17" column="36" />
         <mark key="." line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/withdrawal/index.html" timestamp="1516348838623">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/withdrawal/index.html" timestamp="1516400825432">
+        <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="39" />
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="39" />
@@ -1613,11 +1614,10 @@
         <mark key="^" line="197" column="25" />
         <mark key="." line="197" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/WithdrawalController.kt" timestamp="1516353661444">
-        <mark key="[" line="27" column="66" />
-        <mark key="]" line="27" column="80" />
-        <mark key="." line="27" column="80" />
-        <mark key="^" line="27" column="80" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/WithdrawalController.kt" timestamp="1516400806054">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/docker-entrypoint-initdb.d/init.sql" timestamp="1515402597119">
         <mark key="'" line="1" column="15" />
@@ -2775,7 +2775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="476" column="98" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickService.java" />
       <jump line="33" column="33" filename="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/impl/PickServiceImpl.java" />
       <jump line="38" column="104" filename="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/impl/PickServiceImpl.java" />
       <jump line="42" column="30" filename="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/impl/PickServiceImpl.java" />
@@ -2875,6 +2874,7 @@
       <jump line="641" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="680" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="687" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/ValidationMessages.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2891,43 +2891,43 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVmcyA=</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>addCart</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAZ2V0OiBOb3RCbGFuawo=</text>
+      <register name="0" type="4">
+        <text>accout_deactivation_procedure_input.html</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciB1c2VyU2VydmljZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBsYQo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1Cg==</text>
+        <text encoding="base64">ICAgIHZhciB1c2VyU2VydmljZSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1Cg==</text>
+        <text encoding="base64">ICAgIHZhciBsYQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB1Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>17</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2981,8 +2981,8 @@
         <entry>%y</entry>
         <entry>11</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry>17</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
