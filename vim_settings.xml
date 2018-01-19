@@ -272,11 +272,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/detail.html" timestamp="1516191962620">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="26" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/detail.html" timestamp="1516346996068">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="26" />
-        <mark key="." line="1" column="26" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/hms/config/locales/ja.yml" timestamp="1514686889171">
         <mark key="'" line="212" column="6" />
@@ -562,10 +562,10 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516266783343">
+      <file name="/Dummy.txt" timestamp="1516347206549">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
@@ -641,6 +641,12 @@
         <mark key="]" line="1" column="27" />
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/confirm.html" timestamp="1516346977894">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/hms/db/migrate/20170330064824_create_daily_sales_employees.rb" timestamp="1490856924803">
         <mark key="[" line="6" column="34" />
@@ -2115,11 +2121,11 @@
         <mark key="^" line="62" column="17" />
         <mark key="." line="62" column="17" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/user/index.html" timestamp="1516192993887">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="6" />
-        <mark key="^" line="1" column="6" />
-        <mark key="." line="1" column="6" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/user/index.html" timestamp="1516347196850">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" timestamp="1513736937737">
         <mark key="'" line="37" column="19" />
@@ -2133,6 +2139,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/input2.html" timestamp="1516346949583">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/docs/pending/nursery_school/ja/make.sh" timestamp="1493198040769">
         <mark key="[" line="1" column="127" />
@@ -2742,12 +2754,12 @@
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" timestamp="1516345727528">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" timestamp="1516346869007">
         <mark key="'" line="17" column="25" />
-        <mark key="[" line="34" column="29" />
-        <mark key="]" line="34" column="30" />
-        <mark key="." line="34" column="30" />
-        <mark key="^" line="36" column="3" />
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="13" />
+        <mark key="." line="33" column="13" />
+        <mark key="^" line="33" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -2867,7 +2879,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>!notLeverage |</text>
+        <text encoding="base64">cmVmcyA=</text>
       </register>
       <register name="/" type="4">
         <text>addCart</text>
@@ -2876,31 +2888,31 @@
         <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKHBhdGggPSBhcnJheU9mKCIvaW5wdXQxIikpCiAgICBmdW4gaW5wdXQobW9kZWw6IE1vZGVsKTogU3RyaW5nIHsKICAgICAgICByZXR1cm4gIm1lc3NhZ2UvaW5wdXQxIgogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghbm90TGV2ZXJhZ2UgfHwgbm90TGV2ZXJhZ2UgJiYgIW9wZW4uaXNMZXZlcmFnZSkK</text>
+        <text encoding="base64">44G+44Gg6LKw44Gj44Gm44Gq44GECg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWVzc2FnZV9yZWNvcmRfY29uZmlybS5odG1sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VE9ETwo=</text>
+        <text encoding="base64">bWVzc2FnZV9yZWNvcmRfZWRpdF92aWRlby5odG1sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
+        <text encoding="base64">bWVzc2FnZV9yZWNvcmRfZWRpdC5odG1sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghbm90TGV2ZXJhZ2UgfHwgbm90TGV2ZXJhZ2UgJiYgIW9wZW4uaXNMZXZlcmFnZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">VE9ETwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBpZiAoamF2YUNsYXNzICE9IG51bGwpCg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1bgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
