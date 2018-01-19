@@ -64,6 +64,11 @@
         <mark key="^" line="11" column="11" />
         <mark key="." line="11" column="11" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/input1.html" timestamp="1516345717074">
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/ThemeRankingWorker.java" timestamp="1516094721843">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -2737,12 +2742,12 @@
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" timestamp="1516194045072">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" timestamp="1516345727528">
         <mark key="'" line="17" column="25" />
-        <mark key="[" line="27" column="15" />
-        <mark key="]" line="37" column="39" />
-        <mark key="." line="37" column="39" />
-        <mark key="^" line="37" column="39" />
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="34" column="30" />
+        <mark key="." line="34" column="30" />
+        <mark key="^" line="36" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -2867,8 +2872,8 @@
       <register name="/" type="4">
         <text>addCart</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBib29raW5ncyBhcyBCCiAgTEVGVCBKT0lOIHNjaGVkdWxlcyBhcyBTCiAgICBvbiBCLnNjaGVkdWxlX2lkPVMuaWQKICBMRUZUIEpPSU4gY2FsbF9sb2dzIGFzIEMgb24gQy5ib29raW5nX2lkPUIuaWQKV0hFUkUgUy5mb3J0dW5ldGVsbGVyX2lkPTkyCk9SREVSIEJZIEIuaWQgREVTQyA7Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKHBhdGggPSBhcnJheU9mKCIvaW5wdXQxIikpCiAgICBmdW4gaW5wdXQobW9kZWw6IE1vZGVsKTogU3RyaW5nIHsKICAgICAgICByZXR1cm4gIm1lc3NhZ2UvaW5wdXQxIgogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghbm90TGV2ZXJhZ2UgfHwgbm90TGV2ZXJhZ2UgJiYgIW9wZW4uaXNMZXZlcmFnZSkK</text>
