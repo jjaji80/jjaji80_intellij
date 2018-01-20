@@ -563,11 +563,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516406024265">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="17" />
-        <mark key="." line="1" column="17" />
-        <mark key="^" line="1" column="5" />
+      <file name="/Dummy.txt" timestamp="1516409476083">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="15" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
         <mark key="[" line="60" column="20" />
@@ -2470,6 +2470,12 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/withdrawal/done.html" timestamp="1516409299402">
+        <mark key="[" line="19" column="95" />
+        <mark key="]" line="19" column="95" />
+        <mark key="^" line="19" column="95" />
+        <mark key="." line="19" column="95" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-categorizer/src/main/java/com/newspicks/categorizer/NewsCategoryRepository.java" timestamp="1516095157942">
         <mark key="[" line="35" column="50" />
         <mark key="]" line="35" column="63" />
@@ -2903,8 +2909,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxsZWFkbGlmZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PC9kaXY+CjwvYm9keT4KPC9odG1sPgo=</text>
+      <register name="0" type="4">
+        <text>images/icon/icon_checkbox.png</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8L2JvZHk+Cg==</text>
@@ -2934,7 +2940,7 @@
         <text encoding="base64">ICAgICAgICBzdGFuZGFyZFBhc3N3b3JkRW5jb2Rlci5tYQo=</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>25</text>
       </register>
     </registers>
     <search>
@@ -2970,7 +2976,6 @@
         <entry encoding="base64">XDxsZWFkbGlmZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvTmV3cyAvSGliZXJuYXRlTmV3cyA=</entry>
         <entry>%s/News /HibernateNews /g</entry>
         <entry>35</entry>
         <entry>47</entry>
@@ -2990,6 +2995,7 @@
         <entry>7,13y</entry>
         <entry>w</entry>
         <entry>1</entry>
+        <entry>25</entry>
       </history-cmd>
       <history-expr />
       <history-input />
