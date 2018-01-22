@@ -563,7 +563,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516601250489">
+      <file name="/Dummy.txt" timestamp="1516602492169">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2659,8 +2659,8 @@
         <mark key="^" line="134" column="28" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1513849262186">
-        <mark key="'" line="332" column="56" />
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1516602173033">
+        <mark key="'" line="395" column="13" />
         <mark key="[" line="1120" column="0" />
         <mark key="]" line="1120" column="0" />
         <mark key="^" line="858" column="39" />
@@ -2824,9 +2824,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
-      <jump line="147" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/NoLeverage.kt" />
-      <jump line="561" column="69" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
       <jump line="236" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
       <jump line="404" column="177" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
       <jump line="408" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
@@ -2924,6 +2921,9 @@
       <jump line="1393" column="39" filename="$USER_HOME$/git/ora/src/main/resources/static/css/style.css" />
       <jump line="1397" column="39" filename="$USER_HOME$/git/ora/src/main/resources/static/css/style.css" />
       <jump line="22" column="26" filename="$USER_HOME$/git/ora/src/main/resources/templates/account/list.html" />
+      <jump line="402" column="12" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="121" column="20" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="395" column="13" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2943,7 +2943,7 @@
         <text>name</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnB1dF9ib3hcPg==</text>
+        <text encoding="base64">XDxpc0FsYWR5TG9hZGVkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGgzPgogICAgICAgICAgICAgIOODi+ODg+OCr+ODjeODvOODoAogICAgICAgICAgICA8L2gzPgo=</text>
@@ -2980,9 +2980,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnB1dF9ib3hcPg==</last-search>
+      <last-search encoding="base64">XDxpc0FsYWR5TG9hZGVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnB1dF9ib3hcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpc0FsYWR5TG9hZGVkXD4=</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -2990,7 +2990,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addCart</entry>
         <entry>href</entry>
         <entry>utf</entry>
         <entry>UTF</entry>
@@ -3010,6 +3009,7 @@
         <entry>fl</entry>
         <entry>inner</entry>
         <entry encoding="base64">XDxpbnB1dF9ib3hcPg==</entry>
+        <entry encoding="base64">XDxpc0FsYWR5TG9hZGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
