@@ -626,8 +626,8 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1516643833607">
-        <mark key="'" line="325" column="4" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1516645489640">
+        <mark key="'" line="459" column="36" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/static/css/style.css" timestamp="1516606606307">
         <mark key="'" line="1401" column="39" />
@@ -2816,7 +2816,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="11" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
       <jump line="87" column="2" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
       <jump line="88" column="11" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
       <jump line="112" column="2" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
@@ -2916,6 +2915,7 @@
       <jump line="316" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
       <jump line="324" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
       <jump line="325" column="4" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
+      <jump line="459" column="36" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
