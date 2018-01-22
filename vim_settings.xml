@@ -626,6 +626,9 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1516643833607">
+        <mark key="'" line="325" column="4" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/static/css/style.css" timestamp="1516606606307">
         <mark key="'" line="1401" column="39" />
       </file>
@@ -843,6 +846,9 @@
         <mark key="]" line="25" column="91" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="32" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1516643737735">
+        <mark key="'" line="33" column="12" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/edit.html" timestamp="1516191933515">
         <mark key="[" line="0" column="0" />
@@ -2810,16 +2816,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/withdrawal/index.html" />
-      <jump line="12" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/signup/input.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/signup/input.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/withdrawal/confirm.html" />
-      <jump line="90" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/signup/input.html" />
-      <jump line="13" column="13" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
-      <jump line="14" column="11" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
-      <jump line="42" column="2" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
-      <jump line="43" column="11" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
-      <jump line="60" column="2" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
       <jump line="61" column="11" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
       <jump line="87" column="2" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
       <jump line="88" column="11" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
@@ -2910,6 +2906,16 @@
       <jump line="2" column="7" filename="$USER_HOME$/git/ora/src/main/resources/templates/account/index.html" />
       <jump line="17" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/account/index.html" />
       <jump line="17" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/shareAccount/description.html" />
+      <jump line="28" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
+      <jump line="111" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
+      <jump line="49" column="32" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
+      <jump line="30" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
+      <jump line="33" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
+      <jump line="560" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
+      <jump line="320" column="39" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
+      <jump line="316" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
+      <jump line="324" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
+      <jump line="325" column="4" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2929,7 +2935,7 @@
         <text>user</text>
       </register>
       <register name="/" type="4">
-        <text>sha</text>
+        <text encoding="base64">XDxsb25nTG9uZ1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2V0IEZPUkVJR05fS0VZX0NIRUNLUyA9MDsK</text>
@@ -2966,20 +2972,16 @@
       </register>
     </registers>
     <search>
-      <last-search>sha</last-search>
+      <last-search encoding="base64">XDxsb25nTG9uZ1w+</last-search>
       <last-offset />
-      <last-pattern>sha</last-pattern>
+      <last-pattern encoding="base64">XDxsb25nTG9uZ1w+</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRBdHRyaWJ1dGVcPg==</entry>
-        <entry encoding="base64">XDxsZWFkbGlmZVw+</entry>
-        <entry>springsecurity4</entry>
-        <entry>pri</entry>
         <entry encoding="base64">XDxzcHJpbmdzZWN1cml0eTRcPg==</entry>
         <entry>securi</entry>
         <entry>login</entry>
@@ -2996,6 +2998,10 @@
         <entry>save</entry>
         <entry>accou</entry>
         <entry>sha</entry>
+        <entry encoding="base64">XDxkYXRhNFw+</entry>
+        <entry encoding="base64">XDxtYWNkRGlmZjVcPg==</entry>
+        <entry>macd</entry>
+        <entry encoding="base64">XDxsb25nTG9uZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
