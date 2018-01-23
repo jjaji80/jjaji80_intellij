@@ -570,7 +570,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516686112412">
+      <file name="/Dummy.txt" timestamp="1516689287863">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
@@ -916,6 +916,13 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-tools/src/main/java/com/newspicks/tools/SimpleNewsUpdate.java" timestamp="1516689280069">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="30" />
+        <mark key="^" line="40" column="30" />
+        <mark key="." line="40" column="30" />
+      </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/Acl/Menu.yml" timestamp="1505615627600">
         <mark key="[" line="11" column="24" />
         <mark key="]" line="11" column="25" />
@@ -1178,6 +1185,11 @@
         <mark key="]" line="140" column="32" />
         <mark key="." line="140" column="32" />
         <mark key="^" line="140" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickService.java" timestamp="1516689353096">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/ValidationMessagesForUTF8.kt" timestamp="1515724882009">
         <mark key="[" line="8" column="0" />
@@ -2830,10 +2842,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="2" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
-      <jump line="113" column="11" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
-      <jump line="143" column="2" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
-      <jump line="144" column="11" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
       <jump line="172" column="2" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
       <jump line="173" column="11" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
       <jump line="194" column="2" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
@@ -2930,6 +2938,10 @@
       <jump line="459" column="36" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
       <jump line="43" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="6" column="34" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/dto/InagoDto.kt" />
+      <jump line="7" column="37" filename="$USER_HOME$/git/manganews-server/manganews-tools/src/main/java/com/newspicks/tools/SimpleNewsUpdate.java" />
+      <jump line="38" column="20" filename="$USER_HOME$/git/manganews-server/manganews-tools/src/main/java/com/newspicks/tools/SimpleNewsUpdate.java" />
+      <jump line="42" column="8" filename="$USER_HOME$/git/manganews-server/manganews-tools/src/main/java/com/newspicks/tools/SimpleNewsUpdate.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/git/manganews-server/manganews-tools/src/main/java/com/newspicks/tools/SimpleNewsUpdate.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2946,49 +2958,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>${if(inagoDto.takerSide==&quot;buy&quot;) &quot;買い&quot;,&quot;売り&quot;}</text>
+        <text>newsRepository</text>
       </register>
       <register name="/" type="4">
-        <text>jac</text>
+        <text encoding="base64">XDxOZXdzUmVwb3NpdG9yeVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBsb2dnZXI6IExvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKFNpZ251cENvbnRyb2xsZXI6OmNsYXNzLmphdmEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uZXdzcGlja3MucmVwb3NpdG9yeS5waWNrLk5ld3NSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhkYXRhKQogICAgICAgIGxvZ2dlci5pbmZvKGluYWdvRHRvLnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBJbmEK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTmV3c1JlcG9zaXRvcnkgbmV3c1JlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uZXdzcGlja3MucmVwb3NpdG9yeS5waWNrLk5ld3NSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoU2VydmljZQo=</text>
+        <text encoding="base64">ICAgICAgICB2YQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIGxhdGVpbml0IHZhciBwdXNoU2V2aWNlOlB1c2hTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhkYXRhKQogICAgICAgIGxvZ2dlci5pbmZvKGluYWdvRHRvLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbmEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHVzZXIubGFzdFVzZWRBY2NvdW50ISEubmFtZSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBwdXNoU2VydmljZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>jac</last-search>
+      <last-search encoding="base64">XDxOZXdzUmVwb3NpdG9yeVw+</last-search>
       <last-offset />
-      <last-pattern>jac</last-pattern>
+      <last-pattern encoding="base64">XDxOZXdzUmVwb3NpdG9yeVw+</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -2996,7 +3008,6 @@
     </search>
     <history>
       <history-search>
-        <entry>login</entry>
         <entry>auth</entry>
         <entry>kot</entry>
         <entry>with</entry>
@@ -3016,6 +3027,7 @@
         <entry encoding="base64">XDxsb25nTG9uZ1w+</entry>
         <entry>30</entry>
         <entry>jac</entry>
+        <entry encoding="base64">XDxOZXdzUmVwb3NpdG9yeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
