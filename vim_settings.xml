@@ -847,8 +847,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="32" column="45" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1516643737735">
-        <mark key="'" line="33" column="12" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" timestamp="1516678584257">
+        <mark key="'" line="43" column="33" />
+        <mark key="[" line="27" column="59" />
+        <mark key="]" line="27" column="61" />
+        <mark key="." line="27" column="61" />
+        <mark key="^" line="27" column="61" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/edit.html" timestamp="1516191933515">
         <mark key="[" line="0" column="0" />
@@ -2816,7 +2820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="2" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
       <jump line="88" column="11" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
       <jump line="112" column="2" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
       <jump line="113" column="11" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
@@ -2916,6 +2919,7 @@
       <jump line="324" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
       <jump line="325" column="4" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
       <jump line="459" column="36" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
+      <jump line="43" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2935,7 +2939,7 @@
         <text>user</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb25nTG9uZ1w+</text>
+        <text>30</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2V0IEZPUkVJR05fS0VZX0NIRUNLUyA9MDsK</text>
@@ -2972,9 +2976,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb25nTG9uZ1w+</last-search>
+      <last-search>30</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb25nTG9uZ1w+</last-pattern>
+      <last-pattern>30</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -2982,7 +2986,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcHJpbmdzZWN1cml0eTRcPg==</entry>
         <entry>securi</entry>
         <entry>login</entry>
         <entry>auth</entry>
@@ -3002,6 +3005,7 @@
         <entry encoding="base64">XDxtYWNkRGlmZjVcPg==</entry>
         <entry>macd</entry>
         <entry encoding="base64">XDxsb25nTG9uZ1w+</entry>
+        <entry>30</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
