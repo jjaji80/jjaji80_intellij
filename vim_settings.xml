@@ -1775,12 +1775,12 @@
         <mark key="^" line="5" column="90" />
         <mark key="." line="5" column="90" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1516731770063">
-        <mark key="'" line="42" column="4" />
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="44" column="23" />
-        <mark key="^" line="44" column="23" />
-        <mark key="." line="44" column="23" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1516733003291">
+        <mark key="'" line="20" column="8" />
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="26" column="29" />
+        <mark key="^" line="26" column="29" />
+        <mark key="." line="26" column="29" />
       </file>
       <file name="$USER_HOME$/git/untitled/ext-module/src/Car.java" timestamp="1515652658791">
         <mark key="[" line="4" column="21" />
@@ -2868,9 +2868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="426" column="2" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
-      <jump line="427" column="11" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V1__Initial_version.sql" />
-      <jump line="48" column="14" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/SignupController.kt" />
       <jump line="66" column="58" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" />
       <jump line="35" column="85" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/WithdrawalController.kt" />
       <jump line="6" column="2" filename="$USER_HOME$/git/ora/src/test/resources/application.yml" />
@@ -2968,6 +2965,9 @@
       <jump line="29" column="8" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/InagoController.kt" />
       <jump line="25" column="0" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" />
       <jump line="42" column="4" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" />
+      <jump line="24" column="12" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" />
+      <jump line="45" column="12" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" />
+      <jump line="20" column="8" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2987,7 +2987,7 @@
         <text encoding="base64">aWYoZG91YmxlRmxhZykgMC4wNyAqIDIg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwaWNrUmVwb3NpdG9yeVw+</text>
+        <text encoding="base64">XDxkb3VibGVGbGFnXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhcGkubWFrZU9yZGVyKGlzQnV5ID0gaXNCdXksIGFtb3VudCA9IGFtb3VudCwgaXNMZXZlcmFnZSA9IHRydWUpCg==</text>
@@ -3024,9 +3024,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwaWNrUmVwb3NpdG9yeVw+</last-search>
+      <last-search encoding="base64">XDxkb3VibGVGbGFnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwaWNrUmVwb3NpdG9yeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxkb3VibGVGbGFnXD4=</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -3034,7 +3034,6 @@
     </search>
     <history>
       <history-search>
-        <entry>with</entry>
         <entry>img</entry>
         <entry>javasc</entry>
         <entry>fl</entry>
@@ -3054,6 +3053,7 @@
         <entry encoding="base64">XDxOZXdzUmVwb3NpdG9yeVw+</entry>
         <entry>stop</entry>
         <entry encoding="base64">XDxwaWNrUmVwb3NpdG9yeVw+</entry>
+        <entry encoding="base64">XDxkb3VibGVGbGFnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
