@@ -1217,11 +1217,11 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/InagoController.kt" timestamp="1516721446834">
+      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/InagoController.kt" timestamp="1516725626465">
         <mark key="'" line="27" column="3" />
-        <mark key="[" line="56" column="24" />
-        <mark key="]" line="56" column="25" />
-        <mark key="." line="56" column="25" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
         <mark key="^" line="56" column="24" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/application.yml" timestamp="1516407236869">
@@ -2986,31 +2986,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZy5kZWJ1Zyhqc29uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5hZ29EdG8uYm9hcmROYW1lID09ICJCaXRmaW5leF9CVENVU0RUIikKICAgICAgICAgICAgYW1vdW50ICo9IDMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb1RyYWRlKHBsdXM+bWludXMpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkb1RyYWRlKHBsdXM+bWludXMpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGx1cys9aW5hZ29EdG8udm9sdW1lLnRvSW50KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZihsYXN0VGltZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGx1cys9aW5hZ29EdG8udm9sdW1lLnRvSW50KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBwdQo=</text>
+        <text encoding="base64">ICAgICAgICBpZihsYXN0VGltZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uZXdzcGlja3MucmVwb3NpdG9yeS5waWNrLk5ld3NSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgIHZhbCBwdQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcGkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uZXdzcGlja3MucmVwb3NpdG9yeS5waWNrLk5ld3NSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcGkuc3RvCg==</text>
+        <text encoding="base64">ICAgICAgICBhcGkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
