@@ -576,7 +576,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516783940459">
+      <file name="/Dummy.txt" timestamp="1516785927765">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
@@ -600,6 +600,11 @@
         <mark key="]" line="13" column="59" />
         <mark key="." line="13" column="59" />
         <mark key="^" line="13" column="59" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/test/kotlin/coinman_web/coinman_web/CoinmanWebApplicationTests.kt" timestamp="1516785802183">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/news/NewsArticleCategorizeWorker.java" timestamp="1516095221989">
         <mark key="[" line="96" column="36" />
@@ -2983,7 +2988,7 @@
         <text encoding="base64">aWYoZG91YmxlRmxhZykgMC4wNyAqIDIg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb3VibGVGbGFnXD4=</text>
+        <text>vaad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhcGkubWFrZU9yZGVyKGlzQnV5ID0gaXNCdXksIGFtb3VudCA9IGFtb3VudCwgaXNMZXZlcmFnZSA9IHRydWUpCg==</text>
@@ -3020,18 +3025,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb3VibGVGbGFnXD4=</last-search>
+      <last-search>vaad</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb3VibGVGbGFnXD4=</last-pattern>
+      <last-pattern>vaad</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>img</entry>
-        <entry>javasc</entry>
         <entry>fl</entry>
         <entry>inner</entry>
         <entry encoding="base64">XDxpbnB1dF9ib3hcPg==</entry>
@@ -3050,6 +3053,8 @@
         <entry>stop</entry>
         <entry encoding="base64">XDxwaWNrUmVwb3NpdG9yeVw+</entry>
         <entry encoding="base64">XDxkb3VibGVGbGFnXD4=</entry>
+        <entry>android</entry>
+        <entry>vaad</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
