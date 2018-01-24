@@ -596,7 +596,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516825657856">
+      <file name="/Dummy.txt" timestamp="1516828316075">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
@@ -1790,12 +1790,12 @@
         <mark key="^" line="5" column="90" />
         <mark key="." line="5" column="90" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1516825609461">
-        <mark key="'" line="57" column="23" />
-        <mark key="[" line="63" column="29" />
-        <mark key="]" line="63" column="31" />
-        <mark key="." line="63" column="31" />
-        <mark key="^" line="63" column="31" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1516828307577">
+        <mark key="'" line="46" column="24" />
+        <mark key="[" line="126" column="39" />
+        <mark key="]" line="126" column="39" />
+        <mark key="." line="126" column="39" />
+        <mark key="^" line="126" column="39" />
       </file>
       <file name="$USER_HOME$/git/untitled/ext-module/src/Car.java" timestamp="1515652658791">
         <mark key="[" line="4" column="21" />
@@ -2877,7 +2877,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="27" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="29" column="27" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="10" column="0" filename="$USER_HOME$/git/ora/pom.xml" />
       <jump line="21" column="43" filename="$USER_HOME$/git/ora/pom.xml" />
@@ -2977,6 +2976,7 @@
       <jump line="22" column="14" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/InagoController.kt" />
       <jump line="39" column="34" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" />
       <jump line="57" column="23" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" />
+      <jump line="46" column="24" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2993,7 +2993,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>0.0</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
@@ -3002,31 +3002,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKCIkeyhTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIHdhaXRTZWNvbmQgKiAxMDAwKSAtIGxhc3RUaW1lfSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoanNvblN0cmluZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybigidGVzdCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biBkb1RyYWRlKGlzQnV5OiBCb29sZWFuID0gdHJ1ZSwgaW5hZ29EdG86IEluYWdvRHRvKSB7CiAgICAgICAgdmFyIGFtb3VudCA9IDAuNwogICAgICAgIGlmIChkb3VibGVGbGFnKQogICAgICAgICAgICBhbW91bnQgKj0gMgogICAgICAgIG1ha2VPcmRlcihpc0J1eSwgYW1vdW50KQogICAgICAgIGNvdW50ZXJBdHRhY2soaXNCdXkgPSBpc0J1eSwgaW5hZ29EdG8gPSBpbmFnb0R0bykKICAgIH0KCiAgICBmdW4gY291bnRlckF0dGFjayhpc0J1eTogQm9vbGVhbiwgaW5hZ29EdG86IEluYWdvRHRvKSB7CiAgICAgICAgdGhyZWFkIHsKICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDAgKiA1KQogICAgICAgICAgICBpZiAobGFzdFRpbWUgPCBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIDUgKiAxMDAwKSB7CiAgICAgICAgICAgICAgICB2YWwgYW1vdW50ID0gMC4wNQogICAgICAgICAgICAgICAgbWFrZU9yZGVyKGlzQnV5ID0gIWlzQnV5LCBhbW91bnQgPSBhbW91bnQpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBmdW4gbWFrZU9yZGVyKGlzQnV5OiBCb29sZWFuLCBhbW91bnQ6IERvdWJsZSkgewogICAgICAgIGFwaS5tYWtlT3JkZXIoaXNCdXkgPSBpc0J1eSwgYW1vdW50ID0gYW1vdW50LCBpc0xldmVyYWdlID0gdHJ1ZSkKICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCkKICAgICAgICBhcGkubWFrZVBvc2l0aW9uT3JkZXIoKQogICAgICAgIGFwaS5zdG9wTG9zcyh0cmFkZU1hbmFnZW1lbnRTZXJ2aWNlLm5vd1ByaWNlLCAwLjk4NSkKICAgICAgICBhcGkuY2xvc2VTbWFsbCgpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
