@@ -578,7 +578,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1516608830498">
+      <file name="/dummy.sql" timestamp="1516856582718">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -596,7 +596,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516855867262">
+      <file name="/Dummy.txt" timestamp="1516860108378">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
@@ -614,6 +614,7 @@
         <mark key="." line="16" column="46" />
         <mark key="^" line="21" column="33" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/model/news/PickRepository.java" timestamp="1516856211669" />
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/signup/confirmed.html" timestamp="1516595563349">
         <mark key="'" line="17" column="18" />
         <mark key="[" line="13" column="58" />
@@ -808,11 +809,11 @@
         <mark key="." line="33" column="61" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/PickRepository.java" timestamp="1516856137896">
-        <mark key="[" line="32" column="55" />
-        <mark key="]" line="34" column="52" />
-        <mark key="." line="34" column="52" />
-        <mark key="^" line="34" column="52" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/PickRepository.java" timestamp="1516856191977">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="38" column="3" />
+        <mark key="." line="38" column="3" />
+        <mark key="^" line="38" column="3" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Testing/const.php" timestamp="1504244064666">
         <mark key="[" line="3" column="47" />
@@ -1663,6 +1664,9 @@
         <mark key="^" line="19" column="172" />
         <mark key="." line="19" column="418" />
       </file>
+      <file name="/a.sql" timestamp="1516856399576">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" timestamp="1514693959036">
         <mark key="'" line="17" column="4" />
         <mark key="[" line="328" column="16" />
@@ -2391,12 +2395,12 @@
         <mark key="." line="23" column="56" />
         <mark key="^" line="23" column="56" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/console.sql" timestamp="1516007531960">
-        <mark key="'" line="6" column="15" />
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="27" />
-        <mark key="." line="17" column="27" />
-        <mark key="^" line="17" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/console.sql" timestamp="1516860466444">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="32" column="2" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" timestamp="1516822301631">
         <mark key="'" line="0" column="0" />
@@ -2878,7 +2882,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="27" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="10" column="0" filename="$USER_HOME$/git/ora/pom.xml" />
       <jump line="21" column="43" filename="$USER_HOME$/git/ora/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/account/index.html" />
@@ -2978,6 +2981,7 @@
       <jump line="39" column="34" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" />
       <jump line="57" column="23" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" />
       <jump line="46" column="24" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" />
+      <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2994,7 +2998,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>addOrder(O)</text>
+        <text encoding="base64">TG9uZyA=</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
@@ -3004,43 +3008,38 @@
                 .add(Restrictions.eq(&quot;newsId&quot;, newsId))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT3JkZXIgZ2V0T3JkZXIoU29ydGluZyBzb3J0aW5nKXsKICAgIH0K</text>
+        <text encoding="base64">QUnjga7lt6XmlbAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQaWNrUmVwb3NpdG9yeUltcGwuUGlja1BhZ2VyIHBhZ2VyOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUGlja1JlcG9zaXRvcnlJbXBsLlBpY2tPcGVyYXRpb25zIGdldFBpY2tlZFBhZ2VyKEludGVnZXIgbmV3cykgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>{
+        PickRepositoryImpl.PickOperations pickOps = new PickRepositoryImpl.PickOperations(redis);
+        if (pickOps.isLegacy(news)) {
+            // Picked のデータを作り直す
+            resetRedisPicked(news);
+        }
+        return pickOps;
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgT3JkZXIgZ2V0T3JkZXIoU29ydGluZyBzb3J0aW5nKXsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHNvcnRpbmcpIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-            case PICKED:
-                pager = getPickedPager(news);
-                break;
-            case LIKE:
-                pager = getLikePager(news);
-                break;
-            case SCORE:
-                pager = getScorePager(news);
-                break;
-            default:
-                throw new IllegalArgumentException(&quot;Unexpected: &quot; + sorting);
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBQaWNrUmVwb3NpdG9yeUltcGwuUGlja1BhZ2VyIHBhZ2VyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQaWNrUGEK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>28</text>
