@@ -596,7 +596,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516828316075">
+      <file name="/Dummy.txt" timestamp="1516855867262">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
@@ -795,7 +795,7 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/core/repository/news/impl/PickRepositoryImpl.java" timestamp="1516828620983" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/core/repository/news/impl/PickRepositoryImpl.java" timestamp="1516855391707" />
       <file name="$USER_HOME$/git/hms/app/models/concerns/common_module.rb" timestamp="1490679792222">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="19" />
@@ -808,11 +808,11 @@
         <mark key="." line="33" column="61" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/PickRepository.java" timestamp="1516828629275">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="46" column="4" />
-        <mark key="." line="46" column="4" />
-        <mark key="^" line="46" column="4" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/PickRepository.java" timestamp="1516856137896">
+        <mark key="[" line="32" column="55" />
+        <mark key="]" line="34" column="52" />
+        <mark key="." line="34" column="52" />
+        <mark key="^" line="34" column="52" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Testing/const.php" timestamp="1504244064666">
         <mark key="[" line="3" column="47" />
@@ -2994,43 +2994,56 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0.0</text>
+        <text>addOrder(O)</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKCIkeyhTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIHdhaXRTZWNvbmQgKiAxMDAwKSAtIGxhc3RUaW1lfSIpCg==</text>
+      <register name="0" type="4">
+        <text>getSession().createCriteria(c)
+                .add(Restrictions.eq(&quot;newsId&quot;, newsId))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQaWNrUGEK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgT3JkZXIgZ2V0T3JkZXIoU29ydGluZyBzb3J0aW5nKXsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDkK</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDgK</text>
+        <text encoding="base64">ICAgICAgICBQaWNrUmVwb3NpdG9yeUltcGwuUGlja1BhZ2VyIHBhZ2VyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDcK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDUK</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHNvcnRpbmcpIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDQK</text>
+      <register name="7" type="4">
+        <text>{
+            case PICKED:
+                pager = getPickedPager(news);
+                break;
+            case LIKE:
+                pager = getLikePager(news);
+                break;
+            case SCORE:
+                pager = getScorePager(news);
+                break;
+            default:
+                throw new IllegalArgumentException(&quot;Unexpected: &quot; + sorting);
+        }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDMK</text>
+        <text encoding="base64">ICAgICAgICBQaWNrUGEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwLjAwMDkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>28</text>
       </register>
     </registers>
     <search>
@@ -3066,7 +3079,6 @@
         <entry>info</entry>
       </history-search>
       <history-cmd>
-        <entry>11</entry>
         <entry>17</entry>
         <entry>2</entry>
         <entry>13</entry>
@@ -3086,6 +3098,7 @@
         <entry>34,58d</entry>
         <entry>458</entry>
         <entry>w</entry>
+        <entry>28</entry>
       </history-cmd>
       <history-expr />
       <history-input />
