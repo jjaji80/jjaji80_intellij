@@ -584,7 +584,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1517127619098">
+      <file name="/dummy.sql" timestamp="1517127790092">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -630,6 +630,10 @@
         <mark key="]" line="13" column="59" />
         <mark key="." line="13" column="59" />
         <mark key="^" line="13" column="59" />
+      </file>
+      <file name="$USER_HOME$/git/utel/app/src/Controller/BaseController.php" timestamp="1517127736710">
+        <mark key="[" line="36" column="6" />
+        <mark key="]" line="36" column="27" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/news/NewsArticleCategorizeWorker.java" timestamp="1516095221989">
         <mark key="[" line="96" column="36" />
@@ -840,11 +844,11 @@
         <mark key="^" line="2" column="83" />
         <mark key="." line="2" column="83" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/BookController.php" timestamp="1508752355194">
-        <mark key="[" line="68" column="49" />
-        <mark key="]" line="69" column="33" />
-        <mark key="." line="69" column="33" />
-        <mark key="^" line="69" column="33" />
+      <file name="$USER_HOME$/git/utel/app/src/Controller/BookController.php" timestamp="1517127866749">
+        <mark key="'" line="165" column="8" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="40" />
+        <mark key="." line="181" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1516599875795">
         <mark key="'" line="687" column="20" />
@@ -1152,6 +1156,13 @@
         <mark key="]" line="19" column="58" />
         <mark key="." line="19" column="58" />
         <mark key="^" line="19" column="58" />
+      </file>
+      <file name="$USER_HOME$/git/utel/app/webroot/js/user/common.js" timestamp="1517128514575">
+        <mark key="'" line="1" column="32" />
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="40" column="17" />
+        <mark key="^" line="39" column="19" />
+        <mark key="." line="40" column="17" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/Status.java" timestamp="1510304486886">
         <mark key="[" line="10" column="35" />
@@ -1542,12 +1553,6 @@
         <mark key="]" line="10" column="6" />
         <mark key="." line="10" column="6" />
         <mark key="^" line="10" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" timestamp="1516825634299">
-        <mark key="'" line="177" column="21" />
-        <mark key="[" line="457" column="0" />
-        <mark key="]" line="457" column="0" />
-        <mark key="." line="457" column="0" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Fortuneteller/Bookings/index.ctp" timestamp="1508201249749">
         <mark key="[" line="33" column="163" />
@@ -2905,10 +2910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="1" filename="$USER_HOME$/git/ora/src/main/resources/templates/account/list.html" />
-      <jump line="12" column="3" filename="$USER_HOME$/git/ora/src/main/resources/templates/account/list.html" />
-      <jump line="39" column="21" filename="$USER_HOME$/git/ora/src/main/resources/templates/account/list.html" />
-      <jump line="46" column="16" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="44" column="7" filename="$USER_HOME$/git/ora/src/main/resources/templates/account/list.html" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="150" column="6" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
@@ -3005,6 +3006,10 @@
       <jump line="28" column="19" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/PickRepository.java" />
       <jump line="73" column="4" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
       <jump line="383" column="22" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="16" column="32" filename="$USER_HOME$/git/utel/app/src/Controller/BookController.php" />
+      <jump line="165" column="8" filename="$USER_HOME$/git/utel/app/src/Controller/BookController.php" />
+      <jump line="2" column="9" filename="$USER_HOME$/git/utel/app/webroot/js/user/common.js" />
+      <jump line="1" column="32" filename="$USER_HOME$/git/utel/app/webroot/js/user/common.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3021,49 +3026,49 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>$da ['']</text>
       </register>
       <register name="/" type="4">
-        <text>gms</text>
+        <text encoding="base64">XDxtYWtlRGlhbEF0dHJpYnV0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmpzb25Gb290ZXIoJGRhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb2JpbGVJbnNpZ2h0RmluaXNoZWQgPSB0cnVlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuIHsgdXJsICJodHRwczovL21hdmVuLmdvb2dsZS5jb20iIH0KfQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjcml0ZXJpYS4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm5Bcmd1bWVudCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlrZSBsaWtlOwo=</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVXNlciB1c2VyOwogICAgcHJpdmF0ZSBIaWJlcm5hdGVOZXdzIG5ld3M7CiAgICBwcml2YXRlIFBpY2sgcGljazsK</text>
+        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuIHsgdXJsICJodHRwczovL21hdmVuLmdvb2dsZS5jb20iIH0KfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcml0ZXJpYS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgbG9uZyBnZXRTZXJpYWxWZXJzaW9uVUlEKCkgewogICAgICAgIHJldHVybiBzZXJpYWxWZXJzaW9uVUlEOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlrZSBsaWtlOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>gms</last-search>
+      <last-search encoding="base64">XDxtYWtlRGlhbEF0dHJpYnV0ZVw+</last-search>
       <last-offset />
-      <last-pattern>gms</last-pattern>
+      <last-pattern encoding="base64">XDxtYWtlRGlhbEF0dHJpYnV0ZVw+</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -3071,7 +3076,6 @@
     </search>
     <history>
       <history-search>
-        <entry>accou</entry>
         <entry>sha</entry>
         <entry encoding="base64">XDxkYXRhNFw+</entry>
         <entry encoding="base64">XDxtYWNkRGlmZjVcPg==</entry>
@@ -3091,9 +3095,9 @@
         <entry>services-ads</entry>
         <entry>2.3</entry>
         <entry>gms</entry>
+        <entry encoding="base64">XDxtYWtlRGlhbEF0dHJpYnV0ZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>2</entry>
         <entry>13</entry>
         <entry>1,12y</entry>
         <entry>45</entry>
@@ -3107,12 +3111,13 @@
         <entry>1,15y</entry>
         <entry>%y</entry>
         <entry>19</entry>
-        <entry>1</entry>
         <entry>34,58d</entry>
         <entry>458</entry>
         <entry>28</entry>
         <entry>20</entry>
         <entry>w</entry>
+        <entry>166</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
