@@ -475,6 +475,13 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" timestamp="1517140811291">
+        <mark key="'" line="260" column="74" />
+        <mark key="[" line="260" column="71" />
+        <mark key="]" line="260" column="74" />
+        <mark key="^" line="260" column="74" />
+        <mark key="." line="260" column="74" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-tools/src/main/java/com/newspicks/tools/UpdatePdfImage.java" timestamp="1516094672480">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -588,7 +595,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1517137569067">
+      <file name="/dummy.sql" timestamp="1517140781644">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1176,12 +1183,12 @@
         <mark key="." line="19" column="58" />
         <mark key="^" line="19" column="58" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/webroot/js/user/common.js" timestamp="1517137609563">
+      <file name="$USER_HOME$/git/utel/app/webroot/js/user/common.js" timestamp="1517140961310">
         <mark key="'" line="40" column="23" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="71" column="2" />
-        <mark key="." line="40" column="23" />
-        <mark key="^" line="40" column="23" />
+        <mark key="[" line="42" column="141" />
+        <mark key="]" line="42" column="164" />
+        <mark key="." line="42" column="164" />
+        <mark key="^" line="42" column="164" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/Status.java" timestamp="1510304486886">
         <mark key="[" line="10" column="35" />
@@ -1602,7 +1609,6 @@
         <mark key="." line="61" column="38" />
         <mark key="^" line="61" column="38" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/libs/mobileinsight-android-3.7.5.jar!/jp/co/yahoo/android/mobileinsight/defaultevent/MIDefaultEvent.class" timestamp="1517125834619" />
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="12" />
@@ -2969,8 +2975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
-      <jump line="49" column="32" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="30" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="33" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="560" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
@@ -3069,6 +3073,8 @@
       <jump line="104" column="158" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
       <jump line="0" column="0" filename="$USER_HOME$/git/utel/devSync.sh" />
       <jump line="116" column="0" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/JavaScriptInterface.java" />
+      <jump line="213" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
+      <jump line="260" column="74" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3085,7 +3091,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>bfed2d356e3c090d53015ad7fd851025</text>
+        <text>tick()</text>
       </register>
       <register name="/" type="4">
         <text>rsyn</text>
