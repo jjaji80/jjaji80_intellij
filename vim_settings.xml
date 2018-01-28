@@ -475,8 +475,8 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" timestamp="1517150841662">
-        <mark key="'" line="224" column="51" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" timestamp="1517153005401">
+        <mark key="'" line="217" column="36" />
         <mark key="[" line="260" column="76" />
         <mark key="]" line="261" column="59" />
         <mark key="^" line="261" column="59" />
@@ -1183,12 +1183,12 @@
         <mark key="." line="19" column="58" />
         <mark key="^" line="19" column="58" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/webroot/js/user/common.js" timestamp="1517150685300">
-        <mark key="'" line="48" column="23" />
-        <mark key="[" line="44" column="60" />
-        <mark key="]" line="44" column="60" />
-        <mark key="." line="44" column="60" />
-        <mark key="^" line="44" column="59" />
+      <file name="$USER_HOME$/git/utel/app/webroot/js/user/common.js" timestamp="1517152903398">
+        <mark key="'" line="51" column="23" />
+        <mark key="[" line="45" column="24" />
+        <mark key="]" line="48" column="26" />
+        <mark key="." line="46" column="57" />
+        <mark key="^" line="47" column="70" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/Status.java" timestamp="1510304486886">
         <mark key="[" line="10" column="35" />
@@ -2106,12 +2106,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="50" column="4" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/webroot/js/user/cart.js" timestamp="1517138874818">
+      <file name="$USER_HOME$/git/utel/app/webroot/js/user/cart.js" timestamp="1517152923478">
         <mark key="'" line="0" column="35" />
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-        <mark key="^" line="7" column="38" />
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="54" />
+        <mark key="." line="4" column="54" />
+        <mark key="^" line="4" column="54" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/AsyncJsonLoader.java" timestamp="1510303681128">
         <mark key="[" line="78" column="0" />
@@ -2975,7 +2975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="560" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
       <jump line="320" column="39" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
       <jump line="316" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
@@ -3075,6 +3074,7 @@
       <jump line="213" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
       <jump line="260" column="74" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
       <jump line="224" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
+      <jump line="217" column="36" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3091,40 +3091,43 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KGlzQW5kcm9pZCgpICYmICkgfHw=</text>
+        <text>mobileInsightAnalysisResult</text>
       </register>
       <register name="/" type="4">
         <text>rsyn</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImFtb3VudCIgdmFsdWU9Ijw/cGhwIGVjaG8oJHVzZXItPm1vbmV5X21hbmFnZW1lbnRzWzBdLT51c2VkX2Ftb3VudCAqIC0xKT8+Ii8+Cg==</text>
+      <register name="0" type="4">
+        <text>window.webkit.messageHandlers.mobileInsightAnalysisResult.postMessage({
+                            &quot;time&quot; :  analysisResult.time,
+                            &quot;amount&quot; : analysisResult.amount
+                        });</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIk9LIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInRpbWUiIDogIGFuYWx5c2lzUmVzdWx0LnRpbWUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImFtb3VudCIgdmFsdWU9Ijw/cGhwIGVjaG8gJHVzZXItPk1vbmV5TWFuYWdlbWVudHNbMF0tPnVzZWRfYW1vdW50Pz4iLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIk9LIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImFtb3VudCIgdmFsdWU9Ijw/cGhwIGVjaG8gJHVzZXItPk1vbmV5TWFuYWdlbWVudHNbMF0tPnVzZWRfYW1vdW50Pz4iLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZW4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIK</text>
+        <text encoding="base64">ICAgICAgICBzZW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudC5zZXRLZXkzKCJrZXkzIik7CiAgICAgICAgZXZlbnQuc2V0S2V5NCgia2V5MyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudC5zZXRLZXkzKCJrZXkzIik7CiAgICAgICAgZXZlbnQuc2V0S2V5NCgia2V5MyIpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vYmlsZUluc2lnaHRGaW5pc2hlZCA9IHRydWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
