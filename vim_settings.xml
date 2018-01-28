@@ -475,12 +475,12 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" timestamp="1517140811291">
-        <mark key="'" line="260" column="74" />
-        <mark key="[" line="260" column="71" />
-        <mark key="]" line="260" column="74" />
-        <mark key="^" line="260" column="74" />
-        <mark key="." line="260" column="74" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" timestamp="1517150841662">
+        <mark key="'" line="224" column="51" />
+        <mark key="[" line="260" column="76" />
+        <mark key="]" line="261" column="59" />
+        <mark key="^" line="261" column="59" />
+        <mark key="." line="261" column="59" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-tools/src/main/java/com/newspicks/tools/UpdatePdfImage.java" timestamp="1516094672480">
         <mark key="[" line="25" column="0" />
@@ -595,7 +595,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1517140781644">
+      <file name="/dummy.sql" timestamp="1517150410976">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1183,12 +1183,12 @@
         <mark key="." line="19" column="58" />
         <mark key="^" line="19" column="58" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/webroot/js/user/common.js" timestamp="1517140961310">
-        <mark key="'" line="40" column="23" />
-        <mark key="[" line="42" column="141" />
-        <mark key="]" line="42" column="164" />
-        <mark key="." line="42" column="164" />
-        <mark key="^" line="42" column="164" />
+      <file name="$USER_HOME$/git/utel/app/webroot/js/user/common.js" timestamp="1517150685300">
+        <mark key="'" line="48" column="23" />
+        <mark key="[" line="44" column="60" />
+        <mark key="]" line="44" column="60" />
+        <mark key="." line="44" column="60" />
+        <mark key="^" line="44" column="59" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/Status.java" timestamp="1510304486886">
         <mark key="[" line="10" column="35" />
@@ -2803,12 +2803,12 @@
         <mark key="^" line="134" column="28" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" timestamp="1517138276966">
+      <file name="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" timestamp="1517150660816">
         <mark key="'" line="104" column="158" />
         <mark key="[" line="79" column="52" />
-        <mark key="]" line="79" column="60" />
-        <mark key="^" line="79" column="60" />
-        <mark key="." line="79" column="60" />
+        <mark key="]" line="79" column="63" />
+        <mark key="^" line="79" column="63" />
+        <mark key="." line="79" column="63" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1517139151139">
         <mark key="'" line="383" column="22" />
@@ -2975,7 +2975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="33" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/MACDTrade.kt" />
       <jump line="560" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
       <jump line="320" column="39" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
@@ -3075,6 +3074,7 @@
       <jump line="116" column="0" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/JavaScriptInterface.java" />
       <jump line="213" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
       <jump line="260" column="74" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
+      <jump line="224" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a18c8975-c11c-4691-b8a4-a7bcaa2a813b/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3091,7 +3091,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tick()</text>
+        <text encoding="base64">KGlzQW5kcm9pZCgpICYmICkgfHw=</text>
       </register>
       <register name="/" type="4">
         <text>rsyn</text>
@@ -3100,28 +3100,28 @@
         <text encoding="base64">PGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImFtb3VudCIgdmFsdWU9Ijw/cGhwIGVjaG8oJHVzZXItPm1vbmV5X21hbmFnZW1lbnRzWzBdLT51c2VkX2Ftb3VudCAqIC0xKT8+Ii8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImFtb3VudCIgdmFsdWU9Ijw/cGhwIGVjaG8gJHVzZXItPk1vbmV5TWFuYWdlbWVudHNbMF0tPnVzZWRfYW1vdW50Pz4iLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIk9LIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9ImFtb3VudCIgdmFsdWU9Ijw/cGhwIGVjaG8gJHVzZXItPk1vbmV5TWFuYWdlbWVudHNbMF0tPnVzZWRfYW1vdW50Pz4iLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZW4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIK</text>
+        <text encoding="base64">ICAgICAgICBzZW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudC5zZXRLZXkzKCJrZXkzIik7CiAgICAgICAgZXZlbnQuc2V0S2V5NCgia2V5MyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudC5zZXRLZXkzKCJrZXkzIik7CiAgICAgICAgZXZlbnQuc2V0S2V5NCgia2V5MyIpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vYmlsZUluc2lnaHRGaW5pc2hlZCA9IHRydWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1vYmlsZUluc2lnaHRGaW5pc2hlZCA9IHRydWU7Cg==</text>
