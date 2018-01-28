@@ -265,6 +265,12 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/config/Migrations/20180128081850_AddSendMobileInsightFlagToAnalysisResults.php" timestamp="1517127560044">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+        <mark key="^" line="16" column="29" />
+      </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-manganews/app/Config/core.php" timestamp="1513583314196">
         <mark key="'" line="38" column="15" />
         <mark key="[" line="142" column="36" />
@@ -578,7 +584,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1516856582718">
+      <file name="/dummy.sql" timestamp="1517127619098">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -3015,7 +3021,7 @@
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TUlDdXN0b21FdmVudDEg</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>gms</text>
