@@ -603,7 +603,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1517150410976">
+      <file name="/dummy.sql" timestamp="1517208549047">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -719,10 +719,6 @@
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/res/values/strings.xml" timestamp="1517138097853">
         <mark key="'" line="10" column="48" />
-        <mark key="[" line="14" column="49" />
-        <mark key="]" line="14" column="60" />
-        <mark key="^" line="14" column="60" />
-        <mark key="." line="14" column="60" />
       </file>
       <file name="$USER_HOME$/git/hms/db/migrate/20170330064824_create_daily_sales_employees.rb" timestamp="1490856924803">
         <mark key="[" line="6" column="34" />
@@ -2442,12 +2438,12 @@
         <mark key="^" line="31" column="108" />
         <mark key="." line="31" column="108" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1517125011117">
+      <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1517208896111">
         <mark key="'" line="73" column="4" />
-        <mark key="[" line="69" column="59" />
-        <mark key="]" line="69" column="60" />
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="25" />
         <mark key="^" line="69" column="11" />
-        <mark key="." line="69" column="60" />
+        <mark key="." line="39" column="25" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" timestamp="1515992027518">
         <mark key="'" line="468" column="19" />
@@ -2815,12 +2811,12 @@
         <mark key="^" line="79" column="63" />
         <mark key="." line="79" column="63" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1517207411842">
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1517208951274">
         <mark key="'" line="689" column="16" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
         <mark key="^" line="200" column="16" />
-        <mark key="." line="200" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Shell/ScheduleShell.php" timestamp="1508759858384">
         <mark key="[" line="39" column="7" />
@@ -3105,34 +3101,34 @@
         <text>account_pswd_reset.html</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dvdXQoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGpwLmNvLnlhaG9vLmFuZHJvaWQubW9iaWxlaW5zaWdodC5kZWZhdWx0ZXZlbnQuTUlDdXN0b21FdmVudDE7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KiAhW10oMjAxNzEyMjIuanBnKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dvdXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiAhW10oIVtweXJhbWlkXShweXJhbWlkLnBuZykK</text>
+        <text encoding="base64">KiAhW10oMjAxNzEyMjIuanBnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0+Cg==</text>
+        <text encoding="base64">KiAhW10oIVtweXJhbWlkXShweXJhbWlkLnBuZykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICogQSAxJQogICAgKiBCIDQlCiAgICAqIEMgMTAlCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">LS0+Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PCEtLQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICogQSAxJQogICAgKiBCIDQlCiAgICAqIEMgMTAlCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LS0+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">KiDjg6rjgrvjg57jg6kK</text>
+        <text encoding="base64">PCEtLQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -3186,8 +3182,8 @@
         <entry>166</entry>
         <entry>139</entry>
         <entry>155</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
