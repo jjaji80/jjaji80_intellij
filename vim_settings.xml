@@ -91,7 +91,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="60" column="46" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PasswordReminderController.kt" timestamp="1516187256763">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PasswordReminderController.kt" timestamp="1517191454882">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="19" />
         <mark key="^" line="11" column="17" />
@@ -621,7 +621,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517161556522">
+      <file name="/Dummy.txt" timestamp="1517191499413">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
@@ -649,10 +649,6 @@
         <mark key="]" line="13" column="59" />
         <mark key="." line="13" column="59" />
         <mark key="^" line="13" column="59" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/BaseController.php" timestamp="1517127736710">
-        <mark key="[" line="36" column="6" />
-        <mark key="]" line="36" column="27" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/news/NewsArticleCategorizeWorker.java" timestamp="1516095221989">
         <mark key="[" line="96" column="36" />
@@ -1724,9 +1720,6 @@
         <mark key="^" line="19" column="172" />
         <mark key="." line="19" column="418" />
       </file>
-      <file name="/a.sql" timestamp="1517132005052">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/hms/app/assets/stylesheets/application.css" timestamp="1514693959036">
         <mark key="'" line="17" column="4" />
         <mark key="[" line="328" column="16" />
@@ -2184,6 +2177,10 @@
         <mark key="]" line="36" column="41" />
         <mark key="." line="36" column="41" />
         <mark key="^" line="36" column="41" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/passwordReminder/index.html" timestamp="1517191466446">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-tools/src/main/java/com/newspicks/tools/UpdateNewsAttributes.java" timestamp="1516094620586">
         <mark key="[" line="21" column="0" />
@@ -2938,7 +2935,7 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PasswordController.kt" timestamp="1516187243486">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PasswordController.kt" timestamp="1517191518038">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="17" />
         <mark key="^" line="12" column="17" />
@@ -2974,7 +2971,7 @@
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" timestamp="1516346869007">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" timestamp="1517191228116">
         <mark key="'" line="17" column="25" />
         <mark key="[" line="33" column="13" />
         <mark key="]" line="33" column="13" />
@@ -3105,7 +3102,7 @@
         <text>無料会員特典</text>
       </register>
       <register name="0" type="4">
-        <text>2017年12月22日案</text>
+        <text>account_pswd_reset.html</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">KiAhW10oMjAxNzEyMjIuanBnKQo=</text>
