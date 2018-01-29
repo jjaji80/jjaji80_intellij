@@ -1652,12 +1652,11 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1515475397547">
-        <mark key="'" line="1321" column="17" />
-        <mark key="[" line="6133" column="0" />
-        <mark key="]" line="6133" column="0" />
-        <mark key="^" line="6615" column="0" />
-        <mark key="." line="6133" column="0" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1517260907679">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7132" column="0" />
+        <mark key="]" line="7132" column="0" />
+        <mark key="." line="7132" column="0" />
       </file>
       <file name="$USER_HOME$/git/hms/Gemfile" timestamp="1514447259119">
         <mark key="[" line="43" column="40" />
@@ -2976,7 +2975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="592" column="15" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
       <jump line="700" column="102" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
       <jump line="701" column="101" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
       <jump line="177" column="21" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
@@ -3076,6 +3074,7 @@
       <jump line="34" column="27" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="417" column="43" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="689" column="16" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3101,31 +3100,31 @@
         <text>account_pswd_reset.html</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmNvLnlhaG9vLmFuZHJvaWQubW9iaWxlaW5zaWdodC5kZWZhdWx0ZXZlbnQuTUlDdXN0b21FdmVudDE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dvdXQoKTsK</text>
+        <text encoding="base64">CkBtZWRpYSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDk4MHB4KXsKCS5zZWFyY2gtYnRuewoJCWRpc3BsYXk6IG5vbmU7Cgl9Cn0KQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogOTgwcHgpewoJLnNlYXJjaC1ib3gtY29udGFpbmVyIHsKCQl0b3A6IDA7CgkJei1pbmRleDogOTk5OTsKCX0KCS5ub2xvZ2luIC5zZWFyY2gtYnRuIGltZ3sKCQl3aWR0aDozMnB4OwoJCWhlaWdodDozMnB4OwoJfQoJLm5vbG9naW4gLnNlYXJjaC1idG57CgkJcG9zaXRpb246IGFic29sdXRlOwoJCXRvcDogOHB4OwoJCWxlZnQ6IDE2cHg7Cgl9Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiAhW10oMjAxNzEyMjIuanBnKQo=</text>
+        <text encoding="base64">aW1wb3J0IGpwLmNvLnlhaG9vLmFuZHJvaWQubW9iaWxlaW5zaWdodC5kZWZhdWx0ZXZlbnQuTUlDdXN0b21FdmVudDE7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KiAhW10oIVtweXJhbWlkXShweXJhbWlkLnBuZykK</text>
+        <text encoding="base64">ICAgICAgICBsb2dvdXQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0+Cg==</text>
+        <text encoding="base64">KiAhW10oMjAxNzEyMjIuanBnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLQo=</text>
+        <text encoding="base64">KiAhW10oIVtweXJhbWlkXShweXJhbWlkLnBuZykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICogQSAxJQogICAgKiBCIDQlCiAgICAqIEMgMTAlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">LS0+Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PCEtLQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICogQSAxJQogICAgKiBCIDQlCiAgICAqIEMgMTAlCg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
