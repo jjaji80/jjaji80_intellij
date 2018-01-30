@@ -205,13 +205,6 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/categorize/RankingRepository.java" timestamp="1516693603684">
-        <mark key="'" line="339" column="30" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="348" column="25" />
-      </file>
       <file name="$USER_HOME$/git/hms/app/views/make_daily_data/index.html.erb" timestamp="1490921373239">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="4" />
@@ -618,7 +611,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517306977860">
+      <file name="/Dummy.txt" timestamp="1517309029823">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
@@ -1744,12 +1737,6 @@
         <mark key="^" line="5" column="51" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/ExchangeService.java" timestamp="1516092285482">
-        <mark key="[" line="369" column="8" />
-        <mark key="]" line="369" column="21" />
-        <mark key="^" line="369" column="21" />
-        <mark key="." line="369" column="21" />
-      </file>
       <file name="$USER_HOME$/git/utelAndroid/build.gradle" timestamp="1517124881972">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -2368,6 +2355,7 @@
         <mark key="." line="105" column="25" />
         <mark key="^" line="105" column="25" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/test/java/com/newspicks/news/toyokezai/ToyokezaiLoaderTest.java" timestamp="1517308820794" />
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_page_view_ranking_card.ctp" timestamp="1513237735841">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -2386,13 +2374,6 @@
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" timestamp="1516070218428">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="187" column="40" />
-        <mark key="]" line="188" column="39" />
-        <mark key="." line="188" column="39" />
-        <mark key="^" line="188" column="39" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/AsyncPreparedRequest.java" timestamp="1510303929047">
         <mark key="[" line="66" column="61" />
@@ -2705,13 +2686,13 @@
         <mark key="^" line="82" column="8" />
         <mark key="." line="82" column="8" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1517307022600">
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1517309057958">
         <mark key="a" line="421" column="36" />
         <mark key="'" line="274" column="25" />
-        <mark key="[" line="443" column="40" />
-        <mark key="]" line="443" column="43" />
-        <mark key="." line="443" column="43" />
-        <mark key="^" line="443" column="43" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+        <mark key="^" line="151" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/.htaccess" timestamp="1514518128214">
         <mark key="[" line="11" column="19" />
@@ -3096,28 +3077,28 @@
         <text encoding="base64">CQk8P3BocCBpZigkdXNlcl9pZCk6ID8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8P3BocCBlbHNlOiA/Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJPHAgY2xhc3M9InNlYXJjaC1idG4iPjxpbWcgc3JjPSIvaW1nL3NlYXJjaC1pY29uLnBuZyIgYWx0PSLmpJzntKIiPjwvcD4K</text>
+        <text encoding="base64">CQk8P3BocCBlbHNlOiA/Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJPHAgY2xhc3M9InNlYXJjaC1idG4iPjxpbWcgc3JjPSJpbWFnZXMvc2VhcmNoLWljb24ucG5nIiBhbHQ9IuaknOe0oiI+PC9wPgo=</text>
+        <text encoding="base64">CQkJPHAgY2xhc3M9InNlYXJjaC1idG4iPjxpbWcgc3JjPSIvaW1nL3NlYXJjaC1pY29uLnBuZyIgYWx0PSLmpJzntKIiPjwvcD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJPHAgY2xhc3M9InNlYXJjaC1idG4iPjxpbWcgc3JjPSJpbWFnZXMvc2VhcmNoLWljb24ucG5nIiBhbHQ9IuaknOe0oiI+PC9wPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CTw/cGhwIGVuZGlmOyA/Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QG1lZGlhIHNjcmVlbiBhbmQgKG1pbi13aWR0aDogOTgwcHgpewoJLnNlYXJjaC1idG57CgkJZGlzcGxheTogbm9uZTsKCX0KfQpAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA5ODBweCl7Cgkuc2VhcmNoLWJveC1jb250YWluZXIgewoJCXRvcDogMDsKCQl6LWluZGV4OiA5OTk5OwoJfQp9CkBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDMyMHB4KXsKCSNoZWFkZXIgaDEgewoJCW1hcmdpbjogMTZweCAwIDAgODVweDsKCX0KfQoubm9sb2dpbiAuc2VhcmNoLWJ0biBpbWd7Cgl3aWR0aDozMnB4OwoJaGVpZ2h0OjMycHg7Cn0KLm5vbG9naW4gLnNlYXJjaC1idG4gewoJcG9zaXRpb246IGFic29sdXRlOwoJdG9wOiA4cHg7CglsZWZ0OiAxNnB4Owp9Cgo=</text>
+        <text encoding="base64">CTw/cGhwIGVuZGlmOyA/Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">QG1lZGlhIHNjcmVlbiBhbmQgKG1pbi13aWR0aDogOTgwcHgpewoJLnNlYXJjaC1idG57CgkJZGlzcGxheTogbm9uZTsKCX0KfQpAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA5ODBweCl7Cgkuc2VhcmNoLWJveC1jb250YWluZXIgewoJCXRvcDogMDsKCQl6LWluZGV4OiA5OTk5OwoJfQp9CkBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDMyMHB4KXsKCSNoZWFkZXIgaDEgewoJCW1hcmdpbjogMTZweCAwIDAgODVweDsKCX0KfQoubm9sb2dpbiAuc2VhcmNoLWJ0biBpbWd7Cgl3aWR0aDozMnB4OwoJaGVpZ2h0OjMycHg7Cn0KLm5vbG9naW4gLnNlYXJjaC1idG4gewoJcG9zaXRpb246IGFic29sdXRlOwoJdG9wOiA4cHg7CglsZWZ0OiAxNnB4Owp9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -3175,9 +3156,9 @@
         <entry>166</entry>
         <entry>139</entry>
         <entry>155</entry>
-        <entry>1</entry>
         <entry>20</entry>
         <entry>43</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
