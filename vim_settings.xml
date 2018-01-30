@@ -600,7 +600,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1517208549047">
+      <file name="/dummy.sql" timestamp="1517296775530">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -912,11 +912,11 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/bbs/index.html" timestamp="1516176052124">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/bbs/index.html" timestamp="1517297049728">
+        <mark key="[" line="30" column="7" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/NewsHibernateRepository.java" timestamp="1516693150229">
         <mark key="'" line="7" column="59" />
@@ -2623,6 +2623,10 @@
         <mark key="." line="84" column="4" />
         <mark key="^" line="84" column="4" />
       </file>
+      <file name="/index.html" timestamp="1517297168525">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/NoteAttachment.kt" timestamp="1515558114322">
         <mark key="[" line="10" column="11" />
         <mark key="]" line="10" column="24" />
@@ -3087,14 +3091,8 @@
       <register name="/" type="4">
         <text>logou</text>
       </register>
-      <register name="0" type="4">
-        <text>/**
-     * 指定した Pick の Like 数を取得します。
-     *
-     * @param pick Pick
-     * @return Like 数
-     */
-    int getLikeCount(Pick pick);</text>
+      <register name="0" type="2">
+        <text encoding="base64">PCEtLVRPRE8tLT4KYmJzX2xpc3QuaHRtbAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QG1lZGlhIHNjcmVlbiBhbmQgKG1pbi13aWR0aDogOTgwcHgpewoJLnNlYXJjaC1idG57CgkJZGlzcGxheTogbm9uZTsKCX0KfQpAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA5ODBweCl7Cgkuc2VhcmNoLWJveC1jb250YWluZXIgewoJCXRvcDogMDsKCQl6LWluZGV4OiA5OTk5OwoJfQp9CkBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDMyMHB4KXsKCSNoZWFkZXIgaDEgewoJCW1hcmdpbjogMTZweCAwIDAgODVweDsKCX0KfQoubm9sb2dpbiAuc2VhcmNoLWJ0biBpbWd7Cgl3aWR0aDozMnB4OwoJaGVpZ2h0OjMycHg7Cn0KLm5vbG9naW4gLnNlYXJjaC1idG4gewoJcG9zaXRpb246IGFic29sdXRlOwoJdG9wOiA4cHg7CglsZWZ0OiAxNnB4Owp9Cgo=</text>
@@ -3124,7 +3122,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>43</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3176,10 +3174,10 @@
         <entry>166</entry>
         <entry>139</entry>
         <entry>155</entry>
-        <entry>w</entry>
         <entry>1</entry>
         <entry>20</entry>
         <entry>43</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
