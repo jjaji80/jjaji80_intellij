@@ -893,12 +893,12 @@
         <mark key="." line="178" column="45" />
         <mark key="^" line="178" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1517741210822">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1517743282084">
         <mark key="'" line="670" column="26" />
-        <mark key="[" line="680" column="7" />
-        <mark key="]" line="680" column="9" />
-        <mark key="^" line="680" column="9" />
-        <mark key="." line="680" column="9" />
+        <mark key="[" line="684" column="16" />
+        <mark key="]" line="684" column="24" />
+        <mark key="^" line="684" column="24" />
+        <mark key="." line="684" column="24" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Forum.kt" timestamp="1515384412034">
         <mark key="'" line="12" column="22" />
@@ -3238,18 +3238,13 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Tm90aWZpY2F0aW9uUmVwb3NpdG9yeSA=</text>
+        <text>nickname LIKE '%SARA%';</text>
       </register>
       <register name="/" type="4">
         <text>Notifi</text>
       </register>
-      <register name="0" type="4">
-        <text>return getSession().createCriteria(c)
-                    .add(Restrictions.eq(&quot;userId&quot;,userId))
-                    .add(Restrictions.gt(&quot;notified&quot;,from))
-                    .setMaxResults(Constants.NOTIFICATION_LIMIT)
-                    .addOrder(Order.desc(&quot;id&quot;))
-                    .list();</text>
+      <register name="0" type="2">
+        <text encoding="base64">U0VMRUNUIGlkLGZpZCxvcwpGUk9NIGZvcnR1bmV0ZWxsZXJzCldIRVJFIG5pY2tuYW1lIExJS0UgJyVTQVJBJSc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5uZXdzcGlja3MuZW50aXR5LmR5bmFtb2RiLk5vdGlmaWNhdGlvbjsK</text>
