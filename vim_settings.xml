@@ -623,7 +623,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517745093909">
+      <file name="/Dummy.txt" timestamp="1517799223697">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
@@ -1465,6 +1465,7 @@
         <mark key="^" line="14" column="46" />
         <mark key="." line="14" column="46" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/FollowRecommendUser.java" timestamp="1517799222946" />
       <file name="$USER_HOME$/git/hms/app/models/daily_sales_employee.rb" timestamp="1491203692175">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="32" />
@@ -1674,6 +1675,7 @@
         <mark key="." line="61" column="38" />
         <mark key="^" line="61" column="38" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/cache/FollowRecommendUserSetting.java" timestamp="1517799389706" />
       <file name="$USER_HOME$/git/coinman/src/coinman/Ticker.kt" timestamp="1499159239028">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="12" />
@@ -2592,6 +2594,9 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/news/user/recommend/DefaultFollowRecommender.java" timestamp="1517799460130">
+        <mark key="'" line="23" column="38" />
+      </file>
       <file name="$USER_HOME$/git/hms/spec/models/employee_shop_spec.rb" timestamp="1490756737220">
         <mark key="[" line="13" column="19" />
         <mark key="]" line="13" column="7" />
@@ -3119,7 +3124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="33" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/AbstractTimelineRepository.java" />
       <jump line="62" column="3" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/AbstractTimelineRepository.java" />
       <jump line="61" column="4" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/AbstractTimelineRepository.java" />
       <jump line="6651" column="18" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
@@ -3219,6 +3223,7 @@
       <jump line="321" column="8" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NotificationService.java" />
       <jump line="370" column="8" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NotificationService.java" />
       <jump line="404" column="43" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NotificationService.java" />
+      <jump line="23" column="38" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/news/user/recommend/DefaultFollowRecommender.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3241,7 +3246,7 @@
         <text>1.0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOb3RpZmljYXRpb25SZXBvc2l0b3J5XD4=</text>
+        <text encoding="base64">XDxGb2xsb3dSZWNvbW1lbmRVc2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U0VMRUNUICogRlJPTSBhbmFseXNpc19yZXN1bHRzIFdIRVJFIHNlbmRfbW9iaWxlX2luc2lnaHRfZmxhZyA9IHRydWU7Cg==</text>
@@ -3281,9 +3286,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOb3RpZmljYXRpb25SZXBvc2l0b3J5XD4=</last-search>
+      <last-search encoding="base64">XDxGb2xsb3dSZWNvbW1lbmRVc2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOb3RpZmljYXRpb25SZXBvc2l0b3J5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxGb2xsb3dSZWNvbW1lbmRVc2VyXD4=</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -3291,7 +3296,6 @@
     </search>
     <history>
       <history-search>
-        <entry>#mainv {</entry>
         <entry>or</entry>
         <entry>or(</entry>
         <entry encoding="base64">XDxUaW1lbGluZVw+</entry>
@@ -3311,6 +3315,7 @@
         <entry>Pick</entry>
         <entry>Notifi</entry>
         <entry encoding="base64">XDxOb3RpZmljYXRpb25SZXBvc2l0b3J5XD4=</entry>
+        <entry encoding="base64">XDxGb2xsb3dSZWNvbW1lbmRVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%y</entry>
