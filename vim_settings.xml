@@ -1385,6 +1385,12 @@
         <mark key="^" line="192" column="17" />
         <mark key="." line="278" column="0" />
       </file>
+      <file name="$USER_HOME$/redsync/mna/test.adoc" timestamp="1517872638625">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="47" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/ValidationMessagesForUTF8.kt" timestamp="1515724882009">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -2826,6 +2832,12 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/redsync/mna/data.csv" timestamp="1517872557250">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="3" column="2" />
+      </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/sp/Mobile/dial.ctp" timestamp="1493176013951">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -3314,7 +3326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="37" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickService.java" />
       <jump line="26" column="38" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickService.java" />
       <jump line="27" column="27" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickService.java" />
       <jump line="28" column="27" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickService.java" />
@@ -3414,6 +3425,7 @@
       <jump line="76" column="29" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/EditorsNews.java" />
       <jump line="12" column="13" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Timeline.java" />
       <jump line="4" column="8" filename="$USER_HOME$/redsync/mna/試験.txt" />
+      <jump line="3" column="0" filename="$USER_HOME$/redsync/mna/test.adoc" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3439,34 +3451,34 @@
         <text>news</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">fENvbHVtbiAzLCByb3cgMwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
+        <text encoding="base64">W2Zvcm1hdD0iY3N2Iixjb2xzPSJeLDwsPCw+LDwiLG9wdGlvbnM9ImhlYWRlciJdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">W2Zvcm1hdD0iY3N2Iiwgb3B0aW9ucz0iaGVhZGVyIl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiDjg5Tjg4Pjgq/jga7jgYrmsJfjgavlhaXjgooK</text>
+        <text encoding="base64">Cnw9PT0KfEhlYWRlciAxIHxIZWFkZXIgMiB8SGVhZGVyIDN8IDM0Cgp8Q29sdW1uIDEsIHJvdyAxCnxDb2x1bW4gMiwgcm93IDEKfENvbHVtbiAzLCByb3cgMQp8Q29sdW1uIDMsIHJvdyAxCgp8Q29sdW1uIDEsIHJvdyAyCnxDb2x1bW4gMiwgcm93IDIKfENvbHVtbiAzLCByb3cgMgp8Q29sdW1uIDMsIHJvdyAyCgp8Q29sdW1uIDEsIHJvdyAzCnxDb2x1bW4gMiwgcm93IDMKfENvbHVtbiAzLCByb3cgMwp8Q29sdW1uIDMsIHJvdyAzCnw9PT0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9sbG93ZXJMaXN0Owo=</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZgo=</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
+        <text encoding="base64">KiDjg5Tjg4Pjgq/jga7jgYrmsJfjgavlhaXjgooK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9sbG93ZXJMaXN0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXZhcl9kdW1wKCRhcGlfZGF0YSk7ZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
