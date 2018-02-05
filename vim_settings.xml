@@ -115,11 +115,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="60" column="46" />
       </file>
-      <file name="$USER_HOME$/redsync/mna/試験.txt" timestamp="1517871759376">
-        <mark key="'" line="4" column="8" />
-        <mark key="]" line="20" column="43" />
-        <mark key="^" line="20" column="43" />
-        <mark key="." line="20" column="43" />
+      <file name="$USER_HOME$/redsync/mna/試験.txt" timestamp="1517873347687">
+        <mark key="'" line="6" column="8" />
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PasswordReminderController.kt" timestamp="1517191454882">
         <mark key="[" line="11" column="18" />
@@ -3052,6 +3053,13 @@
         <mark key="^" line="44" column="41" />
         <mark key="." line="44" column="41" />
       </file>
+      <file name="$USER_HOME$/redsync/mna/データベース統合.txt" timestamp="1517873826428">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Follower.java" timestamp="1517800159104">
         <mark key="'" line="42" column="31" />
         <mark key="[" line="26" column="0" />
@@ -3326,7 +3334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="38" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickService.java" />
       <jump line="27" column="27" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickService.java" />
       <jump line="28" column="27" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickService.java" />
       <jump line="29" column="27" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickService.java" />
@@ -3426,6 +3433,7 @@
       <jump line="12" column="13" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Timeline.java" />
       <jump line="4" column="8" filename="$USER_HOME$/redsync/mna/試験.txt" />
       <jump line="3" column="0" filename="$USER_HOME$/redsync/mna/test.adoc" />
+      <jump line="6" column="12" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3445,7 +3453,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGVzdCA=</text>
+        <text>メインカラム</text>
       </register>
       <register name="/" type="4">
         <text>news</text>
@@ -3454,34 +3462,34 @@
         <text encoding="base64">fENvbHVtbiAzLCByb3cgMwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W2Zvcm1hdD0iY3N2Iixjb2xzPSJeLDwsPCw+LDwiLG9wdGlvbnM9ImhlYWRlciJdCg==</text>
+        <text encoding="base64">KiBbIF0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W2Zvcm1hdD0iY3N2Iiwgb3B0aW9ucz0iaGVhZGVyIl0K</text>
+        <text encoding="base64">CiMjIOippumokwoKIyMjIOODiOODg+ODl+ODmuODvOOCuAoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cnw9PT0KfEhlYWRlciAxIHxIZWFkZXIgMiB8SGVhZGVyIDN8IDM0Cgp8Q29sdW1uIDEsIHJvdyAxCnxDb2x1bW4gMiwgcm93IDEKfENvbHVtbiAzLCByb3cgMQp8Q29sdW1uIDMsIHJvdyAxCgp8Q29sdW1uIDEsIHJvdyAyCnxDb2x1bW4gMiwgcm93IDIKfENvbHVtbiAzLCByb3cgMgp8Q29sdW1uIDMsIHJvdyAyCgp8Q29sdW1uIDEsIHJvdyAzCnxDb2x1bW4gMiwgcm93IDMKfENvbHVtbiAzLCByb3cgMwp8Q29sdW1uIDMsIHJvdyAzCnw9PT0KCg==</text>
+        <text encoding="base64">fCDpoIXnm64gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IOippumok+WGheWuuSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCDmraPluLjlh6bnkIYgfCDmnIDntYLoqabpqJPml6UgfCDoqabpqJPntZDmnpwgfAp8Oi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXw6LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS18Oi0tLS0tLS18Oi0tLS0tLS0tLXw6LS0tLS0tLXwKfCDkuK3lpK7jgqvjg6njg6Djga7jgqrjg6rjgrjjg4rjg6voqJjkuovkuIDopqfjgYzmraPluLjjgavooajnpLrjgZXjgozjgosgfCAqIOaWsOimj+iomOS6i+OCkuaKleeov+OBmeOCizxicj4qIOOCv+OCpOODiOODq+OBjOato+W4uOOBq+ihqOekuuOBleOCjOOCizxicj4gKiDnlLvlg4/jgYzmraPluLjjgavooajnpLrjgZXjgozjgosgfCAgICAgICAgfCAgICAgICAgICB8ICAgICAgICB8CnwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgICAgICAgIHwgICAgICAgICAgfCAgICAgICAgfAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
+        <text encoding="base64">IyMg44OH44O844K/44OZ44O844K557Wx5ZCICg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">W2Zvcm1hdD0iY3N2Iixjb2xzPSJeLDwsPCw+LDwiLG9wdGlvbnM9ImhlYWRlciJdCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KiDjg5Tjg4Pjgq/jga7jgYrmsJfjgavlhaXjgooK</text>
+        <text encoding="base64">W2Zvcm1hdD0iY3N2Iiwgb3B0aW9ucz0iaGVhZGVyIl0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9sbG93ZXJMaXN0Owo=</text>
+        <text encoding="base64">Cnw9PT0KfEhlYWRlciAxIHxIZWFkZXIgMiB8SGVhZGVyIDN8IDM0Cgp8Q29sdW1uIDEsIHJvdyAxCnxDb2x1bW4gMiwgcm93IDEKfENvbHVtbiAzLCByb3cgMQp8Q29sdW1uIDMsIHJvdyAxCgp8Q29sdW1uIDEsIHJvdyAyCnxDb2x1bW4gMiwgcm93IDIKfENvbHVtbiAzLCByb3cgMgp8Q29sdW1uIDMsIHJvdyAyCgp8Q29sdW1uIDEsIHJvdyAzCnxDb2x1bW4gMiwgcm93IDMKfENvbHVtbiAzLCByb3cgMwp8Q29sdW1uIDMsIHJvdyAzCnw9PT0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZgo=</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
