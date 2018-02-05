@@ -189,11 +189,10 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/categorize/RankingRepository.java" timestamp="1517819795029">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="347" column="78" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/categorize/RankingRepository.java" timestamp="1517821504982">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/git/hms/app/views/make_daily_data/index.html.erb" timestamp="1490921373239">
         <mark key="[" line="2" column="4" />
@@ -1772,7 +1771,7 @@
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1517819875282">
+      <file name="/fragment.java" timestamp="1517820534350">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -2552,34 +2551,34 @@
         <text>@OneToMany(mappedBy =</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb2xsb3dTZXJ2aWNlLmNvcHlEeW5hbW9Ub015U1FMKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBFZGkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGFsbEFjdHVhbFVzZXJJZHMuY29udGFpbnMoZm9sbG93ZXIuZ2V0VXNlcigpKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbGwuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uZXdzcGlja3MuZW50aXR5LmR5bmFtb2RiLlBpY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb2xsb3dTZXJ2aWNlLmNvcHlEeW5hbW9Ub015U1FMKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uZXdzcGlja3MuZW50aXR5LmR5bmFtb2RiLlBpY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGFsbEFjdHVhbFVzZXJJZHMuY29udGFpbnMoZm9sbG93ZXIuZ2V0VXNlcigpKQo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uZXdzcGlja3MubW9kZWwubmV3cy5QaWNrUmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5uZXdzcGlja3MuZW50aXR5LmR5bmFtb2RiLlBpY2s7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uZXdzcGlja3Muc2VydmljZS5QaWNrU2VydmljZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uZXdzcGlja3MuZW50aXR5LmR5bmFtb2RiLlBpY2s7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uZXdzcGlja3MuZW50aXR5LmR5bmFtb2RiLlBpY2s7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uZXdzcGlja3MubW9kZWwubmV3cy5QaWNrUmVwb3NpdG9yeTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
