@@ -2718,7 +2718,7 @@
         <mark key="^" line="31" column="108" />
         <mark key="." line="31" column="108" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1517895577844">
+      <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1517900867314">
         <mark key="'" line="59" column="17" />
         <mark key="[" line="39" column="23" />
         <mark key="]" line="39" column="25" />
@@ -3073,14 +3073,6 @@
         <mark key="^" line="42" column="31" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1517824151752">
-        <mark key="a" line="1892" column="12" />
-        <mark key="'" line="553" column="16" />
-        <mark key="[" line="983" column="0" />
-        <mark key="]" line="984" column="17" />
-        <mark key="." line="984" column="17" />
-        <mark key="^" line="984" column="17" />
-      </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/FakeApiClient.java" timestamp="1510298389631">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="19" />
@@ -3151,13 +3143,13 @@
         <mark key="^" line="79" column="63" />
         <mark key="." line="79" column="63" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1517899799581">
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1517900858055">
         <mark key="a" line="497" column="0" />
         <mark key="'" line="689" column="16" />
-        <mark key="[" line="497" column="0" />
-        <mark key="]" line="497" column="0" />
-        <mark key="^" line="497" column="33" />
-        <mark key="." line="497" column="0" />
+        <mark key="[" line="859" column="19" />
+        <mark key="]" line="859" column="42" />
+        <mark key="^" line="859" column="42" />
+        <mark key="." line="859" column="42" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Shell/ScheduleShell.php" timestamp="1508759858384">
         <mark key="[" line="39" column="7" />
@@ -3460,7 +3452,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>93</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>twi</text>
@@ -3475,34 +3467,34 @@ FROM fortunetellers
 WHERE nickname LIKE '%マダム%';</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50RGV2aWNlLmxpc3RlbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRWxzYVV0aWwuZGVidWcodGhpcywpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZXZpY2UubGlzdGVuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50RGV2aWNlLmxpc3RlbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50RGV2aWNlLmNhCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXZpY2UubGlzdGVuKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50RGV2aWNlLmNhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBMRUZUIEpPSU4gY2FsbF9sb2dzIGFzIEMgb24gQy5ib29raW5nX2lkPUIuaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SW9uLndpdGjjgYzlpLHmlZfjgZnjgovjgZPjgajjgYzjgYLjgovjga7jgafjgIHkuIDlrprlm57mlbDnubDjgorov5TjgZflrp/ooYzjgZnjgosK</text>
+        <text encoding="base64">ICBMRUZUIEpPSU4gY2FsbF9sb2dzIGFzIEMgb24gQy5ib29raW5nX2lkPUIuaWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
+        <text encoding="base64">SW9uLndpdGjjgYzlpLHmlZfjgZnjgovjgZPjgajjgYzjgYLjgovjga7jgafjgIHkuIDlrprlm57mlbDnubDjgorov5TjgZflrp/ooYzjgZnjgosK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Mi4g6KiY5LqL44KS5YWs6ZaLCg==</text>
+        <text encoding="base64">44CQ566h55CG44K344K544OG44Og44CR5b6F5qmf44K544Kx44K444Ol44O844Or44GM55m76Yyy44Gn44GN44Gq44GE5Lu2Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Mi4g6KiY5LqL44KS5YWs6ZaLCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
