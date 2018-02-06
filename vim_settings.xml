@@ -3053,11 +3053,10 @@
         <mark key="^" line="44" column="41" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="$USER_HOME$/redsync/mna/データベース統合.txt" timestamp="1517875143913">
-        <mark key="'" line="72" column="1" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/redsync/mna/データベース統合.txt" timestamp="1517877580909">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Follower.java" timestamp="1517800159104">
         <mark key="'" line="42" column="31" />
@@ -3333,11 +3332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="48" filename="$USER_HOME$/git/manganews-server/manganews-tools/src/main/java/com/newspicks/tools/CountPick.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-server/manganews-tools/src/main/java/com/newspicks/tools/CountPick.java" />
-      <jump line="5" column="37" filename="$USER_HOME$/git/manganews-server/manganews-tools/src/main/java/com/newspicks/tools/CountPick.java" />
-      <jump line="15" column="3" filename="$USER_HOME$/git/manganews-server/manganews-tools/src/main/java/com/newspicks/tools/CountPick.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/dummy/NewsCategorizerCheck.java" />
       <jump line="12" column="37" filename="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/dummy/NewsCategorizerCheck.java" />
       <jump line="17" column="22" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Notification.java" />
       <jump line="18" column="0" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Notification.java" />
@@ -3433,6 +3427,11 @@
       <jump line="24" column="0" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
       <jump line="65" column="5" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
       <jump line="72" column="1" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="69" column="0" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="77" column="14" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="81" column="0" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="94" column="6" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="100" column="14" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3452,46 +3451,46 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>ピックアップ</text>
+        <text>が正常表示される</text>
       </register>
       <register name="/" type="4">
         <text>news</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KiBbIF0g5LuW44K144Kk44OI44Gu6KiY5LqL44KS44OU44OD44KvCiogWyBdIOiHquOCteOCpOODiOOBruiomOS6i+OCkuODlOODg+OCrwo=</text>
+        <text encoding="base64">MS4g44OI44OD44OX44Oa44O844K444KS6KGo56S6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiBbIF0gCg==</text>
+        <text encoding="base64">MS4g6KGo56S65Lu25pWw44GM5q2j44GX44GECg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KiBbIF0gCg==</text>
+        <text encoding="base64">MS4g44OU44OD44Kv5pmC44Gr5LuY5LiO44GX44Gf44K/44Kw44GM5q2j5bi46KGo56S644GV44KM44KLCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Mi4gCg==</text>
+        <text encoding="base64">MS4g44OU44OD44Kv5pmC44Gu44Kz44Oh44Oz44OI44KS5YWl5YqbCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KiBbIF0gCg==</text>
+        <text encoding="base64">MS4g44OU44OD44Kv5pmC44Gu44Kz44Oh44Oz44OI44GM5q2j5bi46KGo56S644GV44KM44KLCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Mi4gCg==</text>
+        <text encoding="base64">MS4g44OU44OD44Kv44GX44Gf44Om44O844K244O844Gu5Lya56S+5ZCN44GM6KGo56S644GV44KM44KLCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">MS4g44OU44OD44Kv44GX44Gf44Om44O844K244O844Gu5ZCN5YmN44GM6KGo56S644GV44KM44KLCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KiBbIF0gZAo=</text>
+        <text encoding="base64">MS4g44OU44OD44Kv44GX44Gf44Om44O844K244O844Gu44Ki44Kk44Kz44Oz44GM6KGo56S644GV44KM44KLCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Mi4g44K/44Kk44OI44Or44GM5q2j5bi444Gr6KGo56S644GV44KM44KLCg==</text>
+        <text encoding="base64">MS4g6KiY5LqL5YWs6ZaL5pel44GM5q2j5bi46KGo56S644GV44KM44KLCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiBbIF0gCg==</text>
+        <text encoding="base64">MS4g6KGo56S644GV44KM44KL5Lu25pWw44GM5q2j44GX44GECg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3545,8 +3544,8 @@
         <entry>14</entry>
         <entry>155</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
