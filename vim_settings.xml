@@ -1049,12 +1049,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="198" column="34" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/slide.ctp" timestamp="1517908138990">
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/slide.ctp" timestamp="1517971241067">
         <mark key="'" line="0" column="21" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="92" />
-        <mark key="^" line="42" column="8" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="33" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="10" column="33" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/ExecutionStatus.kt" timestamp="1503473708600">
         <mark key="[" line="10" column="4" />
@@ -1823,11 +1823,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="18" column="47" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1517970206982">
-        <mark key="[" line="7150" column="0" />
-        <mark key="]" line="7175" column="1" />
-        <mark key="." line="7150" column="0" />
-        <mark key="^" line="7149" column="0" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1517971229916">
+        <mark key="'" line="883" column="13" />
+        <mark key="[" line="7175" column="1" />
+        <mark key="]" line="7207" column="0" />
+        <mark key="." line="7207" column="0" />
+        <mark key="^" line="7207" column="0" />
       </file>
       <file name="$USER_HOME$/git/hms/Gemfile" timestamp="1514447259119">
         <mark key="[" line="43" column="40" />
@@ -3333,8 +3334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="37" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/FollowService.java" />
-      <jump line="18" column="34" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/FollowService.java" />
       <jump line="44" column="31" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Follower.java" />
       <jump line="20" column="40" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/user/FollowerHibernateRepository.java" />
       <jump line="116" column="3" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/UserService.java" />
@@ -3433,6 +3432,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacySelfController.java" />
       <jump line="74" column="29" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacySelfController.java" />
       <jump line="100" column="28" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacySelfController.java" />
+      <jump line="7150" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="883" column="13" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3455,7 +3456,7 @@
         <text>clientDevice.getCapabilities().get(Device.Capability.EXPIRATION);</text>
       </register>
       <register name="/" type="4">
-        <text>timeline</text>
+        <text>read</text>
       </register>
       <register name="0" type="4">
         <text>clientDevice.getCapabilities().get(Device.Capability.EXPIRATION)</text>
@@ -3495,9 +3496,9 @@
       </register>
     </registers>
     <search>
-      <last-search>timeline</last-search>
+      <last-search>read</last-search>
       <last-offset />
-      <last-pattern>timeline</last-pattern>
+      <last-pattern>read</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -3505,7 +3506,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVGb2xsb3dlcnNDb3VudFw+</entry>
         <entry>Pick</entry>
         <entry>par</entry>
         <entry>New</entry>
@@ -3525,6 +3525,7 @@
         <entry>date</entry>
         <entry>style.c</entry>
         <entry>timeline</entry>
+        <entry>read</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
