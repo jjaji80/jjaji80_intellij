@@ -1514,6 +1514,9 @@
         <mark key="." line="9" column="22" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/CategoryService.java" timestamp="1517977656301" />
+      <file name="$USER_HOME$/git/hms/log/development.log" timestamp="1517993767402">
+        <mark key="'" line="14" column="56" />
+      </file>
       <file name="$USER_HOME$/git/p1-doc/p1/要件定義/make.sh" timestamp="1490166776381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -3307,7 +3310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="48" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
       <jump line="16" column="37" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
       <jump line="30" column="32" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
       <jump line="15" column="0" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
@@ -3407,6 +3409,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/CategoryController.java" />
       <jump line="23" column="13" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/TimelineHibernateRepository.java" />
       <jump line="5" column="31" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/TimelineComment.java" />
+      <jump line="14" column="56" filename="$USER_HOME$/git/hms/log/development.log" />
     </jumps>
     <registers>
       <register name="a" type="4">
