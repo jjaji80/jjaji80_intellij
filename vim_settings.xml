@@ -668,11 +668,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518013415351">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="15" />
+      <file name="/Dummy.txt" timestamp="1518056454552">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+        <mark key="^" line="1" column="4" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
         <mark key="[" line="60" column="20" />
@@ -1684,11 +1684,11 @@
         <mark key="^" line="150" column="25" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/webroot/version.json" timestamp="1517972539376">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="17" />
+      <file name="$USER_HOME$/git/utel/app/webroot/version.json" timestamp="1518056408571">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="13" />
         <mark key="^" line="2" column="16" />
-        <mark key="." line="2" column="17" />
+        <mark key="." line="1" column="13" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/News.java" timestamp="1515998974408">
         <mark key="'" line="29" column="29" />
@@ -3448,7 +3448,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text encoding="base64">Zml4ZWQg</text>
       </register>
       <register name="/" type="4">
         <text>news</text>
