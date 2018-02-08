@@ -1849,9 +1849,9 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="18" column="47" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1518053968552">
-        <mark key="[" line="7208" column="0" />
-        <mark key="]" line="7208" column="0" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1518055508499">
+        <mark key="[" line="7199" column="1" />
+        <mark key="]" line="7199" column="9" />
         <mark key="." line="7208" column="0" />
       </file>
       <file name="$USER_HOME$/git/hms/Gemfile" timestamp="1514447259119">
@@ -3453,8 +3453,8 @@
       <register name="/" type="4">
         <text>news</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWUgPSAibmV3c19pZCIsIGluc2VydGFibGUgPSBmYWxzZSwgdXBkYXRhYmxlID0gZmFsc2UpCg==</text>
+      <register name="0" type="4">
+        <text>lineclamp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5qZnJlZS51dGlsLkxvZzsK</text>
