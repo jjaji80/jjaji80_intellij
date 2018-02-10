@@ -767,12 +767,12 @@
         <mark key="^" line="198" column="12" />
         <mark key="." line="198" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1518244037357">
-        <mark key="'" line="770" column="0" />
-        <mark key="[" line="780" column="0" />
-        <mark key="]" line="785" column="22" />
-        <mark key="." line="785" column="22" />
-        <mark key="^" line="785" column="22" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1518252260823">
+        <mark key="'" line="757" column="0" />
+        <mark key="[" line="798" column="23" />
+        <mark key="]" line="799" column="13" />
+        <mark key="." line="799" column="13" />
+        <mark key="^" line="799" column="13" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/ckeditor/config.js" timestamp="1503389663974">
         <mark key="[" line="31" column="22" />
@@ -2459,9 +2459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
-      <jump line="19" column="0" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
-      <jump line="16" column="0" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
       <jump line="23" column="12" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
       <jump line="28" column="16" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
       <jump line="31" column="0" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
@@ -2559,6 +2556,9 @@
       <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="748" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="770" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="749" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="773" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="757" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2578,10 +2578,10 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>F.os='android'</text>
       </register>
       <register name="/" type="4">
-        <text>like</text>
+        <text>neko</text>
       </register>
       <register name="0" type="4">
         <text>CrudRepository</text>
@@ -2621,17 +2621,16 @@
       </register>
     </registers>
     <search>
-      <last-search>like</last-search>
+      <last-search>neko</last-search>
       <last-offset />
-      <last-pattern>like</last-pattern>
+      <last-pattern>neko</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>style.c</entry>
         <entry>timeline</entry>
         <entry>read</entry>
         <entry>log</entry>
@@ -2651,6 +2650,7 @@
         <entry encoding="base64">XDxfZ2V0X3RvcG5ld3NcPg==</entry>
         <entry>related</entry>
         <entry>like</entry>
+        <entry>neko</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
