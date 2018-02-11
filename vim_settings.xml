@@ -1540,12 +1540,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518384279938">
-        <mark key="'" line="43" column="33" />
-        <mark key="[" line="33" column="98" />
-        <mark key="]" line="33" column="98" />
-        <mark key="." line="33" column="98" />
-        <mark key="^" line="33" column="98" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518386742006">
+        <mark key="'" line="49" column="43" />
+        <mark key="[" line="73" column="118" />
+        <mark key="]" line="73" column="132" />
+        <mark key="." line="73" column="132" />
+        <mark key="^" line="73" column="132" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_footer.ctp" timestamp="1513567158294">
         <mark key="[" line="11" column="107" />
@@ -2496,8 +2496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="13" filename="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/MoveToMySQLWorker.java" />
-      <jump line="0" column="21" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/slide.ctp" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacySelfController.java" />
       <jump line="74" column="29" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacySelfController.java" />
@@ -2596,6 +2594,8 @@
       <jump line="26" column="4" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PositionList.kt" />
       <jump line="43" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="65" column="17" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
+      <jump line="38" column="25" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="49" column="43" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2615,10 +2615,10 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>[0]</text>
+        <text>&quot;SELL&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNwb25zZVN0cmluZ0J1aWxkZXJcPg==</text>
+        <text>push</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgoMTAwMCAqIDYwICogbWFpbldhaXRUaW1lICogcG9zaXRpb25MaXN0LnBvc2l0aW9uTGlzdC5zaXplKS50b0xvbmcoKSkK</text>
@@ -2658,9 +2658,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNwb25zZVN0cmluZ0J1aWxkZXJcPg==</last-search>
+      <last-search>push</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNwb25zZVN0cmluZ0J1aWxkZXJcPg==</last-pattern>
+      <last-pattern>push</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -2668,8 +2668,6 @@
     </search>
     <history>
       <history-search>
-        <entry>robt</entry>
-        <entry encoding="base64">XDxwaWNrZXJJZFw+</entry>
         <entry encoding="base64">XDxwaWNrRHRvXD4=</entry>
         <entry>pdf</entry>
         <entry>boolean</entry>
@@ -2688,6 +2686,8 @@
         <entry encoding="base64">XDxtYWtlSGVhZGVyXD4=</entry>
         <entry>,</entry>
         <entry encoding="base64">XDxyZXNwb25zZVN0cmluZ0J1aWxkZXJcPg==</entry>
+        <entry encoding="base64">XDxTRUxMXD4=</entry>
+        <entry>push</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
