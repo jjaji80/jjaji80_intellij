@@ -1540,12 +1540,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518386742006">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518388232050">
         <mark key="'" line="49" column="43" />
-        <mark key="[" line="73" column="118" />
-        <mark key="]" line="73" column="132" />
-        <mark key="." line="73" column="132" />
-        <mark key="^" line="73" column="132" />
+        <mark key="[" line="63" column="105" />
+        <mark key="]" line="63" column="108" />
+        <mark key="." line="63" column="108" />
+        <mark key="^" line="63" column="108" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_footer.ctp" timestamp="1513567158294">
         <mark key="[" line="11" column="107" />
@@ -2615,13 +2615,13 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;SELL&quot;</text>
+        <text>1.01</text>
       </register>
       <register name="/" type="4">
         <text>push</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgoMTAwMCAqIDYwICogbWFpbldhaXRUaW1lICogcG9zaXRpb25MaXN0LnBvc2l0aW9uTGlzdC5zaXplKS50b0xvbmcoKSkK</text>
+      <register name="0" type="4">
+        <text>positionList.getAverage() * 1.01</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJzbGVlcCAke3Bvc2l0aW9uTGlzdC5wb3NpdGlvbkxpc3Quc2l6ZX0gbWludXRlcyIpCg==</text>
