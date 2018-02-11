@@ -1541,11 +1541,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518363932485">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="66" column="47" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518366058090">
+        <mark key="'" line="43" column="33" />
+        <mark key="[" line="32" column="50" />
+        <mark key="]" line="33" column="36" />
+        <mark key="." line="33" column="36" />
+        <mark key="^" line="33" column="36" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_footer.ctp" timestamp="1513567158294">
         <mark key="[" line="11" column="107" />
@@ -2496,7 +2497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="3" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/TimelineService.java" />
       <jump line="25" column="13" filename="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/MoveToMySQLWorker.java" />
       <jump line="32" column="13" filename="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/MoveToMySQLWorker.java" />
       <jump line="0" column="21" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/slide.ctp" />
@@ -2596,6 +2596,7 @@
       <jump line="64" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
       <jump line="85" column="44" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
       <jump line="26" column="4" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PositionList.kt" />
+      <jump line="43" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2624,13 +2625,13 @@
         <text>positionList.positionList.size</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoU2VydmljZS5wdXNoKCLkuojmg7PliKnnm4o6ICR7dGFyZ2V0ICogc2l6ZX0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oImluaXQiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdXNoU2VydmljZS5wdXNoKCLkuojmg7PliKnnm4o6ICR7dGFyZ2V0ICogc2l6ZX0iKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgoMTAwMCAqIDYwICogbWFpbldhaXRUaW1lICogcG9zaXRpb25MaXN0LnBvc2l0aW9uTGlzdC5zaXplKS50b0xvbmcoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgoMTAwMCAqIDYwICogbWFpbldhaXRUaW1lICogcG9zaXRpb25MaXN0LnBvc2l0aW9uTGlzdC5zaXplKS50b0xvbmcoKSkK</text>
@@ -2642,16 +2643,16 @@
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgoMTAwMCAqIDYwICogbWFpbldhaXRUaW1lICogcG9zaXRpb25MaXN0LnNpemUpLnRvTG9uZygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgoMTAwMCAqIDYwICogbWFpbldhaXRUaW1lICogcG9zaXRpb25MaXN0LnBvc2l0aW9uTGlzdC5zaXplKS50b0xvbmcoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgoMTAwMCAqIDYwICogbWFpbldhaXRUaW1lICogcG9zaXRpb25MaXN0LnNpemUpLnRvTG9uZygpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpemUgKj0gMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2l6ZSA9IGRlZmF1bHRTaXplCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpemUgKj0gMgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
