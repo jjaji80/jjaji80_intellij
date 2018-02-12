@@ -1540,12 +1540,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518399716588">
-        <mark key="'" line="25" column="16" />
-        <mark key="[" line="66" column="36" />
-        <mark key="]" line="66" column="48" />
-        <mark key="." line="66" column="48" />
-        <mark key="^" line="66" column="48" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518411476233">
+        <mark key="'" line="7" column="45" />
+        <mark key="[" line="47" column="92" />
+        <mark key="]" line="47" column="102" />
+        <mark key="." line="47" column="102" />
+        <mark key="^" line="47" column="102" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_footer.ctp" timestamp="1513567158294">
         <mark key="[" line="11" column="107" />
@@ -2496,8 +2496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="883" column="13" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="37" column="47" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/AbstractTimelineRepository.java" />
       <jump line="140" column="55" filename="/TimelineService.java" />
       <jump line="143" column="42" filename="/TimelineService.java" />
       <jump line="144" column="61" filename="/TimelineService.java" />
@@ -2596,6 +2594,8 @@
       <jump line="66" column="112" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="72" column="35" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="25" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="47" column="85" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="7" column="45" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2615,13 +2615,13 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>BUY</text>
+        <text encoding="base64">ID86IGRlZmF1bHRTaXplKQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3dTaWRlXD4=</text>
+        <text>format</text>
       </register>
       <register name="0" type="4">
-        <text>positionList.positionList</text>
+        <text>%.5f</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBleHBvc2VkTG9nZ2VyCg==</text>
@@ -2658,9 +2658,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3dTaWRlXD4=</last-search>
+      <last-search>format</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3dTaWRlXD4=</last-pattern>
+      <last-pattern>format</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -2668,7 +2668,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pdf</entry>
         <entry>boolean</entry>
         <entry>Boole</entry>
         <entry>news</entry>
@@ -2688,6 +2687,7 @@
         <entry encoding="base64">XDxTRUxMXD4=</entry>
         <entry>push</entry>
         <entry encoding="base64">XDxub3dTaWRlXD4=</entry>
+        <entry>format</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
