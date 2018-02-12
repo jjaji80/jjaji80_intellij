@@ -1289,10 +1289,6 @@
         <mark key="^" line="5767" column="0" />
         <mark key="." line="5767" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/left.ctp" timestamp="1518010351466">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="10" column="37" />
-      </file>
       <file name="$USER_HOME$/git/www.fuluhashi.co.jp/shop/wp-content/themes/iepo/footer.php" timestamp="1516266835884">
         <mark key="[" line="25" column="43" />
         <mark key="]" line="25" column="58" />
@@ -1492,10 +1488,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="84" column="38" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/config/Constants.java" timestamp="1518079005837">
-        <mark key="[" line="94" column="56" />
-        <mark key="]" line="94" column="70" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/RankingService.java" timestamp="1518082030495">
         <mark key="'" line="209" column="45" />
@@ -2403,9 +2395,9 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/shareAccount/index.html" timestamp="1516192302989">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="22" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/shareAccount/index.html" timestamp="1518413663156">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="26" />
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
@@ -2621,7 +2613,7 @@
         <text>format</text>
       </register>
       <register name="0" type="4">
-        <text>%.5f</text>
+        <text>sharedaccaunt_list.html</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBleHBvc2VkTG9nZ2VyCg==</text>
