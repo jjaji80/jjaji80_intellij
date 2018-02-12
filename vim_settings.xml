@@ -1540,12 +1540,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518411476233">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518412489490">
         <mark key="'" line="7" column="45" />
-        <mark key="[" line="47" column="92" />
-        <mark key="]" line="47" column="102" />
-        <mark key="." line="47" column="102" />
-        <mark key="^" line="47" column="102" />
+        <mark key="[" line="48" column="91" />
+        <mark key="]" line="48" column="92" />
+        <mark key="." line="48" column="92" />
+        <mark key="^" line="48" column="111" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_footer.ctp" timestamp="1513567158294">
         <mark key="[" line="11" column="107" />
@@ -2615,7 +2615,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID86IGRlZmF1bHRTaXplKQ==</text>
+        <text>toString().format(&quot;%.5f&quot;).toDouble()</text>
       </register>
       <register name="/" type="4">
         <text>format</text>
