@@ -261,9 +261,9 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/detail.html" timestamp="1516346996068">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/detail.html" timestamp="1518516088009">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="30" />
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="0" />
       </file>
@@ -495,7 +495,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1518082209149">
+      <file name="/dummy.sql" timestamp="1518516561813">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2543,7 +2543,7 @@
         <text>sara</text>
       </register>
       <register name="0" type="4">
-        <text>openPositionPnl</text>
+        <text>message_record_article.html</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmKCkK</text>
