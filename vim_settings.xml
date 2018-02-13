@@ -1492,12 +1492,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518523414465">
-        <mark key="'" line="47" column="20" />
-        <mark key="[" line="83" column="9" />
-        <mark key="]" line="84" column="16" />
-        <mark key="." line="84" column="16" />
-        <mark key="^" line="84" column="16" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518549418590">
+        <mark key="'" line="36" column="4" />
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="39" />
+        <mark key="^" line="28" column="39" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_footer.ctp" timestamp="1513567158294">
         <mark key="[" line="11" column="107" />
@@ -2426,7 +2426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="13" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/HibernateNews.java" />
       <jump line="20" column="20" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/HibernateNews.java" />
       <jump line="132" column="15" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/HibernateNews.java" />
       <jump line="136" column="19" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/HibernateNews.java" />
@@ -2526,6 +2525,7 @@
       <jump line="296" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
       <jump line="160" column="26" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
       <jump line="47" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="34" column="4" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2554,34 +2554,34 @@
         <text encoding="base64">Qml0Rmx5ZXJQcm9wZXJ0aWVzLmxvc3NDdXRKdWRnZVJhdGU9MTIwLjAKQml0Rmx5ZXJQcm9wZXJ0aWVzLmxvc3NDdXRSYXRlPTAuMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbm93U2l6ZSA9IHBvc2l0aW9uTGlzdC5wb3NpdGlvbkxpc3Quc2l6ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2gK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbm93U2l6ZSA9IHBvc2l0aW9uTGlzdC5wb3NpdGlvbkxpc3Quc2l6ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2gK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVzaGVkRGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVzaGVkRGF0ZQo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
