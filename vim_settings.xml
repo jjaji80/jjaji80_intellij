@@ -1492,12 +1492,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518518864420">
-        <mark key="'" line="52" column="63" />
-        <mark key="[" line="56" column="18" />
-        <mark key="]" line="56" column="19" />
-        <mark key="." line="56" column="19" />
-        <mark key="^" line="85" column="77" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518520771575">
+        <mark key="'" line="47" column="20" />
+        <mark key="[" line="54" column="29" />
+        <mark key="]" line="54" column="30" />
+        <mark key="." line="54" column="30" />
+        <mark key="^" line="54" column="32" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_footer.ctp" timestamp="1513567158294">
         <mark key="[" line="11" column="107" />
@@ -2511,7 +2511,6 @@
       <jump line="66" column="112" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="72" column="35" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="25" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="47" column="85" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="7" column="45" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="35" column="37" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PositionList.kt" />
       <jump line="15" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -2526,6 +2525,7 @@
       <jump line="52" column="63" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="296" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
       <jump line="160" column="26" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
+      <jump line="47" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2545,52 +2545,54 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>BitFlyerProperties</text>
+        <text>.toLong()</text>
       </register>
       <register name="/" type="4">
-        <text>proper</text>
+        <text encoding="base64">XDxyZXN1bHRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzaXplIDwgMC4wMDEpIHsKICAgICAgICAgICAgICAgICAgICBzaXplID0gMC4wMDEKICAgICAgICAgICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>result = json.string(&quot;error_message&quot;) == null || json.int(&quot;status&quot;) == 205
+            if (!result)
+                Thread.sleep(1000 * 10)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzaXplIDwgMC4wMDEpIHsKICAgICAgICAgICAgICAgICAgICBzaXplID0gMC4wMDEKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihzaXplPCAwLjAwMDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBpCg==</text>
       </register>
       <register name="3" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICAgICAgcG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q29pbkNoZWNrUHJvcGVydGllcy5zYWxlQ2xvc2VSYXRlUGFpck9yZGVyPTEuNQpDb2luQ2hlY2tQcm9wZXJ0aWVzLm5ld09yZGVyV2FpdE1pbnV0ZVBhaXJPcmRlcj0yMApDb2luQ2hlY2tQcm9wZXJ0aWVzLnJhdGVQYWlyT3JkZXI9MC4wMQpDb2luQ2hlY2tQcm9wZXJ0aWVzLmFtb3VudFBhaXJPcmRlcj0wLjAxCkNvaW5DaGVja1Byb3BlcnRpZXMubGV2ZXJhZ2VNYXJnaW5MZXZlbFBhaXJPcmRlcj0xLjAKQ29pbkNoZWNrUHJvcGVydGllcy5jaGVja09wZW5XYWl0TWludXRlUGFpck9yZGVyPTEKQ29pbkNoZWNrUHJvcGVydGllcy50YXJnZXRQbFN1YnRyYWN0UGFpck9yZGVyPTAuODUKQ29pbkNoZWNrUHJvcGVydGllcy5qdWRnZURpZmZZZW5QYWlyT3JkZXI9MjAwMApDb2luQ2hlY2tQcm9wZXJ0aWVzLnN0YXJ0TG9uZ0xvbmc9MC4wMQpDb2luQ2hlY2tQcm9wZXJ0aWVzLnNsZWVwTG9uZ0xvbmc9MQpDb2luQ2hlY2tQcm9wZXJ0aWVzLnN0b3BMb3NzTG9uZ0xvbmc9MC45OApDb2luQ2hlY2tQcm9wZXJ0aWVzLnJhdGVMb25nTG9uZz0xLjc1CkNvaW5DaGVja1Byb3BlcnRpZXMudW5pdFRyYWRlU2VydmljZT0xCkNvaW5DaGVja1Byb3BlcnRpZXMubm9MZXZlcmFnZURvVHJhZGVTZXJ2aWNlPXRydWUKQ29pbkNoZWNrUHJvcGVydGllcy5ub0xldmVyYWdlU3RvcExvc3M9MTAuMApDb2luQ2hlY2tQcm9wZXJ0aWVzLm1haW5LZXk9ZUNaaDFScVJmTmZ4WkpXNQpDb2luQ2hlY2tQcm9wZXJ0aWVzLm1haW5TZWNyZXQ9Mk9BR25JR0lESU9faFRJT1hRcHdKNXp1RkhDcWE2TDUKQ29pbkNoZWNrUHJvcGVydGllcy5rZXlMaXN0PWVDWmgxUnFSZk5meFpKVzUsUG94UEdORHBQMFMwa1ZFbCxBRl8waXZuSnFwM0plVWgwLHdUNFVNUkJfV2h4WGF1bGYsZG56dnZWWmxrZXE3UWl1aixweW9VZmJrazhLbEJ3ZllWLGRKQXRsNURZYlFGNHdIUVEsbjF1STBZYjk2MWZMWGJZUSxPN3VYZ0Rfa0RLYmJOTEo4LG1qMGhuYmotQU1CbnlQbmYsWnlEQlNybm9BbnAwdElvbCxQTExidU5QSTk2bUNKX1ZILG5CbFREYk5qZzNWZUNDNS0sWjZRa3lLY0hTOUVHN0xweCxkMVZhTEVsdjBOVEFZZnZCLEprTExpWVF6emdrczR6ZDcsalBObWZDZmhtVU9hbUxhLQpDb2luQ2hlY2tQcm9wZXJ0aWVzLnNlY3JldExpc3Q9Mk9BR25JR0lESU9faFRJT1hRcHdKNXp1RkhDcWE2TDUsd1dGLTNnVVhYNWZLR3VfTkpFdUIzLTU5ZG9HVjAxX00sMUhaV1RYTERzSUZDY3JzUW1ranV0NDZMNkxaRnJkNFksalJsUUtRSmw1T2ZLVlJZbGV4YlZqeTdCamJxUU54ZWkscFdLZTR6dTJ6enBjTjk0SDJLVUU2N01ueUYyQmkzZFosMlBsbS1nZDRJc1lwV3drYmFHd1AyOEtJektxU0d0Njksb2FxZEhnY04xZ3FtcENBRUdvUkxzQy15T0xFVnNPYkQsbklaZl9QbDNYS3VKQWdIc3MxakhkMHlKZVJMWEplN0gsb1dweURWMkt2bVVKdXZycHo5Yjh5bDhXbzgtUjFtVTgsOW55ZGRjOGR1cjk3T0JMMC1CeUVlNDY0Yl9WVUlicUQsdmtVaV9hLUNDUnlKaXUxSENDcnlaQlRhVTFlbU5ESHksOURNS3pCQjZvdzVSVWxxSFBNWG11WktWeEIzcDY1RzYsV185dkkxUURBcDhuMnhQSzV3eWtJNGw3V0pkZEdNdTcsMG1udDVxZkNEM1ViNkdPMzMta1ltSUc2NlNXWVRmak0sSE5rc1g1RGtGSy0zbko4ekVLZWdGQXg2d0NVN3MyUzEsaXNza1NBSllCVVAtNk9FeUU4dVdyYXNIdHlIaUx5azIsd0Z2clQtWm5kZnI0elUyVzNIY3RqTllfdFJEa1pON0cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzaXplIDwgMC4wMDEpIHsKICAgICAgICAgICAgICAgICAgICBzaXplID0gMC4wMDEKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZihzaXplPCAwLjAwMDEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBpLmdldENvbGxhdGVyYWwoKQo=</text>
+        <text encoding="base64">Q29pbkNoZWNrUHJvcGVydGllcy5zYWxlQ2xvc2VSYXRlUGFpck9yZGVyPTEuNQpDb2luQ2hlY2tQcm9wZXJ0aWVzLm5ld09yZGVyV2FpdE1pbnV0ZVBhaXJPcmRlcj0yMApDb2luQ2hlY2tQcm9wZXJ0aWVzLnJhdGVQYWlyT3JkZXI9MC4wMQpDb2luQ2hlY2tQcm9wZXJ0aWVzLmFtb3VudFBhaXJPcmRlcj0wLjAxCkNvaW5DaGVja1Byb3BlcnRpZXMubGV2ZXJhZ2VNYXJnaW5MZXZlbFBhaXJPcmRlcj0xLjAKQ29pbkNoZWNrUHJvcGVydGllcy5jaGVja09wZW5XYWl0TWludXRlUGFpck9yZGVyPTEKQ29pbkNoZWNrUHJvcGVydGllcy50YXJnZXRQbFN1YnRyYWN0UGFpck9yZGVyPTAuODUKQ29pbkNoZWNrUHJvcGVydGllcy5qdWRnZURpZmZZZW5QYWlyT3JkZXI9MjAwMApDb2luQ2hlY2tQcm9wZXJ0aWVzLnN0YXJ0TG9uZ0xvbmc9MC4wMQpDb2luQ2hlY2tQcm9wZXJ0aWVzLnNsZWVwTG9uZ0xvbmc9MQpDb2luQ2hlY2tQcm9wZXJ0aWVzLnN0b3BMb3NzTG9uZ0xvbmc9MC45OApDb2luQ2hlY2tQcm9wZXJ0aWVzLnJhdGVMb25nTG9uZz0xLjc1CkNvaW5DaGVja1Byb3BlcnRpZXMudW5pdFRyYWRlU2VydmljZT0xCkNvaW5DaGVja1Byb3BlcnRpZXMubm9MZXZlcmFnZURvVHJhZGVTZXJ2aWNlPXRydWUKQ29pbkNoZWNrUHJvcGVydGllcy5ub0xldmVyYWdlU3RvcExvc3M9MTAuMApDb2luQ2hlY2tQcm9wZXJ0aWVzLm1haW5LZXk9ZUNaaDFScVJmTmZ4WkpXNQpDb2luQ2hlY2tQcm9wZXJ0aWVzLm1haW5TZWNyZXQ9Mk9BR25JR0lESU9faFRJT1hRcHdKNXp1RkhDcWE2TDUKQ29pbkNoZWNrUHJvcGVydGllcy5rZXlMaXN0PWVDWmgxUnFSZk5meFpKVzUsUG94UEdORHBQMFMwa1ZFbCxBRl8waXZuSnFwM0plVWgwLHdUNFVNUkJfV2h4WGF1bGYsZG56dnZWWmxrZXE3UWl1aixweW9VZmJrazhLbEJ3ZllWLGRKQXRsNURZYlFGNHdIUVEsbjF1STBZYjk2MWZMWGJZUSxPN3VYZ0Rfa0RLYmJOTEo4LG1qMGhuYmotQU1CbnlQbmYsWnlEQlNybm9BbnAwdElvbCxQTExidU5QSTk2bUNKX1ZILG5CbFREYk5qZzNWZUNDNS0sWjZRa3lLY0hTOUVHN0xweCxkMVZhTEVsdjBOVEFZZnZCLEprTExpWVF6emdrczR6ZDcsalBObWZDZmhtVU9hbUxhLQpDb2luQ2hlY2tQcm9wZXJ0aWVzLnNlY3JldExpc3Q9Mk9BR25JR0lESU9faFRJT1hRcHdKNXp1RkhDcWE2TDUsd1dGLTNnVVhYNWZLR3VfTkpFdUIzLTU5ZG9HVjAxX00sMUhaV1RYTERzSUZDY3JzUW1ranV0NDZMNkxaRnJkNFksalJsUUtRSmw1T2ZLVlJZbGV4YlZqeTdCamJxUU54ZWkscFdLZTR6dTJ6enBjTjk0SDJLVUU2N01ueUYyQmkzZFosMlBsbS1nZDRJc1lwV3drYmFHd1AyOEtJektxU0d0Njksb2FxZEhnY04xZ3FtcENBRUdvUkxzQy15T0xFVnNPYkQsbklaZl9QbDNYS3VKQWdIc3MxakhkMHlKZVJMWEplN0gsb1dweURWMkt2bVVKdXZycHo5Yjh5bDhXbzgtUjFtVTgsOW55ZGRjOGR1cjk3T0JMMC1CeUVlNDY0Yl9WVUlicUQsdmtVaV9hLUNDUnlKaXUxSENDcnlaQlRhVTFlbU5ESHksOURNS3pCQjZvdzVSVWxxSFBNWG11WktWeEIzcDY1RzYsV185dkkxUURBcDhuMnhQSzV3eWtJNGw3V0pkZEdNdTcsMG1udDVxZkNEM1ViNkdPMzMta1ltSUc2NlNXWVRmak0sSE5rc1g1RGtGSy0zbko4ekVLZWdGQXg2d0NVN3MyUzEsaXNza1NBSllCVVAtNk9FeUU4dVdyYXNIdHlIaUx5azIsd0Z2clQtWm5kZnI0elUyVzNIY3RqTllfdFJEa1pON0cK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXQK</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>proper</last-search>
+      <last-search encoding="base64">XDxyZXN1bHRcPg==</last-search>
       <last-offset />
-      <last-pattern>proper</last-pattern>
+      <last-pattern encoding="base64">XDxyZXN1bHRcPg==</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -2598,7 +2600,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0X3RvcG5ld3NcPg==</entry>
         <entry>related</entry>
         <entry>like</entry>
         <entry>neko</entry>
@@ -2618,6 +2619,7 @@
         <entry>iOS</entry>
         <entry>2000</entry>
         <entry>proper</entry>
+        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
