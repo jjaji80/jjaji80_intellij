@@ -772,12 +772,12 @@
         <mark key="^" line="198" column="12" />
         <mark key="." line="198" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1518517972973">
-        <mark key="'" line="790" column="0" />
-        <mark key="[" line="757" column="7" />
-        <mark key="]" line="757" column="33" />
-        <mark key="." line="757" column="33" />
-        <mark key="^" line="757" column="33" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1518583011905">
+        <mark key="'" line="804" column="24" />
+        <mark key="[" line="804" column="16" />
+        <mark key="]" line="804" column="24" />
+        <mark key="." line="804" column="24" />
+        <mark key="^" line="804" column="24" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/ckeditor/config.js" timestamp="1503389663974">
         <mark key="[" line="31" column="22" />
@@ -2426,9 +2426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="20" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/HibernateNews.java" />
-      <jump line="132" column="15" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/HibernateNews.java" />
-      <jump line="136" column="19" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/HibernateNews.java" />
       <jump line="6" column="13" filename="$USER_HOME$/git/manganews-server/manganews-model/src/main/java/com/newspicks/model/PickedNewsModel.java" />
       <jump line="18" column="12" filename="$USER_HOME$/git/manganews-server/manganews-model/src/main/java/com/newspicks/model/PickedNewsModel.java" />
       <jump line="19" column="12" filename="$USER_HOME$/git/manganews-server/manganews-model/src/main/java/com/newspicks/model/PickedNewsModel.java" />
@@ -2526,6 +2523,9 @@
       <jump line="160" column="26" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
       <jump line="47" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="34" column="4" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="761" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="774" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="804" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2545,7 +2545,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>itions</text>
+        <text>F.nickname,fid,C.created_at FROM</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
