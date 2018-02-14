@@ -629,9 +629,9 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/confirm.html" timestamp="1516346977894">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/confirm.html" timestamp="1518588655142">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="30" />
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="0" />
       </file>
@@ -2576,7 +2576,7 @@
         <text>is_te</text>
       </register>
       <register name="0" type="4">
-        <text>message_record_function.html</text>
+        <text>message_record_confirm.html</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
