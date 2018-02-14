@@ -75,6 +75,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="18" column="47" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/input1.html" timestamp="1518585893460">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="28" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/ThemeRankingWorker.java" timestamp="1516094721843">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -183,10 +187,10 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitFlyerProperties.kt" timestamp="1518522673887">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="11" column="32" />
-        <mark key="." line="11" column="32" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitFlyerProperties.kt" timestamp="1518585660984">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
         <mark key="^" line="11" column="32" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/redis.properties" timestamp="1517911194466">
@@ -412,9 +416,9 @@
         <mark key="^" line="33" column="18" />
         <mark key="." line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/index.html" timestamp="1516191792697">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="27" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/index.html" timestamp="1518585933232">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="31" />
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
@@ -520,7 +524,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518549494618">
+      <file name="/Dummy.txt" timestamp="1518585655079">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -1523,11 +1527,11 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/bitFlyer.properties" timestamp="1518524714014">
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="39" />
-        <mark key="." line="5" column="39" />
-        <mark key="^" line="5" column="40" />
+      <file name="$USER_HOME$/git/coinman_parent/bitFlyer.properties" timestamp="1518585681539">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+        <mark key="^" line="2" column="31" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/ApiController.php" timestamp="1506590600248">
         <mark key="[" line="22" column="40" />
@@ -2545,13 +2549,13 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>F.nickname,fid,C.created_at FROM</text>
+        <text>intType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Qml0Rmx5ZXJQcm9wZXJ0aWVzLmxvc3NDdXRKdWRnZVJhdGU9MTIwLjAKQml0Rmx5ZXJQcm9wZXJ0aWVzLmxvc3NDdXRSYXRlPTAuMQo=</text>
+      <register name="0" type="4">
+        <text>message_record_function.html</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
