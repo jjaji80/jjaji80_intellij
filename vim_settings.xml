@@ -509,18 +509,13 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="54" column="50" />
       </file>
-      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-manganews/app/Config/const.php" timestamp="1518686586337">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/MediaPlayerUtil.java" timestamp="1496370524221">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="18" column="24" />
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1518657010348">
+      <file name="/dummy.sql" timestamp="1518829857916">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -538,11 +533,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518790555967">
+      <file name="/Dummy.txt" timestamp="1518830015324">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="4" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="1" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
         <mark key="[" line="60" column="20" />
@@ -748,6 +743,7 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/MoveToMySQLWorker.java" timestamp="1518826787610" />
       <file name="$USER_HOME$/git/hms/app/models/concerns/common_module.rb" timestamp="1490679792222">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="19" />
@@ -760,12 +756,12 @@
         <mark key="." line="33" column="61" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/PickRepository.java" timestamp="1518082378076">
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/PickRepository.java" timestamp="1518830176947">
         <mark key="'" line="151" column="38" />
-        <mark key="[" line="173" column="38" />
-        <mark key="]" line="173" column="43" />
-        <mark key="." line="173" column="43" />
-        <mark key="^" line="173" column="43" />
+        <mark key="[" line="195" column="41" />
+        <mark key="]" line="195" column="46" />
+        <mark key="." line="195" column="46" />
+        <mark key="^" line="195" column="46" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/sns/SnsSender.java" timestamp="1517442296215">
         <mark key="[" line="47" column="24" />
@@ -1004,6 +1000,13 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="39" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Like.java" timestamp="1518827413298">
+        <mark key="'" line="22" column="24" />
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="33" />
+        <mark key="^" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+      </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/StatusInteger.java" timestamp="1510304512026">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="4" column="4" />
@@ -1130,12 +1133,12 @@
         <mark key="." line="140" column="32" />
         <mark key="^" line="140" column="32" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickService.java" timestamp="1518082288308">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="105" column="17" />
-        <mark key="^" line="105" column="17" />
-        <mark key="." line="105" column="17" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickService.java" timestamp="1518830137274">
+        <mark key="'" line="84" column="41" />
+        <mark key="[" line="625" column="13" />
+        <mark key="]" line="626" column="12" />
+        <mark key="^" line="626" column="12" />
+        <mark key="." line="626" column="12" />
       </file>
       <file name="$USER_HOME$/redsync/mna/test.adoc" timestamp="1517872638625">
         <mark key="[" line="1" column="0" />
@@ -1185,10 +1188,11 @@
         <mark key="^" line="12" column="46" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/UsersComponent.php" timestamp="1518082105924">
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/UsersComponent.php" timestamp="1518830020749">
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="." line="219" column="0" />
+        <mark key="^" line="219" column="24" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/arbitrage/MarketDataServiceMinMax.kt" timestamp="1505978097635">
         <mark key="[" line="11" column="29" />
@@ -1528,18 +1532,14 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="84" column="38" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/RankingService.java" timestamp="1518657551866">
-        <mark key="'" line="212" column="45" />
-        <mark key="[" line="48" column="45" />
-        <mark key="]" line="49" column="26" />
-        <mark key="." line="49" column="26" />
-        <mark key="^" line="49" column="26" />
-      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinCheck.properties" timestamp="1516694647249">
         <mark key="[" line="19" column="418" />
         <mark key="]" line="19" column="418" />
         <mark key="^" line="19" column="172" />
         <mark key="." line="19" column="418" />
+      </file>
+      <file name="/a.sql" timestamp="1518827279221">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/TestController.kt" timestamp="1509111465204">
         <mark key="[" line="17" column="35" />
@@ -1559,6 +1559,7 @@
         <mark key="^" line="5" column="51" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/ExchangeService.java" timestamp="1518829818660" />
       <file name="$USER_HOME$/git/utelAndroid/build.gradle" timestamp="1517124881972">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -1735,6 +1736,12 @@
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/UsersController.php" timestamp="1518828873273">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/db/20170816_db_add_associate_id_to_users.sql" timestamp="1502854976892">
         <mark key="[" line="0" column="54" />
         <mark key="]" line="0" column="54" />
@@ -1764,6 +1771,12 @@
         <mark key="]" line="15" column="22" />
         <mark key="^" line="15" column="22" />
         <mark key="." line="15" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/LikeRepository.java" timestamp="1518826306806">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="19" column="3" />
+        <mark key="." line="19" column="3" />
+        <mark key="^" line="19" column="3" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/TimelinePick.java" timestamp="1518009004570">
         <mark key="'" line="24" column="28" />
@@ -1917,7 +1930,7 @@
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1518656887387">
+      <file name="/fragment.java" timestamp="1518829970376">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -2007,12 +2020,12 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" timestamp="1518076932059">
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" timestamp="1518828844033">
         <mark key="'" line="5" column="25" />
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="25" />
-        <mark key="^" line="5" column="25" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/AbstractAccountChildEntity.kt" timestamp="1514967426223">
         <mark key="[" line="6" column="22" />
@@ -2063,6 +2076,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="23" column="21" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/test/java/com/newspicks/news/toyokezai/ToyokezaiLoaderTest.java" timestamp="1518827834888" />
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_page_view_ranking_card.ctp" timestamp="1513237735841">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -2129,12 +2143,12 @@
         <mark key="." line="23" column="56" />
         <mark key="^" line="23" column="56" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/console.sql" timestamp="1518657215458">
-        <mark key="'" line="56" column="35" />
-        <mark key="[" line="103" column="17" />
-        <mark key="]" line="105" column="4" />
-        <mark key="^" line="105" column="4" />
-        <mark key="." line="105" column="4" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/console.sql" timestamp="1518827338912">
+        <mark key="'" line="105" column="4" />
+        <mark key="[" line="105" column="5" />
+        <mark key="]" line="109" column="56" />
+        <mark key="^" line="109" column="56" />
+        <mark key="." line="109" column="56" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1518655914266">
         <mark key="[" line="0" column="0" />
@@ -2370,7 +2384,7 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/UserController.java" timestamp="1517814019708">
+      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/UserController.java" timestamp="1518829001983">
         <mark key="[" line="207" column="19" />
         <mark key="]" line="207" column="33" />
         <mark key="." line="207" column="33" />
@@ -2585,13 +2599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="388" column="41" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
-      <jump line="419" column="98" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
-      <jump line="449" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
-      <jump line="450" column="42" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" />
-      <jump line="77" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
-      <jump line="29" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
-      <jump line="59" column="22" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
       <jump line="87" column="22" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
       <jump line="97" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
       <jump line="12" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PositionList.kt" />
@@ -2685,6 +2692,13 @@
       <jump line="81" column="51" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
       <jump line="55" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
       <jump line="122" column="44" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
+      <jump line="96" column="31" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/config/Constants.java" />
+      <jump line="142" column="46" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/config/Constants.java" />
+      <jump line="65" column="59" filename="/PickService.java" />
+      <jump line="48" column="84" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/core/repository/news/impl/PickRepositoryImpl.java" />
+      <jump line="84" column="41" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickService.java" />
+      <jump line="105" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/console.sql" />
+      <jump line="22" column="24" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Like.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2704,52 +2718,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>exists</text>
+        <text>pick</text>
       </register>
       <register name="/" type="4">
-        <text>push</text>
+        <text>likePick</text>
       </register>
-      <register name="0" type="4">
-        <text>CbOR0fO/Xkv71i3SIjTfEfYFzUvz2/X7mxgQXAMR4PU=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICogQHByb3BlcnR5IEJsb2dzQ29tcG9uZW50IEJsb2dzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNhCg==</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpc3RzPXRydWUK</text>
+        <text encoding="base64">ICogQG1peGluIE5ld3NDb21wb25lbnQgTmV3cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICogQHBhcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ1ZQo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIK</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkKQo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihiZWZvcmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG5ld3NIaWJlcm5hdGVSZXBvc2l0b3J5LmxvYWQocGljay5nZXROZXdzKCkpIT1udWxsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb2xsYXRlcmFsSGlzdG9yeTogQ29sbGF0ZXJhbEhpc3RvcnlMaXN0CiAgICAgICAgZ2V0KGJlZm9yZTpJbnQ9MCkgewogICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpa2Uuc2V0Qwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpa2Uuc2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>push</last-search>
+      <last-search>likePick</last-search>
       <last-offset />
-      <last-pattern>push</last-pattern>
+      <last-pattern>likePick</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -2757,8 +2771,6 @@
     </search>
     <history>
       <history-search>
-        <entry>proper</entry>
-        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry>is_te</entry>
         <entry>205</entry>
         <entry encoding="base64">XDxlcnJvcl9tZXNzYWdlXD4=</entry>
@@ -2777,6 +2789,8 @@
         <entry>search</entry>
         <entry>style</entry>
         <entry>push</entry>
+        <entry encoding="base64">XDxSRURJU19VU0VSX0xJS0VEVVNFUl9SQVdcPg==</entry>
+        <entry>likePick</entry>
       </history-search>
       <history-cmd>
         <entry>265</entry>
@@ -2789,15 +2803,15 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>39</entry>
         <entry>8</entry>
-        <entry>56</entry>
         <entry>13</entry>
         <entry>14</entry>
         <entry>11</entry>
         <entry>52</entry>
         <entry>26</entry>
         <entry>%d</entry>
-        <entry>1</entry>
         <entry>68</entry>
+        <entry>1</entry>
+        <entry>56</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
