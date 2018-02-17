@@ -533,8 +533,8 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518855828686">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1518881686572">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="9" />
@@ -1569,12 +1569,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518855814418">
-        <mark key="'" line="188" column="16" />
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="207" column="0" />
-        <mark key="." line="207" column="0" />
-        <mark key="^" line="74" column="55" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518881677399">
+        <mark key="'" line="190" column="16" />
+        <mark key="[" line="141" column="41" />
+        <mark key="]" line="141" column="42" />
+        <mark key="." line="141" column="42" />
+        <mark key="^" line="141" column="42" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_footer.ctp" timestamp="1513567158294">
         <mark key="[" line="11" column="107" />
@@ -2721,7 +2721,7 @@
         <text encoding="base64">XDxub3dTaXplXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>api.openPositions</text>
+        <text>collateral.keepRate * 100</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDAgKiAxMCkK</text>
