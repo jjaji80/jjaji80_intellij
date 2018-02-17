@@ -304,12 +304,12 @@
         <mark key="^" line="11" column="47" />
         <mark key="." line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" timestamp="1518791230893">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" timestamp="1518853308141">
         <mark key="'" line="122" column="44" />
-        <mark key="[" line="244" column="34" />
-        <mark key="]" line="245" column="31" />
-        <mark key="." line="245" column="31" />
-        <mark key="^" line="245" column="31" />
+        <mark key="[" line="241" column="30" />
+        <mark key="]" line="242" column="45" />
+        <mark key="." line="242" column="45" />
+        <mark key="^" line="242" column="45" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TechnicalService.kt" timestamp="1509865416354">
         <mark key="[" line="7" column="12" />
@@ -533,11 +533,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518830015324">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="4" />
+      <file name="/Dummy.txt" timestamp="1518852156782">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
         <mark key="[" line="60" column="20" />
@@ -1572,12 +1572,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518777661184">
-        <mark key="'" line="146" column="22" />
-        <mark key="[" line="177" column="59" />
-        <mark key="]" line="177" column="59" />
-        <mark key="." line="177" column="59" />
-        <mark key="^" line="177" column="60" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518852737436">
+        <mark key="'" line="188" column="16" />
+        <mark key="[" line="190" column="141" />
+        <mark key="]" line="190" column="155" />
+        <mark key="." line="190" column="155" />
+        <mark key="^" line="190" column="155" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_footer.ctp" timestamp="1513567158294">
         <mark key="[" line="11" column="107" />
@@ -2451,12 +2451,12 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PositionList.kt" timestamp="1518424525513">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PositionList.kt" timestamp="1518852116349">
         <mark key="'" line="10" column="29" />
-        <mark key="[" line="87" column="9" />
-        <mark key="]" line="88" column="18" />
-        <mark key="." line="88" column="18" />
-        <mark key="^" line="88" column="18" />
+        <mark key="[" line="59" column="47" />
+        <mark key="]" line="60" column="35" />
+        <mark key="." line="60" column="35" />
+        <mark key="^" line="60" column="35" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Shell/ScheduleShell.php" timestamp="1508759858384">
         <mark key="[" line="39" column="7" />
@@ -2599,7 +2599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="22" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
       <jump line="97" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
       <jump line="12" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PositionList.kt" />
       <jump line="2" column="51" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PositionList.kt" />
@@ -2699,6 +2698,7 @@
       <jump line="84" column="41" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickService.java" />
       <jump line="105" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/console.sql" />
       <jump line="22" column="24" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Like.java" />
+      <jump line="188" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2721,49 +2721,49 @@
         <text>pick</text>
       </register>
       <register name="/" type="4">
-        <text>likePick</text>
+        <text encoding="base64">XDxub3dTaXplXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5IEJsb2dzQ29tcG9uZW50IEJsb2dzCg==</text>
+      <register name="0" type="4">
+        <text>BitflyerApi.readConfig()[BitFlyerProperties.lossCutRate]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb25MaXN0WzBdLnNpZGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQG1peGluIE5ld3NDb21wb25lbnQgTmV3cwo=</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHBhcgo=</text>
+        <text encoding="base64">ICogQG1peGluIE5ld3NDb21wb25lbnQgTmV3cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICogQHBhcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkKQo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG5ld3NIaWJlcm5hdGVSZXBvc2l0b3J5LmxvYWQocGljay5nZXROZXdzKCkpIT1udWxsKQo=</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG5ld3NIaWJlcm5hdGVSZXBvc2l0b3J5LmxvYWQocGljay5nZXROZXdzKCkpIT1udWxsKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpa2Uuc2V0Qwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpa2Uuc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpa2Uuc2V0Qwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>likePick</last-search>
+      <last-search encoding="base64">XDxub3dTaXplXD4=</last-search>
       <last-offset />
-      <last-pattern>likePick</last-pattern>
+      <last-pattern encoding="base64">XDxub3dTaXplXD4=</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -2771,7 +2771,6 @@
     </search>
     <history>
       <history-search>
-        <entry>is_te</entry>
         <entry>205</entry>
         <entry encoding="base64">XDxlcnJvcl9tZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxjaGlsZF9vcmRlcl9hY2NlcHRhbmNlX2lkXD4=</entry>
@@ -2791,6 +2790,7 @@
         <entry>push</entry>
         <entry encoding="base64">XDxSRURJU19VU0VSX0xJS0VEVVNFUl9SQVdcPg==</entry>
         <entry>likePick</entry>
+        <entry encoding="base64">XDxub3dTaXplXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>265</entry>
