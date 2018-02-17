@@ -533,11 +533,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518852156782">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="/Dummy.txt" timestamp="1518855828686">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
         <mark key="[" line="60" column="20" />
@@ -1073,7 +1073,7 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="24" column="73" />
       </file>
-      <file name="/fragment.kt" timestamp="1518666225756">
+      <file name="/fragment.kt" timestamp="1518854323586">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="57" />
@@ -1538,9 +1538,6 @@
         <mark key="^" line="19" column="172" />
         <mark key="." line="19" column="418" />
       </file>
-      <file name="/a.sql" timestamp="1518827279221">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/TestController.kt" timestamp="1509111465204">
         <mark key="[" line="17" column="35" />
         <mark key="]" line="17" column="36" />
@@ -1572,12 +1569,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518852737436">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518855814418">
         <mark key="'" line="188" column="16" />
-        <mark key="[" line="190" column="141" />
-        <mark key="]" line="190" column="155" />
-        <mark key="." line="190" column="155" />
-        <mark key="^" line="190" column="155" />
+        <mark key="[" line="207" column="0" />
+        <mark key="]" line="207" column="0" />
+        <mark key="." line="207" column="0" />
+        <mark key="^" line="74" column="55" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_footer.ctp" timestamp="1513567158294">
         <mark key="[" line="11" column="107" />
@@ -2718,43 +2715,43 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>pick</text>
+        <text>huguaisyuusei</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3dTaXplXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>BitflyerApi.readConfig()[BitFlyerProperties.lossCutRate]</text>
+        <text>api.openPositions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb25MaXN0WzBdLnNpZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDAgKiAxMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcG9zaXRpb25MaXN0ID0gYXBpLm9wZW5Qb3NpdGlvbnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQG1peGluIE5ld3NDb21wb25lbnQgTmV3cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb25MaXN0WzBdLnNpZGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHBhcgo=</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICogQG1peGluIE5ld3NDb21wb25lbnQgTmV3cwo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkKQo=</text>
+        <text encoding="base64">ICogQHBhcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG5ld3NIaWJlcm5hdGVSZXBvc2l0b3J5LmxvYWQocGljay5nZXROZXdzKCkpIT1udWxsKQo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpa2Uuc2V0Qwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG5ld3NIaWJlcm5hdGVSZXBvc2l0b3J5LmxvYWQocGljay5nZXROZXdzKCkpIT1udWxsKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
