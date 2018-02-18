@@ -1592,12 +1592,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518937604254">
-        <mark key="'" line="98" column="2" />
-        <mark key="[" line="72" column="51" />
-        <mark key="]" line="73" column="37" />
-        <mark key="." line="73" column="37" />
-        <mark key="^" line="73" column="37" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1518938698182">
+        <mark key="'" line="70" column="38" />
+        <mark key="[" line="73" column="51" />
+        <mark key="]" line="74" column="31" />
+        <mark key="." line="74" column="31" />
+        <mark key="^" line="74" column="31" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_footer.ctp" timestamp="1513567158294">
         <mark key="[" line="11" column="107" />
@@ -2626,7 +2626,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="65" column="17" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
       <jump line="38" column="25" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="49" column="43" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -2726,6 +2725,7 @@
       <jump line="3" column="19" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
       <jump line="181" column="17" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="98" column="2" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="70" column="38" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2748,10 +2748,10 @@
         <text encoding="base64">MTAwMDAwIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmljZURlZmF1bHREaWZmXD4=</text>
+        <text>keep</text>
       </register>
       <register name="0" type="4">
-        <text>BitflyerApi.readConfig()[BitFlyerProperties.priceDefaultDiff]</text>
+        <text encoding="base64">YXBpLmdldENvbGxhdGVyYWwoKS5rZWVwUmF0ZSAqIDEwMCA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgZGUK</text>
@@ -2788,9 +2788,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmljZURlZmF1bHREaWZmXD4=</last-search>
+      <last-search>keep</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmljZURlZmF1bHREaWZmXD4=</last-pattern>
+      <last-pattern>keep</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -2798,7 +2798,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pick</entry>
         <entry>User</entry>
         <entry>500</entry>
         <entry>getchildorders</entry>
@@ -2818,6 +2817,7 @@
         <entry encoding="base64">XDxMSU1JVFw+</entry>
         <entry>205</entry>
         <entry encoding="base64">XDxwcmljZURlZmF1bHREaWZmXD4=</entry>
+        <entry>keep</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
