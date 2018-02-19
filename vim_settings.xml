@@ -2444,12 +2444,12 @@
         <mark key="^" line="44" column="41" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="$USER_HOME$/redsync/mna/データベース統合.txt" timestamp="1519004566675">
-        <mark key="'" line="278" column="0" />
-        <mark key="[" line="284" column="7" />
-        <mark key="]" line="284" column="10" />
-        <mark key="^" line="284" column="10" />
-        <mark key="." line="284" column="10" />
+      <file name="$USER_HOME$/redsync/mna/データベース統合.txt" timestamp="1519005946242">
+        <mark key="'" line="244" column="3" />
+        <mark key="[" line="249" column="3" />
+        <mark key="]" line="249" column="3" />
+        <mark key="^" line="249" column="3" />
+        <mark key="." line="249" column="3" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Follower.java" timestamp="1518946333156">
         <mark key="[" line="15" column="27" />
@@ -2665,19 +2665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="804" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="25" column="61" filename="src:table:/4543fa2d/2bb55724-3ab0-4546-9f9d-5059dc11c83e/cakephp.fortunetellers" />
-      <jump line="145" column="146" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="157" column="62" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="51" column="38" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="134" column="34" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="155" column="43" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="50" column="74" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="44" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="15" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="92" column="0" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/User.java" />
-      <jump line="23" column="15" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/User.java" />
-      <jump line="0" column="16" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/User.java" />
       <jump line="21" column="15" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/User.java" />
       <jump line="22" column="15" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/User.java" />
       <jump line="18" column="26" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Pick.java" />
@@ -2765,6 +2752,19 @@
       <jump line="266" column="0" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
       <jump line="274" column="0" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
       <jump line="278" column="0" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="294" column="9" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="288" column="20" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="260" column="0" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="359" column="0" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="363" column="9" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="364" column="20" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="12" column="0" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="118" column="3" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="163" column="3" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="168" column="3" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="206" column="3" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="211" column="3" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="244" column="3" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2784,52 +2784,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>タグ</text>
+        <text>フォローアーにて、記事をピック</text>
       </register>
       <register name="/" type="4">
-        <text>related</text>
+        <text>[]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMjIyDjgr/jgrAKCiogWyBdICDjgr/jgrDjgYzmraPluLjjgavooajnpLrjgZXjgozjgosKICAK</text>
+        <text encoding="base64">KiBbIF0g44OV44Kp44Ot44O844Ki44O844Gr44Gm44CB6KiY5LqL44KS44OU44OD44KvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIyDoqJjkuovmipXnqL/ml6UKCiogWyBdICDoqJjkuovmipXnqL/ml6XjgYzmraPluLjjgavooajnpLrjgZXjgozjgosKICAK</text>
+        <text encoding="base64">IyMjIyDoqJjkuovjgbjjga7jg6rjg7Pjgq8KCiogWyBdICDoqJjkuovjga7jg6rjg7Pjgq/jga7pgbfnp7vlhYjjgYzmraPjgZfjgYQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIyDjgrXjgqTjg4jlkI0KCiogWyBdICDjgrXjgqTjg4jlkI3jgYzmraPluLjjgavooajnpLrjgZXjgozjgosK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MS4gCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">MS4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdAo=</text>
+        <text encoding="base64">LCxOCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbj8uZm9yRWFjaCB7CiAgICAgICAgICAgICAgICByZXN1bHQgPSBpdC5zdHJpbmcoInN0YXR1cyIpISEKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">IyMjIyDoqJjkuovmipXnqL/ml6UKCiogWyBdICDoqJjkuovmipXnqL/ml6XjgYzmraPluLjjgavooajnpLrjgZXjgozjgosKICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1c2hlZERhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">44OI44OD44OX44GuUGlja1Vw44GM5Ye65Yqb44GV44KM44Gq44GE5ZWP6aGM5L+u5q2jCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkbmV3cyk7CgkJZGllKCk7Cg==</text>
+        <text encoding="base64">MS4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>related</last-search>
+      <last-search>[]</last-search>
       <last-offset />
-      <last-pattern>related</last-pattern>
+      <last-pattern>[]</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -2837,8 +2837,6 @@
     </search>
     <history>
       <history-search>
-        <entry>2500</entry>
-        <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
         <entry>global-sear</entry>
         <entry encoding="base64">XDxwaWNlZE5ld3NMaXN0XD4=</entry>
         <entry>search</entry>
@@ -2857,6 +2855,8 @@
         <entry>timeline</entry>
         <entry encoding="base64">XDxuZXdzX2xhdGVzdFw+</entry>
         <entry>related</entry>
+        <entry>右</entry>
+        <entry>[]</entry>
       </history-search>
       <history-cmd>
         <entry>28,33y</entry>
