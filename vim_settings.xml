@@ -196,16 +196,23 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="11" column="32" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/aws.properties" timestamp="1519038680884">
+        <mark key="[" line="3" column="63" />
+        <mark key="]" line="3" column="63" />
+        <mark key="^" line="3" column="63" />
+        <mark key="." line="3" column="63" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/redis.properties" timestamp="1517911194466">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="30" />
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/categorize/RankingRepository.java" timestamp="1518990052292">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/categorize/RankingRepository.java" timestamp="1519038984785">
+        <mark key="[" line="214" column="69" />
+        <mark key="]" line="215" column="41" />
+        <mark key="." line="215" column="41" />
+        <mark key="^" line="215" column="41" />
       </file>
       <file name="$USER_HOME$/git/hms/app/views/make_daily_data/index.html.erb" timestamp="1490921373239">
         <mark key="[" line="2" column="4" />
@@ -2445,11 +2452,11 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1518990236134">
-        <mark key="[" line="1219" column="40" />
-        <mark key="]" line="1219" column="62" />
-        <mark key="^" line="1219" column="62" />
-        <mark key="." line="1219" column="62" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1519038789629">
+        <mark key="[" line="1049" column="44" />
+        <mark key="]" line="1050" column="16" />
+        <mark key="^" line="1050" column="16" />
+        <mark key="." line="1050" column="16" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/FakeApiClient.java" timestamp="1510298389631">
         <mark key="[" line="4" column="17" />
@@ -2811,7 +2818,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%d</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2863,10 +2870,10 @@
         <entry>34</entry>
         <entry>205</entry>
         <entry>99</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry>%d</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
