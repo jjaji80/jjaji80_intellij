@@ -467,6 +467,12 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="26" column="35" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickerCommentService.java" timestamp="1519040451890">
+        <mark key="[" line="198" column="73" />
+        <mark key="]" line="199" column="23" />
+        <mark key="^" line="199" column="23" />
+        <mark key="." line="199" column="23" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/static/css/style.css" timestamp="1501728258120">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="4" column="14" />
@@ -770,12 +776,12 @@
         <mark key="." line="33" column="61" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/PickRepository.java" timestamp="1518995387680">
-        <mark key="'" line="152" column="38" />
-        <mark key="[" line="140" column="45" />
-        <mark key="]" line="140" column="49" />
-        <mark key="." line="140" column="49" />
-        <mark key="^" line="140" column="49" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/PickRepository.java" timestamp="1519040939042">
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="265" column="45" />
+        <mark key="]" line="265" column="43" />
+        <mark key="." line="265" column="43" />
+        <mark key="^" line="265" column="43" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/sns/SnsSender.java" timestamp="1517442296215">
         <mark key="[" line="47" column="24" />
@@ -2452,7 +2458,7 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1519038789629">
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1519040333667">
         <mark key="[" line="1049" column="44" />
         <mark key="]" line="1050" column="16" />
         <mark key="^" line="1050" column="16" />
@@ -2660,7 +2666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="15" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/User.java" />
       <jump line="18" column="26" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Pick.java" />
       <jump line="44" column="22" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Pick.java" />
       <jump line="48" column="19" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Pick.java" />
@@ -2760,6 +2765,7 @@
       <jump line="211" column="3" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
       <jump line="244" column="3" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
       <jump line="371" column="7" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="201" column="0" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/PickRepository.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2782,7 +2788,7 @@
         <text>ランキングが正常であることを確認</text>
       </register>
       <register name="/" type="4">
-        <text>[]</text>
+        <text>tag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">MS4g44Op44Kk44Kv5pWw44Op44Oz44Kt44Oz44Kw6aCG44Gr44Om44O844K244O844GM6KGo56S644GV44KM44KLCiogWyBdIOODqeODs+OCreODs+OCsOOBjOato+W4uOOBp+OBguOCi+OBk+OBqOOCkueiuuiqjQo=</text>
@@ -2822,9 +2828,9 @@
       </register>
     </registers>
     <search>
-      <last-search>[]</last-search>
+      <last-search>tag</last-search>
       <last-offset />
-      <last-pattern>[]</last-pattern>
+      <last-pattern>tag</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -2832,7 +2838,6 @@
     </search>
     <history>
       <history-search>
-        <entry>global-sear</entry>
         <entry encoding="base64">XDxwaWNlZE5ld3NMaXN0XD4=</entry>
         <entry>search</entry>
         <entry>style</entry>
@@ -2852,6 +2857,7 @@
         <entry>related</entry>
         <entry>右</entry>
         <entry>[]</entry>
+        <entry>tag</entry>
       </history-search>
       <history-cmd>
         <entry>28,33y</entry>
