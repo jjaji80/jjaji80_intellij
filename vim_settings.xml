@@ -2444,12 +2444,12 @@
         <mark key="^" line="44" column="41" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="$USER_HOME$/redsync/mna/データベース統合.txt" timestamp="1519005946242">
-        <mark key="'" line="244" column="3" />
-        <mark key="[" line="249" column="3" />
-        <mark key="]" line="249" column="3" />
-        <mark key="^" line="249" column="3" />
-        <mark key="." line="249" column="3" />
+      <file name="$USER_HOME$/redsync/mna/データベース統合.txt" timestamp="1519008856179">
+        <mark key="'" line="371" column="7" />
+        <mark key="[" line="377" column="18" />
+        <mark key="]" line="377" column="13" />
+        <mark key="^" line="377" column="13" />
+        <mark key="." line="377" column="13" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Follower.java" timestamp="1518946333156">
         <mark key="[" line="15" column="27" />
@@ -2665,7 +2665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="15" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/User.java" />
       <jump line="22" column="15" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/User.java" />
       <jump line="18" column="26" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Pick.java" />
       <jump line="44" column="22" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Pick.java" />
@@ -2765,6 +2764,7 @@
       <jump line="206" column="3" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
       <jump line="211" column="3" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
       <jump line="244" column="3" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="371" column="7" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2784,13 +2784,13 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>フォローアーにて、記事をピック</text>
+        <text>ランキングが正常であることを確認</text>
       </register>
       <register name="/" type="4">
         <text>[]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KiBbIF0g44OV44Kp44Ot44O844Ki44O844Gr44Gm44CB6KiY5LqL44KS44OU44OD44KvCg==</text>
+        <text encoding="base64">MS4g44Op44Kk44Kv5pWw44Op44Oz44Kt44Oz44Kw6aCG44Gr44Om44O844K244O844GM6KGo56S644GV44KM44KLCiogWyBdIOODqeODs+OCreODs+OCsOOBjOato+W4uOOBp+OBguOCi+OBk+OBqOOCkueiuuiqjQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyMjIyDoqJjkuovjgbjjga7jg6rjg7Pjgq8KCiogWyBdICDoqJjkuovjga7jg6rjg7Pjgq/jga7pgbfnp7vlhYjjgYzmraPjgZfjgYQK</text>
