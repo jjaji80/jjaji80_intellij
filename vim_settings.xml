@@ -2885,7 +2885,7 @@
         <text>debug</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxicm9hZGNhc3RcPg==</text>
+        <text>Pick</text>
       </register>
       <register name="0" type="4">
         <text>CbOR0fO/Xkv71i3SIjTfEfYFzUvz2/X7mxgQXAMR4PU=</text>
@@ -2925,9 +2925,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxicm9hZGNhc3RcPg==</last-search>
+      <last-search>Pick</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxicm9hZGNhc3RcPg==</last-pattern>
+      <last-pattern>Pick</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -2935,7 +2935,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hoge</entry>
         <entry encoding="base64">XDxzaG93X2RpYWxvZ1w+</entry>
         <entry encoding="base64">XDxjb25maXJtRGVsZXRlXD4=</entry>
         <entry>be</entry>
@@ -2955,6 +2954,7 @@
         <entry encoding="base64">XDxzZXRBbmFseXNpc0luZm9cPg==</entry>
         <entry>save</entry>
         <entry encoding="base64">XDxicm9hZGNhc3RcPg==</entry>
+        <entry>Pick</entry>
       </history-search>
       <history-cmd>
         <entry>52</entry>
