@@ -208,17 +208,17 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="11" column="32" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/aws.properties" timestamp="1519078435674">
-        <mark key="[" line="3" column="63" />
-        <mark key="]" line="3" column="63" />
-        <mark key="^" line="3" column="63" />
-        <mark key="." line="3" column="63" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/aws.properties" timestamp="1519292288948">
+        <mark key="[" line="4" column="63" />
+        <mark key="]" line="4" column="63" />
+        <mark key="^" line="4" column="63" />
+        <mark key="." line="4" column="63" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/redis.properties" timestamp="1519078450415">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="30" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/redis.properties" timestamp="1519292324974">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="76" />
         <mark key="^" line="1" column="30" />
-        <mark key="." line="1" column="30" />
+        <mark key="." line="2" column="22" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/categorize/RankingRepository.java" timestamp="1519042012454">
         <mark key="[" line="217" column="28" />
@@ -576,7 +576,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1519282878460">
+      <file name="/dummy.sql" timestamp="1519292387548">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -826,12 +826,6 @@
         <mark key="." line="33" column="61" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/PickRepository.java" timestamp="1519202599807">
-        <mark key="'" line="74" column="17" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/sns/SnsSender.java" timestamp="1517442296215">
         <mark key="[" line="47" column="24" />
         <mark key="]" line="47" column="23" />
@@ -869,6 +863,10 @@
         <mark key="]" line="828" column="15" />
         <mark key="." line="828" column="15" />
         <mark key="^" line="828" column="15" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-release/redis.properties" timestamp="1519292323894">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="75" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/ckeditor/config.js" timestamp="1503389663974">
         <mark key="[" line="31" column="22" />
@@ -1089,7 +1087,6 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="/NewsHibernateRepository.java" timestamp="1519202747496" />
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/dto/ResultDto.kt" timestamp="1501740546134">
         <mark key="[" line="5" column="38" />
         <mark key="]" line="5" column="46" />
@@ -1336,7 +1333,6 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_modal_book.ctp" timestamp="1519283238309" />
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/CategoryService.java" timestamp="1518945842052">
         <mark key="[" line="132" column="71" />
         <mark key="]" line="132" column="73" />
@@ -1511,12 +1507,6 @@
         <mark key="]" line="8" column="27" />
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/ValidationMessages.properties" timestamp="1519254558299">
-        <mark key="'" line="0" column="39" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/dto/TradeHistoryDto.kt" timestamp="1499956317883">
         <mark key="[" line="9" column="94" />
@@ -2942,13 +2932,13 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>表示されない事を確認</text>
+        <text>test-app2</text>
       </register>
       <register name="/" type="4">
         <text>blog.mo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">KiBbIF0g5YmK6Zmk44GV44KM44Gf44OU44OD44Kv44GM6KGo56S644GV44KM44Gq44GE5LqL44KS56K66KqNCg==</text>
+      <register name="0" type="4">
+        <text>timeline-ranking.fhsz4p.0001.apne1.cache.amazonaws.com</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IAo=</text>
@@ -2991,7 +2981,7 @@
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
