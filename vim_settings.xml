@@ -445,10 +445,10 @@
         <mark key="^" line="5" column="63" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/ShareAccountController.kt" timestamp="1519116705408">
-        <mark key="'" line="33" column="34" />
-        <mark key="[" line="68" column="84" />
-        <mark key="]" line="68" column="84" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/ShareAccountController.kt" timestamp="1519276331344">
+        <mark key="'" line="39" column="19" />
+        <mark key="[" line="68" column="38" />
+        <mark key="]" line="68" column="86" />
         <mark key="." line="68" column="84" />
         <mark key="^" line="68" column="84" />
       </file>
@@ -577,7 +577,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1519271714875">
+      <file name="/dummy.sql" timestamp="1519276432043">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -595,11 +595,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519272391857">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="15" />
+      <file name="/Dummy.txt" timestamp="1519276820216">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
         <mark key="[" line="60" column="20" />
@@ -744,12 +744,12 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" timestamp="1519271883483">
-        <mark key="'" line="22" column="13" />
-        <mark key="[" line="36" column="54" />
-        <mark key="]" line="36" column="55" />
-        <mark key="." line="36" column="55" />
-        <mark key="^" line="36" column="54" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" timestamp="1519276602817">
+        <mark key="'" line="143" column="16" />
+        <mark key="[" line="96" column="91" />
+        <mark key="]" line="96" column="91" />
+        <mark key="." line="96" column="91" />
+        <mark key="^" line="96" column="91" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/util/Date.kt" timestamp="1499953333165">
         <mark key="[" line="39" column="0" />
@@ -1154,7 +1154,7 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="24" column="73" />
       </file>
-      <file name="/fragment.kt" timestamp="1519271485997">
+      <file name="/fragment.kt" timestamp="1519276419215">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="57" />
@@ -2811,11 +2811,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="11" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Bereave.kt" />
-      <jump line="10" column="11" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Account.kt" />
-      <jump line="8" column="21" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
-      <jump line="24" column="67" filename="$USER_HOME$/git/ora/src/main/resources/templates/shareAccount/index.html" />
-      <jump line="56" column="13" filename="$USER_HOME$/git/ora/src/main/resources/templates/shareAccount/index.html" />
       <jump line="148" column="34" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="58" column="15" filename="$USER_HOME$/git/ora/src/main/resources/templates/shareAccount/index.html" />
       <jump line="33" column="61" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/AccountController.kt" />
@@ -2911,6 +2906,11 @@
       <jump line="15" column="40" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/BereaveService.kt" />
       <jump line="22" column="13" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" />
       <jump line="50" column="41" filename="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/confirm.html" />
+      <jump line="88" column="16" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/ShareAccountController.kt" />
+      <jump line="31" column="34" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" />
+      <jump line="36" column="74" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" />
+      <jump line="39" column="19" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/ShareAccountController.kt" />
+      <jump line="143" column="16" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2930,52 +2930,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>0.1</text>
+        <text>/${it.account.id}</text>
       </register>
       <register name="/" type="4">
-        <text>fie</text>
+        <text encoding="base64">XDxzZW5kTWFpbFw+</text>
       </register>
       <register name="0" type="4">
-        <text>diedConfirmation/index</text>
+        <text>&quot;${Util.getHost(request)}/sharedAccount/approve/&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">44Oh44OD44K744O844K45aSJ5pu0Cg==</text>
+        <text encoding="base64">5q275Lqh56K66KqN44Gu6ZaL55m6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gImRpZWRDb25maXJtYXRpb24vZG9uZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZW5kTWFpbCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">44Oh44OD44K744O844K45aSJ5pu0Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gImRpZWRDb25maXJtYXRpb24vZG9uZSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGlzQ29uZmlybSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHJlZ2lzdGVyRGF0YSgpewoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gImRpZWRDb25maXJtYXRpb24vZG9uZSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHBsYWNlaG9sZGVyPSLkuqHjgY/jgarjgaPjgZ/ml6Xku5giIHR5cGU9InRleHQiIHRoOmZpZWxkPSIqe2RhdGV9Ii8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGlzQ29uZmlybSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0Pgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHJlZ2lzdGVyRGF0YSgpewoKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLS8qQHRoeW1lc1ZhciBpZD0ib3RoZXIiIHR5cGU9Im9yYS5sZWFkbGlmZS5jby5qcC5tb2RlbC5CZXJlYXZlIiovLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHBsYWNlaG9sZGVyPSLkuqHjgY/jgarjgaPjgZ/ml6Xku5giIHR5cGU9InRleHQiIHRoOmZpZWxkPSIqe2RhdGV9Ii8+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>34</text>
       </register>
     </registers>
     <search>
-      <last-search>fie</last-search>
+      <last-search encoding="base64">XDxzZW5kTWFpbFw+</last-search>
       <last-offset />
-      <last-pattern>fie</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kTWFpbFw+</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -2983,9 +2983,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNb25leU1hbmFnZW1lbnRzXD4=</entry>
-        <entry encoding="base64">XDxzYXZlVXNlck1vbmV5XD4=</entry>
-        <entry encoding="base64">XDxiZWZvcmVBbW91bnRcPg==</entry>
         <entry encoding="base64">XDxjYWxjUmVtdW5lcmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxzZXRBbmFseXNpc0luZm9cPg==</entry>
         <entry>save</entry>
@@ -3003,11 +3000,11 @@
         <entry>mvc</entry>
         <entry>blank</entry>
         <entry>fie</entry>
+        <entry encoding="base64">XDxtYWtlTWFpbEJvZHlcPg==</entry>
+        <entry>Util</entry>
+        <entry encoding="base64">XDxzZW5kTWFpbFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>56</entry>
-        <entry>34</entry>
-        <entry>205</entry>
         <entry>99</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>37,87d</entry>
@@ -3022,9 +3019,12 @@
         <entry>455</entry>
         <entry>320</entry>
         <entry>58</entry>
-        <entry>1</entry>
         <entry>43</entry>
         <entry>w</entry>
+        <entry>90</entry>
+        <entry>25</entry>
+        <entry>1</entry>
+        <entry>34</entry>
       </history-cmd>
       <history-expr />
       <history-input />
