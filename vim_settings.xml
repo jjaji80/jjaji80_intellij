@@ -576,7 +576,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1519292387548">
+      <file name="/dummy.sql" timestamp="1519292717418">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -909,6 +909,12 @@
         <mark key="]" line="23" column="26" />
         <mark key="." line="23" column="26" />
         <mark key="^" line="23" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/NewsHibernateRepository.java" timestamp="1519293337303">
+        <mark key="[" line="24" column="61" />
+        <mark key="]" line="24" column="73" />
+        <mark key="." line="24" column="73" />
+        <mark key="^" line="24" column="73" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-tools/src/main/java/com/newspicks/tools/CalcHistoricalTop20.java" timestamp="1516094301807">
         <mark key="[" line="33" column="0" />
@@ -2310,12 +2316,12 @@
         <mark key="." line="23" column="56" />
         <mark key="^" line="23" column="56" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/console.sql" timestamp="1519187966901">
-        <mark key="'" line="53" column="14" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="118" column="12" />
-        <mark key="^" line="118" column="12" />
-        <mark key="." line="118" column="12" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/console.sql" timestamp="1519293267047">
+        <mark key="'" line="120" column="23" />
+        <mark key="[" line="120" column="25" />
+        <mark key="]" line="120" column="41" />
+        <mark key="^" line="120" column="41" />
+        <mark key="." line="120" column="41" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1519271754453">
         <mark key="[" line="0" column="0" />
@@ -2813,8 +2819,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="40" filename="$USER_HOME$/git/ora/src/main/resources/templates/account/list.html" />
-      <jump line="17" column="8" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/BereaveService.kt" />
       <jump line="219" column="17" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="19" column="54" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/BereaveService.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/BereaveService.kt" />
@@ -2913,6 +2917,8 @@
       <jump line="183" column="8" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
       <jump line="466" column="0" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
       <jump line="471" column="0" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/console.sql" />
+      <jump line="120" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2932,13 +2938,13 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>test-app2</text>
+        <text>tmpId</text>
       </register>
       <register name="/" type="4">
         <text>blog.mo</text>
       </register>
-      <register name="0" type="4">
-        <text>timeline-ranking.fhsz4p.0001.apne1.cache.amazonaws.com</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRTZXNzaW9uKCkuY3JlYXRlUXVlcnkoInVwZGF0ZSBIaWJlcm5hdGVOZXdzIHNldCBpZCA9IHRtcElkIikuZXhlY3V0ZVVwZGF0ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IAo=</text>
