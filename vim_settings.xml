@@ -2593,6 +2593,14 @@
         <mark key="^" line="44" column="41" />
         <mark key="." line="44" column="41" />
       </file>
+      <file name="$USER_HOME$/redsync/mna/データベース統合.txt" timestamp="1519286239462">
+        <mark key="a" line="231" column="18" />
+        <mark key="'" line="473" column="0" />
+        <mark key="[" line="236" column="22" />
+        <mark key="]" line="237" column="26" />
+        <mark key="." line="237" column="26" />
+        <mark key="^" line="237" column="26" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Follower.java" timestamp="1518946333156">
         <mark key="[" line="15" column="27" />
         <mark key="]" line="15" column="28" />
@@ -2815,9 +2823,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="24" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Account.kt" />
-      <jump line="13" column="49" filename="$USER_HOME$/git/ora/src/main/resources/templates/account/list.html" />
-      <jump line="12" column="34" filename="$USER_HOME$/git/ora/src/main/resources/templates/account/list.html" />
       <jump line="21" column="40" filename="$USER_HOME$/git/ora/src/main/resources/templates/account/list.html" />
       <jump line="17" column="8" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/BereaveService.kt" />
       <jump line="219" column="17" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
@@ -2915,6 +2920,9 @@
       <jump line="829" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="184" column="47" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
       <jump line="204" column="48" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
+      <jump line="183" column="8" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="466" column="0" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
+      <jump line="471" column="0" filename="$USER_HOME$/redsync/mna/データベース統合.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2934,43 +2942,43 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>3252</text>
+        <text>表示されない事を確認</text>
       </register>
       <register name="/" type="4">
         <text>blog.mo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQk8P3BocCBlY2hvICR0aGlzLT5lbGVtZW50KCdfbW9kYWxfYm9vaycpOz8+Cg==</text>
+        <text encoding="base64">KiBbIF0g5YmK6Zmk44GV44KM44Gf44OU44OD44Kv44GM6KGo56S644GV44KM44Gq44GE5LqL44KS56K66KqNCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTsKCQl2YXJfZHVtcCgkcmVzdWx0KTtkaWUoKTsK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUICoK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">5q275Lqh56K66KqN44Gu6ZaL55m6Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZW5kTWFpbCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">44Oh44OD44K744O844K45aSJ5pu0Cg==</text>
+        <text encoding="base64">IyMjIyAK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gImRpZWRDb25maXJtYXRpb24vZG9uZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTsKCQl2YXJfZHVtcCgkcmVzdWx0KTtkaWUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gImRpZWRDb25maXJtYXRpb24vZG9uZSIK</text>
+        <text encoding="base64">U0VMRUNUICoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGlzQ29uZmlybSkK</text>
+        <text encoding="base64">5q275Lqh56K66KqN44Gu6ZaL55m6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
