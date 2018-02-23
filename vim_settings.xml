@@ -599,7 +599,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519379188483">
+      <file name="/Dummy.txt" timestamp="1519380321350">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -1733,7 +1733,12 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/config/Configurations.java" timestamp="1519379267569" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/config/Configurations.java" timestamp="1519380711630">
+        <mark key="[" line="30" column="38" />
+        <mark key="]" line="30" column="45" />
+        <mark key="^" line="30" column="45" />
+        <mark key="." line="30" column="45" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/sharedAccount/approve.html" timestamp="1519122823591">
         <mark key="'" line="15" column="51" />
         <mark key="[" line="15" column="51" />
@@ -2628,14 +2633,6 @@
         <mark key="^" line="44" column="41" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="$USER_HOME$/redsync/mna/データベース統合.txt" timestamp="1519286239462">
-        <mark key="a" line="231" column="18" />
-        <mark key="'" line="473" column="0" />
-        <mark key="[" line="236" column="22" />
-        <mark key="]" line="237" column="26" />
-        <mark key="." line="237" column="26" />
-        <mark key="^" line="237" column="26" />
-      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Follower.java" timestamp="1518946333156">
         <mark key="[" line="15" column="27" />
         <mark key="]" line="15" column="28" />
@@ -2660,11 +2657,11 @@
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources/applicationContext.xml" timestamp="1518681303527">
-        <mark key="[" line="57" column="39" />
-        <mark key="]" line="57" column="43" />
-        <mark key="." line="57" column="43" />
-        <mark key="^" line="57" column="43" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources/applicationContext.xml" timestamp="1519380420650">
+        <mark key="[" line="82" column="60" />
+        <mark key="]" line="83" column="61" />
+        <mark key="." line="83" column="61" />
+        <mark key="^" line="83" column="61" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/form/WithdrawalForm.kt" timestamp="1516402163729">
         <mark key="[" line="11" column="24" />
@@ -2983,10 +2980,10 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>.se</text>
+        <text encoding="base64">MjAwIA==</text>
       </register>
       <register name="/" type="4">
-        <text>client</text>
+        <text>dynamo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cmVkaXMucG9ydD02Mzc5Cg==</text>
@@ -3026,9 +3023,9 @@
       </register>
     </registers>
     <search>
-      <last-search>client</last-search>
+      <last-search>dynamo</last-search>
       <last-offset />
-      <last-pattern>client</last-pattern>
+      <last-pattern>dynamo</last-pattern>
       <last-replace encoding="base64">SGliZXJuYXRlTmV3cyA=</last-replace>
       <last-substitute encoding="base64">TmV3cyA=</last-substitute>
       <last-dir>1</last-dir>
@@ -3036,7 +3033,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21tZW50XD4=</entry>
         <entry>news\/dele</entry>
         <entry encoding="base64">XDx6c2V0T3BzXD4=</entry>
         <entry>newspi</entry>
@@ -3056,6 +3052,7 @@
         <entry encoding="base64">XDxjbGVhclNlc3Npb25cPg==</entry>
         <entry encoding="base64">XDxjbGVhclw+</entry>
         <entry>client</entry>
+        <entry>dynamo</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
