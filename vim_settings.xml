@@ -584,7 +584,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1519524602045">
+      <file name="/dummy.sql" timestamp="1519604731572">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1769,12 +1769,12 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" timestamp="1519604720732">
-        <mark key="'" line="133" column="0" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="^" line="152" column="0" />
-        <mark key="." line="152" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" timestamp="1519604774598">
+        <mark key="'" line="205" column="0" />
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="^" line="229" column="0" />
+        <mark key="." line="229" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/service/coincheck/Open.kt" timestamp="1500711062090">
         <mark key="[" line="5" column="0" />
@@ -2865,10 +2865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="32" filename="$USER_HOME$/git/ora/src/main/resources/templates/shareAccount/index.html" />
-      <jump line="15" column="51" filename="$USER_HOME$/git/ora/src/main/resources/templates/sharedAccount/approve.html" />
-      <jump line="14" column="73" filename="$USER_HOME$/git/ora/src/main/resources/templates/sharedAccount/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="2" column="0" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V201802210734__died_confimation.sql" />
       <jump line="8" column="30" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V201802210734__died_confimation.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/pom.xml" />
@@ -2965,6 +2961,10 @@
       <jump line="106" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
       <jump line="132" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
       <jump line="133" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
+      <jump line="153" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
+      <jump line="179" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
+      <jump line="180" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
+      <jump line="205" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
