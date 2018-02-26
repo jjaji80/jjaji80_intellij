@@ -520,7 +520,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1519617640371">
+      <file name="/dummy.sql" timestamp="1519623988708">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -830,6 +830,12 @@
         <mark key="." line="23" column="26" />
         <mark key="^" line="23" column="26" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/NewsHibernateRepository.java" timestamp="1519624196726">
+        <mark key="[" line="25" column="64" />
+        <mark key="]" line="25" column="74" />
+        <mark key="." line="25" column="74" />
+        <mark key="^" line="25" column="74" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-tools/src/main/java/com/newspicks/tools/CalcHistoricalTop20.java" timestamp="1516094301807">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -1103,6 +1109,14 @@
         <mark key="]" line="140" column="32" />
         <mark key="." line="140" column="32" />
         <mark key="^" line="140" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickService.java" timestamp="1519624281656">
+        <mark key="'" line="590" column="15" />
+        <mark key="j" line="628" column="20" />
+        <mark key="[" line="631" column="9" />
+        <mark key="]" line="632" column="46" />
+        <mark key="^" line="632" column="46" />
+        <mark key="." line="632" column="46" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/form/DiedConfirmationForm.kt" timestamp="1519254403679">
         <mark key="[" line="13" column="0" />
@@ -1586,12 +1600,12 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" timestamp="1519613252238">
-        <mark key="'" line="242" column="0" />
-        <mark key="[" line="239" column="31" />
-        <mark key="]" line="320" column="0" />
-        <mark key="^" line="320" column="0" />
-        <mark key="." line="320" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" timestamp="1519624140612">
+        <mark key="'" line="269" column="16" />
+        <mark key="[" line="321" column="33" />
+        <mark key="]" line="322" column="25" />
+        <mark key="^" line="322" column="25" />
+        <mark key="." line="322" column="25" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/service/coincheck/Open.kt" timestamp="1500711062090">
         <mark key="[" line="5" column="0" />
@@ -2367,11 +2381,10 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1519618923865">
-        <mark key="[" line="1969" column="0" />
-        <mark key="]" line="1969" column="0" />
-        <mark key="^" line="1971" column="17" />
-        <mark key="." line="1969" column="0" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1519624060038">
+        <mark key="[" line="1973" column="0" />
+        <mark key="]" line="1973" column="0" />
+        <mark key="." line="1973" column="0" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/FakeApiClient.java" timestamp="1510298389631">
         <mark key="[" line="4" column="17" />
@@ -2561,7 +2574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="823" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="822" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="138" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="825" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
@@ -2661,6 +2673,7 @@
       <jump line="198" column="45" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
       <jump line="235" column="79" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
       <jump line="242" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
+      <jump line="269" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2680,43 +2693,43 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>hibernateNews</text>
+        <text>tmpId</text>
       </register>
       <register name="/" type="4">
         <text>or\.</text>
       </register>
-      <register name="0" type="4">
-        <text>production-cluster.cluster-ci9znf4p6ffv.ap-northeast-1.rds.amazonaws.com</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRTZXNzaW9uKCkuY3JlYXRlUXVlcnkoInVwZGF0ZSBIaWJlcm5hdGVOZXdzIHNldCBpZCA9IHRtcElkIikuZXhlY3V0ZVVwZGF0ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgbWFwLnB1dChoaWJlcm5hdGVOZXdzLmdldFRtcElkKCksIGhpYmVybmF0ZU5ld3MpOwovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIE1hcDxJbnRlZ2VyLEhpYmVybmF0ZU5ld3M+IG1hcD1uZXcgSGFzaE1hcDxJbnRlZ2VyLCBIaWJlcm5hdGVOZXdzPigpOwovLyAgICAgICAgZm9yKEhpYmVybmF0ZU5ld3MgaGliZXJuYXRlTmV3czpoaWJlcm5hdGVOZXdzTGlzdCl7Ci8vICAgICAgICAgICAgaWYgKG1hcC5jb250YWluc0tleShoaWJlcm5hdGVOZXdzLmdldFRtcElkKCkpKSB7Ci8vICAgICAgICAgICAgICAgIG5ld3NIaWJlcm5hdGVSZXBvc2l0b3J5LmRlbGV0ZShtYXAuZ2V0KGhpYmVybmF0ZU5ld3MuZ2V0VG1wSWQoKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgbWFwLnB1dChoaWJlcm5hdGVOZXdzLmdldFRtcElkKCksIGhpYmVybmF0ZU5ld3MpOwovLyAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEhpYmVybmF0ZU5ld3M+IGhpYmVybmF0ZU5ld3NMaXN0PW5ld3NIaWJlcm5hdGVSZXBvc2l0b3J5LnNjYW5BbGwoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIE1hcDxJbnRlZ2VyLEhpYmVybmF0ZU5ld3M+IG1hcD1uZXcgSGFzaE1hcDxJbnRlZ2VyLCBIaWJlcm5hdGVOZXdzPigpOwovLyAgICAgICAgZm9yKEhpYmVybmF0ZU5ld3MgaGliZXJuYXRlTmV3czpoaWJlcm5hdGVOZXdzTGlzdCl7Ci8vICAgICAgICAgICAgaWYgKG1hcC5jb250YWluc0tleShoaWJlcm5hdGVOZXdzLmdldFRtcElkKCkpKSB7Ci8vICAgICAgICAgICAgICAgIG5ld3NIaWJlcm5hdGVSZXBvc2l0b3J5LmRlbGV0ZShtYXAuZ2V0KGhpYmVybmF0ZU5ld3MuZ2V0VG1wSWQoKSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEhpYmVybmF0ZU5ld3M+IGhpYmVybmF0ZU5ld3NMaXN0PW5ld3NIaWJlcm5hdGVSZXBvc2l0b3J5LnNjYW5BbGwoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEhpYmVybmF0ZU5ld3M+IGhpYmVybmF0ZU5ld3NMaXN0PW5ld3NIaWJlcm5hdGVSZXBvc2l0b3J5LnNjYW5BbGwoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGlkTGlzdCA9IG5ldyBBcnJheUxpc3Q8SW50ZWdlcj4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEhpYmVybmF0ZU5ld3M+IGhpYmVybmF0ZU5ld3NMaXN0PW5ld3NIaWJlcm5hdGVSZXBvc2l0b3J5LnNjYW5BbGwoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
