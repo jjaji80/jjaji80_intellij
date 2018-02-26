@@ -574,10 +574,11 @@
         <mark key="]" line="60" column="30" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerPubNub.kt" timestamp="1518912099841">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerPubNub.kt" timestamp="1519652535380">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="]" line="1" column="36" />
+        <mark key="." line="1" column="36" />
+        <mark key="^" line="1" column="36" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/MediaPlayerUtil.java" timestamp="1496370524221">
         <mark key="[" line="18" column="12" />
@@ -1662,9 +1663,10 @@
         <mark key="^" line="43" column="12" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/pom.xml" timestamp="1519171900054">
-        <mark key="[" line="164" column="8" />
-        <mark key="]" line="168" column="20" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/pom.xml" timestamp="1519651862660">
+        <mark key="'" line="164" column="8" />
+        <mark key="[" line="173" column="20" />
+        <mark key="]" line="173" column="30" />
         <mark key="^" line="173" column="34" />
         <mark key="." line="173" column="34" />
       </file>
@@ -1726,12 +1728,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1519546589839">
-        <mark key="'" line="116" column="16" />
-        <mark key="[" line="135" column="14" />
-        <mark key="]" line="136" column="30" />
-        <mark key="." line="136" column="30" />
-        <mark key="^" line="136" column="30" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1519651558982">
+        <mark key="'" line="252" column="12" />
+        <mark key="[" line="284" column="26" />
+        <mark key="]" line="284" column="59" />
+        <mark key="." line="284" column="59" />
+        <mark key="^" line="284" column="59" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/index.html" timestamp="1519254051193">
         <mark key="[" line="42" column="71" />
@@ -2904,10 +2906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="28" filename="$USER_HOME$/git/utel/app/src/Controller/BookController.php" />
-      <jump line="188" column="20" filename="$USER_HOME$/git/utel/app/src/Controller/BookController.php" />
-      <jump line="53" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/console.sql" />
-      <jump line="115" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="44" column="0" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" />
       <jump line="37" column="38" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
       <jump line="117" column="100" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickService.java" />
@@ -3004,6 +3002,10 @@
       <jump line="211" column="30" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="212" column="112" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="215" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="136" column="31" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="251" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="252" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="164" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3023,52 +3025,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>getAllActualUserIds</text>
+        <text>collateral.keepRate * 100</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdzX2lkXD4=</text>
+        <text encoding="base64">XDxub3dLZWVwUmF0ZVw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cHVibGljIExpc3Q8UGljaz4gZmluZEJ5VGFnKFRhZyB0YWcpewogICAgICAgIENyaXRlcmlhIGNyaXRlcmlhID0gZ2V0U2Vzc2lvbigpLmNyZWF0ZUNyaXRlcmlhKFBpY2suY2xhc3MsICJwIik7CiAgICAgICAgY3JpdGVyaWEuY3JlYXRlQWxpYXMoInAubmV3cyIsICJuIik7CiAgICAgICAgY3JpdGVyaWEuY3JlYXRlQWxpYXMoIm4ubmV3c1RhZ0xpc3QiLCAibnQiKTsKICAgICAgICBjcml0ZXJpYS5hZGQoUmVzdHJpY3Rpb25zLmVxKCJudC50YWdJZCIsIHRhZy5nZXRJZCgpKSk7CiAgICAgICAgY3JpdGVyaWEuYWRkT3JkZXIoT3JkZXIuZGVzYygicC5waWNrZWQiKSk7CiAgICAgICAgcmV0dXJuIGNyaXRlcmlhLmxpc3QoKTsKICAgIH0=</text>
+        <text>pubnub-gson</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXZhcl9kdW1wKCRibG9nKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYSA9UG5Db24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXZhcl9kdW1wKCJPSyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcHViTm9iID1QdWJuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCQl2YXJfZHVtcCgkZGF0YSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXZhcl9kdW1wKCRuZXdzKTtkaWUoKTsK</text>
+        <text encoding="base64">CQkJCXZhcl9kdW1wKCRibG9nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkb3JpZ2luYWwpO2RpZSgpOwo=</text>
+        <text encoding="base64">CQkJCXZhcl9kdW1wKCJPSyIpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJdmFyX2R1bXAoJG5ld3NfaWQpO2RpZSgpOwo=</text>
+        <text encoding="base64">Ly8JCQl2YXJfZHVtcCgkZGF0YSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkZGF0YSk7ZGllKCk7Cg==</text>
+        <text encoding="base64">CQkJCXZhcl9kdW1wKCRuZXdzKTtkaWUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJdmFyX2R1bXAoJG5ld3MpO2RpZSgpOwo=</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkb3JpZ2luYWwpO2RpZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkbmV3c19zbGlkZSk7ZGllKCk7Cg==</text>
+        <text encoding="base64">CQkJdmFyX2R1bXAoJG5ld3NfaWQpO2RpZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdzX2lkXD4=</last-search>
+      <last-search encoding="base64">XDxub3dLZWVwUmF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdzX2lkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxub3dLZWVwUmF0ZVw+</last-pattern>
       <last-replace>b</last-replace>
       <last-substitute>web.b</last-substitute>
       <last-dir>1</last-dir>
@@ -3076,7 +3078,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWtlTWFpbEJvZHlcPg==</entry>
         <entry>Util</entry>
         <entry encoding="base64">XDxzZW5kTWFpbFw+</entry>
         <entry>blog.mo</entry>
@@ -3096,6 +3097,7 @@
         <entry>report_to_api</entry>
         <entry encoding="base64">XDxuZXdzSWRcPg==</entry>
         <entry encoding="base64">XDxuZXdzX2lkXD4=</entry>
+        <entry encoding="base64">XDxub3dLZWVwUmF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>320</entry>
