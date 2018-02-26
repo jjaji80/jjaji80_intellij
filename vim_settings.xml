@@ -520,7 +520,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1519616079356">
+      <file name="/dummy.sql" timestamp="1519617640371">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -736,7 +736,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/MoveToMySQLWorker.java" timestamp="1519610010266" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/MoveToMySQLWorker.java" timestamp="1519618936433">
+        <mark key="[" line="44" column="40" />
+        <mark key="]" line="45" column="30" />
+        <mark key="^" line="45" column="30" />
+        <mark key="." line="45" column="30" />
+      </file>
       <file name="$USER_HOME$/git/hms/app/models/concerns/common_module.rb" timestamp="1490679792222">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="19" />
@@ -2362,11 +2367,11 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1519612009345">
-        <mark key="[" line="1966" column="9" />
-        <mark key="]" line="1968" column="7" />
-        <mark key="^" line="1968" column="7" />
-        <mark key="." line="1968" column="7" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1519618923865">
+        <mark key="[" line="1969" column="0" />
+        <mark key="]" line="1969" column="0" />
+        <mark key="^" line="1971" column="17" />
+        <mark key="." line="1969" column="0" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/FakeApiClient.java" timestamp="1510298389631">
         <mark key="[" line="4" column="17" />
@@ -2675,7 +2680,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>.list();</text>
+        <text>hibernateNews</text>
       </register>
       <register name="/" type="4">
         <text>or\.</text>
@@ -2684,37 +2689,37 @@
         <text>production-cluster.cluster-ci9znf4p6ffv.ap-northeast-1.rds.amazonaws.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2hvdwo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hlY2tDbG9zZU9yZGVyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgbWFwLnB1dChoaWJlcm5hdGVOZXdzLmdldFRtcElkKCksIGhpYmVybmF0ZU5ld3MpOwovLyAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIE1hcDxJbnRlZ2VyLEhpYmVybmF0ZU5ld3M+IG1hcD1uZXcgSGFzaE1hcDxJbnRlZ2VyLCBIaWJlcm5hdGVOZXdzPigpOwovLyAgICAgICAgZm9yKEhpYmVybmF0ZU5ld3MgaGliZXJuYXRlTmV3czpoaWJlcm5hdGVOZXdzTGlzdCl7Ci8vICAgICAgICAgICAgaWYgKG1hcC5jb250YWluc0tleShoaWJlcm5hdGVOZXdzLmdldFRtcElkKCkpKSB7Ci8vICAgICAgICAgICAgICAgIG5ld3NIaWJlcm5hdGVSZXBvc2l0b3J5LmRlbGV0ZShtYXAuZ2V0KGhpYmVybmF0ZU5ld3MuZ2V0VG1wSWQoKSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcnMuZm9yRWEK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEhpYmVybmF0ZU5ld3M+IGhpYmVybmF0ZU5ld3NMaXN0PW5ld3NIaWJlcm5hdGVSZXBvc2l0b3J5LnNjYW5BbGwoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDbGllbnRDb25maWd1cmF0aW9uIGNsaWVudENvbmZpZ3VyYXRpb249Zwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEhpYmVybmF0ZU5ld3M+IGhpYmVybmF0ZU5ld3NMaXN0PW5ld3NIaWJlcm5hdGVSZXBvc2l0b3J5LnNjYW5BbGwoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGlkTGlzdCA9IG5ldyBBcnJheUxpc3Q8SW50ZWdlcj4oKTsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2765,11 +2770,11 @@
         <entry>%y</entry>
         <entry>107</entry>
         <entry>2</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/web.b/newspicks.b</entry>
         <entry>%s/web.b/newspicks.b/</entry>
         <entry>%s/web\.b/newspicks\.b/</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
