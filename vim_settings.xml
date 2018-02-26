@@ -850,12 +850,6 @@
         <mark key="." line="33" column="61" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/PickRepository.java" timestamp="1519635154614">
-        <mark key="'" line="74" column="17" />
-        <mark key="[" line="269" column="4" />
-        <mark key="]" line="276" column="4" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/sns/SnsSender.java" timestamp="1517442296215">
         <mark key="[" line="47" column="24" />
         <mark key="]" line="47" column="23" />
@@ -1178,6 +1172,12 @@
         <mark key="]" line="2" column="32" />
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/UserService.java" timestamp="1519646040840">
+        <mark key="[" line="446" column="5" />
+        <mark key="]" line="447" column="3" />
+        <mark key="^" line="447" column="3" />
+        <mark key="." line="447" column="3" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/model/Category.kt" timestamp="1515384000548">
         <mark key="[" line="12" column="23" />
@@ -2883,11 +2883,11 @@
         <mark key="^" line="182" column="45" />
         <mark key="." line="182" column="45" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/FollowService.java" timestamp="1519611734244">
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="18" />
-        <mark key="^" line="159" column="17" />
-        <mark key="." line="181" column="0" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/FollowService.java" timestamp="1519646045687">
+        <mark key="[" line="370" column="53" />
+        <mark key="]" line="370" column="77" />
+        <mark key="^" line="370" column="77" />
+        <mark key="." line="370" column="77" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-contents/src/main/java/com/newspicks/contents/controller/NewsController.java" timestamp="1519635582416" />
       <file name="$USER_HOME$/git/ora/src/main/kotlin/leadlife/co/jp/ora/config/Role.kt" timestamp="1515394491835">
@@ -3023,7 +3023,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>getAllActualUserIds</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdzX2lkXD4=</text>
