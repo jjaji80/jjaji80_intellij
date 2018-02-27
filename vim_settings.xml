@@ -45,11 +45,11 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" timestamp="1516187235444">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="19" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="19" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" timestamp="1519719619727">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="10" />
+        <mark key="^" line="14" column="10" />
+        <mark key="." line="14" column="10" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/form/AccountForm.kt" timestamp="1518419462846">
         <mark key="[" line="9" column="0" />
@@ -840,6 +840,10 @@
         <mark key="^" line="285141" column="39" />
         <mark key="." line="285141" column="39" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-release/redis.properties" timestamp="1519292323894">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="75" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/ckeditor/config.js" timestamp="1503389663974">
         <mark key="[" line="31" column="22" />
         <mark key="]" line="31" column="28" />
@@ -1174,6 +1178,10 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="src:table:/a7652b59/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/newspicks.likes" timestamp="1519630834316">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="22" />
+      </file>
       <file name="$USER_HOME$/redsync/mna/test.adoc" timestamp="1517872638625">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1375,6 +1383,10 @@
         <mark key="]" line="1" column="37" />
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
+      </file>
+      <file name="src:table:/a7652b59/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/newspicks.picks" timestamp="1519604630555">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="17" />
       </file>
       <file name="$USER_HOME$/git/p1-doc/議事録/20170323.md" timestamp="1490340746149">
         <mark key="[" line="77" column="2" />
@@ -1609,6 +1621,10 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="19" column="8" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Forum.kt" timestamp="1519719666981">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="30" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/RsiKeyMinutePrice.kt" timestamp="1508035583567">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="79" />
@@ -1736,6 +1752,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="3" column="77" />
+      </file>
+      <file name="src:table:/a7652b59/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/newspicks.likes" timestamp="1519604653833">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/TagController.java" timestamp="1511505088965">
         <mark key="[" line="45" column="33" />
@@ -1960,6 +1980,10 @@
         <mark key="]" line="5" column="70" />
         <mark key="^" line="5" column="70" />
         <mark key="." line="5" column="70" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/News/body.ctp" timestamp="1519283210034">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="47" />
       </file>
       <file name="$USER_HOME$/hoge/src/KtLog.kt" timestamp="1519660884178">
         <mark key="[" line="2" column="0" />
@@ -2820,7 +2844,7 @@
         <text>configu</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPnB1Ym51YjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+cHVibnViPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj40LjE4LjA8L3ZlcnNpb24+CiAgICAgICAgICAgIDxzY29wZT5zeXN0ZW08L3Njb3BlPgogICAgICAgICAgICA8c3lzdGVtUGF0aD4ke2Jhc2VkaXJ9L2xpYi9wdWJudWItZ3Nvbi00LjE4LjAtYWxsLmphcjwvc3lzdGVtUGF0aD4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+        <text>var category: Category,</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
