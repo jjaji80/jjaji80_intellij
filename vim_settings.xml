@@ -541,6 +541,14 @@
         <mark key="^" line="1" column="43" />
         <mark key="." line="1" column="43" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitFlyerPubNubData.kt" timestamp="1519710902488">
+        <mark key="d" line="4" column="18" />
+        <mark key="'" line="37" column="25" />
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch3.xml" timestamp="1507692375775">
         <mark key="[" line="52" column="27" />
         <mark key="]" line="53" column="6" />
@@ -1204,7 +1212,7 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="24" column="73" />
       </file>
-      <file name="/fragment.kt" timestamp="1519704911901">
+      <file name="/fragment.kt" timestamp="1519711047022">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="57" />
@@ -1645,11 +1653,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="18" column="47" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitflyerPubNub.kt" timestamp="1519705354786">
-        <mark key="[" line="78" column="56" />
-        <mark key="]" line="78" column="54" />
-        <mark key="." line="78" column="54" />
-        <mark key="^" line="78" column="54" />
+      <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitflyerPubNub.kt" timestamp="1519711866726">
+        <mark key="'" line="111" column="299" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="110" column="287" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/Position.kt" timestamp="1518347311229">
         <mark key="[" line="3" column="0" />
@@ -1681,8 +1690,8 @@
         <mark key="^" line="43" column="12" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/pom.xml" timestamp="1519704233552">
-        <mark key="'" line="180" column="34" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/pom.xml" timestamp="1519712220035">
+        <mark key="'" line="173" column="28" />
         <mark key="[" line="116" column="0" />
         <mark key="]" line="120" column="21" />
         <mark key="^" line="186" column="29" />
@@ -1746,12 +1755,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1519701245540">
-        <mark key="'" line="285" column="59" />
-        <mark key="[" line="303" column="12" />
-        <mark key="]" line="304" column="46" />
-        <mark key="." line="304" column="46" />
-        <mark key="^" line="304" column="46" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1519711891925">
+        <mark key="'" line="186" column="22" />
+        <mark key="[" line="73" column="70" />
+        <mark key="]" line="74" column="39" />
+        <mark key="." line="74" column="39" />
+        <mark key="^" line="74" column="39" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/index.html" timestamp="1519254051193">
         <mark key="[" line="42" column="71" />
@@ -2009,6 +2018,12 @@
         <mark key="]" line="26" column="32" />
         <mark key="^" line="26" column="32" />
         <mark key="." line="26" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitFlyerPriceSize.kt" timestamp="1519705913547">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="61" />
+        <mark key="^" line="2" column="61" />
+        <mark key="." line="2" column="61" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/news/toyokezai/ToyokezaiParser.java" timestamp="1517814215083">
         <mark key="[" line="8" column="0" />
@@ -2939,14 +2954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="590" column="15" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/PickService.java" />
-      <jump line="27" column="0" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/base/HibernateRepositoryBase.java" />
-      <jump line="90" column="16" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/base/HibernateRepositoryBase.java" />
-      <jump line="91" column="21" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/base/HibernateRepositoryBase.java" />
-      <jump line="84" column="32" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/base/DynamoDBRepositoryBase.java" />
-      <jump line="7" column="21" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/base/DynamoDBRepositoryBase.java" />
-      <jump line="93" column="28" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/base/DynamoDBRepositoryBase.java" />
-      <jump line="0" column="13" filename="$USER_HOME$/GoogleDrive/private/Desktop/deleteme/web_cake_sessions.sql" />
       <jump line="12" column="41" filename="$USER_HOME$/GoogleDrive/private/Desktop/deleteme/web_blogs.sql" />
       <jump line="18" column="67" filename="$USER_HOME$/GoogleDrive/private/Desktop/deleteme/web_blog_tags.sql" />
       <jump line="12" column="29" filename="$USER_HOME$/GoogleDrive/private/Desktop/deleteme/web_blog_socials.sql" />
@@ -3010,7 +3017,6 @@
       <jump line="138" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="235" column="44" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="50" column="34" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="172" column="29" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="174" column="46" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="24" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerPubNub.kt" />
       <jump line="35" column="94" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerPubNub.kt" />
@@ -3033,12 +3039,21 @@
       <jump line="131" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="110" column="90" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="113" column="47" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="173" column="35" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="177" column="81" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="180" column="34" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="45" column="26" filename="$USER_HOME$/git/coinman_parent/pubnub/lib/pubnub-gson-4.18.0-all.jar!/com/pubnub/api/PubNub.class" />
       <jump line="58" column="13" filename="$USER_HOME$/git/coinman_parent/pubnub/lib/pubnub-gson-4.18.0-all.jar!/com/pubnub/api/PubNub.class" />
       <jump line="275" column="20" filename="$USER_HOME$/git/coinman_parent/pubnub/lib/pubnub-gson-4.18.0-all.jar!/com/pubnub/api/PubNub.class" />
+      <jump line="11" column="19" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitFlyerPubNubData.kt" />
+      <jump line="22" column="25" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitFlyerPubNubData.kt" />
+      <jump line="111" column="299" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitflyerPubNub.kt" />
+      <jump line="304" column="37" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="154" column="22" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="116" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
+      <jump line="186" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
+      <jump line="170" column="58" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
+      <jump line="172" column="29" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
+      <jump line="173" column="28" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3058,62 +3073,59 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>asJsonObject</text>
+        <text>isBuy</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXBwZXJcPg==</text>
+        <text>pub</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdvb2dsZS5odHRwLWNsaWVudDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z29vZ2xlLWh0dHAtY2xpZW50LWphY2tzb248L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMjIuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmRlckJ5UHViTnViKHNpemUsMS4wLDEwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZGVidWcoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWVzc2FnZSA9ICJPSyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzQnV5KXsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NC4xOC4wPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGJpdGZseWVyUHViTnViID0gQml0Zmx5ZXJQdWIK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIG9yZGVyCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGJpdGZseWVyUHViTnViPUJpdGZseWVyUHViTnViKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXIKaW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ01hbmFnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWUKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwbkNvbmZpZ3VyYXRpb24uc2V0U2VjdXJlKGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiJHtiaXRGbHllclB1Yk51YkRhdGEuYXNrc1s1MF0ucHJpY2V9IDogJHtiaXRGbHllclB1Yk51YkRhdGEuYXNrc1sxMDBdLnByaWNlfSA6ICR7Yml0Rmx5ZXJQdWJOdWJEYXRhLmFza3NbMTUwXS5wcmljZX0iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwbkNvbmZpZ3VyYXRpb24uc3Vic2NyaWJlS2V5PSJkZW1vIgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDosrfjgYQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXBwZXJcPg==</last-search>
+      <last-search>pub</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXBwZXJcPg==</last-pattern>
-      <last-replace>b</last-replace>
-      <last-substitute>web.b</last-substitute>
+      <last-pattern>pub</last-pattern>
+      <last-replace>asks</last-replace>
+      <last-substitute>bids</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>or\.</entry>
-        <entry encoding="base64">XDxuZXdzcGlja3NcPg==</entry>
-        <entry>show</entry>
         <entry>like</entry>
         <entry>picks</entry>
         <entry>report_to_api</entry>
@@ -3131,10 +3143,11 @@
         <entry>coinman</entry>
         <entry>gson</entry>
         <entry encoding="base64">XDxtYXBwZXJcPg==</entry>
+        <entry>bids</entry>
+        <entry encoding="base64">XDxzaXplXD4=</entry>
+        <entry>pub</entry>
       </history-search>
       <history-cmd>
-        <entry>58</entry>
-        <entry>43</entry>
         <entry>90</entry>
         <entry>25</entry>
         <entry>34</entry>
@@ -3152,6 +3165,8 @@
         <entry>135</entry>
         <entry>56,111y</entry>
         <entry>1</entry>
+        <entry>8,27d</entry>
+        <entry encoding="base64">JzwsJz5zL2JpZHMvYXNrcy9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
