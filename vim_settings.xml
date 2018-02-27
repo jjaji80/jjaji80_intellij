@@ -2441,8 +2441,8 @@
         <mark key="^" line="122" column="17" />
         <mark key="." line="122" column="17" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" timestamp="1519701716626">
-        <mark key="'" line="59" column="21" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" timestamp="1519712454847">
+        <mark key="'" line="6" column="16" />
         <mark key="[" line="58" column="8" />
         <mark key="]" line="62" column="20" />
       </file>
@@ -2954,10 +2954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="41" filename="$USER_HOME$/GoogleDrive/private/Desktop/deleteme/web_blogs.sql" />
-      <jump line="18" column="67" filename="$USER_HOME$/GoogleDrive/private/Desktop/deleteme/web_blog_tags.sql" />
-      <jump line="12" column="29" filename="$USER_HOME$/GoogleDrive/private/Desktop/deleteme/web_blog_socials.sql" />
-      <jump line="12" column="57" filename="$USER_HOME$/GoogleDrive/private/Desktop/deleteme/web_blog_original_images.sql" />
       <jump line="31" column="25" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/left.ctp" />
       <jump line="43" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
       <jump line="67" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
@@ -3030,8 +3026,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="185" column="29" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="3" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="60" column="24" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
-      <jump line="59" column="21" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
       <jump line="23" column="28" filename="$USER_HOME$/git/coinman_parent/pubnub/pom.xml" />
       <jump line="77" column="61" filename="$USER_HOME$/git/coinman_parent/pubnub/pom.xml" />
       <jump line="5" column="20" filename="$USER_HOME$/git/coinman_parent/pubnub/pom.xml" />
@@ -3054,6 +3048,12 @@
       <jump line="170" column="58" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="172" column="29" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="173" column="28" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
+      <jump line="112" column="45" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
+      <jump line="10" column="10" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
+      <jump line="59" column="21" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
+      <jump line="60" column="24" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
+      <jump line="5" column="13" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
+      <jump line="6" column="16" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3076,7 +3076,7 @@
         <text>isBuy</text>
       </register>
       <register name="/" type="4">
-        <text>pub</text>
+        <text>coinman</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmRlckJ5UHViTnViKHNpemUsMS4wLDEwMCkK</text>
@@ -3116,9 +3116,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pub</last-search>
+      <last-search>coinman</last-search>
       <last-offset />
-      <last-pattern>pub</last-pattern>
+      <last-pattern>coinman</last-pattern>
       <last-replace>asks</last-replace>
       <last-substitute>bids</last-substitute>
       <last-dir>1</last-dir>
@@ -3140,12 +3140,12 @@
         <entry>paren</entry>
         <entry encoding="base64">XDxjb2lubWFuXD4=</entry>
         <entry>lib</entry>
-        <entry>coinman</entry>
         <entry>gson</entry>
         <entry encoding="base64">XDxtYXBwZXJcPg==</entry>
         <entry>bids</entry>
         <entry encoding="base64">XDxzaXplXD4=</entry>
         <entry>pub</entry>
+        <entry>coinman</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
