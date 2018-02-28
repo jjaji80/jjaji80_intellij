@@ -790,12 +790,12 @@
         <mark key="^" line="2" column="83" />
         <mark key="." line="2" column="83" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1519802349355">
-        <mark key="'" line="894" column="11" />
-        <mark key="[" line="890" column="7" />
-        <mark key="]" line="890" column="11" />
-        <mark key="." line="890" column="11" />
-        <mark key="^" line="890" column="11" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1519818857124">
+        <mark key="'" line="905" column="0" />
+        <mark key="[" line="914" column="5" />
+        <mark key="]" line="913" column="12" />
+        <mark key="." line="913" column="12" />
+        <mark key="^" line="914" column="4" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/bootstrap/Bootstrap.java" timestamp="1519723158257">
         <mark key="[" line="117" column="57" />
@@ -1690,6 +1690,12 @@
         <mark key="]" line="15" column="73" />
         <mark key="^" line="15" column="73" />
         <mark key="." line="15" column="73" />
+      </file>
+      <file name="$USER_HOME$/ora_sp/android/app/src/main/AndroidManifest.xml" timestamp="1519818954876">
+        <mark key="'" line="15" column="55" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/FreeMigrationController.kt" timestamp="1516187193448">
         <mark key="[" line="12" column="18" />
@@ -2651,8 +2657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
-      <jump line="203" column="29" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="211" column="30" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="212" column="112" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="215" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
@@ -2751,6 +2755,8 @@
       <jump line="223" column="35" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="255" column="12" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="45" column="9" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
+      <jump line="905" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="15" column="55" filename="$USER_HOME$/ora_sp/android/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2773,7 +2779,7 @@
         <text>functions</text>
       </register>
       <register name="/" type="4">
-        <text>twi</text>
+        <text>lead</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Qml0Rmx5ZXJQcm9wZXJ0aWVzLmZ1bGxCcm9hZGNhc3Rpbmc9dHJ1ZQo=</text>
@@ -2813,9 +2819,9 @@
       </register>
     </registers>
     <search>
-      <last-search>twi</last-search>
+      <last-search>lead</last-search>
       <last-offset />
-      <last-pattern>twi</last-pattern>
+      <last-pattern>lead</last-pattern>
       <last-replace>asks</last-replace>
       <last-substitute>bids</last-substitute>
       <last-dir>1</last-dir>
@@ -2823,7 +2829,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQUklNSVRJVkVfVE9fV1JBUFBFUl9UWVBFXD4=</entry>
         <entry>clien</entry>
         <entry encoding="base64">XDxvYmplY3RcPg==</entry>
         <entry>kot</entry>
@@ -2843,6 +2848,7 @@
         <entry>Device</entry>
         <entry>Twil</entry>
         <entry>twi</entry>
+        <entry>lead</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
