@@ -786,12 +786,12 @@
         <mark key="^" line="2" column="83" />
         <mark key="." line="2" column="83" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1519818857124">
-        <mark key="'" line="905" column="0" />
-        <mark key="[" line="914" column="5" />
-        <mark key="]" line="913" column="12" />
-        <mark key="." line="913" column="12" />
-        <mark key="^" line="914" column="4" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1519819862794">
+        <mark key="'" line="1214" column="13" />
+        <mark key="[" line="1303" column="7" />
+        <mark key="]" line="1305" column="13" />
+        <mark key="." line="1305" column="13" />
+        <mark key="^" line="1305" column="13" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/bootstrap/Bootstrap.java" timestamp="1519723158257">
         <mark key="[" line="117" column="57" />
@@ -1248,11 +1248,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/git/ora_sp/lib/main.dart" timestamp="1519819247369">
-        <mark key="[" line="21" column="57" />
-        <mark key="]" line="21" column="57" />
-        <mark key="^" line="21" column="57" />
-        <mark key="." line="21" column="57" />
+      <file name="$USER_HOME$/git/ora_sp/lib/main.dart" timestamp="1519820306347">
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="21" column="55" />
+        <mark key="^" line="21" column="55" />
+        <mark key="." line="21" column="55" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/Others.kt" timestamp="1516194000645">
         <mark key="[" line="9" column="11" />
@@ -2659,12 +2659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="30" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
-      <jump line="212" column="112" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
-      <jump line="215" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
-      <jump line="136" column="31" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="251" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="252" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="164" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="20" column="37" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="284" column="59" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -2759,6 +2753,12 @@
       <jump line="45" column="9" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
       <jump line="905" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="15" column="55" filename="$USER_HOME$/ora_sp/android/app/src/main/AndroidManifest.xml" />
+      <jump line="1304" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="1308" column="101" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="1310" column="73" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="1309" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="1313" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="1214" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2778,52 +2778,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>functions</text>
+        <text>Page</text>
       </register>
       <register name="/" type="4">
-        <text>lead</text>
+        <text>hazuki615</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Qml0Rmx5ZXJQcm9wZXJ0aWVzLmZ1bGxCcm9hZGNhc3Rpbmc9dHJ1ZQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">VU5JWF9USU1FU1RBTVAoQS5jcmVhdGVkX2F0KSAtIFVOSVhfVElNRVNUQU1QKEIuY3JlYXRlZF9hdCkgPCAxMA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBicm9hZGNhc3QoKQo=</text>
+        <text encoding="base64">ICBCLmNyZWF0ZWRfYXQsCiAgVU5JWF9USU1FU1RBTVAoQS5jcmVhdGVkX2F0KSAtIFVOSVhfVElNRVNUQU1QKEIuY3JlYXRlZF9hdCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsaWVudERldmljZS5zZXQK</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBtb25leV9tYW5hZ2VtZW50cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQU5EIEIudXNlcl9pZD0zNTM0Cg==</text>
+        <text encoding="base64">V0hFUkUgdWZfaWQ9MjMyNTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2UK</text>
+        <text encoding="base64">ICAgICAgICBicm9hZGNhc3QoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsaWVudERldmljZS5zZXQK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">6Kaq44OH44O844K/44GM5a2Y5Zyo44GX44Gq44GE5aC05ZCI44Gr5a++5b+cCg==</text>
+        <text encoding="base64">ICAgICAgQU5EIEIudXNlcl9pZD0zNTM0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RDbG9zZURhdGUgPSBEYXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9yZXBvc2l0b3J5Pgo=</text>
+        <text encoding="base64">6Kaq44OH44O844K/44GM5a2Y5Zyo44GX44Gq44GE5aC05ZCI44Gr5a++5b+cCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lead</last-search>
+      <last-search>hazuki615</last-search>
       <last-offset />
-      <last-pattern>lead</last-pattern>
+      <last-pattern>hazuki615</last-pattern>
       <last-replace>asks</last-replace>
       <last-substitute>bids</last-substitute>
       <last-dir>1</last-dir>
@@ -2831,7 +2831,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clien</entry>
         <entry encoding="base64">XDxvYmplY3RcPg==</entry>
         <entry>kot</entry>
         <entry>paren</entry>
@@ -2851,6 +2850,7 @@
         <entry>Twil</entry>
         <entry>twi</entry>
         <entry>lead</entry>
+        <entry>hazuki615</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
