@@ -285,6 +285,12 @@
         <mark key="." line="33" column="112" />
         <mark key="^" line="33" column="112" />
       </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/db/init.d/20180301_db_merge.sql" timestamp="1519888476006">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="301" column="0" />
+        <mark key="^" line="301" column="0" />
+        <mark key="." line="301" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/detail.html" timestamp="1518516088009">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="30" />
@@ -516,7 +522,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1519885434225">
+      <file name="/dummy.sql" timestamp="1519889525789">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -534,11 +540,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519887272782">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="1" column="14" />
+      <file name="/Dummy.txt" timestamp="1519890304291">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
         <mark key="[" line="60" column="20" />
@@ -605,12 +611,6 @@
         <mark key="]" line="14" column="86" />
         <mark key="." line="14" column="86" />
         <mark key="^" line="14" column="86" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/TimelineService.java" timestamp="1519734528192">
-        <mark key="'" line="422" column="0" />
-        <mark key="[" line="422" column="0" />
-        <mark key="]" line="422" column="0" />
-        <mark key="." line="422" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-categorizer/src/main/java/com/newspicks/categorizer/features/FeatureGenerator.java" timestamp="1517814070592">
         <mark key="[" line="16" column="0" />
@@ -1221,6 +1221,13 @@
         <mark key="^" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/tag/NewsTagRepository.java" timestamp="1519890029845">
+        <mark key="'" line="20" column="34" />
+        <mark key="[" line="20" column="56" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="21" column="12" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/tag/TagRepository.java" timestamp="1516000686167">
         <mark key="[" line="31" column="77" />
         <mark key="]" line="31" column="96" />
@@ -1638,10 +1645,10 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" timestamp="1519635084123">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" timestamp="1519888334020">
         <mark key="'" line="378" column="50" />
-        <mark key="[" line="411" column="27" />
-        <mark key="]" line="413" column="40" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="228" column="30" />
         <mark key="^" line="413" column="40" />
         <mark key="." line="413" column="40" />
       </file>
@@ -1699,12 +1706,6 @@
         <mark key="^" line="15" column="73" />
         <mark key="." line="15" column="73" />
       </file>
-      <file name="$USER_HOME$/ora_sp/android/app/src/main/AndroidManifest.xml" timestamp="1519818954876">
-        <mark key="'" line="15" column="55" />
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/FreeMigrationController.kt" timestamp="1516187193448">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="19" />
@@ -1723,6 +1724,7 @@
         <mark key="." line="45" column="34" />
         <mark key="^" line="50" column="45" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" timestamp="1519888682152" />
       <file name="$USER_HOME$/git/coinman/src/coinman/CoinManCurrency.java" timestamp="1499154225156">
         <mark key="[" line="9" column="62" />
         <mark key="]" line="9" column="64" />
@@ -1813,8 +1815,12 @@
         <mark key="^" line="10" column="26" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsTagService.java" timestamp="1519197625572">
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsTagService.java" timestamp="1519890076995">
         <mark key="'" line="68" column="20" />
+        <mark key="[" line="56" column="89" />
+        <mark key="]" line="56" column="98" />
+        <mark key="." line="56" column="98" />
+        <mark key="^" line="56" column="98" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitFlyerPriceSize.kt" timestamp="1519705913547">
         <mark key="[" line="2" column="29" />
@@ -2115,6 +2121,12 @@
         <mark key="." line="76" column="27" />
         <mark key="^" line="76" column="27" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" timestamp="1519890180547">
+        <mark key="[" line="41" column="3" />
+        <mark key="]" line="41" column="18" />
+        <mark key="." line="41" column="18" />
+        <mark key="^" line="41" column="18" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/notification/GcmMessageCreator.java" timestamp="1517814224918">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -2144,6 +2156,9 @@
         <mark key="]" line="2" column="42" />
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" timestamp="1519889634773">
+        <mark key="'" line="117" column="30" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/AsyncPreparedRequest.java" timestamp="1510303929047">
         <mark key="[" line="66" column="61" />
@@ -2366,6 +2381,9 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="34" column="63" />
+      </file>
+      <file name="/NewsTagService.java" timestamp="1519889861733">
+        <mark key="'" line="51" column="53" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/dummy/TimelineCleaner.java" timestamp="1517814580033">
         <mark key="[" line="147" column="13" />
@@ -2685,24 +2703,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="176" column="81" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="179" column="34" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="27" column="30" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="112" column="37" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="117" column="37" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="118" column="36" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="128" column="28" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="136" column="79" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="138" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="235" column="44" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="50" column="34" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="174" column="46" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="24" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerPubNub.kt" />
-      <jump line="35" column="94" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerPubNub.kt" />
-      <jump line="18" column="39" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerPubNub.kt" />
-      <jump line="21" column="17" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerPubNub.kt" />
-      <jump line="86" column="40" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerPubNub.kt" />
       <jump line="120" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="807" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="16" column="21" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
@@ -2785,6 +2785,24 @@
       <jump line="509" column="20" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
       <jump line="1318" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="1287" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="86" column="0" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" />
+      <jump line="59" column="11" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" />
+      <jump line="68" column="11" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" />
+      <jump line="95" column="37" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" />
+      <jump line="97" column="31" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" />
+      <jump line="98" column="24" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" />
+      <jump line="100" column="30" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" />
+      <jump line="103" column="37" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" />
+      <jump line="105" column="31" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" />
+      <jump line="109" column="24" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" />
+      <jump line="113" column="37" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" />
+      <jump line="115" column="31" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" />
+      <jump line="116" column="31" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" />
+      <jump line="117" column="30" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacyNewsController.java" />
+      <jump line="38" column="55" filename="/NewsTagService.java" />
+      <jump line="51" column="53" filename="/NewsTagService.java" />
+      <jump line="20" column="34" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/tag/NewsTagRepository.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2804,52 +2822,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>newsId</text>
+        <text>1.0</text>
       </register>
       <register name="/" type="4">
-        <text>like</text>
+        <text>add</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">LS0gYXV0by1nZW5lcmF0ZWQgZGVmaW5pdGlvbgpDUkVBVEUgVEFCTEUgbmV3cwooCiAgaWQgICAgICAgICAgICAgSU5UIEFVVE9fSU5DUkVNRU5UCiAgICBQUklNQVJZIEtFWSwKICBmZWVkICAgICAgICAgICBJTlQgICAgICAgICAgICAgICAgICAgIE5VTEwsCiAgbGluayAgICAgICAgICAgVkFSQ0hBUigxMDAwKSAgICAgICAgICBOVUxMCiAgQ09NTUVOVCAn44Oq44Oz44KvVVJMJywKICBwZGYgICAgICAgICAgICBUSU5ZSU5UKDEpIERFRkFVTFQgJzAnIE5PVCBOVUxMLAogIHBlcm1pdF9mcmFtaW5nIFRJTllJTlQoMSkgREVGQVVMVCAnMCcgTk9UIE5VTEwsCiAgcHVibGlzaGVkICAgICAgREFURVRJTUUgICAgICAgICAgICAgICBOVUxMLAogIHB1Ymxpc2hlciAgICAgIFZBUkNIQVIoMTAwMCkgICAgICAgICAgTlVMTCwKICByZXZpc2lvbiAgICAgICBJTlQgREVGQVVMVCAnMCcgICAgICAgIE5VTEwsCiAgdGl0bGUgICAgICAgICAgVkFSQ0hBUigxMDAwKSAgICAgICAgICBOVUxMLAogIG9yaWdpbl90aXRsZSAgIFZBUkNIQVIoMTAwMCkgICAgICAgICAgTlVMTCwKICB1c2VyX2lkICAgICAgICBJTlQgICAgICAgICAgICAgICAgICAgIE5VTEwsCiAgc3VtbWFyeSAgICAgICAgVEVYVCAgICAgICAgICAgICAgICAgICBOVUxMLAogIGltYWdlICAgICAgICAgIFZBUkNIQVIoMTAwMCkgICAgICAgICAgTlVMTCwKICB0bXBfaWQgICAgICAgICBJTlQgICAgICAgICAgICAgICAgICAgIE5VTEwsCiAgY2Fub25pY2FsX2xpbmsgVkFSQ0hBUigyMDAwKSAgICAgICAgICBOVUxMCikKICBFTkdJTkUgPSBJbm5vREIKICBDSEFSU0VUID0gdXRmODsKCgotLSBhdXRvLWdlbmVyYXRlZCBkZWZpbml0aW9uCkNSRUFURSBUQUJMRSBwaWNrcwooCiAgaWQgICAgICBJTlQgQVVUT19JTkNSRU1FTlQKICAgIFBSSU1BUlkgS0VZLAogIHVzZXJfaWQgSU5UICAgICAgICAgICAgIE5PVCBOVUxMLAogIG5ld3NfaWQgSU5UICAgICAgICAgICAgIE5PVCBOVUxMLAogIHBpY2tlZCAgREFURVRJTUUgICAgICAgIE5PVCBOVUxMLAogIHZlcnNpb24gSU5UIERFRkFVTFQgJzEnIE5VTEwsCiAgY29tbWVudCBURVhUICAgICAgICAgICAgTlVMTCwKICB0bXBfaWQgIElOVCAgICAgICAgICAgICBOVUxMCikKICBFTkdJTkUgPSBJbm5vREIKICBDSEFSU0VUID0gdXRmODsKCgotLSBhdXRvLWdlbmVyYXRlZCBkZWZpbml0aW9uCkNSRUFURSBUQUJMRSBsaWtlcwooCiAgaWQgICAgICBJTlQgQVVUT19JTkNSRU1FTlQKICAgIFBSSU1BUlkgS0VZLAogIGNyZWF0ZWQgREFURVRJTUUgTk9UIE5VTEwsCiAgdXBkYXRlZCBEQVRFVElNRSBOT1QgTlVMTCwKICBuZXdzX2lkIElOVCAgICAgIE5PVCBOVUxMLAogIHBpY2tfaWQgSU5UICAgICAgTk9UIE5VTEwsCiAgdXNlcl9pZCBJTlQgICAgICBOT1QgTlVMTCwKICBDT05TVFJBSU5UIGxpa2VzX25ld3NfaWRfZmsKICBGT1JFSUdOIEtFWSAobmV3c19pZCkgUkVGRVJFTkNFUyBuZXdzIChpZCkKICAgIE9OIFVQREFURSBDQVNDQURFCiAgICBPTiBERUxFVEUgQ0FTQ0FERSwKICBDT05TVFJBSU5UIGxpa2VzX3BpY2tzX2lkX2ZrCiAgRk9SRUlHTiBLRVkgKHBpY2tfaWQpIFJFRkVSRU5DRVMgcGlja3MgKGlkKQogICAgT04gVVBEQVRFIENBU0NBREUKICAgIE9OIERFTEVURSBDQVNDQURFLAogIENPTlNUUkFJTlQgbGlrZXNfdXNlcnNfaWRfZmsKICBGT1JFSUdOIEtFWSAodXNlcl9pZCkgUkVGRVJFTkNFUyB1c2VycyAoaWQpCiAgICBPTiBVUERBVEUgQ0FTQ0FERQogICAgT04gREVMRVRFIENBU0NBREUKKQogIEVOR0lORSA9IElubm9EQjsKCkNSRUFURSBJTkRFWCBsaWtlc19uZXdzX2lkX2ZrCiAgT04gbGlrZXMgKG5ld3NfaWQpOwoKQ1JFQVRFIElOREVYIGxpa2VzX3BpY2tzX2lkX2ZrCiAgT04gbGlrZXMgKHBpY2tfaWQpOwoKQ1JFQVRFIElOREVYIGxpa2VzX3VzZXJzX2lkX2ZrCiAgT04gbGlrZXMgKHVzZXJfaWQpOwoKCi0tIGF1dG8tZ2VuZXJhdGVkIGRlZmluaXRpb24KQ1JFQVRFIFRBQkxFIGZvbGxvd2VycwooCiAgaWQgICAgICBJTlQgQVVUT19JTkNSRU1FTlQKICAgIFBSSU1BUlkgS0VZLAogIGZyb21faWQgSU5UICAgICAgICAgICAgIE5PVCBOVUxMLAogIHRvX2lkICAgSU5UICAgICAgICAgICAgIE5PVCBOVUxMLAogIHZlcnNpb24gSU5UIERFRkFVTFQgJzAnIE5PVCBOVUxMLAogIGBpbmRleGAgSU5UIERFRkFVTFQgJzAnIE5PVCBOVUxMLAogIENPTlNUUkFJTlQgZm9sbG93ZXJzX3VzZXJzX2lkX2ZrCiAgRk9SRUlHTiBLRVkgKGZyb21faWQpIFJFRkVSRU5DRVMgdXNlcnMgKGlkKQogICAgT04gVVBEQVRFIENBU0NBREUKICAgIE9OIERFTEVURSBDQVNDQURFLAogIENPTlNUUkFJTlQgZm9sbG93ZXJzX3VzZXJzX2lkX2ZrMgogIEZPUkVJR04gS0VZICh0b19pZCkgUkVGRVJFTkNFUyB1c2VycyAoaWQpCiAgICBPTiBVUERBVEUgQ0FTQ0FERQogICAgT04gREVMRVRFIENBU0NBREUKKQogIEVOR0lORSA9IElubm9EQjsKCkNSRUFURSBJTkRFWCBmb2xsb3dlcnNfdXNlcnNfaWRfZmsKICBPTiBmb2xsb3dlcnMgKGZyb21faWQpOwoKQ1JFQVRFIElOREVYIGZvbGxvd2Vyc191c2Vyc19pZF9mazIKICBPTiBmb2xsb3dlcnMgKHRvX2lkKTsKCgotLSBhdXRvLWdlbmVyYXRlZCBkZWZpbml0aW9uCkNSRUFURSBUQUJMRSBub3RpZmljYXRpb25zCigKICBpZCAgICAgICBJTlQgQVVUT19JTkNSRU1FTlQKICAgIFBSSU1BUlkgS0VZLAogIHVzZXJfaWQgIElOVCAgICAgICAgICBOT1QgTlVMTCwKICBub3RpZmllZCBEQVRFVElNRSAgICAgTk9UIE5VTEwsCiAgdHlwZSAgICAgVkFSQ0hBUigyMCkgIE5PVCBOVUxMLAogIGRhdGEgICAgIFZBUkNIQVIoNTAwKSBOVUxMLAogIENPTlNUUkFJTlQgbm90aWZpY2F0aW9uc191c2Vyc19pZF9mawogIEZPUkVJR04gS0VZICh1c2VyX2lkKSBSRUZFUkVOQ0VTIHVzZXJzIChpZCkKICAgIE9OIFVQREFURSBDQVNDQURFCiAgICBPTiBERUxFVEUgQ0FTQ0FERQopCiAgRU5HSU5FID0gSW5ub0RCOwoKQ1JFQVRFIElOREVYIG5vdGlmaWNhdGlvbnNfdXNlcnNfaWRfZmsKICBPTiBub3RpZmljYXRpb25zICh1c2VyX2lkKTsKCgotLSBhdXRvLWdlbmVyYXRlZCBkZWZpbml0aW9uCkNSRUFURSBUQUJMRSB0aW1lbGluZXMKKAogIGlkICAgICAgICAgIElOVCBBVVRPX0lOQ1JFTUVOVAogICAgUFJJTUFSWSBLRVksCiAgbmV3c19pZCAgICAgSU5UICAgICAgTlVMTCwKICBwaWNrZWQgICAgICBEQVRFVElNRSBOVUxMLAogIHVzZWZ1bF9waWNrIElOVCAgICAgIE5VTEwsCiAgdGltZWxpbmUgICAgSU5UICAgICAgTk9UIE5VTEwsCiAgQ09OU1RSQUlOVCB0aW1lbGluZXNfbmV3c19pZF9mawogIEZPUkVJR04gS0VZIChuZXdzX2lkKSBSRUZFUkVOQ0VTIG5ld3MgKGlkKQogICAgT04gVVBEQVRFIENBU0NBREUKICAgIE9OIERFTEVURSBDQVNDQURFLAogIENPTlNUUkFJTlQgdGltZWxpbmVzX3VzZXJzX2lkX2ZrCiAgRk9SRUlHTiBLRVkgKHRpbWVsaW5lKSBSRUZFUkVOQ0VTIHVzZXJzIChpZCkKICAgIE9OIFVQREFURSBDQVNDQURFCiAgICBPTiBERUxFVEUgQ0FTQ0FERQopCiAgRU5HSU5FID0gSW5ub0RCOwoKQ1JFQVRFIElOREVYIHRpbWVsaW5lc19uZXdzX2lkX2ZrCiAgT04gdGltZWxpbmVzIChuZXdzX2lkKTsKCkNSRUFURSBJTkRFWCB0aW1lbGluZXNfdXNlcnNfaWRfZmsKICBPTiB0aW1lbGluZXMgKHRpbWVsaW5lKTsKCgotLSBhdXRvLWdlbmVyYXRlZCBkZWZpbml0aW9uCkNSRUFURSBUQUJMRSB0aW1lbGluZV9jb21tZW50cwooCiAgaWQgICAgICAgICAgSU5UIEFVVE9fSU5DUkVNRU5UCiAgICBQUklNQVJZIEtFWSwKICB0aW1lbGluZV9pZCBJTlQgTk9UIE5VTEwsCiAgcGlja19pZCAgICAgSU5UIE5PVCBOVUxMLAogIENPTlNUUkFJTlQgdGltZWxpbmVfY29tbWVudHNfdGltZWxpbmVzX2lkX2ZrCiAgRk9SRUlHTiBLRVkgKHRpbWVsaW5lX2lkKSBSRUZFUkVOQ0VTIHRpbWVsaW5lcyAoaWQpCiAgICBPTiBVUERBVEUgQ0FTQ0FERQogICAgT04gREVMRVRFIENBU0NBREUsCiAgQ09OU1RSQUlOVCB0aW1lbGluZV9jb21tZW50c19waWNrc19pZF9mawogIEZPUkVJR04gS0VZIChwaWNrX2lkKSBSRUZFUkVOQ0VTIHBpY2tzIChpZCkKICAgIE9OIFVQREFURSBDQVNDQURFCiAgICBPTiBERUxFVEUgQ0FTQ0FERQopCiAgRU5HSU5FID0gSW5ub0RCOwoKQ1JFQVRFIElOREVYIHRpbWVsaW5lX2NvbW1lbnRzX3RpbWVsaW5lc19pZF9mawogIE9OIHRpbWVsaW5lX2NvbW1lbnRzICh0aW1lbGluZV9pZCk7CgpDUkVBVEUgSU5ERVggdGltZWxpbmVfY29tbWVudHNfcGlja3NfaWRfZmsKICBPTiB0aW1lbGluZV9jb21tZW50cyAocGlja19pZCk7CgoKLS0gYXV0by1nZW5lcmF0ZWQgZGVmaW5pdGlvbgpDUkVBVEUgVEFCTEUgdGltZWxpbmVfcGlja3MKKAogIGlkICAgICAgICAgIElOVCBBVVRPX0lOQ1JFTUVOVAogICAgUFJJTUFSWSBLRVksCiAgdGltZWxpbmVfaWQgSU5UIE5PVCBOVUxMLAogIHBpY2tfaWQgICAgIElOVCBOT1QgTlVMTCwKICBDT05TVFJBSU5UIHRpbWVsaW5lX3BpY2tzX3RpbWVsaW5lc19pZF9mawogIEZPUkVJR04gS0VZICh0aW1lbGluZV9pZCkgUkVGRVJFTkNFUyB0aW1lbGluZXMgKGlkKQogICAgT04gVVBEQVRFIENBU0NBREUKICAgIE9OIERFTEVURSBDQVNDQURFLAogIENPTlNUUkFJTlQgdGltZWxpbmVfcGlja3NfcGlja3NfaWRfZmsKICBGT1JFSUdOIEtFWSAocGlja19pZCkgUkVGRVJFTkNFUyBwaWNrcyAoaWQpCiAgICBPTiBVUERBVEUgQ0FTQ0FERQogICAgT04gREVMRVRFIENBU0NBREUKKQogIEVOR0lORSA9IElubm9EQjsKCkNSRUFURSBJTkRFWCB0aW1lbGluZV9waWNrc190aW1lbGluZXNfaWRfZmsKICBPTiB0aW1lbGluZV9waWNrcyAodGltZWxpbmVfaWQpOwoKQ1JFQVRFIElOREVYIHRpbWVsaW5lX3BpY2tzX3BpY2tzX2lkX2ZrCiAgT04gdGltZWxpbmVfcGlja3MgKHBpY2tfaWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlDYWNoZTo6Y2xlYXIoKTsK</text>
+        <text encoding="base64">44OU44OD44Kv44GM5YmK6Zmk5Ye65p2l44Gq44GE5LiN5YW35ZCI5L+u5q2jCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V29ya2Vy44Gr5a++5b+cCg==</text>
+        <text encoding="base64">CQkJCSAgICBpZigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlDYWNoZTo6ZGVsZXRlKCJuZXdzX2JvZHlfIiAuICRuZXdzX2lkKTsK</text>
+        <text encoding="base64">CQkJCS5hZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlDYWNoZTo6Y2xlYXIoKTsK</text>
+        <text encoding="base64">CQkJCQlpZihuZXdzVGFnUmVwb3NpdG9yeS5maSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CQlDYWNoZTo6Y2xlYXIoKTsK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUICogZnJvbSAK</text>
+        <text encoding="base64">CQlDYWNoZTo6Y2xlYXIoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlTZXNzZWkK</text>
+        <text encoding="base64">TGlrZeOBjOWLleS9nOOBl+OBquOBhOS4jeWFt+WQiOS/ruatowo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQlDYWNoZTo6Y2xlYXIoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
+        <text encoding="base64">V29ya2Vy44Gr5a++5b+cCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>like</last-search>
+      <last-search>add</last-search>
       <last-offset />
-      <last-pattern>like</last-pattern>
+      <last-pattern>add</last-pattern>
       <last-replace>asks</last-replace>
       <last-substitute>bids</last-substitute>
       <last-dir>1</last-dir>
@@ -2857,9 +2875,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2lubWFuXD4=</entry>
-        <entry>lib</entry>
-        <entry>gson</entry>
         <entry encoding="base64">XDxtYXBwZXJcPg==</entry>
         <entry>bids</entry>
         <entry encoding="base64">XDxzaXplXD4=</entry>
@@ -2877,9 +2892,11 @@
         <entry encoding="base64">XDxvcmRlckJ5UHViTnViXD4=</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry>like</entry>
+        <entry>pick</entry>
+        <entry encoding="base64">XDx1c2VySWRcPg==</entry>
+        <entry>add</entry>
       </history-search>
       <history-cmd>
-        <entry>25</entry>
         <entry>34</entry>
         <entry>262</entry>
         <entry>%d</entry>
@@ -2898,6 +2915,7 @@
         <entry encoding="base64">JzwsJz5zL2JpZHMvYXNrcy9n</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>861,871y</entry>
+        <entry>32,229y</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
