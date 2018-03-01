@@ -786,12 +786,12 @@
         <mark key="^" line="2" column="83" />
         <mark key="." line="2" column="83" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1519819862794">
-        <mark key="'" line="1214" column="13" />
-        <mark key="[" line="1303" column="7" />
-        <mark key="]" line="1305" column="13" />
-        <mark key="." line="1305" column="13" />
-        <mark key="^" line="1305" column="13" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1519883086820">
+        <mark key="'" line="1287" column="0" />
+        <mark key="[" line="1334" column="6" />
+        <mark key="]" line="1334" column="14" />
+        <mark key="." line="1334" column="14" />
+        <mark key="^" line="1334" column="14" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/bootstrap/Bootstrap.java" timestamp="1519723158257">
         <mark key="[" line="117" column="57" />
@@ -2684,8 +2684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="47" filename="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.1/gson-2.1-sources.jar!/com/google/gson/internal/Primitives.java" />
-      <jump line="182" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="111" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="176" column="81" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="179" column="34" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
@@ -2784,6 +2782,8 @@
       <jump line="92" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
       <jump line="508" column="9" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
       <jump line="509" column="20" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
+      <jump line="1318" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="1287" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2803,7 +2803,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>F.id=20</text>
       </register>
       <register name="/" type="4">
         <text>like</text>
@@ -2812,34 +2812,34 @@
         <text encoding="base64">Qml0Rmx5ZXJQcm9wZXJ0aWVzLm9yZGVyUG9zaXRpb25zPTcwLDE0MCwyODAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlTZXNzZWkK</text>
+        <text encoding="base64">U0VMRUNUICogZnJvbSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlDYWNoZTo6Y2xlYXIoKTsK</text>
+        <text encoding="base64">CQlTZXNzZWkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
+        <text encoding="base64">CQlDYWNoZTo6Y2xlYXIoKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkdXJsKTtkaWUoKTsK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGtlZXBSYXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBCLmNyZWF0ZWRfYXQsCiAgVU5JWF9USU1FU1RBTVAoQS5jcmVhdGVkX2F0KSAtIFVOSVhfVElNRVNUQU1QKEIuY3JlYXRlZF9hdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGtlZXBSYXRlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
