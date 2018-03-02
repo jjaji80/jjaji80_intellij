@@ -873,12 +873,12 @@
         <mark key="." line="23" column="26" />
         <mark key="^" line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/NewsHibernateRepository.java" timestamp="1519967744543">
-        <mark key="'" line="75" column="8" />
-        <mark key="[" line="89" column="38" />
-        <mark key="]" line="89" column="41" />
-        <mark key="." line="89" column="41" />
-        <mark key="^" line="89" column="41" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/NewsHibernateRepository.java" timestamp="1519970656454">
+        <mark key="'" line="71" column="8" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="82" column="68" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-tools/src/main/java/com/newspicks/tools/CalcHistoricalTop20.java" timestamp="1516094301807">
         <mark key="[" line="33" column="0" />
@@ -2913,43 +2913,43 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>EAGER</text>
+        <text>(&quot;user&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>pick</text>
       </register>
-      <register name="0" type="4">
-        <text>FetchType.EAGER</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjcml0ZXJpYS5jcmVhdGVBbGlhcygibi5waWNrTGlzdCIsICJwaWNrIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0UHJvamVjdGlvbihQcm9qZWN0aW9ucy5kaXN0aW5jdChQcm9qZWN0aW9ucy5pZCgpKSkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0UHJvamVjdGlvbihQcm9qZWN0aW9ucy5kaXN0aW5jdChQcm9qZWN0aW9ucy5pZCgpKSkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uZXdzcGlja3MucmVwb3NpdG9yeS51c2VyLlVzZXJSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxQaWNrPiBnZXREYXRhKExpc3Q8SW50ZWdlcj4gaWRMaXN0KXsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgVXNlclJlcG9zaXRvcnkgdXNlclJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0UmVzdWx0VHJhbnNmb3JtZXIoQ3JpdGVyaWEuRElTVElOQ1RfUk9PVF9FTlRJVFkpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8T2JqZWN0W10+IHJhbmtlZCA9IHVzZXJSZXBvc2l0b3J5LmxvYWRSYW5raW5nKDAsIDEwKTsKLy8gICAgICAgIExpc3Q8SW50ZWdlcj4gaWRzID0gbmV3IEFycmF5TGlzdDxJbnRlZ2VyPigpOwovLyAgICAgICAgZm9yKE9iamVjdFtdIG8gOiByYW5rZWQpCi8vICAgICAgICAgICAgaWRzLmFkZCgoSW50ZWdlcikgb1swXSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNyaXRlcmlhLmFkZChSZXN0cmljdGlvbnMuaW4oInBpY2sudXNlcklkIiwgaWRzKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0UmVzdWx0VHJhbnNmb3JtZXIoQ3JpdGVyaWEuRElTVElOQ1RfUk9PVF9FTlRJVFkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0UHJvamVjdGlvbihQcm9qZWN0aW9ucy5kaXN0aW5jdChQcm9qZWN0aW9ucy5pZCgpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0U2Vzc2lvbigpLmNyZWF0ZUNyaXRlcmlhKGMpCiAgICAgICAgICAgICAgICAuYWRkKFJlc3RyaWN0aW9ucy5pbigiIikpCiAgICAgICAgICAgICAgICAuYWRkT3JkZXIoT3JkZXIuZGVzYygiaWQiKSkuc2V0TWF4UmVzdWx0cyhsaW1pdCkubGlzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0UHJvamVjdGlvbihQcm9qZWN0aW9ucy5kaXN0aW5jdChQcm9qZWN0aW9ucy5pZCgpKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDcmkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxQaWNrPiBnZXREYXRhKExpc3Q8SW50ZWdlcj4gaWRMaXN0KXsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
