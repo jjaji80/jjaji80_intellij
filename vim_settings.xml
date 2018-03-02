@@ -105,6 +105,12 @@
         <mark key="." line="37" column="77" />
         <mark key="^" line="37" column="77" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" timestamp="1519898119839">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="258" column="0" />
+        <mark key="." line="258" column="0" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoinCheckProperties.kt" timestamp="1518518145603">
         <mark key="[" line="4" column="27" />
         <mark key="]" line="4" column="43" />
@@ -553,6 +559,12 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1519897975649">
+        <mark key="'" line="61" column="11" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/Vendor/ruflin/elastica/lib/Elastica/Transport/AbstractTransport.php" timestamp="1504666339125">
         <mark key="[" line="60" column="20" />
         <mark key="]" line="60" column="32" />
@@ -618,6 +630,12 @@
         <mark key="]" line="14" column="86" />
         <mark key="." line="14" column="86" />
         <mark key="^" line="14" column="86" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/TimelineService.java" timestamp="1519953400331">
+        <mark key="'" line="422" column="0" />
+        <mark key="[" line="422" column="0" />
+        <mark key="]" line="422" column="0" />
+        <mark key="." line="422" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-categorizer/src/main/java/com/newspicks/categorizer/features/FeatureGenerator.java" timestamp="1517814070592">
         <mark key="[" line="16" column="0" />
@@ -2871,7 +2889,7 @@
         <text>1.0</text>
       </register>
       <register name="/" type="4">
-        <text>email</text>
+        <text>getTime</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IWlzc2V0KCRkYXRhWyJuZXdzX2xhdGVzdCJdLT5zdW1tYXJpZXNbJGtleV0tPmNvbW1lbnQp</text>
@@ -2911,9 +2929,9 @@
       </register>
     </registers>
     <search>
-      <last-search>email</last-search>
+      <last-search>getTime</last-search>
       <last-offset />
-      <last-pattern>email</last-pattern>
+      <last-pattern>getTime</last-pattern>
       <last-replace>asks</last-replace>
       <last-substitute>bids</last-substitute>
       <last-dir>1</last-dir>
@@ -2921,7 +2939,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Device</entry>
         <entry>Twil</entry>
         <entry>twi</entry>
         <entry>lead</entry>
@@ -2941,6 +2958,7 @@
         <entry>news</entry>
         <entry>last</entry>
         <entry>email</entry>
+        <entry>getTime</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
