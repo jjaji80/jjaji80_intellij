@@ -527,7 +527,7 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1519985785996">
+      <file name="/dummy.sql" timestamp="1519989680265">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -545,7 +545,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519982367285">
+      <file name="/Dummy.txt" timestamp="1519989228445">
         <mark key="'" line="1" column="16" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -851,6 +851,9 @@
         <mark key="]" line="30" column="0" />
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-release/logback.xml" timestamp="1519988987720">
+        <mark key="'" line="47" column="18" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/model/sqs/PropagateTimelineDto.java" timestamp="1518009844708">
         <mark key="[" line="22" column="25" />
@@ -1674,12 +1677,12 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" timestamp="1519984412542">
-        <mark key="'" line="438" column="0" />
-        <mark key="[" line="434" column="52" />
-        <mark key="]" line="752" column="0" />
-        <mark key="^" line="752" column="0" />
-        <mark key="." line="752" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" timestamp="1519987840878">
+        <mark key="'" line="720" column="0" />
+        <mark key="[" line="754" column="44" />
+        <mark key="]" line="756" column="33" />
+        <mark key="^" line="756" column="33" />
+        <mark key="." line="756" column="33" />
       </file>
       <file name="$USER_HOME$/git/coinman/src/coinman/service/coincheck/Open.kt" timestamp="1500711062090">
         <mark key="[" line="5" column="0" />
@@ -2778,8 +2781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="3" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
-      <jump line="16" column="6" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="27" column="12" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="123" column="49" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="159" column="20" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
@@ -2878,6 +2879,8 @@
       <jump line="390" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
       <jump line="427" column="58" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
       <jump line="438" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
+      <jump line="720" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
+      <jump line="47" column="18" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-release/logback.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2900,7 +2903,7 @@
         <text>news WHERE cr</text>
       </register>
       <register name="/" type="4">
-        <text>pick</text>
+        <text encoding="base64">XDxFUlJPUlw+</text>
       </register>
       <register name="0" type="4">
         <text>production-cluster.cluster-ci9znf4p6ffv.ap-northeast-1.rds.amazonaws.com</text>
@@ -2936,13 +2939,13 @@
         <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxQaWNrPiBnZXREYXRhKExpc3Q8SW50ZWdlcj4gaWRMaXN0KXsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>61</text>
+        <text>281</text>
       </register>
     </registers>
     <search>
-      <last-search>pick</last-search>
+      <last-search encoding="base64">XDxFUlJPUlw+</last-search>
       <last-offset />
-      <last-pattern>pick</last-pattern>
+      <last-pattern encoding="base64">XDxFUlJPUlw+</last-pattern>
       <last-replace>refs</last-replace>
       <last-substitute>fixed</last-substitute>
       <last-dir>1</last-dir>
@@ -2950,7 +2953,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hazuki615</entry>
         <entry encoding="base64">XDxvcmRlckJ5UHViTnViXD4=</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry>like</entry>
@@ -2970,9 +2972,9 @@
         <entry encoding="base64">XDxsaWtlTGlzdFw+</entry>
         <entry>fixed</entry>
         <entry>pick</entry>
+        <entry encoding="base64">XDxFUlJPUlw+</entry>
       </history-search>
       <history-cmd>
-        <entry>%y</entry>
         <entry>107</entry>
         <entry>2</entry>
         <entry>%s/web.b/newspicks.b</entry>
@@ -2992,6 +2994,7 @@
         <entry>68</entry>
         <entry>w</entry>
         <entry>61</entry>
+        <entry>281</entry>
       </history-cmd>
       <history-expr />
       <history-input />
