@@ -567,7 +567,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520255919617">
+      <file name="/Dummy.txt" timestamp="1520256925821">
         <mark key="'" line="1" column="16" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -798,6 +798,13 @@
         <mark key="]" line="47" column="23" />
         <mark key="." line="47" column="23" />
         <mark key="^" line="47" column="23" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/PickRepository.java" timestamp="1520257003336">
+        <mark key="'" line="78" column="42" />
+        <mark key="[" line="82" column="47" />
+        <mark key="]" line="82" column="51" />
+        <mark key="." line="82" column="51" />
+        <mark key="^" line="82" column="51" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Testing/const.php" timestamp="1504244064666">
         <mark key="[" line="3" column="47" />
@@ -1772,12 +1779,6 @@
         <mark key="^" line="15" column="73" />
         <mark key="." line="15" column="73" />
       </file>
-      <file name="$USER_HOME$/ora_sp/android/app/src/main/AndroidManifest.xml" timestamp="1519818954876">
-        <mark key="'" line="15" column="55" />
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/FreeMigrationController.kt" timestamp="1516187193448">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="19" />
@@ -1825,7 +1826,7 @@
       <file name="$USER_HOME$/git/utel/app/webroot/js/admin/common.js" timestamp="1519799977050">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/PickService.java" timestamp="1520254668826">
+      <file name="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/PickService.java" timestamp="1520256925069">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="12" />
         <mark key="." line="19" column="12" />
@@ -1893,12 +1894,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="10" column="26" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacySelfController.java" timestamp="1520235600707">
-        <mark key="'" line="294" column="22" />
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="225" column="0" />
-        <mark key="." line="225" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsTagService.java" timestamp="1519890076995">
         <mark key="'" line="68" column="20" />
@@ -2696,12 +2691,6 @@
         <mark key="^" line="473" column="31" />
         <mark key="." line="473" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/pom.xml" timestamp="1520070116788">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/git/utel/app/src/Shell/ScheduleShell.php" timestamp="1508759858384">
         <mark key="[" line="39" column="7" />
         <mark key="]" line="39" column="21" />
@@ -2863,7 +2852,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Config/Env/Production/database.php" />
       <jump line="389" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/console.sql" />
       <jump line="390" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
@@ -2963,6 +2951,7 @@
       <jump line="29" column="20" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" />
       <jump line="31" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" />
       <jump line="34" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" />
+      <jump line="78" column="42" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/PickRepository.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2982,10 +2971,10 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>Collection</text>
+        <text>Pro</text>
       </register>
       <register name="/" type="4">
-        <text>sections</text>
+        <text encoding="base64">XDxuZXdzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRvUGlja0R0b3MocGlja1NlcnZpY2UuZ2V0Rm9sbG93aW5nc1BpY2tzKG5ld3MpLCBzb3J0aW5nLCBvcmRlcik7Cg==</text>
@@ -3025,9 +3014,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sections</last-search>
+      <last-search encoding="base64">XDxuZXdzXD4=</last-search>
       <last-offset />
-      <last-pattern>sections</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdzXD4=</last-pattern>
       <last-replace>refs</last-replace>
       <last-substitute>fixed</last-substitute>
       <last-dir>1</last-dir>
@@ -3035,7 +3024,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exposed</entry>
         <entry>apac</entry>
         <entry>push</entry>
         <entry encoding="base64">XDxjbGVhck9yZGVyXD4=</entry>
@@ -3055,6 +3043,7 @@
         <entry encoding="base64">XDxnZXRfdGFnc19hbGxcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X3RhZ3NcPg==</entry>
         <entry>sections</entry>
+        <entry encoding="base64">XDxuZXdzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>220</entry>
