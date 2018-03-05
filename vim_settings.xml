@@ -1424,11 +1424,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="32" column="37" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/user/FollowerHibernateRepository.java" timestamp="1518656785904">
-        <mark key="[" line="55" column="8" />
-        <mark key="]" line="61" column="8" />
-        <mark key="." line="62" column="27" />
-        <mark key="^" line="62" column="27" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/user/FollowerHibernateRepository.java" timestamp="1520249817645">
+        <mark key="[" line="18" column="54" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+        <mark key="^" line="19" column="39" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-tools/src/main/java/com/newspicks/tools/LoadLongineOldData.java" timestamp="1517814370304">
         <mark key="[" line="52" column="24" />
@@ -2757,11 +2757,11 @@
         <mark key="^" line="0" column="67" />
         <mark key="." line="0" column="67" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/FollowService.java" timestamp="1520227060258">
-        <mark key="[" line="86" column="32" />
-        <mark key="]" line="86" column="35" />
-        <mark key="." line="86" column="35" />
-        <mark key="^" line="86" column="35" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/FollowService.java" timestamp="1520249660377">
+        <mark key="[" line="64" column="23" />
+        <mark key="]" line="64" column="24" />
+        <mark key="." line="64" column="24" />
+        <mark key="^" line="64" column="24" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-testing02/datasource.properties" timestamp="1519727083077">
         <mark key="[" line="8" column="34" />
@@ -2902,43 +2902,43 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>judgePrice</text>
+        <text>limit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFkZU1hbmFnZW1lbnRTZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZGVidWcobm93UHJpY2UtanVkZ2VQcmljZSkK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PEZvbGxvd2VyPiBmaW5kQnlGcm9tKEludGVnZXIgdXNlcklkLEludGVnZXIgbGltaXQpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZGVidWcoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZGVidWcoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZihzaWRlKCkgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHBvc2l0aW9uTGlzdC5taW5Pck1heFByaWNlKCkgKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZihzaWRlKCkgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHBvc2l0aW9uTGlzdC5wb3NpdGlvbkxpc3QubGFzdCgpLnByaWNlICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHBvc2l0aW9uTGlzdC5taW5Pck1heFByaWNlKCkgKQo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHBvc2l0aW9uTGlzdC5wb3NpdGlvbkxpc3QubGFzdCgpLnByaWNlICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHBvc2l0aW9uTGlzdC5wb3NpdGlvbkxpc3QubGFzdCgpLikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG9yZGVyUG9zaXRpb25zLikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHBvc2l0aW9uTGlzdC5wb3NpdGlvbkxpc3QubGFzdCgpLikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihsaW1pdCAhPW51bGwgJiYgbGltaXQgPiA1MCkKICAgICAgICAgICAgbGltaXQgPSA1MDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG9yZGVyUG9zaXRpb25zLikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
