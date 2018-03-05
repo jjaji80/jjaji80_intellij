@@ -891,9 +891,6 @@
         <mark key="^" line="83" column="41" />
         <mark key="." line="83" column="41" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeManagementService.kt" timestamp="1520060928749">
-        <mark key="'" line="69" column="8" />
-      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-tools/src/main/java/com/newspicks/tools/CalcHistoricalTop20.java" timestamp="1516094301807">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -1645,12 +1642,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1520232004818">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1520232629833">
         <mark key="'" line="55" column="28" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="31" />
-        <mark key="." line="163" column="0" />
-        <mark key="^" line="166" column="30" />
+        <mark key="[" line="342" column="65" />
+        <mark key="]" line="342" column="66" />
+        <mark key="." line="342" column="66" />
+        <mark key="^" line="342" column="66" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/index.html" timestamp="1519254051193">
         <mark key="[" line="42" column="71" />
@@ -1865,8 +1862,12 @@
         <mark key="^" line="10" column="26" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacySelfController.java" timestamp="1520226561106">
-        <mark key="'" line="294" column="22" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacySelfController.java" timestamp="1520233847120">
+        <mark key="'" line="298" column="22" />
+        <mark key="[" line="237" column="20" />
+        <mark key="]" line="237" column="21" />
+        <mark key="^" line="237" column="21" />
+        <mark key="." line="237" column="21" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsTagService.java" timestamp="1519890076995">
         <mark key="'" line="68" column="20" />
@@ -2394,9 +2395,6 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/SummaryController.java" timestamp="1519992207051">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-worker/src/main/java/com/newspicks/worker/search/CommentLoader.java" timestamp="1517817707705">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -2563,9 +2561,6 @@
         <mark key="]" line="3" column="1" />
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/UserController.java" timestamp="1519968114125">
-        <mark key="'" line="110" column="40" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/form/PasswordForm.kt" timestamp="1520071235561" />
       <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/check.password.js" timestamp="1510042897983">
@@ -2927,43 +2922,43 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>positionList.side()</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>userTy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVtb3ZlTm90QWN0aXZlKHJldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihsaW1pdCAhPW51bGwgJiYgbGltaXQgPiAxMDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kaXZpZHVhbExvc3NDdXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZihsaW1pdD4gMTAwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kaXZpZHVhbExvc3NDdXQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY3V0U2l6ZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb25MaXN0Lgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY3V0U2l6ZSA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb25MaXN0Lgo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
