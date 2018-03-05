@@ -1645,12 +1645,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1520137115046">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1520232004818">
         <mark key="'" line="55" column="28" />
-        <mark key="[" line="69" column="97" />
-        <mark key="]" line="70" column="23" />
-        <mark key="." line="70" column="23" />
-        <mark key="^" line="70" column="23" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="31" />
+        <mark key="." line="163" column="0" />
+        <mark key="^" line="166" column="30" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/index.html" timestamp="1519254051193">
         <mark key="[" line="42" column="71" />
@@ -2927,7 +2927,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">T1JERVIgQlkg</text>
+        <text>positionList.side()</text>
       </register>
       <register name="/" type="4">
         <text>userTy</text>
@@ -2936,37 +2936,37 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVtb3ZlTm90QWN0aXZlKHJldCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kaXZpZHVhbExvc3NDdXQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY3V0U2l6ZSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb25MaXN0Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV0Owo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJPSyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyV2l0aENvdW50IHVzZXJXaXRoQ291bnQ9bmV3IFVzZXJXaXRoQ291bnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRTY2FsYXIoInVzZXJfdHlwZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyV2l0aENvdW50LnNldFUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3020,8 +3020,8 @@
         <entry>19,111y</entry>
         <entry>26</entry>
         <entry>236</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
