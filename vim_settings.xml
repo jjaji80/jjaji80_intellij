@@ -1617,12 +1617,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1520239508226">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1520244821434">
         <mark key="'" line="67" column="24" />
-        <mark key="[" line="337" column="53" />
-        <mark key="]" line="337" column="54" />
-        <mark key="." line="337" column="54" />
-        <mark key="^" line="342" column="66" />
+        <mark key="[" line="117" column="59" />
+        <mark key="]" line="117" column="58" />
+        <mark key="." line="117" column="58" />
+        <mark key="^" line="117" column="58" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/index.html" timestamp="1519254051193">
         <mark key="[" line="42" column="71" />
@@ -2605,6 +2605,12 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PositionList.kt" timestamp="1520244742387">
+        <mark key="[" line="97" column="12" />
+        <mark key="]" line="97" column="15" />
+        <mark key="." line="97" column="15" />
+        <mark key="^" line="97" column="15" />
+      </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1519803840445">
         <mark key="'" line="461" column="23" />
         <mark key="[" line="473" column="0" />
@@ -2896,43 +2902,43 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>minOrMaxPrice()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFkZU1hbmFnZW1lbnRTZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSB1c2VycwpXSEVSRSBtYWlsX2FkZHJlc3MgPSAnaW5mb0BtYW5nYS1uZXdzLmpwJzsK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc2lkZSA9IHNpZGUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZihsaW1pdCAhPW51bGwgJiYgbGltaXQgPiA1MCkKICAgICAgICAgICAgbGltaXQgPSA1MDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihsaW1pdCAhPW51bGwgJiYgbGltaXQgPiA1MCkKICAgICAgICAgICAgbGltaXQgPSA1MDsK</text>
+        <text encoding="base64">ICAgICAgICBpZihzaWRlKCkgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZihsaW1pdD4gMTAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHBvc2l0aW9uTGlzdC5taW5Pck1heFByaWNlKCkgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kaXZpZHVhbExvc3NDdXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHBvc2l0aW9uTGlzdC5wb3NpdGlvbkxpc3QubGFzdCgpLnByaWNlICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY3V0U2l6ZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHBvc2l0aW9uTGlzdC5wb3NpdGlvbkxpc3QubGFzdCgpLikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb25MaXN0Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG9yZGVyUG9zaXRpb25zLikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV0Owo=</text>
+        <text encoding="base64">ICAgICAgICBpZihsaW1pdCAhPW51bGwgJiYgbGltaXQgPiA1MCkKICAgICAgICAgICAgbGltaXQgPSA1MDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICBpZihsaW1pdCAhPW51bGwgJiYgbGltaXQgPiA1MCkKICAgICAgICAgICAgbGltaXQgPSA1MDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
