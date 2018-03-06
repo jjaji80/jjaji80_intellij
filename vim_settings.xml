@@ -10,12 +10,12 @@
         <mark key="^" line="38" column="25" />
         <mark key="." line="38" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" timestamp="1520353283295">
-        <mark key="'" line="79" column="1" />
-        <mark key="[" line="109" column="19" />
-        <mark key="]" line="109" column="17" />
-        <mark key="." line="109" column="17" />
-        <mark key="^" line="109" column="17" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" timestamp="1520353538464">
+        <mark key="'" line="136" column="15" />
+        <mark key="[" line="140" column="5" />
+        <mark key="]" line="140" column="13" />
+        <mark key="." line="140" column="13" />
+        <mark key="^" line="140" column="13" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" timestamp="1519283357419">
         <mark key="'" line="204" column="48" />
@@ -597,9 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="28" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="84" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="117" column="13" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="61" column="37" filename="$USER_HOME$/git/coinman_parent/pubnub/pom.xml" />
       <jump line="175" column="29" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
       <jump line="106" column="90" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
@@ -697,6 +694,9 @@
       <jump line="32" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="102" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="79" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="93" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="107" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="136" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -716,13 +716,17 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>webs</text>
+        <text encoding="base64">aGVhbHRocyA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbmVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGlkICAgICAgICAgQklHSU5UIEFVVE9fSU5DUkVNRU5UIFBSSU1BUlkgS0VZLAogIGFjY291bnRfaWQgQklHSU5UICAgICAgICAgICAgICAgICAgICAgICAgICAgICBOT1QgTlVMTCwKICBjcmVhdGVkX2F0IERBVEVUSU1FIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgTlVMTCwKICB1cGRhdGVkX2F0IERBVEVUSU1FIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgTlVMTCw=</text>
+        <text>COMMENT '健康に関して one to one'
+  CHARSET = utf8;
+
+CREATE INDEX to_account_fk
+  ON healths (account_id);</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBOQVRJT05BTAo=</text>
