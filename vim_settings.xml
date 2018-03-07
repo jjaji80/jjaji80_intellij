@@ -68,6 +68,12 @@
       <file name="$USER_HOME$/git/coinman_parent/pubnub/lib/pubnub-gson-4.18.0-all.jar!/com/pubnub/api/PubNub.class" timestamp="1519704524640">
         <mark key="'" line="275" column="20" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironDto.kt" timestamp="1520338682874">
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="31" />
+        <mark key="^" line="33" column="31" />
+        <mark key="." line="33" column="31" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/input1.html" timestamp="1520424145697">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="27" />
@@ -217,11 +223,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803072037_add_about_me.sql" timestamp="1520422694240">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="571" column="32" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/base/HibernateRepositoryBase.java" timestamp="1520255913962">
         <mark key="'" line="104" column="21" />
         <mark key="[" line="67" column="8" />
@@ -254,12 +255,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1520300076681">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1520434636752">
         <mark key="'" line="24" column="33" />
-        <mark key="[" line="365" column="93" />
-        <mark key="]" line="366" column="37" />
-        <mark key="." line="366" column="37" />
-        <mark key="^" line="366" column="37" />
+        <mark key="[" line="103" column="19" />
+        <mark key="]" line="103" column="19" />
+        <mark key="." line="103" column="19" />
+        <mark key="^" line="103" column="19" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1520337984414">
         <mark key="[" line="39" column="32" />
@@ -435,11 +436,6 @@
         <mark key="." line="162" column="0" />
         <mark key="^" line="166" column="17" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SwaggerConfig.kt" timestamp="1520341920761">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsTagService.java" timestamp="1519890076995">
         <mark key="'" line="68" column="20" />
         <mark key="[" line="56" column="89" />
@@ -479,6 +475,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/api/VironAuthtype.kt" timestamp="1520336714836">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="9" column="40" />
+        <mark key="^" line="9" column="40" />
+        <mark key="." line="9" column="40" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/static/swagger.json" timestamp="1520341033345">
         <mark key="[" line="0" column="0" />
@@ -538,6 +540,12 @@
         <mark key="." line="138" column="0" />
         <mark key="^" line="138" column="82" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/repository/UserRepository.kt" timestamp="1520341295072">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="52" />
+        <mark key="." line="4" column="52" />
+        <mark key="^" line="4" column="52" />
+      </file>
       <file name="/dummy.sql" timestamp="1520424993875">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -550,13 +558,19 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520425757034">
+      <file name="/Dummy.txt" timestamp="1520434645183">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/shareAccount/index.html" timestamp="1520425794317" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/OraApplication.kt" timestamp="1520392031240">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+        <mark key="^" line="8" column="34" />
+      </file>
       <file name="$USER_HOME$/git/ora/pom.xml" timestamp="1520344945867">
         <mark key="." line="93" column="26" />
       </file>
@@ -566,6 +580,12 @@
         <mark key="]" line="23" column="20" />
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/rest/UsersController.kt" timestamp="1520316815711">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="56" />
+        <mark key="." line="16" column="56" />
+        <mark key="^" line="16" column="56" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/api/UsersController.kt" timestamp="1520317628789">
         <mark key="[" line="16" column="26" />
@@ -578,6 +598,12 @@
         <mark key="]" line="64" column="24" />
         <mark key="." line="64" column="24" />
         <mark key="^" line="64" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironAuthtypeListDto.kt" timestamp="1520338459340">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+        <mark key="^" line="19" column="37" />
       </file>
       <file name="/fragment.java" timestamp="1520254806013">
         <mark key="[" line="0" column="0" />
@@ -716,34 +742,34 @@
         <text>message_record_edit.html</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5kaXZpZHVhbG5vdGViZXJlYXZlUmVwb3NpdG9yeS5maQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyb2FkY2FzdCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5kaXZpZHVhbG5vdGViZXJlYXZlUmVwb3NpdG9yeS5maQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBAT25lVG9NYW55KGNhc2NhZGUgPSBhcnJheU9mKENhc2NhZGVUeXBlLkFMTCksIG1hcHBlZEJ5ID0gImFjY291bnQiKQogICAgICAgIHZhciBpbmRpdmlkdWFsTm90ZUNhdGVnb3J5TGlzdDogTGlzdDxJbmRpdmlkdWFsTm90ZUNhdGVnb3J5Pj8gPSBudWxsLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYWNjb3VudDogQWNjb3VudCA9IEFjY291bnQoKSwK</text>
+        <text encoding="base64">ICAgICAgICBAT25lVG9NYW55KGNhc2NhZGUgPSBhcnJheU9mKENhc2NhZGVUeXBlLkFMTCksIG1hcHBlZEJ5ID0gImFjY291bnQiKQogICAgICAgIHZhciBpbmRpdmlkdWFsTm90ZUNhdGVnb3J5TGlzdDogTGlzdDxJbmRpdmlkdWFsTm90ZUNhdGVnb3J5Pj8gPSBudWxsLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Mjk3NzUK566h55CG55S76Z2i44Gu44K144Oz44OX44Or5qeL56+JCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgYWNjb3VudDogQWNjb3VudCA9IEFjY291bnQoKSwK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">Mjk3NzUK566h55CG55S76Z2i44Gu44K144Oz44OX44Or5qeL56+JCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CkNSRUFURSBUQUJMRSByZWFsX2VzdGF0ZSAoCiAgaWQgICAgICAgICAgICBCSUdJTlQgQVVUT19JTkNSRU1FTlQgUFJJTUFSWSBLRVksCiAgYWNjb3VudF9pZCAgICBCSUdJTlQgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE5PVCBOVUxMLAogIGNyZWF0ZWRfYXQgICAgREFURVRJTUUgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCBOVUxMLAogIHVwZGF0ZWRfYXQgICAgREFURVRJTUUgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCBOVUxMLAogIGFkZHJlc3MgICAgICAgVkFSQ0hBUigyNTQpICAgICAgICAgICAgICAgICAgICAgICBOVUxMLAogIHBhcmNlbF9udW1iZXIgVkFSQ0hBUigyNTQpICAgICAgICAgICAgICAgICAgICAgICBOVUxMCiAgQ09NTUVOVCAn5Zyw55WqL+WutuWxi+eVquWPtycsCiAgbGFuZF9jYXRlZ29yeSBWQVJDSEFSKDI1NCkgICAgICAgICAgICAgICAgICAgICAgIE5VTEwKICBDT01NRU5UICflnLDnm64v56iu6aGe44O76KO96YCgJywKICBlcXVpdHkgICAgICAgIFZBUkNIQVIoMjU0KSAgICAgICAgICAgICAgICAgICAgICAgTlVMTAogIENPTU1FTlQgJ+aMgeOBoeWIhicsCiAgbWVtbyAgICAgICAgICBURVhUICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE5VTEwKICBDT01NRU5UICfkvb/nlKjnrqHnkIbnirbms4HjgarjgaknLAogIENPTlNUUkFJTlQgdG9fcmVhbF9lc3RhdGVfYWNjb3VudF9mawogIEZPUkVJR04gS0VZIChhY2NvdW50X2lkKSBSRUZFUkVOQ0VTIGFjY291bnRzIChpZCkKICAgIE9OIERFTEVURSBDQVNDQURFCiAgICBPTiBVUERBVEUgQ0FTQ0FERQopCiAgQ09NTUVOVCAn6YGO5Y6744Gr5L2P44KT44Gg44GT44Go44Gu44GC44KL5L2P5omAJwogIENIQVJTRVQgPSB1dGY4OwoKQ1JFQVRFIElOREVYIHRvX3JlYWxfZXN0YXRlX2FjY291bnRfZmsKICBPTiByZWFsX2VzdGF0ZSAoYWNjb3VudF9pZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CkNSRUFURSBUQUJMRSBhZGRyZXNzZXMgKAogIGlkICAgICAgICAgQklHSU5UIEFVVE9fSU5DUkVNRU5UIFBSSU1BUlkgS0VZLAogIGFjY291bnRfaWQgQklHSU5UICAgICAgICAgICAgICAgICAgICAgICAgICAgICBOT1QgTlVMTCwKICBjcmVhdGVkX2F0IERBVEVUSU1FIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgTlVMTCwKICB1cGRhdGVkX2F0IERBVEVUSU1FIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgTlVMTCwKICBuYW1lICAgICAgIFZBUkNIQVIoMjU0KSAgICAgICAgICAgICAgICAgICAgICAgTlVMTCwKICBwb3N0X2NvZGUxIFZBUkNIQVIoMTApICAgICAgICAgICAgICAgICAgICAgICAgTlVMTCwKICBwb3N0X2NvZGUyIFZBUkNIQVIoMTApICAgICAgICAgICAgICAgICAgICAgICAgTlVMTCwKICBDT05TVFJBSU5UIHRvX2FkZHJlc3Nlc19hY2NvdW50X2ZrCiAgRk9SRUlHTiBLRVkgKGFjY291bnRfaWQpIFJFRkVSRU5DRVMgYWNjb3VudHMgKGlkKQogICAgT04gREVMRVRFIENBU0NBREUKICAgIE9OIFVQREFURSBDQVNDQURFCikKICBDT01NRU5UICfpgY7ljrvjgavkvY/jgpPjgaDjgZPjgajjga7jgYLjgovkvY/miYAnCiAgQ0hBUlNFVCA9IHV0Zjg7CgpDUkVBVEUgSU5ERVggdG9fYWRkcmVzc2VzX2FjY291bnRfZmsKICBPTiBhZGRyZXNzZXMgKGFjY291bnRfaWQpOwo=</text>
+        <text encoding="base64">CkNSRUFURSBUQUJMRSByZWFsX2VzdGF0ZSAoCiAgaWQgICAgICAgICAgICBCSUdJTlQgQVVUT19JTkNSRU1FTlQgUFJJTUFSWSBLRVksCiAgYWNjb3VudF9pZCAgICBCSUdJTlQgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE5PVCBOVUxMLAogIGNyZWF0ZWRfYXQgICAgREFURVRJTUUgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCBOVUxMLAogIHVwZGF0ZWRfYXQgICAgREFURVRJTUUgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCBOVUxMLAogIGFkZHJlc3MgICAgICAgVkFSQ0hBUigyNTQpICAgICAgICAgICAgICAgICAgICAgICBOVUxMLAogIHBhcmNlbF9udW1iZXIgVkFSQ0hBUigyNTQpICAgICAgICAgICAgICAgICAgICAgICBOVUxMCiAgQ09NTUVOVCAn5Zyw55WqL+WutuWxi+eVquWPtycsCiAgbGFuZF9jYXRlZ29yeSBWQVJDSEFSKDI1NCkgICAgICAgICAgICAgICAgICAgICAgIE5VTEwKICBDT01NRU5UICflnLDnm64v56iu6aGe44O76KO96YCgJywKICBlcXVpdHkgICAgICAgIFZBUkNIQVIoMjU0KSAgICAgICAgICAgICAgICAgICAgICAgTlVMTAogIENPTU1FTlQgJ+aMgeOBoeWIhicsCiAgbWVtbyAgICAgICAgICBURVhUICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE5VTEwKICBDT01NRU5UICfkvb/nlKjnrqHnkIbnirbms4HjgarjgaknLAogIENPTlNUUkFJTlQgdG9fcmVhbF9lc3RhdGVfYWNjb3VudF9mawogIEZPUkVJR04gS0VZIChhY2NvdW50X2lkKSBSRUZFUkVOQ0VTIGFjY291bnRzIChpZCkKICAgIE9OIERFTEVURSBDQVNDQURFCiAgICBPTiBVUERBVEUgQ0FTQ0FERQopCiAgQ09NTUVOVCAn6YGO5Y6744Gr5L2P44KT44Gg44GT44Go44Gu44GC44KL5L2P5omAJwogIENIQVJTRVQgPSB1dGY4OwoKQ1JFQVRFIElOREVYIHRvX3JlYWxfZXN0YXRlX2FjY291bnRfZmsKICBPTiByZWFsX2VzdGF0ZSAoYWNjb3VudF9pZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
