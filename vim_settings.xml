@@ -10,12 +10,12 @@
         <mark key="^" line="38" column="25" />
         <mark key="." line="38" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" timestamp="1520392322845">
-        <mark key="'" line="343" column="1" />
-        <mark key="[" line="373" column="46" />
-        <mark key="]" line="373" column="41" />
-        <mark key="." line="373" column="41" />
-        <mark key="^" line="373" column="41" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" timestamp="1520393361165">
+        <mark key="'" line="380" column="2" />
+        <mark key="[" line="406" column="20" />
+        <mark key="]" line="406" column="30" />
+        <mark key="." line="406" column="30" />
+        <mark key="^" line="406" column="30" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" timestamp="1519283357419">
         <mark key="'" line="204" column="48" />
@@ -597,9 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="24" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/HibernateNews.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/HibernateNews.java" />
-      <jump line="24" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="146" column="16" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitflyerPubNub.kt" />
       <jump line="2" column="23" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitflyerPubNub.kt" />
       <jump line="15" column="27" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitflyerPubNub.kt" />
@@ -667,7 +664,6 @@
       <jump line="316" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="323" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="336" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
-      <jump line="358" column="30" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="322" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="8" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="16" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
@@ -694,9 +690,13 @@
       <jump line="319" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="331" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="339" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
-      <jump line="353" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="362" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="343" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="353" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="358" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="389" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="365" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="380" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -716,16 +716,16 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3Bwb25lbnQg</text>
+        <text>lend_moneys_account_fk</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19hY2NvdW50X2ZrXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>id              BIGINT AUTO_INCREMENT PRIMARY KEY,
-  account_id      BIGINT                             NOT NULL,
-  created_at      DATETIME DEFAULT CURRENT_TIMESTAMP NULL,
-  updated_at      DATETIME DEFAULT CURRENT_TIMESTAMP NULL,</text>
+        <text>CONSTRAINT to_lend_moneys_account_fk
+  FOREIGN KEY (account_id) REFERENCES accounts (id)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBOQVRJT05BTAo=</text>
@@ -758,7 +758,7 @@
         <text encoding="base64">ICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>268</text>
+        <text>366</text>
       </register>
     </registers>
     <search>
@@ -794,9 +794,6 @@
         <entry encoding="base64">XDx0b19hY2NvdW50X2ZrXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>93,114d</entry>
-        <entry>14,104y</entry>
-        <entry>19,111y</entry>
         <entry>26</entry>
         <entry>236</entry>
         <entry>12</entry>
@@ -814,6 +811,9 @@
         <entry>211</entry>
         <entry>240</entry>
         <entry>268</entry>
+        <entry>354</entry>
+        <entry>359</entry>
+        <entry>366</entry>
       </history-cmd>
       <history-expr />
       <history-input />
