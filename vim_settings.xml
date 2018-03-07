@@ -10,12 +10,12 @@
         <mark key="^" line="38" column="25" />
         <mark key="." line="38" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" timestamp="1520391338373">
-        <mark key="'" line="336" column="12" />
-        <mark key="[" line="340" column="26" />
-        <mark key="]" line="340" column="12" />
-        <mark key="." line="340" column="12" />
-        <mark key="^" line="340" column="12" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" timestamp="1520392322845">
+        <mark key="'" line="343" column="1" />
+        <mark key="[" line="373" column="46" />
+        <mark key="]" line="373" column="41" />
+        <mark key="." line="373" column="41" />
+        <mark key="^" line="373" column="41" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" timestamp="1519283357419">
         <mark key="'" line="204" column="48" />
@@ -545,7 +545,7 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/OraApplication.kt" timestamp="1520320444055">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/OraApplication.kt" timestamp="1520392031240">
         <mark key="[" line="8" column="32" />
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="34" />
@@ -597,29 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="3" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/User.java" />
-      <jump line="392" column="50" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/User.java" />
-      <jump line="253" column="20" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/user/UserRepository.java" />
-      <jump line="15" column="13" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/User.java" />
-      <jump line="761" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
-      <jump line="331" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="5" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="25" column="41" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="66" column="26" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="67" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="9" column="18" filename="/TagsComponent.php" />
-      <jump line="11" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" />
-      <jump line="27" column="20" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" />
-      <jump line="29" column="20" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" />
-      <jump line="31" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" />
-      <jump line="34" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" />
-      <jump line="78" column="42" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/PickRepository.java" />
-      <jump line="731" column="177" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
-      <jump line="728" column="192" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
-      <jump line="916" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="1349" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="1353" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="1345" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="168" column="24" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/HibernateNews.java" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/HibernateNews.java" />
       <jump line="24" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -652,43 +629,35 @@
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="51" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="58" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
-      <jump line="67" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="72" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="98" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="32" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
-      <jump line="102" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="79" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="93" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="107" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="114" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="130" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
-      <jump line="131" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="136" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="160" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="143" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="170" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="66" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
-      <jump line="150" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="159" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="155" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="184" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="162" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
-      <jump line="175" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="180" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="218" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="225" column="39" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="235" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="187" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="227" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
-      <jump line="205" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="210" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="239" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
-      <jump line="255" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="260" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="280" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="292" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="267" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
-      <jump line="283" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="288" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="278" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="295" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
@@ -696,7 +665,38 @@
       <jump line="270" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="310" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="316" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
-      <jump line="336" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="323" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="336" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="358" column="30" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="322" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="8" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="16" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="27" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="49" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="54" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="67" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="75" column="30" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="102" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="110" column="33" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="131" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="139" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="150" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="158" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="175" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="183" column="37" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="205" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="213" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="255" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="263" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="283" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="291" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="311" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="319" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="331" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="339" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="353" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="362" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="343" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -716,17 +716,16 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYW5jaWFsX2Fzc2V0cyA=</text>
+        <text encoding="base64">b3Bwb25lbnQg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDzoqLzliLjnlarlj7fnrYlcPg==</text>
+        <text encoding="base64">XDx0b19hY2NvdW50X2ZrXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>COMMENT 'その他金融資産'
-  CHARSET = utf8;
-
-CREATE INDEX to_account_fk
-  ON financial_assets (account_id);</text>
+        <text>id              BIGINT AUTO_INCREMENT PRIMARY KEY,
+  account_id      BIGINT                             NOT NULL,
+  created_at      DATETIME DEFAULT CURRENT_TIMESTAMP NULL,
+  updated_at      DATETIME DEFAULT CURRENT_TIMESTAMP NULL,</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBOQVRJT05BTAo=</text>
@@ -763,9 +762,9 @@ CREATE INDEX to_account_fk
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDzoqLzliLjnlarlj7fnrYlcPg==</last-search>
+      <last-search encoding="base64">XDx0b19hY2NvdW50X2ZrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDzoqLzliLjnlarlj7fnrYlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0b19hY2NvdW50X2ZrXD4=</last-pattern>
       <last-replace>refs</last-replace>
       <last-substitute>fixed</last-substitute>
       <last-dir>1</last-dir>
@@ -773,7 +772,6 @@ CREATE INDEX to_account_fk
     </search>
     <history>
       <history-search>
-        <entry>userTy</entry>
         <entry encoding="base64">XDx0cmFkZU1hbmFnZW1lbnRTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxnZXRfdGFnc19hbGxcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X3RhZ3NcPg==</entry>
@@ -793,6 +791,7 @@ CREATE INDEX to_account_fk
         <entry>LE</entry>
         <entry encoding="base64">XDxtZW1vXD4=</entry>
         <entry encoding="base64">XDzoqLzliLjnlarlj7fnrYlcPg==</entry>
+        <entry encoding="base64">XDx0b19hY2NvdW50X2ZrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>93,114d</entry>
