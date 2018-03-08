@@ -222,6 +222,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/p1-doc/要件定義/01_main.md" timestamp="1520482783095">
+        <mark key="'" line="88" column="24" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="148" column="146" />
+        <mark key="." line="148" column="144" />
+        <mark key="^" line="148" column="144" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803072037_add_about_me.sql" timestamp="1520422694240">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="571" column="32" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/base/HibernateRepositoryBase.java" timestamp="1520255913962">
         <mark key="'" line="104" column="21" />
         <mark key="[" line="67" column="8" />
@@ -279,7 +291,7 @@
         <mark key="^" line="34" column="25" />
         <mark key="." line="34" column="25" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" timestamp="1520425585642" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" timestamp="1520481949325" />
       <file name="$USER_HOME$/git/utel/app/src/Locale/ja_JP/default.po" timestamp="1520413973512" />
       <file name="$USER_HOME$/git/manganews-server/manganews-model/src/main/java/com/newspicks/model/UserModel.java" timestamp="1519895314849">
         <mark key="'" line="9" column="13" />
@@ -345,9 +357,9 @@
         <mark key="^" line="140" column="34" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/IndividualNoteBereaveService.kt" timestamp="1520425640507">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/TagsComponent.php" timestamp="1520250986914">
         <mark key="'" line="34" column="19" />
@@ -451,6 +463,11 @@
         <mark key="." line="162" column="0" />
         <mark key="^" line="166" column="17" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SwaggerConfig.kt" timestamp="1520341920761">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsTagService.java" timestamp="1519890076995">
         <mark key="'" line="68" column="20" />
         <mark key="[" line="56" column="89" />
@@ -503,7 +520,6 @@
         <mark key="^" line="0" column="134" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/repository/IndividualNoteBereaveRepository.kt" timestamp="1520425667868" />
       <file name="$USER_HOME$/git/coinman_parent/market_api/pom.xml" timestamp="1520069537856">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="52" column="7" />
@@ -610,6 +626,11 @@
         <mark key="]" line="64" column="24" />
         <mark key="." line="64" column="24" />
         <mark key="^" line="64" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/static/css/style.css" timestamp="1520483336558">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironAuthtypeListDto.kt" timestamp="1520338459340">
         <mark key="[" line="18" column="37" />
@@ -745,43 +766,45 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>date</text>
+        <text encoding="base64">cm5tcmY3OWV2QWppbyA=</text>
       </register>
       <register name="/" type="4">
         <text>accou</text>
       </register>
       <register name="0" type="4">
-        <text>message_record_edit.html</text>
+        <text>| name            | email              | date of entering | language                                                                              |
+|:----------------|:-------------------|:-----------------|:--------------------------------------------------------------------------------------|
+| Junichi Ajisaka | ajisaka@ajio.co.jp | 2006/06/02       | VB,C,C++,C#,Objective C,Swift,javascript,Java,Kotlin, PHP , Perl, Flex , scala , Ruby |</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9jYWxEYXRlVGltZVR5cGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jYWxEYXRlVGltZVR5cGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">dmFyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sbGF0ZXJhbEhpc3RvcnlMaXN0LmNvbGxhdGVyYWxIaXN0b3J5TGlzdC5mb3JFYWNoIHsKLy8gICAgICAgICAgICAgICAgaWYgKGl0LmNoYW5nZSAhPSAwLjApCiAgICAgICAgICAgICAgICBsb2cuZGVidWcoaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sbGF0ZXJhbEhpc3RvcnlMaXN0LmNvbGxhdGVyYWxIaXN0b3J5TGlzdC5mb3JFYWNoIHsKLy8gICAgICAgICAgICAgICAgaWYgKGl0LmNoYW5nZSAhPSAwLjApCiAgICAgICAgICAgICAgICBsb2cuZGVidWcoaXQpCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYWlseUJlbmVmaXQuZm9yRWFjaCB7ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYWlseUJlbmVmaXQuZm9yRWFjaCB7ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>267</text>
