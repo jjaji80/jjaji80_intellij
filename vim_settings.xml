@@ -860,7 +860,7 @@
         <text>macdDiff</text>
       </register>
       <register name="/" type="4">
-        <text>debu</text>
+        <text>user</text>
       </register>
       <register name="0" type="4">
         <text>individualLossCutRate</text>
@@ -896,13 +896,13 @@
         <text encoding="base64">ICAgICAgICB0aWNrZXJSZXBvc2l0b3J5LmZpbmRBCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>debu</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>debu</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace />
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -910,7 +910,6 @@
     </search>
     <history>
       <history-search>
-        <entry>http</entry>
         <entry encoding="base64">XDxIdHRwQ2xpZW50XD4=</entry>
         <entry>get</entry>
         <entry encoding="base64">XDxIdHRwR2V0XD4=</entry>
@@ -930,6 +929,7 @@
         <entry>trade</entry>
         <entry>get1</entry>
         <entry>debu</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>18</entry>
@@ -950,8 +950,8 @@
         <entry>207.263y</entry>
         <entry>207,263y</entry>
         <entry>77,133y</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
