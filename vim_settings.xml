@@ -232,11 +232,9 @@
         <mark key="^" line="66" column="26" />
         <mark key="." line="66" column="26" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/eureka_server/pom.xml" timestamp="1520697369147">
-        <mark key="'" line="39" column="19" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="56" column="26" />
+      <file name="$USER_HOME$/git/coinman_parent/eureka_server/pom.xml" timestamp="1520699410939">
+        <mark key="'" line="47" column="4" />
+        <mark key="^" line="47" column="26" />
         <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/git/p1-doc/要件定義/01_main.md" timestamp="1520488443129">
@@ -755,7 +753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/dump.sql" />
       <jump line="132" column="30" filename="$USER_HOME$/dump.sql" />
       <jump line="155" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="137" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
@@ -855,6 +852,7 @@
       <jump line="15" column="4" filename="$USER_HOME$/git/coinman_parent/docs/usecase.puml" />
       <jump line="39" column="19" filename="$USER_HOME$/git/coinman_parent/eureka_server/pom.xml" />
       <jump line="8" column="0" filename="$USER_HOME$/git/coinman_parent/eureka_server/src/main/java/coinman/eureka/EurekaServerApplication.kt" />
+      <jump line="47" column="4" filename="$USER_HOME$/git/coinman_parent/eureka_server/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -880,7 +878,7 @@
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuamV0YnJhaW5zLmtvdGxpbjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+a290bGluLXN0ZGxpYi1qZGs4PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke2tvdGxpbi52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5qZXRicmFpbnMua290bGluPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5rb3RsaW4tcmVmbGVjdDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHtrb3RsaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+        <text>org.springframework.cloud</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnQoIiIpCg==</text>
