@@ -278,6 +278,13 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/web/pom.xml" timestamp="1520738819691">
+        <mark key="'" line="35" column="24" />
+        <mark key="[" line="35" column="58" />
+        <mark key="]" line="36" column="27" />
+        <mark key="." line="36" column="27" />
+        <mark key="^" line="36" column="27" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/ExchangeService.java" timestamp="1520226457004">
         <mark key="[" line="122" column="25" />
         <mark key="]" line="122" column="29" />
@@ -290,6 +297,12 @@
         <mark key="]" line="185" column="8" />
         <mark key="." line="39" column="67" />
         <mark key="^" line="39" column="67" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/web/src/main/resources/application.yml" timestamp="1520739884880">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="34" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Forum.kt" timestamp="1520317186094">
         <mark key="[" line="50" column="97" />
@@ -328,6 +341,12 @@
         <mark key="^" line="34" column="25" />
         <mark key="." line="34" column="25" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/web/src/main/kotlin/coinman/web/config/Config.kt" timestamp="1520737690516">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="10" column="4" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Note.kt" timestamp="1520317146238">
         <mark key="[" line="36" column="103" />
         <mark key="]" line="36" column="39" />
@@ -348,7 +367,7 @@
         <mark key="^" line="776" column="140" />
         <mark key="." line="776" column="140" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/eureka_client/src/main/kotlin/coinman/eureka_client/controller/TestController.kt" timestamp="1520701062845">
+      <file name="$USER_HOME$/git/coinman_parent/eureka_client/src/main/kotlin/coinman/eureka_client/controller/TestController.kt" timestamp="1520739405211">
         <mark key="'" line="4" column="15" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -435,11 +454,11 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/eureka_client/src/main/resources/application.yml" timestamp="1520734774044">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="10" column="24" />
+      <file name="$USER_HOME$/git/coinman_parent/eureka_client/src/main/resources/application.yml" timestamp="1520739177912">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="11" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/eureka_server/src/main/java/EurekaServerApplication.kt" timestamp="1520697351348">
         <mark key="[" line="8" column="14" />
@@ -538,6 +557,12 @@
         <mark key="]" line="37" column="25" />
         <mark key="^" line="37" column="25" />
         <mark key="." line="37" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/web/src/main/kotlin/coinman/web/controller/TestController.kt" timestamp="1520739892526">
+        <mark key="[" line="19" column="75" />
+        <mark key="]" line="19" column="75" />
+        <mark key="^" line="19" column="71" />
+        <mark key="." line="19" column="75" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/eureka_server/src/main/resources/application.yml" timestamp="1520700222582">
         <mark key="[" line="0" column="0" />
@@ -663,7 +688,7 @@
         <mark key="." line="4" column="52" />
         <mark key="^" line="4" column="52" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/eureka_client/src/main/kotlin/coinman/eureka_client/EurekaClientApplication.kt" timestamp="1520734648324">
+      <file name="$USER_HOME$/git/coinman_parent/eureka_client/src/main/kotlin/coinman/eureka_client/EurekaClientApplication.kt" timestamp="1520739567635">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="18" />
         <mark key="^" line="7" column="18" />
@@ -778,14 +803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
-      <jump line="137" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
-      <jump line="17" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
-      <jump line="64" column="60" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
-      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console_1.sql" />
-      <jump line="39" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console_1.sql" />
-      <jump line="59" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console_1.sql" />
-      <jump line="60" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console_1.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/IndividualNoteCategory.kt" />
       <jump line="2" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/DailyBenefitList.kt" />
       <jump line="144" column="30" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
@@ -878,6 +895,14 @@
       <jump line="8" column="0" filename="$USER_HOME$/git/coinman_parent/eureka_server/src/main/java/coinman/eureka/EurekaServerApplication.kt" />
       <jump line="47" column="4" filename="$USER_HOME$/git/coinman_parent/eureka_server/pom.xml" />
       <jump line="3" column="15" filename="$USER_HOME$/git/coinman_parent/eureka_client/src/main/kotlin/coinman/eureka_client/controller/TestController.kt" />
+      <jump line="16" column="19" filename="$USER_HOME$/git/coinman_parent/web/src/main/kotlin/coinman/web/controller/TestController.kt" />
+      <jump line="39" column="45" filename="$USER_HOME$/git/coinman_parent/web/pom.xml" />
+      <jump line="10" column="10" filename="$USER_HOME$/git/coinman_parent/web/pom.xml" />
+      <jump line="31" column="44" filename="$USER_HOME$/git/coinman_parent/web/pom.xml" />
+      <jump line="6" column="16" filename="$USER_HOME$/git/coinman_parent/web/pom.xml" />
+      <jump line="24" column="29" filename="$USER_HOME$/git/coinman_parent/web/pom.xml" />
+      <jump line="34" column="35" filename="$USER_HOME$/git/coinman_parent/web/pom.xml" />
+      <jump line="35" column="24" filename="$USER_HOME$/git/coinman_parent/web/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -897,62 +922,59 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3BlbiA=</text>
+        <text>8090</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>jac</text>
       </register>
       <register name="0" type="4">
-        <text>org.springframework.cloud</text>
+        <text>spring-cloud-eureka-client</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGphdmEubGFuZy5TeXN0ZW0ubwo=</text>
+        <text encoding="base64">aGVsbG93b3JsZDoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLmxhbmcuU3lzdGVtLm8K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5yZXN0VGVtcGxhdGUuZ2V0Rm9yT2JqZWN0KCJodHRwOi8vaGVsbG93b3JsZC9ncmVldGluZyIsIFN0cmluZzo6Y2xhc3MuamF2YSkKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGphdmEubGFuZy5TeXN0ZW0ub3V0LnByaW50KCJIT0dFIikK</text>
+        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciByZXN0VGVtcGxhdGU6IFJlc3RUZW1wbGF0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZwo=</text>
+        <text encoding="base64">ICAgIGphdmEubGFuZy5TeXN0ZW0ubwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNwcmluZ0EK</text>
+        <text encoding="base64">ICAgICAgICBqYXZhLmxhbmcuU3lzdGVtLm8K</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGphdmEubGFuZy5TeXN0ZW0ub3V0LnByaQo=</text>
+        <text encoding="base64">ICAgIGphdmEubGFuZy5TeXN0ZW0ub3V0LnByaW50KCJIT0dFIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGphdmEubGFuZy5TeXN0ZW0ub3UK</text>
+        <text encoding="base64">aW1wb3J0IG9yZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnQoIiIpCg==</text>
+        <text encoding="base64">ICAgIFNwcmluZ0EK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvCg==</text>
+        <text encoding="base64">ICAgIGphdmEubGFuZy5TeXN0ZW0ub3V0LnByaQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>jac</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>jac</last-pattern>
       <last-replace />
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxIdHRwQ2xpZW50XD4=</entry>
-        <entry>get</entry>
-        <entry encoding="base64">XDxIdHRwR2V0XD4=</entry>
         <entry>kla</entry>
         <entry>var</entry>
         <entry>mome</entry>
@@ -970,6 +992,9 @@
         <entry>get1</entry>
         <entry>debu</entry>
         <entry>user</entry>
+        <entry>ribbo</entry>
+        <entry>web</entry>
+        <entry>jac</entry>
       </history-search>
       <history-cmd>
         <entry>18</entry>
