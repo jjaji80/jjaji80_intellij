@@ -135,6 +135,9 @@
         <mark key="." line="171" column="86" />
         <mark key="^" line="171" column="87" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/ajio/pom.xml" timestamp="1520873201481">
+        <mark key="'" line="65" column="77" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/impl/NewsFacadeImpl.java" timestamp="1520254886554">
         <mark key="[" line="170" column="29" />
         <mark key="]" line="171" column="24" />
@@ -598,9 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="17" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="24" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="4" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/RestService.kt" />
       <jump line="27" column="35" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/RestService.kt" />
       <jump line="183" column="8" filename="$USER_HOME$/git/coinman_parent/market_data/src/coinman/service/TradeManagementService.kt" />
       <jump line="62" column="20" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
@@ -698,6 +698,9 @@
       <jump line="71" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
       <jump line="21" column="0" filename="$USER_HOME$/git/hms/app/controllers/employees_controller.rb" />
       <jump line="38" column="9" filename="$USER_HOME$/git/hms/app/controllers/employees_controller.rb" />
+      <jump line="4" column="22" filename="$USER_HOME$/Documents/projects/ajio/pom.xml" />
+      <jump line="62" column="58" filename="$USER_HOME$/Documents/projects/ajio/pom.xml" />
+      <jump line="65" column="77" filename="$USER_HOME$/Documents/projects/ajio/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -720,7 +723,7 @@
         <text encoding="base64">Mjk4NTQg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWFsX25hbWVcPg==</text>
+        <text>src</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA6d29yZHByZXNzX2NvZGUsCg==</text>
@@ -756,13 +759,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWFsX25hbWVcPg==</last-search>
+      <last-search>src</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWFsX25hbWVcPg==</last-pattern>
+      <last-pattern>src</last-pattern>
       <last-replace />
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -770,7 +773,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ribbo</entry>
         <entry>web</entry>
         <entry>kot</entry>
         <entry>eureka</entry>
@@ -790,6 +792,7 @@
         <entry>役職</entry>
         <entry encoding="base64">XDxqb2JfdGl0bGVcPg==</entry>
         <entry encoding="base64">XDxyZWFsX25hbWVcPg==</entry>
+        <entry>src</entry>
       </history-search>
       <history-cmd>
         <entry>18</entry>
@@ -810,8 +813,8 @@
         <entry>207.263y</entry>
         <entry>207,263y</entry>
         <entry>77,133y</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
