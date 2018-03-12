@@ -462,6 +462,9 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/redmine/src/main/java/jp/co/ajio/aop/logging/LoggingAspect.java" timestamp="1520874224224">
+        <mark key="'" line="22" column="13" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/resources/application.yml" timestamp="1520504028881">
         <mark key="[" line="6" column="31" />
         <mark key="]" line="6" column="31" />
@@ -601,7 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="35" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/RestService.kt" />
       <jump line="183" column="8" filename="$USER_HOME$/git/coinman_parent/market_data/src/coinman/service/TradeManagementService.kt" />
       <jump line="62" column="20" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
       <jump line="5" column="29" filename="$USER_HOME$/git/coinman_parent/dao/pom.xml" />
@@ -701,6 +703,7 @@
       <jump line="4" column="22" filename="$USER_HOME$/Documents/projects/ajio/pom.xml" />
       <jump line="62" column="58" filename="$USER_HOME$/Documents/projects/ajio/pom.xml" />
       <jump line="65" column="77" filename="$USER_HOME$/Documents/projects/ajio/pom.xml" />
+      <jump line="22" column="13" filename="$USER_HOME$/Documents/projects/redmine/src/main/java/jp/co/ajio/aop/logging/LoggingAspect.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
