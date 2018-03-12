@@ -75,12 +75,12 @@
         <mark key="." line="131" column="20" />
         <mark key="^" line="131" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1520835264114">
-        <mark key="'" line="1415" column="0" />
-        <mark key="[" line="1396" column="0" />
-        <mark key="]" line="1397" column="48" />
-        <mark key="." line="1397" column="48" />
-        <mark key="^" line="1397" column="48" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1520837194997">
+        <mark key="'" line="1419" column="40" />
+        <mark key="[" line="1424" column="332" />
+        <mark key="]" line="1424" column="332" />
+        <mark key="." line="1424" column="332" />
+        <mark key="^" line="1424" column="332" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/pushbullet.properties" timestamp="1520580453266">
         <mark key="[" line="0" column="10" />
@@ -144,8 +144,8 @@
         <mark key="." line="52" column="20" />
         <mark key="^" line="52" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1520823055827">
-        <mark key="[" line="0" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1520837071585">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
@@ -559,8 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="342" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="5" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
       <jump line="227" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
@@ -659,6 +657,8 @@
       <jump line="1385" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="1395" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="1414" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="1410" column="37" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="1419" column="40" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -678,7 +678,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>sta</text>
+        <text>3649</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FuXD4=</text>
@@ -687,34 +687,34 @@
         <text encoding="base64">U0VMRUNUICoKRlJPTQogIGJvb2tpbmdzIEFTIEIKICBMRUZUIEpPSU4gY2FsbF9sb2dzIEFTIEMgT04gQy5ib29raW5nX2lkID0gQi5pZAogIExFRlQgSk9JTiBzY2hlZHVsZXMgQVMgUwogICAgT04gQi5zY2hlZHVsZV9pZCA9IFMuaWQKICBJTk5FUiBKT0lOIGZvcnR1bmV0ZWxsZXJzIEFTIEYgT04gRi5pZCA9IFMuZm9ydHVuZXRlbGxlcl9pZAogIExFRlQgSk9JTiB1c2VycyBBUyBVCiAgICBPTiBVLmlkID0gQi51c2VyX2lkCldIRVJFIFUudWlkID0gJ2hpcm9rbycKT1JERVIgQlkgQi5pZCBERVNDOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1biBmaW5kQWxsKCkK</text>
+        <text encoding="base64">c2VsZWN0ICogZgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZ1biBhbGwoKTpMaXN0PFVzZXI+Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBmaW5kQWxsKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3ByaW5nLmhhdGVvYXMudXNlLWhhbC1hcy1kZWZhdWx0LWpzb24tbWVkaWEtdHlwZTogZmFsc2UK</text>
+        <text encoding="base64">ICAgIGZ1biBhbGwoKTpMaXN0PFVzZXI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3ByaW5nLmhhdGVvYXMudXNlLWhhbC1hcy1kZWZhdWx0LWpzb24tbWVkaWEtdHlwZTogZmFsc2UK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJPGFydGlmYWN0SWQ+bW9kZWw8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjEuNS42LlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvaW5tYW4ucmVzdF9kYW8ubW9kZWwuVXNlcgo=</text>
+        <text encoding="base64">CQkJPGFydGlmYWN0SWQ+bW9kZWw8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjEuNS42LlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvaW5tYW4ucmVzdF9kYW8ubW9kZWwuVXNlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgCgkJCTxncm91cElkPmNvaW5tYW5fcGFyZW50PC9ncm91cElkPgo=</text>
+        <text encoding="base64">CQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
