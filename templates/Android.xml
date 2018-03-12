@@ -1,0 +1,12 @@
+<templateSet group="Android">
+  <template name="errorReport" value="Crashlytics.log(Log.ERROR, TAG,  $END$);&#10;" description="Crashlytics.log ERROR" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="debugReport" value="Crashlytics.log(Log.DEBUG, TAG,  $END$);&#10;" description="Crashlytics.log DEBUG" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
