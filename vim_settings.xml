@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/coinman_parent/market_data/src/coinman/service/RsiService.kt" timestamp="1520063390693">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/rest-dao/pom.xml" timestamp="1520754188332">
         <mark key="'" line="32" column="20" />
         <mark key="[" line="67" column="8" />
@@ -20,222 +26,6 @@
         <mark key="]" line="4" column="14" />
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/user/FollowerHibernateRepository.java" timestamp="1520249817645">
-        <mark key="[" line="18" column="54" />
-        <mark key="]" line="19" column="39" />
-        <mark key="." line="19" column="39" />
-        <mark key="^" line="19" column="39" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803072115__change_account_id.sql" timestamp="1520425039590">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="54" />
-        <mark key="^" line="4" column="54" />
-        <mark key="." line="4" column="54" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/rest/src/main/resources/application.yml" timestamp="1520754175053">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="7" column="45" />
-        <mark key="." line="7" column="4" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/rest/src/main/kotlin/coinman/rest/controller/Test2Controller.kt" timestamp="1520776782405">
-        <mark key="[" line="15" column="38" />
-        <mark key="]" line="16" column="81" />
-        <mark key="." line="16" column="81" />
-        <mark key="^" line="16" column="81" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironDto.kt" timestamp="1520338682874">
-        <mark key="[" line="33" column="28" />
-        <mark key="]" line="33" column="31" />
-        <mark key="^" line="33" column="31" />
-        <mark key="." line="33" column="31" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/dao/UserRepository.kt" timestamp="1520511363707">
-        <mark key="[" line="6" column="51" />
-        <mark key="]" line="6" column="61" />
-        <mark key="^" line="6" column="61" />
-        <mark key="." line="6" column="61" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/eureka_server/src/main/kotlin/coinman/eureka_server/EurekaServerApplication.kt" timestamp="1520734638278">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="18" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" timestamp="1520851548572">
-        <mark key="'" line="61" column="3" />
-        <mark key="[" line="59" column="55" />
-        <mark key="]" line="59" column="58" />
-        <mark key="^" line="59" column="58" />
-        <mark key="." line="59" column="58" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/service/TickerService.kt" timestamp="1520502298716">
-        <mark key="[" line="10" column="51" />
-        <mark key="]" line="13" column="40" />
-        <mark key="." line="13" column="40" />
-        <mark key="^" line="13" column="40" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/model/pom.xml" timestamp="1520579905554">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="132" column="12" />
-        <mark key="." line="131" column="20" />
-        <mark key="^" line="131" column="20" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1520838089921">
-        <mark key="'" line="1419" column="47" />
-        <mark key="[" line="1432" column="48" />
-        <mark key="]" line="1434" column="49" />
-        <mark key="." line="1434" column="49" />
-        <mark key="^" line="1434" column="49" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/pushbullet.properties" timestamp="1520580453266">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Message.kt" timestamp="1520317258071">
-        <mark key="[" line="34" column="106" />
-        <mark key="]" line="35" column="25" />
-        <mark key="^" line="35" column="25" />
-        <mark key="." line="35" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/pom.xml" timestamp="1520753098570">
-        <mark key="'" line="207" column="2" />
-        <mark key="[" line="160" column="8" />
-        <mark key="]" line="164" column="20" />
-        <mark key="^" line="201" column="28" />
-        <mark key="." line="201" column="28" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/IndividualNoteBereave.kt" timestamp="1520317227801">
-        <mark key="[" line="31" column="114" />
-        <mark key="]" line="32" column="25" />
-        <mark key="^" line="32" column="25" />
-        <mark key="." line="32" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/news/user/recommend/DefaultFollowRecommender.java" timestamp="1519896262547">
-        <mark key="[" line="293" column="15" />
-        <mark key="]" line="293" column="19" />
-        <mark key="^" line="293" column="19" />
-        <mark key="." line="293" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/RankingService.java" timestamp="1519901498649">
-        <mark key="[" line="82" column="41" />
-        <mark key="]" line="82" column="46" />
-        <mark key="." line="82" column="46" />
-        <mark key="^" line="82" column="46" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/categorize/RankingRepository.java" timestamp="1519967817447">
-        <mark key="[" line="171" column="86" />
-        <mark key="]" line="171" column="86" />
-        <mark key="." line="171" column="86" />
-        <mark key="^" line="171" column="87" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/impl/NewsFacadeImpl.java" timestamp="1520254886554">
-        <mark key="[" line="170" column="29" />
-        <mark key="]" line="171" column="24" />
-        <mark key="." line="171" column="24" />
-        <mark key="^" line="171" column="24" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" timestamp="1520749757823">
-        <mark key="'" line="66" column="39" />
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="40" column="20" />
-        <mark key="^" line="66" column="26" />
-        <mark key="." line="66" column="26" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/eureka_client/pom.xml" timestamp="1520749768386">
-        <mark key="[" line="48" column="21" />
-        <mark key="]" line="52" column="20" />
-        <mark key="." line="52" column="20" />
-        <mark key="^" line="52" column="20" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1520838047675">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/ExchangeService.java" timestamp="1520226457004">
-        <mark key="[" line="122" column="25" />
-        <mark key="]" line="122" column="29" />
-        <mark key="." line="122" column="29" />
-        <mark key="^" line="122" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/web/src/main/resources/application.yml" timestamp="1520748542457">
-        <mark key="[" line="20" column="2" />
-        <mark key="]" line="27" column="19" />
-        <mark key="^" line="27" column="19" />
-        <mark key="." line="27" column="19" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Forum.kt" timestamp="1520317186094">
-        <mark key="[" line="50" column="97" />
-        <mark key="]" line="46" column="25" />
-        <mark key="^" line="46" column="25" />
-        <mark key="." line="46" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/PushService.kt" timestamp="1520067877024">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="18" column="27" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1520337984414">
-        <mark key="[" line="39" column="32" />
-        <mark key="]" line="39" column="32" />
-        <mark key="." line="39" column="32" />
-        <mark key="^" line="39" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironAuthtypeDto.kt" timestamp="1520333151002">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="6" column="24" />
-        <mark key="^" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/IndividualNote.kt" timestamp="1520317207626">
-        <mark key="[" line="33" column="114" />
-        <mark key="]" line="34" column="25" />
-        <mark key="^" line="34" column="25" />
-        <mark key="." line="34" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/rest-dao/src/main/resources/application.yml" timestamp="1520754669648">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="34" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Note.kt" timestamp="1520317146238">
-        <mark key="[" line="36" column="103" />
-        <mark key="]" line="36" column="39" />
-        <mark key="^" line="36" column="39" />
-        <mark key="." line="36" column="39" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/eureka_client/src/main/kotlin/coinman/eureka_client/controller/TestController.kt" timestamp="1520749033294">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/NoteAttachment.kt" timestamp="1520317249746">
-        <mark key="[" line="33" column="94" />
-        <mark key="]" line="34" column="25" />
-        <mark key="^" line="34" column="25" />
-        <mark key="." line="34" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1520851607800">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="71" column="43" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/market_data/src/coinman/service/RsiService.kt" timestamp="1520063390693">
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-        <mark key="^" line="3" column="18" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/FreeMigrationController.kt" timestamp="1520315624268">
         <mark key="[" line="29" column="0" />
@@ -261,12 +51,31 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1520838089921">
+        <mark key="'" line="1419" column="47" />
+        <mark key="[" line="1432" column="48" />
+        <mark key="]" line="1434" column="49" />
+        <mark key="." line="1434" column="49" />
+        <mark key="^" line="1434" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/user/FollowerHibernateRepository.java" timestamp="1520249817645">
+        <mark key="[" line="18" column="54" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+        <mark key="^" line="19" column="39" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/TradeController.kt" timestamp="1520749025909">
         <mark key="'" line="18" column="49" />
         <mark key="[" line="20" column="4" />
         <mark key="]" line="23" column="5" />
         <mark key="." line="33" column="33" />
         <mark key="^" line="33" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803072115__change_account_id.sql" timestamp="1520425039590">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="54" />
+        <mark key="^" line="4" column="54" />
+        <mark key="." line="4" column="54" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/UserService.java" timestamp="1520227674624">
         <mark key="[" line="234" column="18" />
@@ -276,6 +85,18 @@
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803072037__add_about_me.sql" timestamp="1520847233222">
         <mark key="'" line="434" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/rest/src/main/resources/application.yml" timestamp="1520754175053">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="45" />
+        <mark key="." line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/rest/src/main/kotlin/coinman/rest/controller/Test2Controller.kt" timestamp="1520776782405">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="16" column="81" />
+        <mark key="." line="16" column="81" />
+        <mark key="^" line="16" column="81" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/PickService.java" timestamp="1520256925069">
         <mark key="[" line="19" column="13" />
@@ -295,11 +116,36 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironDto.kt" timestamp="1520338682874">
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="31" />
+        <mark key="^" line="33" column="31" />
+        <mark key="." line="33" column="31" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/DailyBenefitData.kt" timestamp="1520436161532">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="4" column="4" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/dao/UserRepository.kt" timestamp="1520511363707">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="6" column="61" />
+        <mark key="^" line="6" column="61" />
+        <mark key="." line="6" column="61" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/eureka_server/src/main/kotlin/coinman/eureka_server/EurekaServerApplication.kt" timestamp="1520734638278">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/CoincheckApi.kt" timestamp="1520851548572">
+        <mark key="'" line="61" column="3" />
+        <mark key="[" line="59" column="55" />
+        <mark key="]" line="59" column="58" />
+        <mark key="^" line="59" column="58" />
+        <mark key="." line="59" column="58" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/MessageAttachment.kt" timestamp="1520317236082">
         <mark key="[" line="33" column="97" />
@@ -318,6 +164,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="12" column="39" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/service/TickerService.kt" timestamp="1520502298716">
+        <mark key="[" line="10" column="51" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+        <mark key="^" line="13" column="40" />
       </file>
       <file name="/fragment.kt" timestamp="1520437075710">
         <mark key="[" line="0" column="0" />
@@ -362,6 +214,18 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/model/pom.xml" timestamp="1520579905554">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="132" column="12" />
+        <mark key="." line="131" column="20" />
+        <mark key="^" line="131" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/pushbullet.properties" timestamp="1520580453266">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/util/src/coinman/service/PushService.kt" timestamp="1520567753551">
         <mark key="[" line="12" column="93" />
         <mark key="]" line="12" column="108" />
@@ -392,6 +256,12 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Message.kt" timestamp="1520317258071">
+        <mark key="[" line="34" column="106" />
+        <mark key="]" line="35" column="25" />
+        <mark key="^" line="35" column="25" />
+        <mark key="." line="35" column="25" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/application.yml" timestamp="1520319789322">
         <mark key="[" line="12" column="47" />
         <mark key="]" line="15" column="19" />
@@ -403,6 +273,19 @@
         <mark key="]" line="27" column="8" />
         <mark key="^" line="27" column="33" />
         <mark key="." line="27" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/pom.xml" timestamp="1520753098570">
+        <mark key="'" line="207" column="2" />
+        <mark key="[" line="160" column="8" />
+        <mark key="]" line="164" column="20" />
+        <mark key="^" line="201" column="28" />
+        <mark key="." line="201" column="28" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/IndividualNoteBereave.kt" timestamp="1520317227801">
+        <mark key="[" line="31" column="114" />
+        <mark key="]" line="32" column="25" />
+        <mark key="^" line="32" column="25" />
+        <mark key="." line="32" column="25" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/rest/UserController.kt" timestamp="1520316215019">
         <mark key="[" line="10" column="0" />
@@ -421,6 +304,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="134" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/news/user/recommend/DefaultFollowRecommender.java" timestamp="1519896262547">
+        <mark key="[" line="293" column="15" />
+        <mark key="]" line="293" column="19" />
+        <mark key="^" line="293" column="19" />
+        <mark key="." line="293" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/RankingService.java" timestamp="1519901498649">
+        <mark key="[" line="82" column="41" />
+        <mark key="]" line="82" column="46" />
+        <mark key="." line="82" column="46" />
+        <mark key="^" line="82" column="46" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/market_api/pom.xml" timestamp="1520069537856">
         <mark key="[" line="46" column="0" />
@@ -445,6 +340,31 @@
         <mark key="]" line="8" column="3" />
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/categorize/RankingRepository.java" timestamp="1519967817447">
+        <mark key="[" line="171" column="86" />
+        <mark key="]" line="171" column="86" />
+        <mark key="." line="171" column="86" />
+        <mark key="^" line="171" column="87" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/impl/NewsFacadeImpl.java" timestamp="1520254886554">
+        <mark key="[" line="170" column="29" />
+        <mark key="]" line="171" column="24" />
+        <mark key="." line="171" column="24" />
+        <mark key="^" line="171" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" timestamp="1520749757823">
+        <mark key="'" line="66" column="39" />
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="40" column="20" />
+        <mark key="^" line="66" column="26" />
+        <mark key="." line="66" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/eureka_client/pom.xml" timestamp="1520749768386">
+        <mark key="[" line="48" column="21" />
+        <mark key="]" line="52" column="20" />
+        <mark key="." line="52" column="20" />
+        <mark key="^" line="52" column="20" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/resources/application.yml" timestamp="1520504028881">
         <mark key="[" line="6" column="31" />
@@ -500,11 +420,29 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/ExchangeService.java" timestamp="1520226457004">
+        <mark key="[" line="122" column="25" />
+        <mark key="]" line="122" column="29" />
+        <mark key="." line="122" column="29" />
+        <mark key="^" line="122" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/web/src/main/resources/application.yml" timestamp="1520748542457">
+        <mark key="[" line="20" column="2" />
+        <mark key="]" line="27" column="19" />
+        <mark key="^" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/model/Coincheck1minute.kt" timestamp="1520515238098">
         <mark key="[" line="17" column="27" />
         <mark key="]" line="17" column="31" />
         <mark key="." line="17" column="31" />
         <mark key="^" line="17" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Forum.kt" timestamp="1520317186094">
+        <mark key="[" line="50" column="97" />
+        <mark key="]" line="46" column="25" />
+        <mark key="^" line="46" column="25" />
+        <mark key="." line="46" column="25" />
       </file>
       <file name="/Dummy.txt" timestamp="1520851016556">
         <mark key="[" line="0" column="0" />
@@ -512,11 +450,35 @@
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="44" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/PushService.kt" timestamp="1520067877024">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="27" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/OraApplication.kt" timestamp="1520392031240">
         <mark key="[" line="8" column="32" />
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1520337984414">
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="39" column="32" />
+        <mark key="." line="39" column="32" />
+        <mark key="^" line="39" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironAuthtypeDto.kt" timestamp="1520333151002">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1520838047675">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/rest/src/main/kotlin/coinman/rest/controller/TestController.kt" timestamp="1520753654437">
         <mark key="[" line="10" column="0" />
@@ -528,6 +490,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/IndividualNote.kt" timestamp="1520317207626">
+        <mark key="[" line="33" column="114" />
+        <mark key="]" line="34" column="25" />
+        <mark key="^" line="34" column="25" />
+        <mark key="." line="34" column="25" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/rest-dao/src/main/kotlin/coinman/rest_dao/repository/UserRepository.kt" timestamp="1520754845938">
         <mark key="[" line="6" column="0" />
@@ -546,11 +514,24 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="16" column="26" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/rest-dao/src/main/resources/application.yml" timestamp="1520754669648">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="34" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/FollowService.java" timestamp="1520249660377">
         <mark key="[" line="64" column="23" />
         <mark key="]" line="64" column="24" />
         <mark key="." line="64" column="24" />
         <mark key="^" line="64" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Note.kt" timestamp="1520317146238">
+        <mark key="[" line="36" column="103" />
+        <mark key="]" line="36" column="39" />
+        <mark key="^" line="36" column="39" />
+        <mark key="." line="36" column="39" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/pom.xml" timestamp="1520753006585">
         <mark key="'" line="34" column="22" />
@@ -565,11 +546,30 @@
         <mark key="^" line="376" column="43" />
         <mark key="." line="378" column="0" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/eureka_client/src/main/kotlin/coinman/eureka_client/controller/TestController.kt" timestamp="1520749033294">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironAuthtypeListDto.kt" timestamp="1520338459340">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="19" column="37" />
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/NoteAttachment.kt" timestamp="1520317249746">
+        <mark key="[" line="33" column="94" />
+        <mark key="]" line="34" column="25" />
+        <mark key="^" line="34" column="25" />
+        <mark key="." line="34" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1520862574152">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="44" column="24" />
+        <mark key="]" line="44" column="25" />
+        <mark key="." line="44" column="25" />
+        <mark key="^" line="71" column="43" />
       </file>
       <file name="/fragment.java" timestamp="1520697435316">
         <mark key="[" line="0" column="0" />
@@ -748,7 +748,7 @@
       <last-replace />
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
