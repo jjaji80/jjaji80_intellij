@@ -76,6 +76,9 @@
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
       </file>
+      <file name="$USER_HOME$/git/hms/db/schema.rb" timestamp="1520863408313">
+        <mark key="'" line="68" column="50" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/model/pom.xml" timestamp="1520579905554">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="132" column="12" />
@@ -193,6 +196,7 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/git/hms/docker-compose.yml" timestamp="1520863549804" />
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/IndividualNote.kt" timestamp="1520317207626">
         <mark key="[" line="33" column="114" />
         <mark key="]" line="34" column="25" />
@@ -237,6 +241,9 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
+      <file name="$USER_HOME$/git/hms/config/locales/ja.yml" timestamp="1520863613101">
+        <mark key="'" line="71" column="8" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/FreeMigrationController.kt" timestamp="1520315624268">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -276,6 +283,12 @@
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803072037__add_about_me.sql" timestamp="1520847233222">
         <mark key="'" line="434" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/hms/app/controllers/employees_controller.rb" timestamp="1520863670911">
+        <mark key="'" line="38" column="9" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/PickService.java" timestamp="1520256925069">
         <mark key="[" line="19" column="13" />
@@ -506,11 +519,11 @@
         <mark key="." line="17" column="31" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520851016556">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="44" />
-        <mark key="^" line="0" column="47" />
-        <mark key="." line="0" column="44" />
+      <file name="/Dummy.txt" timestamp="1520864015142">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="7" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/OraApplication.kt" timestamp="1520392031240">
         <mark key="[" line="8" column="32" />
@@ -565,6 +578,12 @@
         <mark key="^" line="376" column="43" />
         <mark key="." line="378" column="0" />
       </file>
+      <file name="$USER_HOME$/git/hms/db/migrate/20180312140205_add_wordpress_code_to_employee.rb" timestamp="1520863361447">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironAuthtypeListDto.kt" timestamp="1520338459340">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="19" column="37" />
@@ -579,11 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="119" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="2" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/RestService.kt" />
-      <jump line="7" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="91" column="73" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="8" column="17" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="24" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/RestService.kt" />
@@ -679,6 +693,11 @@
       <jump line="16" column="33" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" />
       <jump line="73" column="43" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" />
+      <jump line="68" column="50" filename="$USER_HOME$/git/hms/db/schema.rb" />
+      <jump line="300" column="6" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="71" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="21" column="0" filename="$USER_HOME$/git/hms/app/controllers/employees_controller.rb" />
+      <jump line="38" column="9" filename="$USER_HOME$/git/hms/app/controllers/employees_controller.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -698,53 +717,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>double</text>
+        <text encoding="base64">Mjk4NTQg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFkZU1hbmFnZW1lbnRTZXJ2aWNlXD4=</text>
+        <text encoding="base64">XDxyZWFsX25hbWVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>val jsonString = requestByUrlWithHeader(url)
-            val json = Util.parceJsonFromString(jsonString!!)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA6d29yZHByZXNzX2NvZGUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCB0cmFkZU1hbmFnZW1lbnRTZXJ2aWNlID0gVHJhZGVNYW5hZ2VtZW50U2VydmljZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvaW5tYW4uc2VydmljZS5UcmFkZU1hbmFnZW1lbnRTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICA6a2V5d29yZCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwganNvbgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB0cmFkZU1hbmFnZW1lbnRTZXJ2aWNlID0gVHJhZGVNYW5hZ2VtZW50U2VydmljZSgpCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICogZgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvaW5tYW4uc2VydmljZS5UcmFkZU1hbmFnZW1lbnRTZXJ2aWNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biBmaW5kQWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwganNvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBhbGwoKTpMaXN0PFVzZXI+Cg==</text>
+        <text encoding="base64">dGVzdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3ByaW5nLmhhdGVvYXMudXNlLWhhbC1hcy1kZWZhdWx0LWpzb24tbWVkaWEtdHlwZTogZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFkZU1hbmFnZW1lbnRTZXJ2aWNlXD4=</last-search>
+      <last-search encoding="base64">XDxyZWFsX25hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFkZU1hbmFnZW1lbnRTZXJ2aWNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZWFsX25hbWVcPg==</last-pattern>
       <last-replace />
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -752,10 +770,6 @@
     </search>
     <history>
       <history-search>
-        <entry>trade</entry>
-        <entry>get1</entry>
-        <entry>debu</entry>
-        <entry>user</entry>
         <entry>ribbo</entry>
         <entry>web</entry>
         <entry>kot</entry>
@@ -772,6 +786,10 @@
         <entry>loa</entry>
         <entry encoding="base64">XDxsb2FuXD4=</entry>
         <entry encoding="base64">XDx0cmFkZU1hbmFnZW1lbnRTZXJ2aWNlXD4=</entry>
+        <entry>wo</entry>
+        <entry>役職</entry>
+        <entry encoding="base64">XDxqb2JfdGl0bGVcPg==</entry>
+        <entry encoding="base64">XDxyZWFsX25hbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>18</entry>
