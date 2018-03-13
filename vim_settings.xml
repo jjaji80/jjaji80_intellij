@@ -104,6 +104,13 @@
         <mark key="^" line="35" column="25" />
         <mark key="." line="35" column="25" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1520915739370">
+        <mark key="'" line="86" column="4" />
+        <mark key="[" line="7329" column="0" />
+        <mark key="]" line="7329" column="18" />
+        <mark key="^" line="7329" column="18" />
+        <mark key="." line="7329" column="18" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/pom.xml" timestamp="1520753098570">
         <mark key="'" line="207" column="2" />
         <mark key="[" line="160" column="8" />
@@ -525,11 +532,11 @@
         <mark key="." line="17" column="31" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520906224937">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="7" />
+      <file name="/Dummy.txt" timestamp="1520915835152">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/OraApplication.kt" timestamp="1520392031240">
         <mark key="[" line="8" column="32" />
@@ -571,6 +578,13 @@
         <mark key="." line="64" column="24" />
         <mark key="^" line="64" column="24" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_webpick.ctp" timestamp="1520915750053">
+        <mark key="'" line="4" column="27" />
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/pom.xml" timestamp="1520753006585">
         <mark key="'" line="34" column="22" />
         <mark key="[" line="50" column="8" />
@@ -604,49 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="8" filename="$USER_HOME$/git/coinman_parent/market_data/src/coinman/service/TradeManagementService.kt" />
-      <jump line="62" column="20" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
-      <jump line="5" column="29" filename="$USER_HOME$/git/coinman_parent/dao/pom.xml" />
-      <jump line="15" column="25" filename="$USER_HOME$/git/coinman_parent/dao/pom.xml" />
-      <jump line="13" column="28" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/RestService.kt" />
-      <jump line="7" column="11" filename="$USER_HOME$/git/coinman_parent/model/src/main/java/model/Coincheck1minute.kt" />
-      <jump line="14" column="35" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="11" column="30" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="32" column="26" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="26" column="38" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/RestService.kt" />
-      <jump line="363" column="22" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="364" column="38" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="519" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="12" column="38" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="46" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitpoint/BitPointApi.kt" />
-      <jump line="21" column="37" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/RestService.kt" />
-      <jump line="201" column="28" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="24" column="22" filename="$USER_HOME$/git/coinman_parent/model/src/main/java/model/Coincheck1minute.kt" />
-      <jump line="34" column="0" filename="$USER_HOME$/git/coinman_parent/model/src/main/java/model/Coincheck1minute.kt" />
-      <jump line="117" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="304" column="172" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="25" column="42" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="67" column="126" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="337" column="54" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="6" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="22" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="15" column="25" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitflyerPubNub.kt" />
-      <jump line="102" column="24" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitflyerPubNub.kt" />
-      <jump line="22" column="49" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitflyerPubNub.kt" />
-      <jump line="162" column="21" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/coinman_parent/util/pom.xml" />
-      <jump line="51" column="63" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="102" column="25" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" />
-      <jump line="11" column="7" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/RestService.kt" />
-      <jump line="3" column="15" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/RestService.kt" />
-      <jump line="13" column="40" filename="$USER_HOME$/git/coinman_parent/dao/src/coinman/service/TickerService.kt" />
-      <jump line="141" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/pom.xml" />
-      <jump line="18" column="49" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/TradeController.kt" />
-      <jump line="210" column="44" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="314" column="25" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="3" column="0" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitFlyerProperties.kt" />
-      <jump line="7" column="11" filename="$USER_HOME$/git/coinman_parent/model/src/main/java/model/User.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/RestService.kt" />
       <jump line="16" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/RestService.kt" />
       <jump line="24" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/RestService.kt" />
@@ -704,6 +675,49 @@
       <jump line="62" column="58" filename="$USER_HOME$/Documents/projects/ajio/pom.xml" />
       <jump line="65" column="77" filename="$USER_HOME$/Documents/projects/ajio/pom.xml" />
       <jump line="22" column="13" filename="$USER_HOME$/Documents/projects/redmine/src/main/java/jp/co/ajio/aop/logging/LoggingAspect.java" />
+      <jump line="4" column="27" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_webpick.ctp" />
+      <jump line="7210" column="15" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="369" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="370" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="499" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="529" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="530" column="7" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="547" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="615" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="680" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="728" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="729" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="742" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="764" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="784" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="788" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="872" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="880" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="885" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="890" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="923" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="932" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="933" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="940" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="941" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="946" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="948" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="953" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="963" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="968" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="979" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="14" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="51" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="53" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="67" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="114" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="134" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="330" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="349" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="355" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="358" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="86" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -723,10 +737,10 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Mjk4NTQg</text>
+        <text>explanation</text>
       </register>
       <register name="/" type="4">
-        <text>src</text>
+        <text>font</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA6d29yZHByZXNzX2NvZGUsCg==</text>
@@ -735,40 +749,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6a2V5d29yZCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA6a2V5d29yZCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB0cmFkZU1hbmFnZW1lbnRTZXJ2aWNlID0gVHJhZGVNYW5hZ2VtZW50U2VydmljZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvaW5tYW4uc2VydmljZS5UcmFkZU1hbmFnZW1lbnRTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwganNvbgo=</text>
+        <text encoding="base64">ICAgIHZhbCB0cmFkZU1hbmFnZW1lbnRTZXJ2aWNlID0gVHJhZGVNYW5hZ2VtZW50U2VydmljZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVzdAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvaW5tYW4uc2VydmljZS5UcmFkZU1hbmFnZW1lbnRTZXJ2aWNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwganNvbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>src</last-search>
+      <last-search>font</last-search>
       <last-offset />
-      <last-pattern>src</last-pattern>
+      <last-pattern>font</last-pattern>
       <last-replace />
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -776,8 +790,6 @@
     </search>
     <history>
       <history-search>
-        <entry>web</entry>
-        <entry>kot</entry>
         <entry>eureka</entry>
         <entry>clie</entry>
         <entry>clien</entry>
@@ -796,6 +808,8 @@
         <entry encoding="base64">XDxqb2JfdGl0bGVcPg==</entry>
         <entry encoding="base64">XDxyZWFsX25hbWVcPg==</entry>
         <entry>src</entry>
+        <entry>text</entry>
+        <entry>font</entry>
       </history-search>
       <history-cmd>
         <entry>18</entry>
@@ -816,8 +830,8 @@
         <entry>207.263y</entry>
         <entry>207,263y</entry>
         <entry>77,133y</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
