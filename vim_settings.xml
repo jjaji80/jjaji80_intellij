@@ -117,6 +117,12 @@
         <mark key="^" line="7329" column="18" />
         <mark key="." line="7329" column="18" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Users/index.ctp" timestamp="1520927246521">
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="15" column="42" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="15" column="42" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/pom.xml" timestamp="1520753098570">
         <mark key="'" line="207" column="2" />
         <mark key="[" line="160" column="8" />
@@ -129,6 +135,12 @@
         <mark key="]" line="32" column="25" />
         <mark key="^" line="32" column="25" />
         <mark key="." line="32" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Mypage/index.ctp" timestamp="1520927130052">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="45" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="5" column="32" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/news/user/recommend/DefaultFollowRecommender.java" timestamp="1519896262547">
         <mark key="[" line="293" column="15" />
@@ -232,6 +244,7 @@
         <mark key="^" line="36" column="39" />
         <mark key="." line="36" column="39" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" timestamp="1520927514346" />
       <file name="$USER_HOME$/git/coinman_parent/eureka_client/src/main/kotlin/coinman/eureka_client/controller/TestController.kt" timestamp="1520749033294">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="21" column="0" />
@@ -520,7 +533,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1520918269986">
+      <file name="/dummy.sql" timestamp="1520927263457">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -544,7 +557,7 @@
         <mark key="." line="17" column="31" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520920425092">
+      <file name="/Dummy.txt" timestamp="1520927096229">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="15" />
@@ -604,7 +617,8 @@
         <mark key="." line="119" column="0" />
         <mark key="^" line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1520567376878">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1520927949082">
+        <mark key="'" line="373" column="4" />
         <mark key="[" line="378" column="0" />
         <mark key="]" line="378" column="0" />
         <mark key="^" line="376" column="43" />
@@ -630,8 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="4" filename="$USER_HOME$/git/coinman_parent/docs/usecase.puml" />
-      <jump line="39" column="19" filename="$USER_HOME$/git/coinman_parent/eureka_server/pom.xml" />
       <jump line="8" column="0" filename="$USER_HOME$/git/coinman_parent/eureka_server/src/main/java/coinman/eureka/EurekaServerApplication.kt" />
       <jump line="47" column="4" filename="$USER_HOME$/git/coinman_parent/eureka_server/pom.xml" />
       <jump line="3" column="15" filename="$USER_HOME$/git/coinman_parent/eureka_client/src/main/kotlin/coinman/eureka_client/controller/TestController.kt" />
@@ -730,6 +742,8 @@
       <jump line="74" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
       <jump line="83" column="46" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
+      <jump line="248" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
+      <jump line="373" column="4" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -749,25 +763,25 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>explanation</text>
+        <text encoding="base64">ez8+fQ==</text>
       </register>
       <register name="/" type="4">
-        <text>cle</text>
+        <text encoding="base64">XDxiaXRGbHllclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>$data['original_news']</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCTw/cGhwIHZhcl9kdW1wKCRkYXRhWyd1c2VyJ10pO2RpZSgpPz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JCXZhcl9kdW1wKGNvdW50KCRkYXRhWydvcmlnaW5hbF9uZXdzJ10pKTsKLy8JCWRpZSgpOwo=</text>
+        <text encoding="base64">CQkJCQk8P3BocCB2YXJfZHVtcCgkZGF0YVsndXNlciddKTtkaWUoKT8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlDYWNoZTo6Y2xlYXIoKTsK</text>
+        <text encoding="base64">Ly8JCXZhcl9kdW1wKGNvdW50KCRkYXRhWydvcmlnaW5hbF9uZXdzJ10pKTsKLy8JCWRpZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcChjb3VudCgkZGF0YVsnb3JpZ2luYWxfbmV3cyddKSk7Cg==</text>
+        <text encoding="base64">CQlDYWNoZTo6Y2xlYXIoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlkaWUoKTsK</text>
+        <text encoding="base64">CQl2YXJfZHVtcChjb3VudCgkZGF0YVsnb3JpZ2luYWxfbmV3cyddKSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CQlkaWUoKTsK</text>
@@ -776,13 +790,13 @@
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQljb3UK</text>
+        <text encoding="base64">CQlkaWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkZGF0YVsnb3JpZ2luYWxfbmV3cyddKTsK</text>
+        <text encoding="base64">CQljb3UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkZGF0YVsnb3JpZ2luYWxfbmV3cyddKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -792,18 +806,16 @@
       </register>
     </registers>
     <search>
-      <last-search>cle</last-search>
+      <last-search encoding="base64">XDxiaXRGbHllclw+</last-search>
       <last-offset />
-      <last-pattern>cle</last-pattern>
+      <last-pattern encoding="base64">XDxiaXRGbHllclw+</last-pattern>
       <last-replace />
-      <last-substitute>var</last-substitute>
+      <last-substitute>cle</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dao</entry>
-        <entry>Auto</entry>
         <entry>momen</entry>
         <entry>jac</entry>
         <entry>post</entry>
@@ -822,6 +834,8 @@
         <entry encoding="base64">XDxnZXRfb3JpZ2luYWxcPg==</entry>
         <entry>die</entry>
         <entry>cle</entry>
+        <entry>save</entry>
+        <entry encoding="base64">XDxiaXRGbHllclw+</entry>
       </history-search>
       <history-cmd>
         <entry>18</entry>
