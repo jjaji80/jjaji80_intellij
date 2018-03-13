@@ -569,7 +569,7 @@
         <mark key="." line="17" column="31" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520953662963">
+      <file name="/Dummy.txt" timestamp="1520961909191">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="11" />
         <mark key="^" line="1" column="11" />
@@ -591,6 +591,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/redmine_gc_sync/app/models/issue_event.rb" timestamp="1520962100830">
+        <mark key="'" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/rest-dao/src/main/kotlin/coinman/rest_dao/repository/UserRepository.kt" timestamp="1520754845938">
         <mark key="[" line="6" column="0" />
@@ -657,10 +660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="16" filename="$USER_HOME$/git/coinman_parent/web/pom.xml" />
-      <jump line="24" column="29" filename="$USER_HOME$/git/coinman_parent/web/pom.xml" />
-      <jump line="34" column="35" filename="$USER_HOME$/git/coinman_parent/web/pom.xml" />
-      <jump line="35" column="24" filename="$USER_HOME$/git/coinman_parent/web/pom.xml" />
       <jump line="29" column="19" filename="$USER_HOME$/git/coinman_parent/rest/pom.xml" />
       <jump line="42" column="19" filename="$USER_HOME$/git/coinman_parent/rest/pom.xml" />
       <jump line="66" column="39" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
@@ -757,6 +756,10 @@
       <jump line="22" column="27" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
       <jump line="27" column="53" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
       <jump line="4" column="9" filename="$USER_HOME$/git/ora_sp/lib/main.dart" />
+      <jump line="21" column="0" filename="$USER_HOME$/git/redmine_gc_sync/app/models/issue_event.rb" />
+      <jump line="3" column="15" filename="$USER_HOME$/git/redmine_gc_sync/app/models/issue_event.rb" />
+      <jump line="0" column="6" filename="$USER_HOME$/git/redmine_gc_sync/app/models/issue_event.rb" />
+      <jump line="4" column="18" filename="$USER_HOME$/git/redmine_gc_sync/app/models/issue_event.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -779,7 +782,7 @@
         <text>app</text>
       </register>
       <register name="/" type="4">
-        <text>navi</text>
+        <text encoding="base64">XDxkZWxldGVfZnJvbV9jYWxlbmRhclw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Mjk2MDEg</text>
@@ -819,9 +822,9 @@
       </register>
     </registers>
     <search>
-      <last-search>navi</last-search>
+      <last-search encoding="base64">XDxkZWxldGVfZnJvbV9jYWxlbmRhclw+</last-search>
       <last-offset />
-      <last-pattern>navi</last-pattern>
+      <last-pattern encoding="base64">XDxkZWxldGVfZnJvbV9jYWxlbmRhclw+</last-pattern>
       <last-replace />
       <last-substitute>navi</last-substitute>
       <last-dir>1</last-dir>
@@ -829,9 +832,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loa</entry>
-        <entry encoding="base64">XDxsb2FuXD4=</entry>
-        <entry encoding="base64">XDx0cmFkZU1hbmFnZW1lbnRTZXJ2aWNlXD4=</entry>
         <entry>wo</entry>
         <entry>役職</entry>
         <entry encoding="base64">XDxqb2JfdGl0bGVcPg==</entry>
@@ -843,12 +843,15 @@
         <entry encoding="base64">XDxnZXRfb3JpZ2luYWxcPg==</entry>
         <entry>die</entry>
         <entry>cle</entry>
-        <entry>save</entry>
         <entry encoding="base64">XDxiaXRGbHllclw+</entry>
         <entry>fou</entry>
         <entry encoding="base64">XDxteXBhZ2VcPg==</entry>
         <entry>body</entry>
         <entry>navi</entry>
+        <entry>save</entry>
+        <entry encoding="base64">XDxzZW5kX3RvX2dvb2dsZV9jYWxlbmRhclw+</entry>
+        <entry>des</entry>
+        <entry encoding="base64">XDxkZWxldGVfZnJvbV9jYWxlbmRhclw+</entry>
       </history-search>
       <history-cmd>
         <entry>18</entry>
