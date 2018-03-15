@@ -104,12 +104,12 @@
         <mark key="." line="131" column="20" />
         <mark key="^" line="131" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1520838089921">
-        <mark key="'" line="1419" column="47" />
-        <mark key="[" line="1432" column="48" />
-        <mark key="]" line="1434" column="49" />
-        <mark key="." line="1434" column="49" />
-        <mark key="^" line="1434" column="49" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1521080943264">
+        <mark key="'" line="1398" column="0" />
+        <mark key="[" line="1452" column="6" />
+        <mark key="]" line="1452" column="12" />
+        <mark key="." line="1452" column="12" />
+        <mark key="^" line="1452" column="12" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/pushbullet.properties" timestamp="1520580453266">
         <mark key="[" line="0" column="10" />
@@ -700,9 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="499" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="529" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="530" column="7" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="547" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="615" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="680" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
@@ -800,6 +797,9 @@
       <jump line="31" column="66" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="33" column="62" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
       <jump line="35" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
+      <jump line="875" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="1430" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="1398" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -817,13 +817,13 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>他資産</text>
+        <text>C.start_time is not null and C.end_time is null</text>
       </register>
       <register name="/" type="4">
         <text>'2</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gaW5kaXZpZHVhbF9ub3RlX2NhdGVnb3J5X3RlbXBsYXRlcyAoY29kZSwgbmFtZSwgdXJsLCBiYW5uZXJfdXJsLCBwYXJlbnRfY29kZSkKVkFMVUVTICgnMjE4MDAnLCAn44Gd44Gu5LuW6LOH55SjJywgJycsICcvaW1hZ2VzL2J1dHRvbi8nLCAnMjEwMDAnKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">U0VMRUNUICoKRlJPTQogIGJvb2tpbmdzIEFTIEIKICBMRUZUIEpPSU4gY2FsbF9sb2dzIEFTIEMgT04gQy5ib29raW5nX2lkID0gQi5pZAogIExFRlQgSk9JTiBzY2hlZHVsZXMgQVMgUwogICAgT04gQi5zY2hlZHVsZV9pZCA9IFMuaWQKICBJTk5FUiBKT0lOIGZvcnR1bmV0ZWxsZXJzIEFTIEYgT04gRi5pZCA9IFMuZm9ydHVuZXRlbGxlcl9pZAogIExFRlQgSk9JTiB1c2VycyBBUyBVCiAgICBPTiBVLmlkID0gQi51c2VyX2lkCldIRVJFIEMuc3RhcnRfdGltZSBpcyBub3QgbnVsbCBhbmQgQy5lbmRfdGltZSBpcyBudWxsCk9SREVSIEJZIEIuaWQgREVTQzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gaW5kaXZpZHVhbF9ub3RlX2NhdGVnb3J5X3RlbXBsYXRlcyAoY29kZSwgbmFtZSwgdXJsLCBiYW5uZXJfdXJsLCBwYXJlbnRfY29kZSkK</text>
