@@ -193,9 +193,6 @@
         <mark key="." line="171" column="86" />
         <mark key="^" line="171" column="87" />
       </file>
-      <file name="/a.sql" timestamp="1521013957321">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/impl/NewsFacadeImpl.java" timestamp="1520254886554">
         <mark key="[" line="170" column="29" />
         <mark key="]" line="171" column="24" />
@@ -280,6 +277,12 @@
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" timestamp="1521092680421">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/orasp/app/lib/capture_video_android.js" timestamp="1521116072364">
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="18" column="19" />
+        <mark key="^" line="18" column="19" />
+        <mark key="." line="18" column="19" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/rest-dao/src/main/resources/application.yml" timestamp="1520754669648">
         <mark key="'" line="0" column="0" />
@@ -538,6 +541,12 @@
         <mark key="^" line="0" column="134" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/orasp/app/lib/capture_video.js" timestamp="1521116120052">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="28" />
+        <mark key="." line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/market_api/pom.xml" timestamp="1520069537856">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="52" column="7" />
@@ -716,12 +725,12 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/git/orasp/app/controllers/index.js" timestamp="1521114885351">
-        <mark key="'" line="34" column="14" />
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="14" />
-        <mark key="^" line="12" column="14" />
-        <mark key="." line="12" column="14" />
+      <file name="$USER_HOME$/git/orasp/app/controllers/index.js" timestamp="1521116048701">
+        <mark key="'" line="32" column="14" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="55" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -848,37 +857,37 @@
         <text>win</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8QnV0dG9uIGlkPSJyZWNvcmRCdXR0b24iPnJlY29yZDwvQnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGUucmVzdWx0Q29kZSA9PSBUaS5BbmRyb2lkLlJFU1VMVF9PSykgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8TGFiZWwgaWQ9ImxhYmVsIiBvbkNsaWNrPSJkb0NsaWNrIj5IZWxsbywgV29ybGQ8L0xhYmVsPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoZS5yZSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3JvdQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SU5URVJTRUNUIAo=</text>
+        <text encoding="base64">ICAgIC8vIEhvbGRzIGEgcmVmZXJlbmNlIHRvIHRoZSBtZWRpYSBVUkkKICAgIHZhciB2aWRlb1VSTCA9IG51bGw7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBpc3N1ZXMK</text>
+        <text encoding="base64">CQk8TGFiZWwgaWQ9ImxhYmVsIiBvbkNsaWNrPSJkb0NsaWNrIj5IZWxsbywgV29ybGQ8L0xhYmVsPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2hlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUICogZnJvbSBpc3MK</text>
+        <text encoding="base64">Z3JvdQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgY291bnQoSS5pZCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
