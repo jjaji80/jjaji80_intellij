@@ -107,12 +107,12 @@
         <mark key="." line="131" column="20" />
         <mark key="^" line="131" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1521186793385">
-        <mark key="'" line="1526" column="52" />
-        <mark key="[" line="1524" column="13" />
-        <mark key="]" line="1524" column="14" />
-        <mark key="." line="1524" column="14" />
-        <mark key="^" line="1524" column="35" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1521196376063">
+        <mark key="'" line="1524" column="35" />
+        <mark key="[" line="1583" column="3" />
+        <mark key="]" line="1583" column="10" />
+        <mark key="." line="1583" column="10" />
+        <mark key="^" line="1583" column="10" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/pushbullet.properties" timestamp="1520580453266">
         <mark key="[" line="0" column="10" />
@@ -231,12 +231,12 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" timestamp="1521194463893">
-        <mark key="'" line="82" column="44" />
-        <mark key="[" line="34" column="71" />
-        <mark key="]" line="34" column="102" />
-        <mark key="." line="34" column="102" />
-        <mark key="^" line="34" column="102" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" timestamp="1521195429260">
+        <mark key="'" line="35" column="93" />
+        <mark key="[" line="91" column="1" />
+        <mark key="]" line="93" column="5" />
+        <mark key="." line="93" column="5" />
+        <mark key="^" line="93" column="5" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/dao/Coincheck1minuteRepository.kt" timestamp="1521108650608">
         <mark key="[" line="10" column="53" />
@@ -659,7 +659,10 @@
         <mark key="." line="17" column="31" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1521163975319" />
+      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1521196266049">
+        <mark key="[" line="31" column="127" />
+        <mark key="]" line="31" column="132" />
+      </file>
       <file name="/Dummy.txt" timestamp="1521182219901">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
@@ -749,8 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="349" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="355" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="358" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="86" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="6" column="28" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
@@ -849,6 +850,8 @@
       <jump line="78" column="27" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/UsersController.php" />
       <jump line="1479" column="69" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="1483" column="52" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="35" column="93" filename="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" />
+      <jump line="1524" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -866,43 +869,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>insert_type = 1;</text>
+        <text>LIMIT 1</text>
       </register>
       <register name="/" type="4">
         <text>p2</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgV0hFUkUgdWZfaWQgPSBVLmlkIEFORCB1c2VyX3R5cGUgPSAndXNlcicgQU5EIGluc2VydF90eXBlID0gJzMnIEFORCBVLmNyZWF0ZWRfYXQgPj0gJzIwMTcvMDIvMDEnIEFORAogICAgICAgICBVLmNyZWF0ZWRfYXQgPD0gJzIwMTgvMDEvMzEnCg==</text>
+      <register name="0" type="4">
+        <text>CASE WHEN deposit_method = 0 then 'C-CHECK(ce)'
+    WHEN deposit_method=1 then 'クレジット'
+    WHEN deposit_method=2 then '手動入金'
+  WHEN deposit_method=3 then 'ドコモケータイ払い'
+  WHEN deposit_method=4 then 'auかんたん決済'
+  WHEN deposit_method=5 then 'LINE PAY'
+  WHEN deposit_method=6 then 'NETCASH'
+  WHEN deposit_method=7 then 'ウェブマネー'
+  WHEN deposit_method=8 then 'BitCash'
+  WHEN deposit_method=9 then '初期ポイント'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFdIRVJFIHVmX2lkPQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRpLkFuZHJvaWQuUkVTVUwK</text>
+        <text encoding="base64">YW5kIE0uZGVwb3NpdF9tZXRob2Q9MAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFRpdGFuaXVtCg==</text>
+        <text encoding="base64">ICBNLmNyZWF0ZWRfYXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFRpLkFuZHJvaWQuY3JlYXRlSW4K</text>
+        <text encoding="base64">ICBNLmNyZWEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFRpLkFQVC5jb24K</text>
+        <text encoding="base64">ICBNLmluc2VydF90eXBlLAo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRpdGEK</text>
+        <text encoding="base64">ICAgIFdIRVJFIHVmX2lkPQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRpdGEK</text>
+        <text encoding="base64">ICAgIFRpLkFuZHJvaWQuUkVTVUwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRpdGFuaXVtLkFuZHJvaWQK</text>
+        <text encoding="base64">ICAgIFRpdGFuaXVtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VGkuCg==</text>
+        <text encoding="base64">ICAgIFRpLkFuZHJvaWQuY3JlYXRlSW4K</text>
       </register>
       <register name=":" type="4">
         <text>1444,1454y</text>
