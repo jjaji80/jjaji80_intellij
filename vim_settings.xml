@@ -107,12 +107,12 @@
         <mark key="." line="131" column="20" />
         <mark key="^" line="131" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1521196376063">
-        <mark key="'" line="1524" column="35" />
-        <mark key="[" line="1583" column="3" />
-        <mark key="]" line="1583" column="10" />
-        <mark key="." line="1583" column="10" />
-        <mark key="^" line="1583" column="10" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1521197700565">
+        <mark key="'" line="1606" column="38" />
+        <mark key="[" line="1558" column="0" />
+        <mark key="]" line="1603" column="29" />
+        <mark key="." line="1603" column="0" />
+        <mark key="^" line="1602" column="7" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/pushbullet.properties" timestamp="1520580453266">
         <mark key="[" line="0" column="10" />
@@ -659,11 +659,11 @@
         <mark key="." line="17" column="31" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1521196266049">
+      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1521197319908">
         <mark key="[" line="31" column="127" />
         <mark key="]" line="31" column="132" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521182219901">
+      <file name="/Dummy.txt" timestamp="1521197320746">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="12" />
@@ -752,7 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="358" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="86" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="6" column="28" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
       <jump line="12" column="30" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TopnewsController.php" />
@@ -852,6 +851,7 @@
       <jump line="1483" column="52" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="35" column="93" filename="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" />
       <jump line="1524" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="1606" column="38" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -869,52 +869,43 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>LIMIT 1</text>
+        <text encoding="base64">aW5zZXJ0X3R5cGUgIT0gJzAnIEFORCB1c2VyX3R5cGUgPSAndXNlcicgQU5EIA==</text>
       </register>
       <register name="/" type="4">
         <text>p2</text>
       </register>
       <register name="0" type="4">
-        <text>CASE WHEN deposit_method = 0 then 'C-CHECK(ce)'
-    WHEN deposit_method=1 then 'クレジット'
-    WHEN deposit_method=2 then '手動入金'
-  WHEN deposit_method=3 then 'ドコモケータイ払い'
-  WHEN deposit_method=4 then 'auかんたん決済'
-  WHEN deposit_method=5 then 'LINE PAY'
-  WHEN deposit_method=6 then 'NETCASH'
-  WHEN deposit_method=7 then 'ウェブマネー'
-  WHEN deposit_method=8 then 'BitCash'
-  WHEN deposit_method=9 then '初期ポイント'</text>
+        <text encoding="base64">U0VMRUNUCiAgTS5pZCwKICBNLnVzZWRfYW1vdW50ICBBUyDkvb/nlKjjg53jgqTjg7Pjg4gsCiAgTS50b3RhbF9hbW91bnQgQVMg5L+d5pyJ44Od44Kk44Oz44OILAogIE0uY3JlYXRlZF9hdCAgIEFTIOaXpeaZgiwKICBDQVNFIFdIRU4gaW5zZXJ0X3R5cGUgPSAxCiAgICBUSEVOICflhaXph5EnCiAgV0hFTiBpbnNlcnRfdHlwZSA9IDIKICAgIFRIRU4gJ+WHuumHkScKICBXSEVOIGluc2VydF90eXBlID0gMwogICAgVEhFTiAn6ZGR5a6aJwogIFdIRU4gaW5zZXJ0X3R5cGUgPSA0CiAgICBUSEVOICflh7rph5EnCiAgRU5EICAgICAgICAgICAgQVMg5YaF5a65LAogIFUudWlkICAgICAgICAgIEFTIOS8muWToUlELAogIFUubGFzdF9uYW1lICAgIEFTIOWQjeWtlywKICBVLmZpcnN0X25hbWUgICBBUyDlkI3liY0sCiAgKFNFTEVDVCBDQVNFIFdIRU4gZGVwb3NpdF9tZXRob2QgPSAwCiAgICBUSEVOICdDLUNIRUNLKGNlKScKICAgICAgICAgIFdIRU4gZGVwb3NpdF9tZXRob2QgPSAxCiAgICAgICAgICAgIFRIRU4gJ+OCr+ODrOOCuOODg+ODiCcKICAgICAgICAgIFdIRU4gZGVwb3NpdF9tZXRob2QgPSAyCiAgICAgICAgICAgIFRIRU4gJ+aJi+WLleWFpemHkScKICAgICAgICAgIFdIRU4gZGVwb3NpdF9tZXRob2QgPSAzCiAgICAgICAgICAgIFRIRU4gJ+ODieOCs+ODouOCseODvOOCv+OCpOaJleOBhCcKICAgICAgICAgIFdIRU4gZGVwb3NpdF9tZXRob2QgPSA0CiAgICAgICAgICAgIFRIRU4gJ2F144GL44KT44Gf44KT5rG65riIJwogICAgICAgICAgV0hFTiBkZXBvc2l0X21ldGhvZCA9IDUKICAgICAgICAgICAgVEhFTiAnTElORSBQQVknCiAgICAgICAgICBXSEVOIGRlcG9zaXRfbWV0aG9kID0gNgogICAgICAgICAgICBUSEVOICdORVRDQVNIJwogICAgICAgICAgV0hFTiBkZXBvc2l0X21ldGhvZCA9IDcKICAgICAgICAgICAgVEhFTiAn44Km44Kn44OW44Oe44ON44O8JwogICAgICAgICAgV0hFTiBkZXBvc2l0X21ldGhvZCA9IDgKICAgICAgICAgICAgVEhFTiAnQml0Q2FzaCcKICAgICAgICAgIFdIRU4gZGVwb3NpdF9tZXRob2QgPSA5CiAgICAgICAgICAgIFRIRU4gJ+WIneacn+ODneOCpOODs+ODiCcgRU5ECiAgIEZST00gcGF5bWVudHMKICAgV0hFUkUgbW9uZXlfbWFuYWdlbWVudF9pZCA9IE0uaWQKICApICAgICAgICAgICAgICBBUyDmlK/miZXmlrnms5UKRlJPTSBtb25leV9tYW5hZ2VtZW50cyBNCiAgSU5ORVIgSk9JTiB1c2VycyBVIE9OIFUuaWQgPSBNLnVmX2lkCldIRVJFIGluc2VydF90eXBlICE9ICcwJyBBTkQgdXNlcl90eXBlID0gJ3VzZXInCiAgICAgIEFORAogICAgICBNLmNyZWF0ZWRfYXQgPj0gJzIwMTcvMDIvMDEgMDA6MDA6MDAnIEFORCBNLmNyZWF0ZWRfYXQgPD0gJzIwMTgvMDEvMzEgMjM6NTk6NTknCk9SREVSIEJZIHVmX2lkLCBNLmNyZWF0ZWRfYXQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhbmQgVS5pZD0xNjMyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YW5kIE0uZGVwb3NpdF9tZXRob2Q9MAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBNLmNyZWF0ZWRfYXQK</text>
+        <text encoding="base64">YW5kIE0uZGVwb3NpdF9tZXRob2Q9MAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBNLmNyZWEK</text>
+        <text encoding="base64">ICBNLmNyZWF0ZWRfYXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBNLmluc2VydF90eXBlLAo=</text>
+        <text encoding="base64">ICBNLmNyZWEK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFdIRVJFIHVmX2lkPQo=</text>
+        <text encoding="base64">ICBNLmluc2VydF90eXBlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRpLkFuZHJvaWQuUkVTVUwK</text>
+        <text encoding="base64">ICAgIFdIRVJFIHVmX2lkPQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRpdGFuaXVtCg==</text>
+        <text encoding="base64">ICAgIFRpLkFuZHJvaWQuUkVTVUwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRpLkFuZHJvaWQuY3JlYXRlSW4K</text>
+        <text encoding="base64">ICAgIFRpdGFuaXVtCg==</text>
       </register>
       <register name=":" type="4">
         <text>1444,1454y</text>
