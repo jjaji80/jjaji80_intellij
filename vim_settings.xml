@@ -762,16 +762,15 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/git/orasp/app/controllers/index.js" timestamp="1521305773806">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-        <mark key="^" line="8" column="72" />
+      <file name="$USER_HOME$/git/orasp/app/controllers/index.js" timestamp="1521309006836">
+        <mark key="'" line="5" column="32" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="5" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="7329" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="15" column="19" filename="$USER_HOME$/git/manganews-web-master/app/View/Users/index.ctp" />
       <jump line="5" column="1" filename="$USER_HOME$/git/manganews-web-master/app/View/Users/index.ctp" />
       <jump line="14" column="29" filename="$USER_HOME$/git/manganews-web-master/app/View/Users/index.ctp" />
@@ -871,6 +870,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/git/orasp/app/controllers/index.js" />
       <jump line="63" column="51" filename="$USER_HOME$/git/orasp/tiapp.xml" />
       <jump line="73" column="0" filename="$USER_HOME$/git/orasp/tiapp.xml" />
+      <jump line="5" column="32" filename="$USER_HOME$/git/orasp/app/controllers/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -897,34 +897,34 @@
         <text encoding="base64">ICAgIDxzZGstdmVyc2lvbj43LjEuMC5HQTwvc2RrLXZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8cGx1Z2luPmh5cGVybG9vcDwvcGx1Z2luPgo=</text>
+        <text encoding="base64">dmFyIFZpZXcgPSByZXF1aXJlKCdhbmRyb2lkLnZpZXcuVmlldycpOwpUaS5BUEkuaW5mbygidmlld0lkPSIrVmlldy5nZW5lcmF0ZVZpZXdJZCgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCJPSyIpCg==</text>
+        <text encoding="base64">ICAgICAgICA8cGx1Z2luPmh5cGVybG9vcDwvcGx1Z2luPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFRpLmEK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIGFsZXJ0KCJPSyIpCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFRpLmEK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KCJPSyIpCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbmQgVS5pZD0xNjMyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhbmQgVS5pZD0xNjMyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YW5kIE0uZGVwb3NpdF9tZXRob2Q9MAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBNLmNyZWF0ZWRfYXQK</text>
+        <text encoding="base64">YW5kIE0uZGVwb3NpdF9tZXRob2Q9MAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
