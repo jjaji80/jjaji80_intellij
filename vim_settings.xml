@@ -200,10 +200,10 @@
         <mark key="." line="171" column="86" />
         <mark key="^" line="171" column="87" />
       </file>
-      <file name="$USER_HOME$/git/orasp/tiapp.xml" timestamp="1521308075146">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="61" column="34" />
-        <mark key="]" line="61" column="65" />
+      <file name="$USER_HOME$/git/orasp/tiapp.xml" timestamp="1521310869041">
+        <mark key="'" line="8" column="13" />
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="25" />
         <mark key="^" line="61" column="65" />
         <mark key="." line="61" column="65" />
       </file>
@@ -598,9 +598,9 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/git/orasp/app/lib/Reprint.js" timestamp="1521306243966">
+      <file name="$USER_HOME$/git/orasp/app/lib/Reprint.js" timestamp="1521310066292">
         <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="60" />
+        <mark key="]" line="0" column="59" />
         <mark key="^" line="17" column="84" />
         <mark key="." line="17" column="84" />
       </file>
@@ -771,7 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="19" filename="$USER_HOME$/git/manganews-web-master/app/View/Users/index.ctp" />
       <jump line="5" column="1" filename="$USER_HOME$/git/manganews-web-master/app/View/Users/index.ctp" />
       <jump line="14" column="29" filename="$USER_HOME$/git/manganews-web-master/app/View/Users/index.ctp" />
       <jump line="22" column="27" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_blog_card.ctp" />
@@ -871,6 +870,7 @@
       <jump line="63" column="51" filename="$USER_HOME$/git/orasp/tiapp.xml" />
       <jump line="73" column="0" filename="$USER_HOME$/git/orasp/tiapp.xml" />
       <jump line="5" column="32" filename="$USER_HOME$/git/orasp/app/controllers/index.js" />
+      <jump line="8" column="13" filename="$USER_HOME$/git/orasp/tiapp.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -891,10 +891,10 @@
         <text>OK</text>
       </register>
       <register name="/" type="4">
-        <text>modu</text>
+        <text>android</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzZGstdmVyc2lvbj43LjEuMC5HQTwvc2RrLXZlcnNpb24+Cg==</text>
+      <register name="0" type="4">
+        <text>jp.co.leadlife.ora</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dmFyIFZpZXcgPSByZXF1aXJlKCdhbmRyb2lkLnZpZXcuVmlldycpOwpUaS5BUEkuaW5mbygidmlld0lkPSIrVmlldy5nZW5lcmF0ZVZpZXdJZCgpKTsK</text>
@@ -927,13 +927,13 @@
         <text encoding="base64">YW5kIE0uZGVwb3NpdF9tZXRob2Q9MAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>modu</last-search>
+      <last-search>android</last-search>
       <last-offset />
-      <last-pattern>modu</last-pattern>
+      <last-pattern>android</last-pattern>
       <last-replace />
       <last-substitute>遺言内容</last-substitute>
       <last-dir>1</last-dir>
@@ -955,12 +955,12 @@
         <entry>ゆめの</entry>
         <entry>export</entry>
         <entry>p2</entry>
-        <entry>android</entry>
         <entry>permi</entry>
         <entry>dep</entry>
         <entry>log</entry>
         <entry>lu</entry>
         <entry>modu</entry>
+        <entry>android</entry>
       </history-search>
       <history-cmd>
         <entry>255</entry>
@@ -980,9 +980,9 @@
         <entry>%y</entry>
         <entry>5,22d</entry>
         <entry>5,73d</entry>
-        <entry>1</entry>
         <entry>1444,1454y</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
