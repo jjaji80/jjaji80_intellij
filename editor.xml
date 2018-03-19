@@ -9,12 +9,7 @@
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
+  <component name="LiveEditOptions" chromeUpdateApp="true" restartIfHotSwapFailed="true">
+    <option name="elementHighlighting" value="true" />
   </component>
 </application>
