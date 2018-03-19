@@ -22,13 +22,17 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/git/orasp/Resources/app.js" timestamp="1521160331728">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/user/FollowerHibernateRepository.java" timestamp="1520249817645">
         <mark key="[" line="18" column="54" />
         <mark key="]" line="19" column="39" />
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
-      <file name="/tiapp.xml" timestamp="1521122972454" />
       <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803072115__change_account_id.sql" timestamp="1520425039590">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="54" />
@@ -199,6 +203,12 @@
         <mark key="^" line="61" column="65" />
         <mark key="." line="61" column="65" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/Blog/_preview.ctp" timestamp="1521424997532">
+        <mark key="[" line="2" column="57" />
+        <mark key="]" line="2" column="64" />
+        <mark key="." line="2" column="64" />
+        <mark key="^" line="2" column="64" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/impl/NewsFacadeImpl.java" timestamp="1520254886554">
         <mark key="[" line="170" column="29" />
         <mark key="]" line="171" column="24" />
@@ -237,6 +247,11 @@
         <mark key="]" line="10" column="58" />
         <mark key="^" line="10" column="58" />
         <mark key="." line="10" column="58" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" timestamp="1521425003985">
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="4" column="57" />
+        <mark key="." line="4" column="49" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/ExchangeService.java" timestamp="1520226457004">
         <mark key="[" line="122" column="25" />
@@ -328,7 +343,6 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/git/hti_mobile/app/lib/ibeacon_util.js" timestamp="1521115066143" />
       <file name="$USER_HOME$/git/orasp/app/views/index.xml" timestamp="1521305076764">
         <mark key="[" line="4" column="68" />
         <mark key="]" line="5" column="80" />
@@ -373,8 +387,6 @@
         <mark key="." line="33" column="33" />
         <mark key="^" line="33" column="33" />
       </file>
-      <file name="src:table:/4543fa2d/2bb55724-3ab0-4546-9f9d-5059dc11c83e/cakephp.money_managements" timestamp="1521163870992" />
-      <file name="src:table:/4543fa2d/2bb55724-3ab0-4546-9f9d-5059dc11c83e/cakephp.payments" timestamp="1521182219054" />
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/UserService.java" timestamp="1520227674624">
         <mark key="[" line="234" column="18" />
         <mark key="]" line="234" column="27" />
@@ -458,11 +470,12 @@
         <mark key="." line="83" column="50" />
         <mark key="^" line="83" column="50" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1520933492648">
-        <mark key="[" line="41" column="43" />
-        <mark key="]" line="41" column="44" />
-        <mark key="." line="41" column="44" />
-        <mark key="^" line="41" column="44" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1521425495527">
+        <mark key="'" line="572" column="0" />
+        <mark key="[" line="434" column="183" />
+        <mark key="]" line="434" column="183" />
+        <mark key="." line="434" column="183" />
+        <mark key="^" line="434" column="183" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/LikeRepository.java" timestamp="1519901402571">
         <mark key="[" line="38" column="90" />
@@ -547,7 +560,11 @@
         <mark key="^" line="66" column="88" />
         <mark key="." line="66" column="88" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Model/Table/UsersTable.php" timestamp="1521163878782" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console_1.sql" timestamp="1521009999929">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/rest/UserController.kt" timestamp="1520316215019">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="18" column="0" />
@@ -679,7 +696,7 @@
         <mark key="[" line="31" column="127" />
         <mark key="]" line="31" column="132" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521423254235">
+      <file name="/Dummy.txt" timestamp="1521424971372">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="12" />
@@ -769,8 +786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/git/ora_sp/pubspec.yaml" />
-      <jump line="13" column="4" filename="$USER_HOME$/git/ora_sp/pubspec.yaml" />
       <jump line="36" column="28" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/IndividualNoteCategory.kt" />
       <jump line="450" column="34" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803072037__add_about_me.sql" />
       <jump line="31" column="0" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803072037__add_about_me.sql" />
@@ -869,6 +884,8 @@
       <jump line="1503" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
       <jump line="1642" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="437" column="72" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
+      <jump line="572" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -886,10 +903,10 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>84</text>
+        <text>h1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb1NhdmVcPg==</text>
+        <text>controll</text>
       </register>
       <register name="0" type="4">
         <text>SELECT *
@@ -940,9 +957,9 @@ ORDER BY B.id DESC;</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb1NhdmVcPg==</last-search>
+      <last-search>controll</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb1NhdmVcPg==</last-pattern>
+      <last-pattern>controll</last-pattern>
       <last-replace />
       <last-substitute>遺言内容</last-substitute>
       <last-dir>1</last-dir>
@@ -950,8 +967,6 @@ ORDER BY B.id DESC;</text>
     </search>
     <history>
       <history-search>
-        <entry>コレクション</entry>
-        <entry>cry</entry>
         <entry>'2</entry>
         <entry>遺言内容</entry>
         <entry>open</entry>
@@ -970,6 +985,8 @@ ORDER BY B.id DESC;</text>
         <entry>modu</entry>
         <entry>android</entry>
         <entry encoding="base64">XDxkb1NhdmVcPg==</entry>
+        <entry>cont</entry>
+        <entry>controll</entry>
       </history-search>
       <history-cmd>
         <entry>255</entry>
