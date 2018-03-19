@@ -123,12 +123,12 @@
       <file name="$USER_HOME$/git/utel/app/src/Shell/MoneyShell.php" timestamp="1521421943815">
         <mark key="'" line="53" column="19" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/admin/user/index.html" timestamp="1521471767306">
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/admin/user/index.html" timestamp="1521473136968">
         <mark key="'" line="4" column="23" />
-        <mark key="[" line="35" column="12" />
-        <mark key="]" line="35" column="30" />
-        <mark key="^" line="48" column="16" />
-        <mark key="." line="48" column="16" />
+        <mark key="[" line="97" column="77" />
+        <mark key="]" line="97" column="78" />
+        <mark key="^" line="87" column="13" />
+        <mark key="." line="97" column="78" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/pushbullet.properties" timestamp="1520580453266">
         <mark key="[" line="0" column="10" />
@@ -540,6 +540,12 @@
         <mark key="." line="12" column="108" />
         <mark key="^" line="12" column="108" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/admin/AdminUserController.kt" timestamp="1521472476642">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="21" column="41" />
+        <mark key="^" line="21" column="41" />
+        <mark key="." line="21" column="41" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/CoinmanWebApplication.kt" timestamp="1520749272158">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="57" />
@@ -701,6 +707,11 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/admin/user/admin.html" timestamp="1521472537050">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/admin/AdminForumController.kt" timestamp="1521461824780">
         <mark key="[" line="11" column="22" />
         <mark key="]" line="11" column="26" />
@@ -731,7 +742,7 @@
         <mark key="." line="17" column="31" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521471872447">
+      <file name="/Dummy.txt" timestamp="1521473256361">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
@@ -768,12 +779,12 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/adminLayout.html" timestamp="1521464588743">
-        <mark key="'" line="45" column="6" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/adminLayout.html" timestamp="1521473189235">
+        <mark key="'" line="15" column="174" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
         <mark key="^" line="17" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/FollowService.java" timestamp="1520249660377">
         <mark key="[" line="64" column="23" />
@@ -841,7 +852,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
       <jump line="66" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" />
       <jump line="53" column="19" filename="$USER_HOME$/git/utel/app/src/Shell/MoneyShell.php" />
       <jump line="1558" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
@@ -941,6 +951,7 @@
       <jump line="21" column="24" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/setting/index.html" />
       <jump line="17" column="6" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/forum/index.html" />
       <jump line="12" column="65" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/setting/index.html" />
+      <jump line="15" column="174" filename="$USER_HOME$/git/ora/src/main/resources/templates/adminLayout.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -961,22 +972,22 @@
         <text>1.0</text>
       </register>
       <register name="/" type="4">
-        <text>submi</text>
+        <text>admin</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGNsYXNzPSJmb3JtLWdyb3VwIg==</text>
+        <text encoding="base64">IG5hbWU9InVzZXJfdHlwZSI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGEgaHJlZj0iL2FkbWluL2FkbWluaXN0cmF0b3IiIGNsYXNzPSJuYXYtaXRlbSBuYXYtbGluayI+PCEtLSBtYW5hZ2VtZW50IG9mIHVzZXIgLS0+566h55CG6ICF566h55CGPC9hPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gdHlwZT0ic3VibWl0IiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5Ij7mpJzntKI8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjYXJkIG10LTMiPgogICAgPGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPuioreWumjwvZGl2PgogICAgPGRpdiBjbGFzcz0iY2FyZC1ib2R5Ij4KICAgICAgPHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1ib3JkZXJlZCI+CiAgICAgICAgPHRyPgogICAgICAgICAgPHRoPklEPC90aD4KICAgICAgICAgIDx0aD48IS0tCiAgICAgICAgICBERVYgYWNjb3VudCN1c2VyI25hbWUgKyAnKCcgKyBhY2NvdW50I25hbWUgKyAnKScKICAgICAgICAgIGxpbmsgdG8gL2FkbWluL2FjY291bnQve2FjY291bnQjaWR9CiAgICAgICAgICAtLT7jgqLjgqvjgqbjg7Pjg4g8L3RoPgogICAgICAgICAgPHRoPjwhLS0gREVWIG5hbWUgLS0+5ZCN5YmNPC90aD4KICAgICAgICAgIDx0aD48IS0tIERFViB0aXRsZSAtLT7jgr/jgqTjg4jjg6s8L3RoPgogICAgICAgICAgPHRoPjwhLS0gREVWIGNvbW1lbnRfY291bnQgLS0+44Kz44Oh44Oz44OI5pWwPC90aD4KICAgICAgICAgIDx0aD48IS0tIERFViBjb250ZW50cyAtLT7mnKzmloc8L3RoPgogICAgICAgICAgPHRoPjwhLS0gREVWIGNyZWF0ZWRfYXQtLT7kvZzmiJDml6U8L3RoPgogICAgICAgICAgPHRoPjwhLS0gREVWIHVwZGF0ZWRfYXQtLT7mm7TmlrDml6U8L3RoPgogICAgICAgICAgPHRoPiZuYnNwOzwvdGg+CiAgICAgICAgPC90cj4KICAgICAgICA8dHI+CiAgICAgICAgICA8dGQ+MTwvdGQ+CiAgICAgICAgICA8dGQ+PGEgaHJlZj0iL2FkbWluL2FjY291bnQvMSI+TWlsZShzYW1wbGUpPC9hPjwvdGQ+CiAgICAgICAgICA8dGQ+VGhvbWFzPC90ZD4KICAgICAgICAgIDx0ZD50aXRsZTwvdGQ+CiAgICAgICAgICA8dGQ+MzA8L3RkPgogICAgICAgICAgPHRkPgogICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBkYXRhLXRvZ2dsZT0iY29sbGFwc2UiIGhyZWY9IiNjb250ZW50c18xIiByb2xlPSJidXR0b24iIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIgogICAgICAgICAgICAgICBhcmlhLWNvbnRyb2xzPSJjb2xsYXBzZUV4YW1wbGUiPgogICAgICAgICAgICAgIOacrOaWh+OCkumWi+OBjwogICAgICAgICAgICA8L2E+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbGxhcHNlIiBpZD0iY29udGVudHNfMSI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FyZCBjYXJkLWJvZHkiPgogICAgICAgICAgICAgICAgQW5pbSBwYXJpYXR1ciBjbGljaGUgcmVwcmVoZW5kZXJpdCwgZW5pbSBlaXVzbW9kIGhpZ2ggbGlmZSBhY2N1c2FtdXMgdGVycnkgcmljaGFyZHNvbiBhZCBzcXVpZC4gTmloaWwKICAgICAgICAgICAgICAgIGFuaW0ga2VmZml5ZWggaGVsdmV0aWNhLCBjcmFmdCBiZWVyIGxhYm9yZSB3ZXMgYW5kZXJzb24gY3JlZCBuZXNjaXVudCBzYXBpZW50ZSBlYSBwcm9pZGVudC4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L3RkPgogICAgICAgICAgPHRkPjIwMTgvMDMvMTk8L3RkPgogICAgICAgICAgPHRkPjIwMTgvMDMvMTk8L3RkPgogICAgICAgICAgPHRkPgogICAgICAgICAgICA8IS0tIERFViBkZWxldGUgdGhlIGZvcnVtIC0tPgogICAgICAgICAgICA8YSBocmVmPSIvYWRtaW4vZm9ydW0vZGVsZXRlLzEiPuWJiumZpDwvYT4gPGEgaHJlZj0iL2FkbWluL2ZvcnVtL2NvbW1lbnQvMSI+44Kz44Oh44Oz44OIPC9hPjwvdGQ+CiAgICAgICAgPC90cj4KICAgICAgPC90YWJsZT4KICAgIDwvZGl2PgogIDwvZGl2PgoKICA8IS0tIERFViBwYWdpbmcgLS0+CiAgPGRpdiBjbGFzcz0ibXQtMyI+CiAgICA8bmF2IGFyaWEtbGFiZWw9IlBhZ2UgbmF2aWdhdGlvbiBleGFtcGxlIj4KICAgICAgPHVsIGNsYXNzPSJwYWdpbmF0aW9uIj4KICAgICAgICA8bGkgY2xhc3M9InBhZ2UtaXRlbSI+PGEgY2xhc3M9InBhZ2UtbGluayIgaHJlZj0iIyI+JmxhcXVvOzwvYT48L2xpPgogICAgICAgIDxsaSBjbGFzcz0icGFnZS1pdGVtIj48YSBjbGFzcz0icGFnZS1saW5rIiBocmVmPSIjIj4xPC9hPjwvbGk+CiAgICAgICAgPGxpIGNsYXNzPSJwYWdlLWl0ZW0iPjxhIGNsYXNzPSJwYWdlLWxpbmsiIGhyZWY9IiMiPjI8L2E+PC9saT4KICAgICAgICA8bGkgY2xhc3M9InBhZ2UtaXRlbSI+PGEgY2xhc3M9InBhZ2UtbGluayIgaHJlZj0iIyI+MzwvYT48L2xpPgogICAgICAgIDxsaSBjbGFzcz0icGFnZS1pdGVtIj48YSBjbGFzcz0icGFnZS1saW5rIiBocmVmPSIjIj4mcmFxdW87PC9hPjwvbGk+CiAgICAgIDwvdWw+CiAgICA8L25hdj4KICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -985,25 +996,25 @@
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjYXJkIj4KICAgIDxkaXYgY2xhc3M9ImNhcmQtaGVhZGVyIj4KICAgICAg5qSc57SiCiAgICA8L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImNhcmQtYm9keSI+CiAgICAgIDxmb3JtPgogICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgPCEtLSBERVYgc2VhcmNoIHRpdGxlIC0tPgogICAgICAgICAgPGxhYmVsPuOCv+OCpOODiOODqzwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgdHlwZT0idGV4dCIgbmFtZT0iaG9nZSIvPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgPCEtLSBERVYgc2VhcmNoIGNvbnRlbnRzKGxpa2UpIC0tPgogICAgICAgICAgPGxhYmVsPuacrOaWhzwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgdHlwZT0idGV4dCIgbmFtZT0iaG9nZSIvPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgPCEtLSBERVYgc2VhcmNoIHNob3AgLS0+CiAgICAgICAgICA8bGFiZWw+5oqV56i/6ICFPC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIiB0eXBlPSJ0ZXh0IiBuYW1lPSJob2dlIi8+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICA8bGFiZWw+6L+U5L+h44Kz44Oh44Oz44OIPC9sYWJlbD4KICAgICAgICAgIDwhLS0gREVWIHNlYXJjaCBleGlzdHMoZm9ydW1fY29tbWVudHMgd2hlcmUgY29udGVudHMgbGlrZSAnJXdvcmQlJykgLS0+CiAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgdHlwZT0idGV4dCIgbmFtZT0iaG9nZSIvPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9InNwYW4xMiI+CiAgICAgICAgICA8IS0tIERFViBkbyBzZWFyY2ggLS0+CiAgICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+5qSc57SiPC9idXR0b24+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZm9ybT4KICAgIDwvZGl2PgoKICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3ByaW5nLnRoeW1lbGVhZi5lbmFibGVkOiB0cnVlCnNwcmluZy50aHltZWxlYWYucHJlZml4OiBjbGFzc3BhdGg6L3RlbXBsYXRlcy8K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gdHlwZT0ic3VibWl0IiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5Ij7mpJzntKI8L2J1dHRvbj4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjYXJkIG10LTMiPgogICAgPGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPuioreWumjwvZGl2PgogICAgPGRpdiBjbGFzcz0iY2FyZC1ib2R5Ij4KICAgICAgPHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1ib3JkZXJlZCI+CiAgICAgICAgPHRyPgogICAgICAgICAgPHRoPklEPC90aD4KICAgICAgICAgIDx0aD48IS0tCiAgICAgICAgICBERVYgYWNjb3VudCN1c2VyI25hbWUgKyAnKCcgKyBhY2NvdW50I25hbWUgKyAnKScKICAgICAgICAgIGxpbmsgdG8gL2FkbWluL2FjY291bnQve2FjY291bnQjaWR9CiAgICAgICAgICAtLT7jgqLjgqvjgqbjg7Pjg4g8L3RoPgogICAgICAgICAgPHRoPjwhLS0gREVWIG5hbWUgLS0+5ZCN5YmNPC90aD4KICAgICAgICAgIDx0aD48IS0tIERFViB0aXRsZSAtLT7jgr/jgqTjg4jjg6s8L3RoPgogICAgICAgICAgPHRoPjwhLS0gREVWIGNvbW1lbnRfY291bnQgLS0+44Kz44Oh44Oz44OI5pWwPC90aD4KICAgICAgICAgIDx0aD48IS0tIERFViBjb250ZW50cyAtLT7mnKzmloc8L3RoPgogICAgICAgICAgPHRoPjwhLS0gREVWIGNyZWF0ZWRfYXQtLT7kvZzmiJDml6U8L3RoPgogICAgICAgICAgPHRoPjwhLS0gREVWIHVwZGF0ZWRfYXQtLT7mm7TmlrDml6U8L3RoPgogICAgICAgICAgPHRoPiZuYnNwOzwvdGg+CiAgICAgICAgPC90cj4KICAgICAgICA8dHI+CiAgICAgICAgICA8dGQ+MTwvdGQ+CiAgICAgICAgICA8dGQ+PGEgaHJlZj0iL2FkbWluL2FjY291bnQvMSI+TWlsZShzYW1wbGUpPC9hPjwvdGQ+CiAgICAgICAgICA8dGQ+VGhvbWFzPC90ZD4KICAgICAgICAgIDx0ZD50aXRsZTwvdGQ+CiAgICAgICAgICA8dGQ+MzA8L3RkPgogICAgICAgICAgPHRkPgogICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBkYXRhLXRvZ2dsZT0iY29sbGFwc2UiIGhyZWY9IiNjb250ZW50c18xIiByb2xlPSJidXR0b24iIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIgogICAgICAgICAgICAgICBhcmlhLWNvbnRyb2xzPSJjb2xsYXBzZUV4YW1wbGUiPgogICAgICAgICAgICAgIOacrOaWh+OCkumWi+OBjwogICAgICAgICAgICA8L2E+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbGxhcHNlIiBpZD0iY29udGVudHNfMSI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2FyZCBjYXJkLWJvZHkiPgogICAgICAgICAgICAgICAgQW5pbSBwYXJpYXR1ciBjbGljaGUgcmVwcmVoZW5kZXJpdCwgZW5pbSBlaXVzbW9kIGhpZ2ggbGlmZSBhY2N1c2FtdXMgdGVycnkgcmljaGFyZHNvbiBhZCBzcXVpZC4gTmloaWwKICAgICAgICAgICAgICAgIGFuaW0ga2VmZml5ZWggaGVsdmV0aWNhLCBjcmFmdCBiZWVyIGxhYm9yZSB3ZXMgYW5kZXJzb24gY3JlZCBuZXNjaXVudCBzYXBpZW50ZSBlYSBwcm9pZGVudC4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L3RkPgogICAgICAgICAgPHRkPjIwMTgvMDMvMTk8L3RkPgogICAgICAgICAgPHRkPjIwMTgvMDMvMTk8L3RkPgogICAgICAgICAgPHRkPgogICAgICAgICAgICA8IS0tIERFViBkZWxldGUgdGhlIGZvcnVtIC0tPgogICAgICAgICAgICA8YSBocmVmPSIvYWRtaW4vZm9ydW0vZGVsZXRlLzEiPuWJiumZpDwvYT4gPGEgaHJlZj0iL2FkbWluL2ZvcnVtL2NvbW1lbnQvMSI+44Kz44Oh44Oz44OIPC9hPjwvdGQ+CiAgICAgICAgPC90cj4KICAgICAgPC90YWJsZT4KICAgIDwvZGl2PgogIDwvZGl2PgoKICA8IS0tIERFViBwYWdpbmcgLS0+CiAgPGRpdiBjbGFzcz0ibXQtMyI+CiAgICA8bmF2IGFyaWEtbGFiZWw9IlBhZ2UgbmF2aWdhdGlvbiBleGFtcGxlIj4KICAgICAgPHVsIGNsYXNzPSJwYWdpbmF0aW9uIj4KICAgICAgICA8bGkgY2xhc3M9InBhZ2UtaXRlbSI+PGEgY2xhc3M9InBhZ2UtbGluayIgaHJlZj0iIyI+JmxhcXVvOzwvYT48L2xpPgogICAgICAgIDxsaSBjbGFzcz0icGFnZS1pdGVtIj48YSBjbGFzcz0icGFnZS1saW5rIiBocmVmPSIjIj4xPC9hPjwvbGk+CiAgICAgICAgPGxpIGNsYXNzPSJwYWdlLWl0ZW0iPjxhIGNsYXNzPSJwYWdlLWxpbmsiIGhyZWY9IiMiPjI8L2E+PC9saT4KICAgICAgICA8bGkgY2xhc3M9InBhZ2UtaXRlbSI+PGEgY2xhc3M9InBhZ2UtbGluayIgaHJlZj0iIyI+MzwvYT48L2xpPgogICAgICAgIDxsaSBjbGFzcz0icGFnZS1pdGVtIj48YSBjbGFzcz0icGFnZS1saW5rIiBocmVmPSIjIj4mcmFxdW87PC9hPjwvbGk+CiAgICAgIDwvdWw+CiAgICA8L25hdj4KICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>submi</last-search>
+      <last-search>admin</last-search>
       <last-offset />
-      <last-pattern>submi</last-pattern>
+      <last-pattern>admin</last-pattern>
       <last-replace />
       <last-substitute>遺言内容</last-substitute>
       <last-dir>1</last-dir>
@@ -1011,7 +1022,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nav</entry>
         <entry>Projec</entry>
         <entry>1</entry>
         <entry>TODO</entry>
@@ -1031,6 +1041,7 @@
         <entry>&quot;ad</entry>
         <entry encoding="base64">PGZvcm0=</entry>
         <entry>submi</entry>
+        <entry>admin</entry>
       </history-search>
       <history-cmd>
         <entry>77,133y</entry>
