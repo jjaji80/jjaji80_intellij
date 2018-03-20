@@ -210,6 +210,12 @@
         <mark key="^" line="293" column="19" />
         <mark key="." line="293" column="19" />
       </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-manganews/app/Config/Env/Development/database.php" timestamp="1521530065337">
+        <mark key="[" line="76" column="19" />
+        <mark key="]" line="76" column="27" />
+        <mark key="." line="76" column="27" />
+        <mark key="^" line="76" column="27" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/RankingService.java" timestamp="1519901498649">
         <mark key="[" line="82" column="41" />
         <mark key="]" line="82" column="46" />
@@ -342,6 +348,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="34" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Config/Env/Development/database.php" timestamp="1521530025793">
+        <mark key="[" line="86" column="27" />
+        <mark key="]" line="86" column="27" />
+        <mark key="." line="86" column="27" />
+        <mark key="^" line="86" column="27" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Note.kt" timestamp="1520317146238">
         <mark key="[" line="36" column="103" />
         <mark key="]" line="36" column="39" />
@@ -354,12 +366,12 @@
         <mark key="^" line="3" column="72" />
         <mark key="." line="3" column="72" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" timestamp="1521526754613">
-        <mark key="'" line="721" column="70" />
-        <mark key="[" line="779" column="38" />
-        <mark key="]" line="779" column="55" />
-        <mark key="^" line="779" column="55" />
-        <mark key="." line="779" column="55" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" timestamp="1521530640662">
+        <mark key="'" line="779" column="64" />
+        <mark key="[" line="780" column="34" />
+        <mark key="]" line="784" column="41" />
+        <mark key="^" line="784" column="41" />
+        <mark key="." line="784" column="41" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/eureka_client/src/main/kotlin/coinman/eureka_client/controller/TestController.kt" timestamp="1520749033294">
         <mark key="[" line="15" column="4" />
@@ -531,6 +543,10 @@
         <mark key="." line="83" column="50" />
         <mark key="^" line="83" column="50" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/datasource.properties" timestamp="1521529993116">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="93" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1521441374411">
         <mark key="'" line="434" column="62" />
         <mark key="[" line="41" column="44" />
@@ -611,6 +627,7 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1521530118645" />
       <file name="$USER_HOME$/git/orasp/lib/main.dart" timestamp="1521097556064">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="11" column="1" />
@@ -895,7 +912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="434" column="62" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="7337" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="7189" column="18" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="7193" column="18" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
@@ -995,6 +1011,7 @@
       <jump line="66" column="0" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/NewsController.java" />
       <jump line="73" column="16" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/NewsController.java" />
       <jump line="721" column="70" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
+      <jump line="779" column="64" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1012,13 +1029,13 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>, fetch = FetchType.EAGER)</text>
+        <text>web</text>
       </register>
       <register name="/" type="4">
         <text>add&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvYWRtaW4vdGFncy8gOiDjgr/jgrDnrqHnkIYK</text>
+      <register name="0" type="4">
+        <text>production-cluster.cluster-ci9znf4p6ffv.ap-northeast-1.rds.amazonaws.com</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
