@@ -153,11 +153,11 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/views/index.xml" timestamp="1521541438053">
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="5" column="40" />
-        <mark key="." line="5" column="32" />
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/views/index.xml" timestamp="1521543964370">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="24" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Message.kt" timestamp="1520317258071">
         <mark key="[" line="34" column="106" />
@@ -209,9 +209,9 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/modules/android/ti.identity/2.1.0/example/app.js" timestamp="1521542523746">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="40" />
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/modules/android/ti.identity/2.1.0/example/app.js" timestamp="1521543919223">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="32" column="2" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/news/user/recommend/DefaultFollowRecommender.java" timestamp="1519896262547">
         <mark key="[" line="293" column="15" />
@@ -396,12 +396,12 @@
         <mark key="^" line="62" column="64" />
         <mark key="." line="62" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1521542264896">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
-        <mark key="^" line="0" column="39" />
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1521544166039">
+        <mark key="'" line="0" column="39" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="1" />
+        <mark key="." line="31" column="1" />
+        <mark key="^" line="31" column="1" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1520851607800">
         <mark key="'" line="3" column="0" />
@@ -916,7 +916,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7201" column="11" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="7205" column="11" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="7209" column="11" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="7213" column="11" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
@@ -1016,6 +1015,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/.gitignore" />
+      <jump line="0" column="39" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1033,13 +1033,13 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zml4ZWQg</text>
+        <text>doClick&quot;</text>
       </register>
       <register name="/" type="4">
         <text>click</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyIFRpSWRlbnRpdHkgPSByZXF1aXJlKCd0aS5pZGVudGl0eScpOwo=</text>
+        <text encoding="base64">YnRuLmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgZnVuY3Rpb24oKXsKCglpZiAoIVRpSWRlbnRpdHkuaXNTdXBwb3J0ZWQoKSkgewoJCWFsZXJ0KCJUb3VjaCBJRCBpcyBub3Qgc3VwcG9ydGVkIG9uIHRoaXMgZGV2aWNlISIpOwoJCXJldHVybjsKCX0KCQoJVGlJZGVudGl0eS5hdXRoZW50aWNhdGUoewoJCXJlYXNvbjogJ1dlIG5lZWQgeW91ciBmaW5nZXJwcmludCB0byBjb250aW51ZS4nLAoJCWNhbGxiYWNrOiBmdW5jdGlvbihlKSB7CgkJCWlmICghZS5zdWNjZXNzKSB7CgkJCQlhbGVydCgnTWVzc2FnZTogJyArIGUuZXJyb3IpOwoJCQkJCgkJCX0gZWxzZSB7CgkJCQlhbGVydCgnWUFZISBzdWNjZXNzJyk7CgkJCX0KCQl9Cgl9KTsKCn0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dmFyIFJlcHJpbnQgPSByZXF1aXJlKCdSZXByaW50Jyk7ClJlcHJpbnQuaW5pdGlhbGl6ZSgpOwo=</text>
