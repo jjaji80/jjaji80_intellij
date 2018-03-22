@@ -247,6 +247,9 @@
         <mark key="." line="2" column="57" />
         <mark key="^" line="2" column="64" />
       </file>
+      <file name="/a.sql" timestamp="1521689885380">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/impl/NewsFacadeImpl.java" timestamp="1520254886554">
         <mark key="[" line="170" column="29" />
         <mark key="]" line="171" column="24" />
@@ -790,7 +793,7 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="/dummy.sql" timestamp="1521633881675">
+      <file name="/dummy.sql" timestamp="1521689950218">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -814,7 +817,7 @@
         <mark key="." line="17" column="31" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521633248804">
+      <file name="/Dummy.txt" timestamp="1521689471723">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
@@ -864,18 +867,18 @@
         <mark key="." line="64" column="24" />
         <mark key="^" line="64" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/config.json" timestamp="1521545661249">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_webpick.ctp" timestamp="1520915750053">
         <mark key="'" line="4" column="27" />
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="33" />
         <mark key="." line="9" column="33" />
         <mark key="^" line="9" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803221222__add_payments.sql" timestamp="1521690082209">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="37" />
+        <mark key="^" line="16" column="37" />
       </file>
       <file name="$USER_HOME$/git/test4/pubspec.yaml" timestamp="1520992045533">
         <mark key="[" line="10" column="0" />
@@ -930,9 +933,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="22" filename="$USER_HOME$/git/ora-admin/html/index.html" />
-      <jump line="95" column="24" filename="$USER_HOME$/git/ora-admin/html/index.html" />
-      <jump line="101" column="20" filename="$USER_HOME$/git/ora-admin/html/index.html" />
       <jump line="115" column="22" filename="$USER_HOME$/git/ora-admin/html/index.html" />
       <jump line="117" column="22" filename="$USER_HOME$/git/ora-admin/html/index.html" />
       <jump line="118" column="22" filename="$USER_HOME$/git/ora-admin/html/index.html" />
@@ -1030,6 +1030,9 @@
       <jump line="9" column="14" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/forum/comment.html" />
       <jump line="26" column="19" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/account/index.html" />
       <jump line="38" column="47" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/account/index.html" />
+      <jump line="13" column="0" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803221222__add_payments.sql" />
+      <jump line="16" column="1" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803221222__add_payments.sql" />
+      <jump line="21" column="29" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803221222__add_payments.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1047,46 +1050,46 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGF0aCA=</text>
+        <text>back_payments</text>
       </register>
       <register name="/" type="4">
         <text>card</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZD7il4s8L3RkPgo=</text>
+        <text encoding="base64">ICBjcmVhdGVkX2F0IERBVEVUSU1FIERFRkFVTFQgY3VycmVudF90aW1lc3RhbXAsCiAgdXBkYXRlZF9hdCBEQVRFVElNRSBERUZBVUxUIGN1cnJlbnRfdGltZXN0YW1wLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwZXJjZW50YWdlIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIHNob3BfYmFja3MKKAogIGlkIEJJR0lOVCBQUklNQVJZIEtFWSBOT1QgTlVMTCwKICBjcmVhdGVkX2F0IERBVEVUSU1FIERFRkFVTFQgY3VycmVudF90aW1lc3RhbXAsCiAgdXBkYXRlZF9hdCBEQVRFVElNRSBERUZBVUxUIGN1cnJlbnRfdGltZXN0YW1wLAogIHNob3BfaWQgQklHSU5UIE5PVCBOVUxMLAogIHBsYW5lZF9hbW91bnQgSU5UIE5PVCBOVUxMIENPTU1FTlQgJ+S6iOWumumHkemhjScsCiAgcGF5ZWRfYW1vdW50IElOVCBERUZBVUxUIDAgTk9UIE5VTEwgQ09NTUVOVCAn5pSv5omV44GE5riI44G/6YeR6aGNJywKICBwYXllZCBCT09MRUFOIENPTU1FTlQgJ+aUr+aJleOBhOa4iOOBv+OBiycsCiAgcGF5ZGF0ZSBEQVRFVElNRSBDT01NRU5UICfmlK/miZXml6UnLAogIENPTlNUUkFJTlQgc2hvcF9iYWNrc19zaG9wc19pZF9mayBGT1JFSUdOIEtFWSAoc2hvcF9pZCkgUkVGRVJFTkNFUyBzaG9wcyAoaWQpIE9OIERFTEVURSBDQVNDQURFIE9OIFVQREFURSBDQVNDQURFCik7CkNSRUFURSBVTklRVUUgSU5ERVggc2hvcF9iYWNrc19pZF91aW5kZXggT04gc2hvcF9iYWNrcyAoaWQpOwpBTFRFUiBUQUJMRSBzaG9wX2JhY2tzIENPTU1FTlQgPSAn5bqX6IiX44G444Gu5pSv5omV5oOF5aCxJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwCg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGxvb3AgYmVyZWF2ZXMgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0aD7lkI3liY08L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIGxvb3AgYmVyZWF2ZXMgLS0+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>14,27d</text>
       </register>
     </registers>
     <search>
@@ -1122,7 +1125,6 @@
         <entry>card</entry>
       </history-search>
       <history-cmd>
-        <entry>1444,1454y</entry>
         <entry>435</entry>
         <entry>100</entry>
         <entry>99</entry>
@@ -1142,6 +1144,7 @@
         <entry>114,123d</entry>
         <entry>48</entry>
         <entry>w</entry>
+        <entry>14,27d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
