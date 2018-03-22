@@ -64,6 +64,10 @@
         <mark key="^" line="4" column="54" />
         <mark key="." line="4" column="54" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/confirm.html" timestamp="1521556510122">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/rest/src/main/resources/application.yml" timestamp="1520754175053">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="4" />
@@ -553,6 +557,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="57" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-release/datasource.properties" timestamp="1521706458509">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="93" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Column.kt" timestamp="1520317175171">
         <mark key="[" line="36" column="80" />
@@ -1082,8 +1090,8 @@
       <register name="/" type="4">
         <text>style.c</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQllY2hvICR0aGlzLT5IdG1sLT5jc3MoJ3N0eWxlLmNzcz8yMDE4MDMxOS0xJywgYXJyYXkoICdpbmxpbmUnID0+IHRydWUpKTsK</text>
+      <register name="0" type="4">
+        <text>production-cluster.cluster-ci9znf4p6ffv.ap-northeast-1.rds.amazonaws.com</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqICAgIAo=</text>
