@@ -748,11 +748,11 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PositionList.kt" timestamp="1520255112465">
-        <mark key="[" line="96" column="27" />
-        <mark key="]" line="96" column="30" />
-        <mark key="." line="96" column="30" />
-        <mark key="^" line="96" column="30" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PositionList.kt" timestamp="1521787374904">
+        <mark key="[" line="101" column="40" />
+        <mark key="]" line="103" column="26" />
+        <mark key="." line="103" column="26" />
+        <mark key="^" line="103" column="26" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/UserController.kt" timestamp="1520511581911">
         <mark key="[" line="12" column="22" />
@@ -1096,16 +1096,16 @@
         val json = post(jsonObject, &quot;/v1/me/cancelallchildorders&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWJjeOCiOOCiuODneOCuOOCt+ODp+ODs+OBjOWil+OBiOOBnyhleCAxIC0+IDIgKSDosqDjgZHjgabjgosK</text>
+        <text encoding="base64">ICAgICAgIGlmKG1pbkJlbmVmaXQ8MCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwganNvbiA9IG1ha2VTdGVwQ2xvc2VPcmRlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcGkuY2xlYXJPcmRlcihwb3NpdGlvbkxpc3Quc2lkZSgpISEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWJjeOCiOOCiuODneOCuOOCt+ODp+ODs+OBjOWil+OBiOOBnyhleCAxIC0+IDIgKSDosqDjgZHjgabjgosK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcGkuY2xlYXJPcmRlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwganNvbiA9IG1ha2VTdGVwQ2xvc2VPcmRlcigpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcGkuY2xlYXJPcmRlcihwb3NpdGlvbkxpc3Quc2lkZSgpISEpCg==</text>
@@ -1114,16 +1114,16 @@
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcGkuY2xlYXJPcmRlcigpCiAgICAgICAgICAgICAgICAgICAgdmFsIGpzb24gPSBtYWtlU3RlcENsb3NlT3JkZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcGkuY2xlYXJPcmRlcigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcGkuY2xlYXJPcmRlcigpCiAgICAgICAgICAgICAgICAgICAgdmFsIGpzb24gPSBtYWtlU3RlcENsb3NlT3JkZXIoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcGkuY2xlYXJPcmRlcihwb3NpdGlvbkxpc3Quc2lkZSgpISEpCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcGkuY2xlYXJPcmRlcigpCiAgICAgICAgICAgICAgICAgICAgdmFsIGpzb24gPSBtYWtlU3RlcENsb3NlT3JkZXIoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcGkuY2xlYXJPcmRlcigpCiAgICAgICAgICAgICAgICAgICAgdmFsIGpzb24gPSBtYWtlU3RlcENsb3NlT3JkZXIoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
