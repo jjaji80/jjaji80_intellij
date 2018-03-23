@@ -58,6 +58,9 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
+      <file name="$USER_HOME$/git/ex2/Vagrantfile" timestamp="1521792144739">
+        <mark key="'" line="39" column="57" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803072115__change_account_id.sql" timestamp="1520425039590">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="54" />
@@ -79,6 +82,11 @@
         <mark key="]" line="16" column="81" />
         <mark key="." line="16" column="81" />
         <mark key="^" line="16" column="81" />
+      </file>
+      <file name="$USER_HOME$/git/utel/docker-compose.yml" timestamp="1521790228231">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironDto.kt" timestamp="1520338682874">
         <mark key="[" line="33" column="28" />
@@ -147,6 +155,11 @@
         <mark key="]" line="1681" column="22" />
         <mark key="." line="1681" column="22" />
         <mark key="^" line="1681" column="21" />
+      </file>
+      <file name="$USER_HOME$/git/ex2/Dockerfile" timestamp="1521792014992">
+        <mark key="'" line="37" column="33" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="48" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/admin/user/index.html" timestamp="1521473136968">
         <mark key="'" line="4" column="23" />
@@ -916,6 +929,10 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
+      <file name="$USER_HOME$/git/ora/docker-compose.yml" timestamp="1521790168676">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/git/test4/pubspec.yaml" timestamp="1520992045533">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="12" column="0" />
@@ -954,6 +971,12 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
+      <file name="$USER_HOME$/git/ex2/docker-compose.yml" timestamp="1521792150789">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="6" column="18" />
+      </file>
       <file name="/fragment.java" timestamp="1520697435316">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
@@ -969,13 +992,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="20" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/user/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/adminLayout.html" />
-      <jump line="18" column="26" filename="$USER_HOME$/git/ora/src/main/resources/templates/adminLayout.html" />
-      <jump line="72" column="34" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/forum/index.html" />
-      <jump line="73" column="30" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/forum/index.html" />
-      <jump line="12" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/adminLayout.html" />
-      <jump line="34" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/adminLayout.html" />
       <jump line="13" column="3" filename="$USER_HOME$/git/ora/src/main/resources/templates/adminLayout.html" />
       <jump line="14" column="194" filename="$USER_HOME$/git/ora/src/main/resources/templates/adminLayout.html" />
       <jump line="35" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/adminLayout.html" />
@@ -1069,6 +1085,13 @@
       <jump line="59" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="110" column="77" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="111" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/utel/docker-compose.yml" />
+      <jump line="33" column="16" filename="$USER_HOME$/git/ex2/Dockerfile" />
+      <jump line="37" column="33" filename="$USER_HOME$/git/ex2/Dockerfile" />
+      <jump line="10" column="0" filename="$USER_HOME$/git/ex2/Vagrantfile" />
+      <jump line="13" column="23" filename="$USER_HOME$/git/ex2/Vagrantfile" />
+      <jump line="14" column="22" filename="$USER_HOME$/git/ex2/Vagrantfile" />
+      <jump line="39" column="57" filename="$USER_HOME$/git/ex2/Vagrantfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1086,54 +1109,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxza2lwQmVjYXVzZVBsdXNcPg==</text>
+        <text>3000</text>
       </register>
       <register name="0" type="4">
-        <text>val jsonObject = org.json.JSONObject()
-        jsonObject.put(&quot;product_code&quot;, &quot;FX_BTC_JPY&quot;)
-        val json = post(jsonObject, &quot;/v1/me/cancelallchildorders&quot;)</text>
+        <text>/start-server.sh</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIGlmKG1pbkJlbmVmaXQ8MCkK</text>
+        <text encoding="base64">ICAgICAgIC0gIjEwMDIyOjIyIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQK</text>
+        <text encoding="base64">ICAgICAgIC0gLjovcm9vdC9yYWlsczpjYWNoZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWJjeOCiOOCiuODneOCuOOCt+ODp+ODs+OBjOWil+OBiOOBnyhleCAxIC0+IDIgKSDosqDjgZHjgabjgosK</text>
+        <text encoding="base64">ICAgICBkZXBlbmRzX29uOgogICAgIC0gZGIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwganNvbiA9IG1ha2VTdGVwQ2xvc2VPcmRlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcGkuY2xlYXJPcmRlcihwb3NpdGlvbkxpc3Quc2lkZSgpISEpCg==</text>
+        <text encoding="base64">ICAgICAgIGlmKG1pbkJlbmVmaXQ8MCkK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcGkuY2xlYXJPcmRlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcGkuY2xlYXJPcmRlcihwb3NpdGlvbkxpc3Quc2lkZSgpISEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWJjeOCiOOCiuODneOCuOOCt+ODp+ODs+OBjOWil+OBiOOBnyhleCAxIC0+IDIgKSDosqDjgZHjgabjgosK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcGkuY2xlYXJPcmRlcigpCiAgICAgICAgICAgICAgICAgICAgdmFsIGpzb24gPSBtYWtlU3RlcENsb3NlT3JkZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwganNvbiA9IG1ha2VTdGVwQ2xvc2VPcmRlcigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcGkuY2xlYXJPcmRlcigpCiAgICAgICAgICAgICAgICAgICAgdmFsIGpzb24gPSBtYWtlU3RlcENsb3NlT3JkZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcGkuY2xlYXJPcmRlcihwb3NpdGlvbkxpc3Quc2lkZSgpISEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxza2lwQmVjYXVzZVBsdXNcPg==</last-search>
+      <last-search>3000</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxza2lwQmVjYXVzZVBsdXNcPg==</last-pattern>
+      <last-pattern>3000</last-pattern>
       <last-replace />
       <last-substitute>遺言内容</last-substitute>
       <last-dir>1</last-dir>
@@ -1141,8 +1162,6 @@
     </search>
     <history>
       <history-search>
-        <entry>request_to</entry>
-        <entry>add</entry>
         <entry>add&quot;</entry>
         <entry>click</entry>
         <entry encoding="base64">XDxhdXRoUGhyYXNlXD4=</entry>
@@ -1161,9 +1180,10 @@
         <entry encoding="base64">XDxtYWtlU3RlcENsb3NlT3JkZXJcPg==</entry>
         <entry>cancel</entry>
         <entry encoding="base64">XDxza2lwQmVjYXVzZVBsdXNcPg==</entry>
+        <entry>app</entry>
+        <entry>3000</entry>
       </history-search>
       <history-cmd>
-        <entry>435</entry>
         <entry>100</entry>
         <entry>99</entry>
         <entry>70</entry>
@@ -1182,6 +1202,7 @@
         <entry>48</entry>
         <entry>14,27d</entry>
         <entry>1</entry>
+        <entry>2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
