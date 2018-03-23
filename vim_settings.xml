@@ -354,7 +354,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1521794812034">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1521799861047">
         <mark key="'" line="110" column="20" />
         <mark key="[" line="98" column="23" />
         <mark key="]" line="98" column="23" />
@@ -393,6 +393,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/ex2/public/js/hikikae.js" timestamp="1521800087797">
+        <mark key="'" line="59" column="13" />
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="235" column="0" />
+        <mark key="^" line="235" column="10" />
+        <mark key="." line="235" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/lib/fingerprint.js" timestamp="1521551661008">
         <mark key="[" line="27" column="12" />
@@ -507,8 +514,8 @@
         <mark key="." line="189" column="3" />
         <mark key="^" line="189" column="3" />
       </file>
-      <file name="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" timestamp="1521798643329">
-        <mark key="'" line="36" column="40" />
+      <file name="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" timestamp="1521799517321">
+        <mark key="'" line="202" column="34" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/TradeController.kt" timestamp="1520749025909">
         <mark key="'" line="18" column="49" />
@@ -772,12 +779,12 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PositionList.kt" timestamp="1521794747953">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PositionList.kt" timestamp="1521799967969">
         <mark key="'" line="9" column="7" />
-        <mark key="[" line="9" column="96" />
-        <mark key="]" line="9" column="97" />
-        <mark key="." line="9" column="97" />
-        <mark key="^" line="9" column="97" />
+        <mark key="[" line="9" column="48" />
+        <mark key="]" line="9" column="48" />
+        <mark key="." line="9" column="48" />
+        <mark key="^" line="9" column="48" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/UserController.kt" timestamp="1520511581911">
         <mark key="[" line="12" column="22" />
@@ -1012,12 +1019,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="51" filename="$USER_HOME$/git/ora/src/main/resources/templates/adminLayout.html" />
-      <jump line="45" column="6" filename="$USER_HOME$/git/ora/src/main/resources/templates/adminLayout.html" />
-      <jump line="9" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/user/index.html" />
-      <jump line="84" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/user/index.html" />
-      <jump line="9" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/forum/index.html" />
-      <jump line="39" column="12" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/forum/index.html" />
       <jump line="43" column="22" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/user/index.html" />
       <jump line="85" column="2" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/user/index.html" />
       <jump line="95" column="7" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/user/index.html" />
@@ -1112,6 +1113,12 @@
       <jump line="40" column="9" filename="$USER_HOME$/git/ex2/config/routes.rb" />
       <jump line="6" column="40" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
       <jump line="36" column="40" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
+      <jump line="202" column="34" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
+      <jump line="431" column="5" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
+      <jump line="55" column="8" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
+      <jump line="2" column="34" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
+      <jump line="56" column="13" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
+      <jump line="59" column="13" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1138,31 +1145,31 @@
         <text encoding="base64">ICBtYXRjaCAnaGlraWthZV90aGFua3MnID0+ICd3aW5uZXJzI2hpa2lrYWVfdGhhbmtzJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgaWYoY28pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJvZHVjdCA9IFBybwo=</text>
+        <text encoding="base64">ICAgICAgICBlbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmKHApCg==</text>
+        <text encoding="base64">ICAgICAgcHJvZHVjdCA9IFBybwo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgIGlmKHApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE9yZAo=</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIE9yZAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -1182,8 +1189,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnZhbGlkYXRlXD4=</entry>
-        <entry encoding="base64">XDxZQVlcPg==</entry>
         <entry encoding="base64">XDxub3dDb2xsYXRlcmFsXD4=</entry>
         <entry>wait</entry>
         <entry>card</entry>
@@ -1201,6 +1206,8 @@
         <entry>3000</entry>
         <entry>get</entry>
         <entry>hikikae</entry>
+        <entry encoding="base64">XDxvcmRlcl9pZFw+</entry>
+        <entry encoding="base64">XDxjaGVja09yZGVyXD4=</entry>
         <entry>ajax</entry>
       </history-search>
       <history-cmd>
