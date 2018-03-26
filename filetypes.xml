@@ -1,12 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="txt" type="Markdown" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="finish.html" type="PLAIN_TEXT" />
       <mapping ext="frm" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <removed_mapping ext="txt" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
