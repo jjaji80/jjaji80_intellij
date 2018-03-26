@@ -300,11 +300,11 @@
         <mark key="." line="52" column="20" />
         <mark key="^" line="52" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1521633884399">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1522048476357">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="5" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" timestamp="1521806513085">
@@ -407,6 +407,12 @@
         <mark key="]" line="67" column="40" />
         <mark key="^" line="67" column="40" />
         <mark key="." line="67" column="40" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1522048982133">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="69" column="130" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/lib/fingerprint.js" timestamp="1521551661008">
         <mark key="[" line="27" column="12" />
@@ -871,7 +877,7 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="/dummy.sql" timestamp="1521874406892">
+      <file name="/dummy.sql" timestamp="1522048405718">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1147,43 +1153,43 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>show</text>
+        <text>ogin.html</text>
       </register>
       <register name="/" type="4">
         <text>下記の</text>
       </register>
       <register name="0" type="4">
-        <text>お客様は下記の商品が当選されています。</text>
+        <text encoding="base64">IHNlYzphdXRob3JpemU9IiFpc0F1dGhlbnRpY2F0ZWQoKSI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVsbAogICAgICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcG9zaXRpb24gPSBwb3NpdGlvbkxpc3QubWF4QnkgeyBpdC5wbmwgfQogICAgICAgIHJldHVybiBpZiAocG9zaXRpb24gIT0gbnVsbCkgewogICAgICAgICAgICBwb3NpdGlvbi5wbmwudG9CaWdEZWNpbWFsKCkuZGl2aWRlKHBvc2l0aW9uLnNpemUudG9CaWdEZWNpbWFsKCksIDgsIEJpZ0RlY2ltYWwuUk9VTkRfVVApLnRvRG91YmxlKCkKICAgICAgICB9IGVsc2Ugewo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbnVsbAogICAgICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgcG9zaXRpb24gPSBwb3NpdGlvbkxpc3QubWF4QnkgeyBpdC5wbmwgfQogICAgICAgIHJldHVybiBpZiAocG9zaXRpb24gIT0gbnVsbCkgewogICAgICAgICAgICBwb3NpdGlvbi5wbmwudG9CaWdEZWNpbWFsKCkuZGl2aWRlKHBvc2l0aW9uLnNpemUudG9CaWdEZWNpbWFsKCksIDgsIEJpZ0RlY2ltYWwuUk9VTkRfVVApLnRvRG91YmxlKCkKICAgICAgICB9IGVsc2Ugewo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCIkbm93UHJpY2UgPSAke3JzaS5nZXRWYWx1ZSgxNCkudG9Eb3VibGUoKX0iKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCIkbm93UHJpY2UgPSAke3JzaS5nZXRWYWx1ZSgxNCkudG9Eb3VibGUoKX0iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGxvd1JTSSA9IEJpdGZseWVyQXBpLnJlYWRDb25maWcoKVtCaXRGbHllclByb3BlcnRpZXMucnNpTG93XQogICAgICAgICAgICB2YWwgaGlnaFJTSSA9IEJpdGZseWVyQXBpLnJlYWRDb25maWcoKVtCaXRGbHllclByb3BlcnRpZXMucnNpSGlnaF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGxvd1JTSSA9IEJpdGZseWVyQXBpLnJlYWRDb25maWcoKVtCaXRGbHllclByb3BlcnRpZXMucnNpTG93XQogICAgICAgICAgICB2YWwgaGlnaFJTSSA9IEJpdGZseWVyQXBpLnJlYWRDb25maWcoKVtCaXRGbHllclByb3BlcnRpZXMucnNpSGlnaF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
