@@ -395,8 +395,8 @@
         <mark key="^" line="67" column="40" />
         <mark key="." line="67" column="40" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1522058445300">
-        <mark key="'" line="147" column="57" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1522134204985">
+        <mark key="'" line="89" column="58" />
         <mark key="[" line="89" column="46" />
         <mark key="]" line="89" column="58" />
         <mark key="^" line="89" column="58" />
@@ -419,6 +419,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="3" column="72" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" timestamp="1522134339679">
+        <mark key="'" line="26" column="38" />
+        <mark key="[" line="27" column="67" />
+        <mark key="]" line="27" column="67" />
+        <mark key="^" line="35" column="52" />
+        <mark key="." line="27" column="67" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" timestamp="1521702416513">
         <mark key="'" line="793" column="0" />
@@ -446,12 +453,12 @@
         <mark key="^" line="62" column="64" />
         <mark key="." line="62" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1521552421722">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="27" />
-        <mark key="." line="6" column="27" />
-        <mark key="^" line="10" column="18" />
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522134435313">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1520851607800">
         <mark key="'" line="3" column="0" />
@@ -1042,8 +1049,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="8" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="56" column="13" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="234" column="2" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="141" column="39" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
@@ -1142,6 +1147,8 @@
       <jump line="1476" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="1666" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="1671" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="89" column="58" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="26" column="38" filename="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1159,39 +1166,28 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>eighter0829</text>
+        <text>email</text>
       </register>
       <register name="/" type="4">
-        <text>setting</text>
+        <text>id=</text>
       </register>
-      <register name="0" type="4">
-        <text>SELECT *
-FROM
-  bookings AS B
-  LEFT JOIN schedules AS S
-    ON B.schedule_id = S.id
-  LEFT JOIN call_logs AS C ON C.booking_id = B.id
-  INNER JOIN fortunetellers AS F ON F.id = S.fortuneteller_id
-  LEFT JOIN users AS U
-    ON U.id = B.user_id
-WHERE F.id = 84
-  and uid='eighter0829'
-ORDER BY B.id DESC;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFRpLkFQSS5pbmZvKGRhdGEuZW1haWwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBMRUZUIEpPSU4gY2FsbF9sb2dzIEFTIEMgT04gQy5ib29raW5nX2lkID0gQi5pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">ICAgIFRpLkFwcC5maXJlRXZlbnQoInNhdmVMb2dpbiIsewogICAgICAgIGVtYWlsOiAkKCcjZW1haWwnKS52YWwoKSwKICAgICAgICBwYXNzd29yZDogJCgnI3Bhc3N3b3JkJykudmFsKCkKICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">44Os44Kk44Ki44Km44OI44OH44K244Kk44Oz5L+u5q2j5YiG5b2T44Gm6L6844G/Cg==</text>
+        <text encoding="base64">ICBMRUZUIEpPSU4gY2FsbF9sb2dzIEFTIEMgT04gQy5ib29raW5nX2lkID0gQi5pZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">44Os44Kk44Ki44Km44OI44OH44K244Kk44Oz5L+u5q2j5YiG5b2T44Gm6L6844G/Cg==</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKGFwaS5vcmRlcnMub3JkZXJMaXN0KQo=</text>
+        <text encoding="base64">44Os44Kk44Ki44Km44OI44OH44K244Kk44Oz5L+u5q2j5YiG5b2T44Gm6L6844G/Cg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
@@ -1200,30 +1196,29 @@ ORDER BY B.id DESC;</text>
         <text encoding="base64">44Os44Kk44Ki44Km44OI44OH44K244Kk44Oz5L+u5q2j5YiG5b2T44Gm6L6844G/Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">44Os44Kk44Ki44Km44OI44OH44K244Kk44Oz5L+u5q2j5YiG5b2T44Gm6L6844G/CmZpeGVkICMyOTk1NCBAMS4wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKGFwaS5vcmRlcnMub3JkZXJMaXN0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">44Os44Kk44Ki44Km44OI44OH44K244Kk44Oz5L+u5q2j5YiG5b2T44Gm6L6844G/Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">44Os44Kk44Ki44Km44OI44OH44K244Kk44Oz5L+u5q2j5YiG5b2T44Gm6L6844G/CmZpeGVkICMyOTk1NCBAMS4wCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setting</last-search>
+      <last-search>id=</last-search>
       <last-offset />
-      <last-pattern>setting</last-pattern>
+      <last-pattern>id=</last-pattern>
       <last-replace />
       <last-substitute>遺言内容</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hidden</entry>
         <entry encoding="base64">XDxzZWxlY3RlZF90eXBlXD4=</entry>
         <entry encoding="base64">XDx1c2pfdGlja2V0XD4=</entry>
         <entry>address1</entry>
@@ -1243,10 +1238,9 @@ ORDER BY B.id DESC;</text>
         <entry>alert</entry>
         <entry encoding="base64">XDxjb25maXJtRGVsZXRlXD4=</entry>
         <entry>setting</entry>
+        <entry>id=</entry>
       </history-search>
       <history-cmd>
-        <entry>115,122y</entry>
-        <entry>7</entry>
         <entry>48,178y</entry>
         <entry>69,160d</entry>
         <entry>38</entry>
@@ -1262,8 +1256,10 @@ ORDER BY B.id DESC;</text>
         <entry>2</entry>
         <entry>412</entry>
         <entry>416</entry>
-        <entry>1</entry>
         <entry>146</entry>
+        <entry>24</entry>
+        <entry>28</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
