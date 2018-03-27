@@ -238,6 +238,13 @@
         <mark key="." line="82" column="46" />
         <mark key="^" line="82" column="46" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitFlyerProperties.kt" timestamp="1522162700607">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="43" />
+        <mark key="]" line="19" column="36" />
+        <mark key="^" line="19" column="36" />
+        <mark key="." line="19" column="36" />
+      </file>
       <file name="$USER_HOME$/git/orasp/pubspec.yaml" timestamp="1520992816748">
         <mark key="[" line="11" column="2" />
         <mark key="]" line="11" column="2" />
@@ -346,11 +353,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1522126613164">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1522162748679">
         <mark key="[" line="139" column="64" />
-        <mark key="]" line="139" column="65" />
-        <mark key="^" line="139" column="65" />
-        <mark key="." line="139" column="65" />
+        <mark key="]" line="139" column="125" />
+        <mark key="^" line="139" column="125" />
+        <mark key="." line="139" column="125" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1522146202498">
         <mark key="[" line="50" column="0" />
@@ -413,11 +420,11 @@
         <mark key="^" line="36" column="39" />
         <mark key="." line="36" column="39" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/bitFlyer.properties" timestamp="1521789064316">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="3" column="72" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/git/coinman_parent/bitFlyer.properties" timestamp="1522162682233">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="36" />
+        <mark key="^" line="16" column="38" />
+        <mark key="." line="16" column="38" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" timestamp="1522156220485">
         <mark key="'" line="39" column="52" />
@@ -1045,7 +1052,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="419" column="18" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="84" column="38" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="423" column="38" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="468" column="32" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
@@ -1145,6 +1151,7 @@
       <jump line="30" column="14" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="52" column="46" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="57" column="15" filename="$USER_HOME$/git/ora/src/main/resources/templates/signup/input.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitFlyerProperties.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1162,13 +1169,13 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>signup</text>
+        <text>re</text>
       </register>
       <register name="/" type="4">
         <text>webview</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGkuQXBwLlByb3BlcnRpZXMuc2V0U3RyaW5nKCdwYXNzd29yZCcsIG9iai5wYXNzd29yZCk7Cg==</text>
+      <register name="0" type="4">
+        <text>initialAmountTimes</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
