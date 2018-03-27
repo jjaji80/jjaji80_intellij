@@ -416,12 +416,12 @@
         <mark key="^" line="3" column="72" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" timestamp="1522146690023">
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" timestamp="1522149598195">
         <mark key="'" line="41" column="52" />
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="37" />
-        <mark key="." line="17" column="37" />
-        <mark key="^" line="17" column="37" />
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="54" />
+        <mark key="." line="17" column="54" />
+        <mark key="^" line="17" column="54" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" timestamp="1521702416513">
         <mark key="'" line="793" column="0" />
@@ -449,12 +449,12 @@
         <mark key="^" line="62" column="64" />
         <mark key="." line="62" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522146727593">
-        <mark key="'" line="5" column="12" />
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="19" column="20" />
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522149818257">
+        <mark key="'" line="30" column="14" />
+        <mark key="[" line="34" column="50" />
+        <mark key="]" line="34" column="58" />
+        <mark key="." line="34" column="58" />
+        <mark key="^" line="34" column="58" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1520851607800">
         <mark key="'" line="3" column="0" />
@@ -1049,13 +1049,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="316" column="64" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
-      <jump line="47" column="16" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="185" column="15" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="28" column="8" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="35" column="10" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="41" column="10" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="20" column="137" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="83" column="17" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="419" column="18" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
@@ -1140,7 +1133,6 @@
       <jump line="228" column="30" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="231" column="50" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="24" column="22" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="5" column="12" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="1" column="30" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/views/index.xml" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/modules/android/ti.identity/2.1.0/manifest" />
@@ -1149,6 +1141,14 @@
       <jump line="8" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/modules/android/ti.identity/2.1.0/manifest" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/modules/android/ti.identity/2.1.0/manifest" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/modules/android/dk.napp.jockey/1.2.0/manifest" />
+      <jump line="27" column="11" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="33" column="8" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="36" column="33" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="59" column="7" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="66" column="20" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="62" column="4" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="24" column="37" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="30" column="14" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1166,52 +1166,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>mainForm</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaWNlbnNlXD4=</text>
+        <text>webview</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YXJjaGl0ZWN0dXJlczogYXJtNjQtdjhhIGFybWVhYmktdjdhIHg4Ngo=</text>
+      <register name="0" type="4">
+        <text>$('#password').val()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIE5hcHBKb2NrZXkgPSByZXF1aXJlKCdkay5uYXBwLmpvY2tleScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2FyY2hpdGVjdHVyZXM6IGFybWVhYmk7YXJtZWFiaS12N2E7eDg2Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjYWxsYmFja+aZguOBruWHpueQhuOCkuabuOOBjwo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnRyb2xsZXIudXJsID0gJ2h0dHA6Ly8xOTIuMTY4LjAuNDA6ODA4MC9sb2dpbi9pbnB1dCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvYWRlci5zaG93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8bWV0YSBjb250ZW50PSJ3aWR0aD0xMjQyIiBuYW1lPSJ2aWV3cG9ydCIvPgo=</text>
+        <text encoding="base64">dmFyIE5hcHBKb2NrZXkgPSByZXF1aXJlKCdkay5uYXBwLmpvY2tleScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaWNlbnNlXD4=</last-search>
+      <last-search>webview</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaWNlbnNlXD4=</last-pattern>
+      <last-pattern>webview</last-pattern>
       <last-replace>info</last-replace>
       <last-substitute>debug</last-substitute>
       <last-dir>1</last-dir>
@@ -1219,8 +1219,6 @@
     </search>
     <history>
       <history-search>
-        <entry>header</entry>
-        <entry>drawer-men</entry>
         <entry>second</entry>
         <entry>alert</entry>
         <entry encoding="base64">XDxjb25maXJtRGVsZXRlXD4=</entry>
@@ -1239,9 +1237,10 @@
         <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
         <entry encoding="base64">XDxhdXRob3JcPg==</entry>
         <entry encoding="base64">XDxsaWNlbnNlXD4=</entry>
+        <entry encoding="base64">XDx3ZWJWaWV3XD4=</entry>
+        <entry>webview</entry>
       </history-search>
       <history-cmd>
-        <entry>38</entry>
         <entry>42</entry>
         <entry>71,78d</entry>
         <entry>10,43d</entry>
@@ -1256,10 +1255,11 @@
         <entry>416</entry>
         <entry>146</entry>
         <entry>28</entry>
-        <entry>1</entry>
         <entry>%s/debug/info</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>24</entry>
+        <entry>90</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
