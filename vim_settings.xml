@@ -377,6 +377,13 @@
         <mark key="^" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/signup/input.html" timestamp="1522157028589">
+        <mark key="'" line="57" column="15" />
+        <mark key="[" line="111" column="50" />
+        <mark key="]" line="111" column="57" />
+        <mark key="^" line="111" column="57" />
+        <mark key="." line="111" column="57" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/rest-dao/src/main/resources/application.yml" timestamp="1520754669648">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="0" />
@@ -412,7 +419,7 @@
         <mark key="^" line="3" column="72" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" timestamp="1522152565720">
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" timestamp="1522156220485">
         <mark key="'" line="39" column="52" />
         <mark key="[" line="35" column="31" />
         <mark key="]" line="35" column="31" />
@@ -445,12 +452,12 @@
         <mark key="^" line="62" column="64" />
         <mark key="." line="62" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522152486432">
-        <mark key="'" line="30" column="14" />
-        <mark key="[" line="54" column="28" />
-        <mark key="]" line="54" column="29" />
-        <mark key="." line="54" column="29" />
-        <mark key="^" line="54" column="29" />
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522157297426">
+        <mark key="'" line="46" column="46" />
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="50" />
+        <mark key="." line="11" column="50" />
+        <mark key="^" line="11" column="50" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1520851607800">
         <mark key="'" line="3" column="0" />
@@ -902,11 +909,11 @@
         <mark key="." line="17" column="31" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522152470556">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="15" />
+      <file name="/Dummy.txt" timestamp="1522155893125">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/OraApplication.kt" timestamp="1520392031240">
         <mark key="[" line="8" column="32" />
@@ -1038,8 +1045,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="137" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="83" column="17" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="419" column="18" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="84" column="38" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="423" column="38" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
@@ -1138,6 +1143,8 @@
       <jump line="62" column="4" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="24" column="37" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="30" column="14" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="52" column="46" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="57" column="15" filename="$USER_HOME$/git/ora/src/main/resources/templates/signup/input.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1155,47 +1162,43 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9uY2xpY2s9InNhdmVMb2dpbigpOw==</text>
+        <text>signup</text>
       </register>
       <register name="/" type="4">
         <text>webview</text>
       </register>
-      <register name="0" type="4">
-        <text>if (mytimer) {
-                // 処理が終わり不要になったtimerを停止・削除する
-                clearInterval(mytimer);
-                mytimer = null;
-            }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGkuQXBwLlByb3BlcnRpZXMuc2V0U3RyaW5nKCdwYXNzd29yZCcsIG9iai5wYXNzd29yZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoMSA9PSAxKQogICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbXl0aW1lcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGkuCg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaS5BUEkuaW5mbygiMyIpOwoK</text>
+        <text encoding="base64">ICAgICAgICAkLmJ0bi5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGZ1bmN0aW9uICgpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iIyIgb25jbGljaz0ibG9jYXRpb24ucmVsb2FkKCk7Ij5yZWxvYWQ8L2E+CiAgICAgICAgICAgIDxhIGhyZWY9IiMiIG9uY2xpY2s9J3NhdmVMb2dpbigpOyc+ZmlyZTwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUaS5BUEkubG9nKG9iaik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYoZGF0YS51cmkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpLkFQSS5pbmZvKCIyIik7Cg==</text>
+        <text encoding="base64">5oyH57SL6KqN6Ki844Gu6ZaL55m65a6M5LqGCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
