@@ -453,12 +453,12 @@
         <mark key="^" line="62" column="64" />
         <mark key="." line="62" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522138733766">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="1" />
-        <mark key="." line="12" column="1" />
-        <mark key="^" line="12" column="1" />
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522139844029">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="23" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1520851607800">
         <mark key="'" line="3" column="0" />
@@ -1049,7 +1049,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="39" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="2" column="181" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="6" column="2" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
@@ -1149,6 +1148,7 @@
       <jump line="89" column="58" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="26" column="38" filename="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" />
       <jump line="39" column="52" filename="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1166,60 +1166,59 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>webview1</text>
+        <text>+e.url</text>
       </register>
       <register name="/" type="4">
-        <text>id=</text>
+        <text>debug</text>
       </register>
-      <register name="0" type="4">
-        <text>Ti.App.fireEvent(&quot;saveLogin&quot;, {email: &quot;test&quot;, password: &quot;hoge&quot;});</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFRpLkFQSS5kZWJ1Zygi6Kqt44G/6L6844G/6ZaL5aeLOiAiK2UudXJsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI2hvZ2UnKS50ZXh0KFRpdGFuaXVtKTsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">JC53ZWJ2aWV3LmdvbGVyID0gZ29sZXIoKTsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI2hvZ2UnKS50ZXh0KFRpdGFuaXVtKTsK</text>
+        <text encoding="base64">Z29sZXIgPSBmdW5jdGlvbigpewogICAgVGkuQVBJLmluZm8oJ1N1ZS1Cb2IgR29sZXInKTsKfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgiT0siKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI2hvZ2UnKS50ZXh0KFRpdGFuaXVtKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoVGl0YW5pdW0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgYWxlcnQoIk9LMiIpCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI2hvZ2UnKS50ZXh0KFRpdGFuaXVtKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgiT0syIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgiT0siKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCJPSyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoVGl0YW5pdW0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgYWxlcnQoIk9LMiIpCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/debug/info</text>
       </register>
     </registers>
     <search>
-      <last-search>id=</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>id=</last-pattern>
-      <last-replace />
-      <last-substitute>遺言内容</last-substitute>
+      <last-pattern>debug</last-pattern>
+      <last-replace>info</last-replace>
+      <last-substitute>debug</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RlZF90eXBlXD4=</entry>
         <entry encoding="base64">XDx1c2pfdGlja2V0XD4=</entry>
         <entry>address1</entry>
         <entry>USJ</entry>
@@ -1239,9 +1238,9 @@
         <entry encoding="base64">XDxjb25maXJtRGVsZXRlXD4=</entry>
         <entry>setting</entry>
         <entry>id=</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
-        <entry>48,178y</entry>
         <entry>69,160d</entry>
         <entry>38</entry>
         <entry>42</entry>
@@ -1261,6 +1260,7 @@
         <entry>28</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>%s/debug/info</entry>
       </history-cmd>
       <history-expr />
       <history-input />
