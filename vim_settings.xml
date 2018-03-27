@@ -540,6 +540,9 @@
         <mark key="^" line="312" column="33" />
         <mark key="." line="312" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" timestamp="1522140559918">
+        <mark key="'" line="65" column="4" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/TradeController.kt" timestamp="1520749025909">
         <mark key="'" line="18" column="49" />
         <mark key="[" line="20" column="4" />
@@ -1049,14 +1052,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="2" column="181" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="6" column="2" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="427" column="27" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="440" column="27" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="251" column="2" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="59" column="17" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="61" column="17" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="241" column="24" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="218" column="13" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="33" column="10" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
@@ -1149,6 +1144,14 @@
       <jump line="26" column="38" filename="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" />
       <jump line="39" column="52" filename="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" />
+      <jump line="59" column="5" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" />
+      <jump line="60" column="42" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" />
+      <jump line="61" column="41" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" />
+      <jump line="62" column="42" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" />
+      <jump line="63" column="43" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" />
+      <jump line="64" column="44" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" />
+      <jump line="65" column="4" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1169,7 +1172,7 @@
         <text>+e.url</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text>module</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFRpLkFQSS5kZWJ1Zygi6Kqt44G/6L6844G/6ZaL5aeLOiAiK2UudXJsKTsK</text>
@@ -1209,9 +1212,9 @@
       </register>
     </registers>
     <search>
-      <last-search>debug</last-search>
+      <last-search>module</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
+      <last-pattern>module</last-pattern>
       <last-replace>info</last-replace>
       <last-substitute>debug</last-substitute>
       <last-dir>1</last-dir>
@@ -1219,7 +1222,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2pfdGlja2V0XD4=</entry>
         <entry>address1</entry>
         <entry>USJ</entry>
         <entry>save</entry>
@@ -1239,6 +1241,7 @@
         <entry>setting</entry>
         <entry>id=</entry>
         <entry>debug</entry>
+        <entry>module</entry>
       </history-search>
       <history-cmd>
         <entry>69,160d</entry>
