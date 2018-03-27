@@ -420,12 +420,12 @@
         <mark key="^" line="3" column="72" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" timestamp="1522137756324">
-        <mark key="'" line="40" column="52" />
-        <mark key="[" line="42" column="32" />
-        <mark key="]" line="42" column="97" />
-        <mark key="." line="42" column="97" />
-        <mark key="^" line="42" column="97" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" timestamp="1522138951712">
+        <mark key="'" line="41" column="52" />
+        <mark key="[" line="53" column="37" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="55" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" timestamp="1521702416513">
         <mark key="'" line="793" column="0" />
@@ -453,12 +453,12 @@
         <mark key="^" line="62" column="64" />
         <mark key="." line="62" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522135558559">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="6" column="29" />
-        <mark key="^" line="6" column="29" />
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522138733766">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+        <mark key="^" line="12" column="1" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1520851607800">
         <mark key="'" line="3" column="0" />
@@ -1166,7 +1166,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>reload</text>
+        <text>webview1</text>
       </register>
       <register name="/" type="4">
         <text>id=</text>
@@ -1175,34 +1175,34 @@
         <text>Ti.App.fireEvent(&quot;saveLogin&quot;, {email: &quot;test&quot;, password: &quot;hoge&quot;});</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgYWxlcnQoIk9LMiIpCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI2hvZ2UnKS50ZXh0KFRpdGFuaXVtKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgiT0syIik7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCJPSyIpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI2hvZ2UnKS50ZXh0KFRpdGFuaXVtKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbGVydCgiT0siKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFRpLkFwcC5maXJlRXZlbnQoInNhdmVMb2dpbiIsewogICAgICAgIGVtYWlsOiAkKCcjZW1haWwnKS52YWwoKSwKICAgICAgICBwYXNzd29yZDogJCgnI3Bhc3N3b3JkJykudmFsKCkKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoVGl0YW5pdW0pOwo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBMRUZUIEpPSU4gY2FsbF9sb2dzIEFTIEMgT04gQy5ib29raW5nX2lkID0gQi5pZAo=</text>
+        <text encoding="base64">ICAgICAgICAkKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgYWxlcnQoIk9LMiIpCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgiT0syIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">44Os44Kk44Ki44Km44OI44OH44K244Kk44Oz5L+u5q2j5YiG5b2T44Gm6L6844G/Cg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KCJPSyIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">44Os44Kk44Ki44Km44OI44OH44K244Kk44Oz5L+u5q2j5YiG5b2T44Gm6L6844G/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
