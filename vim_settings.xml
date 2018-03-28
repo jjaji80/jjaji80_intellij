@@ -405,10 +405,12 @@
         <mark key="^" line="67" column="40" />
         <mark key="." line="67" column="40" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1522211724031">
-        <mark key="'" line="12" column="30" />
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="8" column="49" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1522246126196">
+        <mark key="'" line="240" column="27" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="122" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/lib/fingerprint.js" timestamp="1522227688951">
         <mark key="'" line="39" column="18" />
@@ -925,11 +927,11 @@
         <mark key="." line="17" column="31" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522245343153">
+      <file name="/Dummy.txt" timestamp="1522246157106">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
+        <mark key="^" line="1" column="16" />
       </file>
       <file name="/orders [development.sqlite3]" timestamp="1522224798506">
         <mark key="[" line="0" column="0" />
@@ -1074,16 +1076,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="15" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="80" column="44" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="12" column="30" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
-      <jump line="21" column="21" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="27" column="16" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="23" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="28" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="44" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="14" column="53" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="45" column="15" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="48" column="15" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="51" column="19" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="125" column="8" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
@@ -1174,6 +1166,16 @@
       <jump line="96" column="59" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="110" column="40" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="114" column="3" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="8" column="46" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="92" column="49" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="122" column="57" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="242" column="16" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="265" column="2" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="0" column="53" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="1" column="37" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="17" column="57" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="105" column="74" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="240" column="27" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1194,49 +1196,49 @@
         <text>1.0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkQ2FsbGJhY2tcPg==</text>
+        <text>html</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3ZWJWaWV3LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ2xvYWQnLCBsb2FkQ2FsbGJhY2spOwogICAgICAgIHdlYlZpZXcuYWRkRXZlbnRMaXN0ZW5lcignbG9hZCcsIGxvYWRDYWxsYmFjayk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gbG9naW5lZENhbGxiYWNrKG51bGwpOwo=</text>
+        <text encoding="base64">44Os44Kk44Ki44Km44OI44Gu44Oq44Oz44Kv5aSJ5pu0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgIDxhIGNsYXNzPSJkcmF3ZXItZHJvcGRvd24tbWVudS1pdGVtIiBocmVmPSIvdXNlci9pbmRleCI+44OR44K544Ov44O844OJ44Gu5aSJ5pu0PC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2ViVmlldy5yZW1vdmVFdmVudExpc3RlbmVyKCdsb2FkJywgbG9hZENhbGxiYWNrKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbG9naW5lZENhbGxiYWNrKG51bGwpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9naW5lZENhbGxiYWNrKG51bGwpOwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9naW5lZENhbGxiYWNrKG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2ViVmlldy5yZW1vdmVFdmVudExpc3RlbmVyKCdsb2FkJywgbG9hZENhbGxiYWNrKTsK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ2xvYWQnLCBsb2dpbik7CiAgICAgICAgd2ViVmlldy5yZW1vdmVFdmVudExpc3RlbmVyKCdsb2FkJywgbG9naW5lZENhbGxiYWNrKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9naW5lZENhbGxiYWNrKG51bGwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2ViVmlldy5yZW1vdmVFdmVudExpc3RlbmVyKCdsb2FkJywgbG9naW5lZENhbGxiYWNrKTsKICAgICAgICAgICAgd2ViVmlldy5hZGRFdmVudExpc3RlbmVyKCdsb2FkJywgbG9naW5lZENhbGxiYWNrKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9naW5lZENhbGxiYWNrKG51bGwpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ2xvYWQnLCBsb2dpbmVkQ2FsbGJhY2soKSk7CiAgICAgICAgd2ViVmlldy5hZGRFdmVudExpc3RlbmVyKCdsb2FkJywgbG9naW5lZENhbGxiYWNrKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ2xvYWQnLCBsb2dpbik7CiAgICAgICAgd2ViVmlldy5yZW1vdmVFdmVudExpc3RlbmVyKCdsb2FkJywgbG9naW5lZENhbGxiYWNrKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8KLy8gLy8gdmFyIGNhcHR1cmUgPSByZXF1aXJlKCdjYXB0dXJlX3ZpZGVvJyk7Ci8vIC8vIGNhcHR1cmUucnVuKCQuaW5kZXgpOwovLwoKLy8gVGkuQXBwLmFkZEV2ZW50TGlzdGVuZXIoInRlc3QiLCBmdW5jdGlvbiAoZSkgewovLyAgICAgVGkuQVBJLmluZm8oInRlc3QyIik7Ci8vICAgICB3ZWJWaWV3LmFkZEV2ZW50TGlzdGVuZXIoJ2xvYWQnLCBsb2FkQ2FsbGJhY2spOwovLwovLyB9KTsKLy8KLy8gVGkuQXBwLmFkZEV2ZW50TGlzdGVuZXIoImxvZ2luQ2FsbGJhY2siLCBmdW5jdGlvbiAob2JqKSB7Ci8vICAgICBUaS5BUEkuaW5mbygibG9naW5DYWxsYmFjaz0iICsgb2JqKTsKLy8gICAgIGlmIChvYmouZW1haWwpCi8vICAgICAgICAgVGkuQXBwLlByb3BlcnRpZXMuc2V0U3RyaW5nKCdlbWFpbCcsIG9iai5lbWFpbCk7Ci8vICAgICBpZiAob2JqLnBhc3N3b3JkKQovLyAgICAgICAgIFRpLkFwcC5Qcm9wZXJ0aWVzLnNldFN0cmluZygncGFzc3dvcmQnLCBvYmoucGFzc3dvcmQpOwovLyAgICAgaWYgKG9iai5maW5nZXJwcmludCkKLy8gICAgICAgICBUaS5BcHAuUHJvcGVydGllcy5zZXRTdHJpbmcoJ2ZpbmdlcnByaW50Jywgb2JqLmZpbmdlcnByaW50KTsKLy8gfSkKLy8KLy8gdmFyIGluaXQgPSBmYWxzZTsKLy8KLy8gZnVuY3Rpb24gZG9SZW5kZXIoKSB7Ci8vICAgICB2YXIgYmFzZSA9ICdodHRwOi8vMTkyLjE2OC4yLjEwMDo4MDgwJzsKLy8gICAgIHZhciB1cmwgPSBiYXNlICsgJy9sb2dpbi9pbnB1dCc7Ci8vCi8vICAgICBmdW5jdGlvbiBjaGVja0xvZ2luVXJsKHVybCkgewovLyAgICAgICAgIHJldHVybiB1cmwuaW5kZXhPZigiL2xvZ2luL2lucHV0IikgPiAtMSB8fCAhaW5pdDsKLy8gICAgIH0KLy8KLy8gICAgIGZ1bmN0aW9uIGxvZ2luKHVybCkgewovLyAgICAgICAgIGlmICghY2hlY2tMb2dpblVybCh1cmwpKQovLyAgICAgICAgICAgICByZXR1cm4gZmFsc2U7Ci8vICAgICAgICAgdmFyIGVtYWlsID0gVGkuQXBwLlByb3BlcnRpZXMuZ2V0U3RyaW5nKCdlbWFpbCcpOwovLyAgICAgICAgIHZhciBwYXNzd29yZCA9IFRpLkFwcC5Qcm9wZXJ0aWVzLmdldFN0cmluZygncGFzc3dvcmQnKTsKLy8gICAgICAgICBpZiAoZW1haWwgJiYgcGFzc3dvcmQpIHsKLy8gICAgICAgICAgICAgd2ViVmlldy5ldmFsSlMoInZhciBmb3JtID0gZG9jdW1lbnQuZm9ybXMubG9naW5Gb3JtOyIpOwovLyAgICAgICAgICAgICB3ZWJWaWV3LmV2YWxKUygiZm9ybS5lbWFpbC52YWx1ZSA9ICciICsgZW1haWwgKyAiJzsiKTsKLy8gICAgICAgICAgICAgd2ViVmlldy5ldmFsSlMoImZvcm0ucGFzc3dvcmQudmFsdWUgPSAnIiArIHBhc3N3b3JkICsgIic7Iik7Ci8vICAgICAgICAgICAgIHdlYlZpZXcuZXZhbEpTKCJmb3JtLnN1Ym1pdCgpOyIpOwovLyAgICAgICAgICAgICByZXR1cm4gdHJ1ZQovLyAgICAgICAgIH0KLy8gICAgICAgICByZXR1cm4gZmFsc2UKLy8gICAgIH0KLy8KLy8gICAgIGZ1bmN0aW9uIGxvZ2luQnlGaW5nZXJwcmludCh1cmwpIHsKLy8gICAgICAgICBUaS5BUEkuaW5mbygibG9naW5CeUZpbmdlcnByaW50IHVybD0iICsgdXJsKTsKLy8gICAgICAgICBpZiAoIWNoZWNrTG9naW5VcmwodXJsKSkKLy8gICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwovLyAgICAgICAgIFRpLkFQSS5pbmZvKCJsb2dpbkJ5RmluZ2VycHJpbnQgZ28iKTsKLy8gICAgICAgICBpZiAoVGkuQXBwLlByb3BlcnRpZXMuZ2V0U3RyaW5nKCJmaW5nZXJwcmludCIpKSB7Ci8vICAgICAgICAgICAgIHZhciBmaW5ndXJlID0gcmVxdWlyZSgnZmluZ2VycHJpbnQnKTsKLy8gICAgICAgICAgICAgVGkuQVBJLmluZm8oImdvIGxvY2F0aW9uIik7Ci8vICAgICAgICAgICAgIHdlYlZpZXcuZXZhbEpTID0gImxvY2F0aW9uLmhyZWYgPSAnIiArIGJhc2UgKyAiL290aGVycy9maW5nZXJwcmludC9sb2dpbjsnIjsKLy8gICAgICAgICAgICAgLy8gZmluZ3VyZS5hdXRoKGZ1bmN0aW9uICgpIHsKLy8gICAgICAgICAgICAgLy8gICAgIGxvZ2luKHVybCk7Ci8vICAgICAgICAgICAgIC8vIH0pOwovLyAgICAgICAgIH0KLy8gICAgICAgICByZXR1cm4gZmFsc2UKLy8gICAgIH0KLy8KLy8gICAgIHZhciB3ZWJWaWV3ID0gVGl0YW5pdW0uVUkuY3JlYXRlV2ViVmlldygKLy8gICAgICAgICB7Ci8vICAgICAgICAgICAgIHNjYWxlc1BhZ2VUb0ZpdDogdHJ1ZSwKLy8gICAgICAgICAgICAgd2lkdGg6ICcxMDAlJywKLy8gICAgICAgICAgICAgdXJsOiB1cmwKLy8gICAgICAgICB9Ci8vICAgICApOwovLwovLyAgICAgZnVuY3Rpb24gbG9hZENhbGxiYWNrKGRhdGEpIHsKLy8gICAgICAgICB3ZWJWaWV3LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ2xvYWQnLCBsb2FkQ2FsbGJhY2spOwovLyAgICAgICAgIFRpLkFQSS5pbmZvKGRhdGEpOwovLyAgICAgICAgIHZhciB4aHIgPSBUaS5OZXR3b3JrLmNyZWF0ZUhUVFBDbGllbnQoKTsKLy8gICAgICAgICB4aHIub25sb2FkID0gZnVuY3Rpb24gKCkgewovLyAgICAgICAgICAgICBUaS5BUEkuaW5mbygib25sb2FkIik7Ci8vICAgICAgICAgICAgIHZhciBodG1sID0gdGhpcy5yZXNwb25zZVRleHQ7Ci8vICAgICAgICAgICAgIGh0bWwgPSBodG1sLnJlcGxhY2UoIjxoZWFkPiIsICI8aGVhZD48YmFzZSBocmVmPSciICsgYmFzZSArICInPiIpOwovLyAgICAgICAgICAgICB3ZWJWaWV3Lmh0bWwgPSBodG1sOwovLyAgICAgICAgICAgICAvLyB3ZWJWaWV3LmFkZEV2ZW50TGlzdGVuZXIoJ2xvYWQnLCBsb2FkQ2FsbGJhY2spOwovLwovLyAgICAgICAgIH07Ci8vICAgICAgICAgeGhyLm9ucmVhZHlzdGF0ZWNoYW5nZT0gZnVuY3Rpb24oKSB7Ci8vICAgICAgICAgICAgIFRpLkFQSS5pbmZvKCJ0aGlzLnJlYWR5U3RhdGU9IiArIHRoaXMucmVhZHlTdGF0ZSk7Ci8vICAgICAgICAgICAgIHN3aXRjaCh0aGlzLnJlYWR5U3RhdGUpIHsKLy8gICAgICAgICAgICAgICAgIGNhc2UgdGhpcy5PUEVORUQ6Ci8vICAgICAgICAgICAgICAgICAgICAgVGkuQVBJLmluZm8oJ3JlYWR5U3RhdGU6IE9QRU5FRCcpOwovLyAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwovLyAgICAgICAgICAgICAgICAgY2FzZSB0aGlzLkhFQURFUlNfUkVDRUlWRUQ6Ci8vICAgICAgICAgICAgICAgICAgICAgVGkuQVBJLmluZm8oJ3JlYWR5U3RhdGU6IEhFQURFUlNfUkVDRUlWRUQnKTsKLy8gICAgICAgICAgICAgICAgICAgICBicmVhazsKLy8gICAgICAgICAgICAgICAgIGNhc2UgdGhpcy5MT0FESU5HOgovLyAgICAgICAgICAgICAgICAgICAgIFRpLkFQSS5pbmZvKCdyZWFkeVN0YXRlOiBMT0FESU5HJyk7Ci8vICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Ci8vICAgICAgICAgICAgICAgICBjYXNlIHRoaXMuRE9ORToKLy8gICAgICAgICAgICAgICAgICAgICBUaS5BUEkuaW5mbygncmVhZHlTdGF0ZTogRE9ORScpOwovLyAgICAgICAgICAgICAgICAgICAgIC8vIHdlYlZpZXcuYWRkRXZlbnRMaXN0ZW5lcignbG9hZCcsIGxvYWRDYWxsYmFjayk7Ci8vICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Ci8vICAgICAgICAgICAgICAgICBkZWZhdWx0OgovLyAgICAgICAgICAgICAgICAgICAgIFRpLkFQSS5pbmZvKCdyZWFkeVN0YXRlOiBVTktOT1dOICcgKyB0aGlzLnJlYWR5U3RhdGUpOwovLyAgICAgICAgICAgICB9Ci8vICAgICAgICAgfSwKLy8gICAgICAgICB4aHIub3BlbigiR0VUIiwgIHVybCk7Ci8vICAgICAgICAgeGhyLnNlbmQoKTsKLy8gICAgICAgICAvLyBpZiAoY2hlY2tMb2dpblVybChkYXRhLnVybCkpIHsKLy8gICAgICAgICAvLyAgICAgbG9naW5CeUZpbmdlcnByaW50KGRhdGEudXJsKTsKLy8gICAgICAgICAvLyB9Ci8vICAgICAgICAgaW5pdCA9IHRydWUKLy8gICAgIH0KLy8KLy8gICAgIHdlYlZpZXcuYWRkRXZlbnRMaXN0ZW5lcignbG9hZCcsIGxvYWRDYWxsYmFjayk7Ci8vCi8vICAgICBsb2FkQ2FsbGJhY2sobnVsbCk7Ci8vICAgICAkLmNvbnRhaW5lci5hZGQod2ViVmlldyk7Ci8vIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2ViVmlldy5yZW1vdmVFdmVudExpc3RlbmVyKCdsb2FkJywgbG9naW5lZENhbGxiYWNrKTsKICAgICAgICAgICAgd2ViVmlldy5hZGRFdmVudExpc3RlbmVyKCdsb2FkJywgbG9naW5lZENhbGxiYWNrKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkQ2FsbGJhY2tcPg==</last-search>
+      <last-search>html</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkQ2FsbGJhY2tcPg==</last-pattern>
+      <last-pattern>html</last-pattern>
       <last-replace>192.168.2.100</last-replace>
       <last-substitute>192.168.0.40</last-substitute>
       <last-dir>1</last-dir>
@@ -1244,8 +1246,6 @@
     </search>
     <history>
       <history-search>
-        <entry>login</entry>
-        <entry>go time</entry>
         <entry>addEv</entry>
         <entry>callba</entry>
         <entry>json=</entry>
@@ -1264,6 +1264,8 @@
         <entry encoding="base64">XDxyZW1vdmVFdmVudExpc3RlbmVyXD4=</entry>
         <entry encoding="base64">XDxsb2FkXD4=</entry>
         <entry encoding="base64">XDxsb2FkQ2FsbGJhY2tcPg==</entry>
+        <entry>bbs</entry>
+        <entry>html</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzUvMzA=</entry>
