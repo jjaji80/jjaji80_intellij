@@ -413,10 +413,10 @@
         <mark key="^" line="67" column="40" />
         <mark key="." line="67" column="40" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1522208490243">
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1522211724031">
         <mark key="'" line="15" column="30" />
-        <mark key="[" line="10" column="86" />
-        <mark key="]" line="10" column="87" />
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="49" />
         <mark key="^" line="10" column="87" />
         <mark key="." line="10" column="87" />
       </file>
@@ -439,12 +439,12 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" timestamp="1522156220485">
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" timestamp="1522211817663">
         <mark key="'" line="39" column="52" />
-        <mark key="[" line="35" column="31" />
-        <mark key="]" line="35" column="31" />
-        <mark key="." line="35" column="31" />
-        <mark key="^" line="17" column="54" />
+        <mark key="[" line="49" column="26" />
+        <mark key="]" line="49" column="29" />
+        <mark key="." line="49" column="29" />
+        <mark key="^" line="49" column="29" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/eureka_client/src/main/kotlin/coinman/eureka_client/controller/TestController.kt" timestamp="1520749033294">
         <mark key="[" line="15" column="4" />
@@ -465,12 +465,12 @@
         <mark key="^" line="62" column="64" />
         <mark key="." line="62" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522208499348">
-        <mark key="'" line="81" column="44" />
-        <mark key="[" line="6" column="54" />
-        <mark key="]" line="7" column="3" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="7" column="3" />
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522211847414">
+        <mark key="'" line="21" column="21" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1520851607800">
         <mark key="'" line="3" column="0" />
@@ -1079,7 +1079,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" />
       <jump line="71" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" />
       <jump line="1476" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="1666" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
@@ -1179,6 +1178,7 @@
       <jump line="79" column="15" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="80" column="44" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="12" column="30" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="21" column="21" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1196,25 +1196,25 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>100%&quot;</text>
+        <text>sample_custom_event</text>
       </register>
       <register name="/" type="4">
-        <text>view</text>
+        <text>info</text>
       </register>
       <register name="0" type="4">
-        <text>viewport</text>
+        <text encoding="base64">PG1ldGEgY29udGVudD0id2lkdGg9MTI0MiIgbmFtZT0idmlld3BvcnQiLz4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaS5BUEkuaW5mbyhodG1sKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdlYlZpZXcud2lkdGggPSAnMTAwJSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHdlYlZpZXcud2lkdGggPSAnMTAwJSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1223,25 +1223,25 @@
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLGluaXRpYWwtc2NhbGU9MSIgLz4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9MzYwLGluaXRpYWwtc2NhbGU9MSIgLz4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLGluaXRpYWwtc2NhbGU9MSIgLz4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9MzYwLGluaXRpYWwtc2NhbGU9MSIgLz4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>view</last-search>
+      <last-search>info</last-search>
       <last-offset />
-      <last-pattern>view</last-pattern>
+      <last-pattern>info</last-pattern>
       <last-replace>240</last-replace>
       <last-substitute>30</last-substitute>
       <last-dir>1</last-dir>
@@ -1262,16 +1262,15 @@
         <entry encoding="base64">XDxsaWNlbnNlXD4=</entry>
         <entry>webview</entry>
         <entry>5</entry>
-        <entry>30</entry>
         <entry encoding="base64">XDxmaW5nZXJwcmludFw+</entry>
-        <entry>info</entry>
         <entry>APP</entry>
         <entry>obj=</entry>
         <entry encoding="base64">XDx3ZWJWaWV3XD4=</entry>
         <entry>view</entry>
+        <entry>30</entry>
+        <entry>info</entry>
       </history-search>
       <history-cmd>
-        <entry>114,123d</entry>
         <entry>48</entry>
         <entry>14,27d</entry>
         <entry>2</entry>
@@ -1290,6 +1289,7 @@
         <entry encoding="base64">JzwsJz5zLzMwLzI0MC8=</entry>
         <entry>6</entry>
         <entry>1</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
