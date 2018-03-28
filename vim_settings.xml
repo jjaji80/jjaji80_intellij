@@ -406,8 +406,8 @@
       <file name="/issue_statuses [redmine_default@red-mine.net]" timestamp="1522221825185">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ex2/public/js/hikikae.js" timestamp="1522042612978">
-        <mark key="'" line="444" column="347" />
+      <file name="$USER_HOME$/git/ex2/public/js/hikikae.js" timestamp="1522224902882">
+        <mark key="'" line="34" column="23" />
         <mark key="[" line="67" column="37" />
         <mark key="]" line="67" column="40" />
         <mark key="^" line="67" column="40" />
@@ -557,8 +557,8 @@
         <mark key="." line="299" column="39" />
         <mark key="^" line="299" column="51" />
       </file>
-      <file name="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" timestamp="1522044072128">
-        <mark key="'" line="397" column="14" />
+      <file name="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" timestamp="1522224858637">
+        <mark key="'" line="296" column="59" />
         <mark key="[" line="296" column="18" />
         <mark key="]" line="296" column="36" />
         <mark key="^" line="312" column="33" />
@@ -942,6 +942,9 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
+      <file name="/orders [development.sqlite3]" timestamp="1522224798506">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/OraApplication.kt" timestamp="1520392031240">
         <mark key="[" line="8" column="32" />
         <mark key="]" line="8" column="34" />
@@ -1005,6 +1008,9 @@
         <mark key="]" line="24" column="37" />
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
+      </file>
+      <file name="/winners [development.sqlite3]" timestamp="1522224799281">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/test4/pubspec.yaml" timestamp="1520992045533">
         <mark key="[" line="10" column="0" />
@@ -1079,9 +1085,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="59" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
-      <jump line="101" column="79" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
-      <jump line="118" column="79" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="141" column="60" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="150" column="11" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="151" column="82" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
@@ -1179,6 +1182,9 @@
       <jump line="84" column="7" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="86" column="23" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="94" column="8" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="34" column="23" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
+      <jump line="335" column="58" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
+      <jump line="296" column="59" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1199,7 +1205,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3ZWJWaWV3XD4=</text>
+        <text>none</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGxiYWNrKCk7Cg==</text>
@@ -1239,9 +1245,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3ZWJWaWV3XD4=</last-search>
+      <last-search>none</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3ZWJWaWV3XD4=</last-pattern>
+      <last-pattern>none</last-pattern>
       <last-replace>240</last-replace>
       <last-substitute>30</last-substitute>
       <last-dir>1</last-dir>
@@ -1249,8 +1255,6 @@
     </search>
     <history>
       <history-search>
-        <entry>widht</entry>
-        <entry>width</entry>
         <entry>doRen</entry>
         <entry>widh</entry>
         <entry encoding="base64">XDxhcGl2ZXJzaW9uXD4=</entry>
@@ -1269,6 +1273,8 @@
         <entry encoding="base64">XDxjaGVja0xvZ2luVXJsXD4=</entry>
         <entry>info</entry>
         <entry encoding="base64">XDx3ZWJWaWV3XD4=</entry>
+        <entry encoding="base64">XDxzZWxlY3RlZF90eXBlXD4=</entry>
+        <entry>none</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
