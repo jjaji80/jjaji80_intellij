@@ -12,6 +12,12 @@
       <file name="/coincheck_1minutes [coinman@red-mine.net]" timestamp="1522221824977">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/TopController.kt" timestamp="1522314100398">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="10" column="48" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/admin/AdminSettingController.kt" timestamp="1521471930298">
         <mark key="[" line="8" column="30" />
         <mark key="]" line="9" column="14" />
@@ -487,13 +493,13 @@
         <mark key="^" line="62" column="64" />
         <mark key="." line="62" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522311383177">
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522314357805">
         <mark key="a" line="98" column="11" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="95" column="48" />
-        <mark key="]" line="95" column="54" />
-        <mark key="^" line="95" column="54" />
-        <mark key="." line="95" column="54" />
+        <mark key="'" line="59" column="40" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1520851607800">
         <mark key="'" line="3" column="0" />
@@ -1113,10 +1119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="10" column="28" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="149" column="24" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="189" column="37" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="161" column="8" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="150" column="24" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="143" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
@@ -1213,6 +1215,10 @@
       <jump line="111" column="23" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="16" column="40" filename="$USER_HOME$/git/ora/src/main/resources/templates/message/input2.html" />
+      <jump line="9" column="20" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="50" column="32" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="54" column="35" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="59" column="40" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1230,52 +1236,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZW1haWwg</text>
+        <text>modelAndView</text>
       </register>
       <register name="/" type="4">
-        <text>form</text>
+        <text>192</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2ViVmlldy5ldmFsSlMoInZhciBmb3JtID0gZG9jdW1lbnQuZm9ybXMubG9naW5Gb3JtOyIpOwogICAgICAgICAgICB3ZWJWaWV3LmV2YWxKUygiZm9ybS5lbWFpbC52YWx1ZSA9ICciICsgZW1haWwgKyAiJzsiKTsK</text>
+      <register name="0" type="4">
+        <text>&quot;redirect:/message/input1&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iZmlsZSIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYXB0dXJlVmlkZW8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iZmlsZSIgLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjYXB0dXJlVmlkZW8K</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">5pyA5paw44Kz44Op44Og44Gu6ZaL55m6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8cHJvZ3Jlc3MgdmFsdWU9IjcwIiBtYXg9IjEwMCIgd2lkdGg9IjEwMCUiPjcwICU8L3Byb2dyZXNzPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5pyA5paw44Kz44Op44Og44Gu6ZaL55m6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>form</last-search>
+      <last-search>192</last-search>
       <last-offset />
-      <last-pattern>form</last-pattern>
+      <last-pattern>192</last-pattern>
       <last-replace encoding="base64">JmFtcDs=</last-replace>
       <last-substitute encoding="base64">Jg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1283,7 +1289,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test2</entry>
         <entry encoding="base64">XDx0aW1lckZ1bmNcPg==</entry>
         <entry>add</entry>
         <entry encoding="base64">XDxyZW1vdmVFdmVudExpc3RlbmVyXD4=</entry>
@@ -1303,6 +1308,7 @@
         <entry encoding="base64">XDxjaGVja1VybFw+</entry>
         <entry>ex</entry>
         <entry>form</entry>
+        <entry>192</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzMwLzI0MC8=</entry>
