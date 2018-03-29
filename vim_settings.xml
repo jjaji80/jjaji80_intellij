@@ -499,13 +499,13 @@
         <mark key="^" line="62" column="64" />
         <mark key="." line="62" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522315205358">
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522315919240">
         <mark key="a" line="98" column="11" />
-        <mark key="'" line="74" column="13" />
-        <mark key="[" line="122" column="25" />
-        <mark key="]" line="122" column="31" />
-        <mark key="^" line="122" column="31" />
-        <mark key="." line="122" column="31" />
+        <mark key="'" line="110" column="21" />
+        <mark key="[" line="112" column="35" />
+        <mark key="]" line="112" column="37" />
+        <mark key="^" line="112" column="37" />
+        <mark key="." line="112" column="37" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1520851607800">
         <mark key="'" line="3" column="0" />
@@ -1125,8 +1125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="18" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/lib/fingerprint.js" />
-      <jump line="175" column="44" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="172" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="151" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="177" column="12" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
@@ -1209,7 +1207,6 @@
       <jump line="129" column="31" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="130" column="16" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="93" column="43" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="110" column="39" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="111" column="23" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="16" column="40" filename="$USER_HOME$/git/ora/src/main/resources/templates/message/input2.html" />
@@ -1225,6 +1222,9 @@
       <jump line="127" column="64" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="158" column="16" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="74" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="108" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="109" column="12" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="110" column="21" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1245,7 +1245,7 @@
         <text>recordVideo</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lckZ1bmNNYWluXD4=</text>
+        <text>win</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHZhciBqc29uID0gd2ViVmlldy5ldmFsSlMoJ2lmIChjdXN0b21fZXZlbnQpIHsgY3VzdG9tX2V2ZW50KCk7IH0nKTsKICAgICAgICAgICAgICAgICAgICBUaS5BUEkuaW5mbygianNvbj0iICsganNvbik7CiAgICAgICAgICAgICAgICAgICAgdmFyIG9iaiA9IEpTT04ucGFyc2UoanNvbik7CiAgICAgICAgICAgICAgICAgICAgVGkuQVBJLmluZm8oIm9iajoiICsgb2JqKTsKICAgICAgICAgICAgICAgICAgICBpZiAob2JqKSB7</text>
@@ -1285,9 +1285,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lckZ1bmNNYWluXD4=</last-search>
+      <last-search>win</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lckZ1bmNNYWluXD4=</last-pattern>
+      <last-pattern>win</last-pattern>
       <last-replace encoding="base64">JmFtcDs=</last-replace>
       <last-substitute encoding="base64">Jg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1295,8 +1295,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkXD4=</entry>
-        <entry encoding="base64">XDxsb2FkQ2FsbGJhY2tcPg==</entry>
         <entry>bbs</entry>
         <entry>html</entry>
         <entry encoding="base64">XDxBdXRoZW50aWNhdGlvblByaW5jaXBhbFw+</entry>
@@ -1315,6 +1313,8 @@
         <entry>timer</entry>
         <entry encoding="base64">XDx0aW1lckZ1bmNcPg==</entry>
         <entry encoding="base64">XDx0aW1lckZ1bmNNYWluXD4=</entry>
+        <entry encoding="base64">XDxjYXB0dXJlVmlkZW9cPg==</entry>
+        <entry>win</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzMwLzI0MC8=</entry>
