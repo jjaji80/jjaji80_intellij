@@ -382,11 +382,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1522162748679">
-        <mark key="[" line="139" column="64" />
-        <mark key="]" line="139" column="125" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1522303009471">
+        <mark key="'" line="140" column="19" />
+        <mark key="[" line="139" column="162" />
+        <mark key="]" line="139" column="163" />
         <mark key="^" line="139" column="125" />
-        <mark key="." line="139" column="125" />
+        <mark key="." line="139" column="163" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1522206267299">
         <mark key="[" line="37" column="51" />
@@ -447,13 +448,6 @@
       </file>
       <file name="/accounts [ora@localhost]" timestamp="1522284744747">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/lib/fingerprint.js" timestamp="1522227688951">
-        <mark key="'" line="39" column="18" />
-        <mark key="[" line="86" column="25" />
-        <mark key="]" line="86" column="28" />
-        <mark key="." line="86" column="28" />
-        <mark key="^" line="86" column="28" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Note.kt" timestamp="1520317146238">
         <mark key="[" line="36" column="103" />
@@ -1117,7 +1111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="11" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="74" column="15" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="86" column="23" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="94" column="8" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
@@ -1217,6 +1210,7 @@
       <jump line="22" column="44" filename="$USER_HOME$/git/ora/src/main/resources/templates/news/index.html" />
       <jump line="14" column="166" filename="$USER_HOME$/git/ora/src/main/resources/templates/news/index.html" />
       <jump line="15" column="302" filename="$USER_HOME$/git/ora/src/main/resources/templates/news/index.html" />
+      <jump line="140" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1237,7 +1231,7 @@
         <text encoding="base64">Zml4ZWQg</text>
       </register>
       <register name="/" type="4">
-        <text>version</text>
+        <text>else</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY29yZS5hbm5vdGF0aW9uLkF1dGhlbnRpY2F0aW9uUHJpbmNpcGFsCg==</text>
@@ -1277,9 +1271,9 @@
       </register>
     </registers>
     <search>
-      <last-search>version</last-search>
+      <last-search>else</last-search>
       <last-offset />
-      <last-pattern>version</last-pattern>
+      <last-pattern>else</last-pattern>
       <last-replace encoding="base64">JmFtcDs=</last-replace>
       <last-substitute encoding="base64">Jg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1287,7 +1281,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aW1lckZ1bmNNYWluXD4=</entry>
         <entry encoding="base64">XDxsb2dpbkJ5RmluZ2VycHJpbnRcPg==</entry>
         <entry encoding="base64">XDx3ZWJWaWV3XD4=</entry>
         <entry>192</entry>
@@ -1307,6 +1300,7 @@
         <entry encoding="base64">Jg==</entry>
         <entry>500</entry>
         <entry>version</entry>
+        <entry>else</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzMwLzI0MC8=</entry>
