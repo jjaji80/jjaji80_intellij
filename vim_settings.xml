@@ -395,12 +395,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1522303009471">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1522375306492">
         <mark key="'" line="140" column="19" />
-        <mark key="[" line="139" column="162" />
-        <mark key="]" line="139" column="163" />
-        <mark key="^" line="139" column="125" />
-        <mark key="." line="139" column="163" />
+        <mark key="[" line="529" column="46" />
+        <mark key="]" line="530" column="35" />
+        <mark key="." line="530" column="35" />
+        <mark key="^" line="530" column="35" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1522206267299">
         <mark key="[" line="37" column="51" />
@@ -1242,16 +1242,16 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>recordVideo</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>win</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHZhciBqc29uID0gd2ViVmlldy5ldmFsSlMoJ2lmIChjdXN0b21fZXZlbnQpIHsgY3VzdG9tX2V2ZW50KCk7IH0nKTsKICAgICAgICAgICAgICAgICAgICBUaS5BUEkuaW5mbygianNvbj0iICsganNvbik7CiAgICAgICAgICAgICAgICAgICAgdmFyIG9iaiA9IEpTT04ucGFyc2UoanNvbik7CiAgICAgICAgICAgICAgICAgICAgVGkuQVBJLmluZm8oIm9iajoiICsgb2JqKTsKICAgICAgICAgICAgICAgICAgICBpZiAob2JqKSB7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqc29uID0gbWFrZVN0ZXBDbG9zZU9yZGVyKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpLkFQSS5pbmZvKERhdGUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -1263,22 +1263,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpLkFQSS5pbmZvKERhdGUoKSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iZmlsZSIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYXB0dXJlVmlkZW8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
