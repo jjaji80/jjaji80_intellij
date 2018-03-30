@@ -249,13 +249,13 @@
         <mark key="^" line="62" column="64" />
         <mark key="." line="62" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522315919240">
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522402673850">
         <mark key="a" line="98" column="11" />
-        <mark key="'" line="110" column="21" />
-        <mark key="[" line="112" column="35" />
-        <mark key="]" line="112" column="37" />
-        <mark key="^" line="112" column="37" />
-        <mark key="." line="112" column="37" />
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="70" />
+        <mark key="^" line="54" column="66" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1520851607800">
         <mark key="'" line="3" column="0" />
@@ -295,6 +295,12 @@
         <mark key="]" line="27" column="46" />
         <mark key="." line="27" column="46" />
         <mark key="^" line="27" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/FreeMigrationController.kt" timestamp="1522283858126">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="1" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PushbulletProperties.kt" timestamp="1520567527754">
         <mark key="[" line="4" column="45" />
@@ -991,16 +997,17 @@
         <mark key="^" line="35" column="56" />
         <mark key="." line="35" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/lib/capture_video_ios.js" timestamp="1522402567850">
+        <mark key="[" line="46" column="41" />
+        <mark key="]" line="47" column="34" />
+        <mark key="." line="47" column="34" />
+        <mark key="^" line="47" column="34" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/CoinCheckController.kt" timestamp="1520579002745">
         <mark key="[" line="27" column="8" />
         <mark key="]" line="27" column="8" />
         <mark key="^" line="27" column="33" />
         <mark key="." line="27" column="8" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/application.yml" timestamp="1522286645438">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/rest/UserController.kt" timestamp="1520316215019">
         <mark key="[" line="10" column="0" />
@@ -1139,8 +1146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="440" column="26" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="487" column="8" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="42" column="12" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="362" column="0" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
       <jump line="386" column="0" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
@@ -1239,6 +1244,8 @@
       <jump line="335" column="35" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
       <jump line="68" column="23" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="389" column="16" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
+      <jump line="112" column="37" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1256,52 +1263,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>0.1</text>
+        <text>go2</text>
       </register>
       <register name="/" type="4">
-        <text>'usj_ticket'</text>
+        <text>auth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlPSBoaWRkZW5fZmllbGRfdGFnICd1c2pfdGlja2V0JyAlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3ZWJWaWV3LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ2xvYWQnLCBsb2FkQ2FsbGJhY2spOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">44OQ44O844K444On44Oz44Ki44OD44OX5ryP44KMCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGkuQVBJLmluZm8oImxvZ2luQnlGaW5nZXJwcmludCBnbzIiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFJlcXVpcmVkKCcjZGlzbmV5X3VzaicpOwo=</text>
+        <text encoding="base64">44OQ44O844K444On44Oz44Ki44OD44OX5ryP44KMCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vJCgnI3Vzal9iYW5rX2RpdicpLnNob3coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFJlcXVpcmVkKCcjZGlzbmV5X3VzaicpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbW92ZVIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vJCgnI3Vzal9iYW5rX2RpdicpLnNob3coKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJyNkaXNuZXlfdXNqJykuYWRkQQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbW92ZVIK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJyNkaXNuZXlfdXNqJykucmVxdQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJyNkaXNuZXlfdXNqJykuYWRkQQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDkuIroqJgx44Gu6YOo5YiG44KSMeOAnDTlj4rjgbPnqboK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJyNkaXNuZXlfdXNqJykucmVxdQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKGFwaS5vcGVuUG9zaXRpb25zLnNpZGUoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDkuIroqJgx44Gu6YOo5YiG44KSMeOAnDTlj4rjgbPnqboK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKGFwaS5vcGVuUG9zaXRpb25zLnNpZGUoKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'usj_ticket'</last-search>
+      <last-search>auth</last-search>
       <last-offset />
-      <last-pattern>'usj_ticket'</last-pattern>
+      <last-pattern>auth</last-pattern>
       <last-replace encoding="base64">JmFtcDs=</last-replace>
       <last-substitute encoding="base64">Jg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1309,8 +1316,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dd</entry>
-        <entry encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</entry>
         <entry>produc</entry>
         <entry>print</entry>
         <entry encoding="base64">XDxtYWtlU3RlcENsb3NlT3JkZXJcPg==</entry>
@@ -1329,9 +1334,10 @@
         <entry encoding="base64">XDxkaWV0XD4=</entry>
         <entry>usj_ticket</entry>
         <entry>'usj_ticket'</entry>
+        <entry>192</entry>
+        <entry>auth</entry>
       </history-search>
       <history-cmd>
-        <entry>175</entry>
         <entry>206</entry>
         <entry>6</entry>
         <entry>183</entry>
@@ -1349,8 +1355,9 @@
         <entry>588,670y</entry>
         <entry>110</entry>
         <entry>14</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry encoding="base64">JzwsJz4yMA==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
