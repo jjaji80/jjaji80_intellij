@@ -249,9 +249,9 @@
         <mark key="^" line="62" column="64" />
         <mark key="." line="62" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522402673850">
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522402717884">
         <mark key="a" line="98" column="11" />
-        <mark key="'" line="18" column="0" />
+        <mark key="'" line="44" column="13" />
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="70" />
         <mark key="^" line="54" column="66" />
@@ -1146,7 +1146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="12" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="362" column="0" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
       <jump line="386" column="0" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
       <jump line="324" column="53" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
@@ -1246,6 +1245,7 @@
       <jump line="389" column="16" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
       <jump line="112" column="37" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="44" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1266,7 +1266,7 @@
         <text>go2</text>
       </register>
       <register name="/" type="4">
-        <text>auth</text>
+        <text encoding="base64">XDxsb2dpbkJ5RmluZ2VycHJpbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3ZWJWaWV3LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ2xvYWQnLCBsb2FkQ2FsbGJhY2spOwo=</text>
@@ -1306,9 +1306,9 @@
       </register>
     </registers>
     <search>
-      <last-search>auth</last-search>
+      <last-search encoding="base64">XDxsb2dpbkJ5RmluZ2VycHJpbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>auth</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dpbkJ5RmluZ2VycHJpbnRcPg==</last-pattern>
       <last-replace encoding="base64">JmFtcDs=</last-replace>
       <last-substitute encoding="base64">Jg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1316,7 +1316,6 @@
     </search>
     <history>
       <history-search>
-        <entry>produc</entry>
         <entry>print</entry>
         <entry encoding="base64">XDxtYWtlU3RlcENsb3NlT3JkZXJcPg==</entry>
         <entry>thanks</entry>
@@ -1336,6 +1335,7 @@
         <entry>'usj_ticket'</entry>
         <entry>192</entry>
         <entry>auth</entry>
+        <entry encoding="base64">XDxsb2dpbkJ5RmluZ2VycHJpbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>206</entry>
