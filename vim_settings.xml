@@ -249,13 +249,13 @@
         <mark key="^" line="62" column="64" />
         <mark key="." line="62" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522402717884">
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1522404792771">
         <mark key="a" line="98" column="11" />
-        <mark key="'" line="44" column="13" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="70" />
-        <mark key="^" line="54" column="66" />
-        <mark key="." line="58" column="0" />
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="33" column="59" />
+        <mark key="]" line="34" column="11" />
+        <mark key="^" line="34" column="11" />
+        <mark key="." line="34" column="11" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1520851607800">
         <mark key="'" line="3" column="0" />
@@ -997,11 +997,11 @@
         <mark key="^" line="35" column="56" />
         <mark key="." line="35" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/lib/capture_video_ios.js" timestamp="1522402567850">
-        <mark key="[" line="46" column="41" />
-        <mark key="]" line="47" column="34" />
-        <mark key="." line="47" column="34" />
-        <mark key="^" line="47" column="34" />
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/lib/capture_video_ios.js" timestamp="1522404872832">
+        <mark key="[" line="48" column="43" />
+        <mark key="]" line="48" column="56" />
+        <mark key="." line="48" column="56" />
+        <mark key="^" line="48" column="56" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/CoinCheckController.kt" timestamp="1520579002745">
         <mark key="[" line="27" column="8" />
@@ -1146,7 +1146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="0" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
       <jump line="386" column="0" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
       <jump line="324" column="53" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
       <jump line="325" column="53" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
@@ -1246,6 +1245,7 @@
       <jump line="112" column="37" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="44" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1263,52 +1263,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>go2</text>
+        <text>video</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dpbkJ5RmluZ2VycHJpbnRcPg==</text>
+        <text>vide</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3ZWJWaWV3LnJlbW92ZUV2ZW50TGlzdGVuZXIoJ2xvYWQnLCBsb2FkQ2FsbGJhY2spOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpLkFQSS5pbmZvKCJzdGFydCB2aWRlbyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGkuQVBJLmluZm8oImxvZ2luQnlGaW5nZXJwcmludCBnbzIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gd2ViVmlldy5hZGRFdmVudExpc3RlbmVyKCdsb2FkJywgbG9hZENhbGxiYWNrKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">44OQ44O844K444On44Oz44Ki44OD44OX5ryP44KMCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2ViVmlldy5hZGRFdmVudExpc3RlbmVyKCdsb2FkJywgbG9hZENhbGxiYWNrKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFJlcXVpcmVkKCcjZGlzbmV5X3VzaicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGkuQVBJLmluZm8oImxvZ2luQnlGaW5nZXJwcmludCBnbzIiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vJCgnI3Vzal9iYW5rX2RpdicpLnNob3coKTsK</text>
+        <text encoding="base64">44OQ44O844K444On44Oz44Ki44OD44OX5ryP44KMCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbW92ZVIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFJlcXVpcmVkKCcjZGlzbmV5X3VzaicpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJyNkaXNuZXlfdXNqJykuYWRkQQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vJCgnI3Vzal9iYW5rX2RpdicpLnNob3coKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJyNkaXNuZXlfdXNqJykucmVxdQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbW92ZVIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDkuIroqJgx44Gu6YOo5YiG44KSMeOAnDTlj4rjgbPnqboK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJyNkaXNuZXlfdXNqJykuYWRkQQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKGFwaS5vcGVuUG9zaXRpb25zLnNpZGUoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJyNkaXNuZXlfdXNqJykucmVxdQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dpbkJ5RmluZ2VycHJpbnRcPg==</last-search>
+      <last-search>vide</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dpbkJ5RmluZ2VycHJpbnRcPg==</last-pattern>
+      <last-pattern>vide</last-pattern>
       <last-replace encoding="base64">JmFtcDs=</last-replace>
       <last-substitute encoding="base64">Jg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1316,7 +1316,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
         <entry encoding="base64">XDxtYWtlU3RlcENsb3NlT3JkZXJcPg==</entry>
         <entry>thanks</entry>
         <entry>disney_usj</entry>
@@ -1336,6 +1335,7 @@
         <entry>192</entry>
         <entry>auth</entry>
         <entry encoding="base64">XDxsb2dpbkJ5RmluZ2VycHJpbnRcPg==</entry>
+        <entry>vide</entry>
       </history-search>
       <history-cmd>
         <entry>206</entry>
