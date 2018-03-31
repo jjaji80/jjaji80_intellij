@@ -200,12 +200,12 @@
         <mark key="^" line="46" column="25" />
         <mark key="." line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1522497745378">
-        <mark key="'" line="223" column="50" />
-        <mark key="[" line="223" column="50" />
-        <mark key="]" line="223" column="51" />
-        <mark key="^" line="551" column="55" />
-        <mark key="." line="223" column="51" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1522498575907">
+        <mark key="'" line="222" column="8" />
+        <mark key="[" line="551" column="58" />
+        <mark key="]" line="551" column="59" />
+        <mark key="^" line="551" column="63" />
+        <mark key="." line="551" column="59" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1522206267299">
         <mark key="[" line="37" column="51" />
@@ -1193,7 +1193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="56" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="410" column="4" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="206" column="16" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="205" column="16" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
@@ -1293,6 +1292,7 @@
       <jump line="84" column="1" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
       <jump line="207" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="223" column="50" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="222" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1313,7 +1313,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text>makeNextOrder(0.001,20.0,30.0,&quot;5&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>electronicMoney</text>
