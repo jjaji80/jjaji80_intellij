@@ -200,12 +200,12 @@
         <mark key="^" line="46" column="25" />
         <mark key="." line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1522397869945">
-        <mark key="'" line="262" column="16" />
-        <mark key="[" line="493" column="9" />
-        <mark key="]" line="494" column="19" />
-        <mark key="." line="494" column="19" />
-        <mark key="^" line="494" column="19" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1522496240951">
+        <mark key="'" line="223" column="50" />
+        <mark key="[" line="223" column="50" />
+        <mark key="]" line="223" column="51" />
+        <mark key="^" line="551" column="55" />
+        <mark key="." line="223" column="51" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1522206267299">
         <mark key="[" line="37" column="51" />
@@ -1193,8 +1193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="496" column="34" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="491" column="34" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="4" column="56" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="410" column="4" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="206" column="16" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
@@ -1293,6 +1291,8 @@
       <jump line="33" column="87" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
       <jump line="47" column="12" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
       <jump line="84" column="1" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
+      <jump line="207" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="223" column="50" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1322,37 +1322,37 @@
         <text>propertyAboutTop</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPICLos4fnlKPjgavjgaTjgYTjgaYiIGxpbmsgdG8gcHJvcGVydHlBYm91dEFzc2V0cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZ1NlcnZpY2Uuc3RhcnQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBsb25nU2VydmljZS5jYWxjTmV4dFRhcmdldCh0cnVlLCAiNSIsIDE0LjApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPICLos4fnlKPjgavjgaTjgYTjgaYiIGxpbmsgdG8gcHJvcGVydHlBYm91dEFzc2V0cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzcmM9ImFzc2V0cy9pbWFnZXMvYnV0dG9uL2J1dHRvbl9hYm91dF9hc3NldHMwMS5qcGciCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8ZGl2IGlkPSJjaGFuZ2VfY29tcGxldGUiPgogICAgPGRpdiBjbGFzcz0iaW5uZXIgY2YiPgogICAgICA8ZGl2IGNsYXNzPSJtZXNzYWdlIj4KICAgICAgICA8ZGl2IGNsYXNzPSJzdGF0dXMiPgogICAgICAgICAg5a6M5LqG44GX44G+44GX44GfCiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0iaWNvbiI+CiAgICAgICAgICA8aW1nIGhlaWdodD0iMjEyIiBzcmM9Ii4vYXNzZXRzL2ltYWdlcy9pY29uL2ljb25fY2hlY2tib3gucG5nIiB3aWR0aD0iMjEyIgogICAgICAgICAgICAgICB0aDpzcmM9IkB7L2ltYWdlcy9pY29uL2ljb25fY2hlY2tib3gucG5nfSIvPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzcmM9ImFzc2V0cy9pbWFnZXMvYnV0dG9uL2J1dHRvbl9hYm91dF9hc3NldHMwMS5qcGciCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGV2ZWxvcCBUb3BDb250cm9sbGVyI2luZGV4LiBodG1sIGlzIGVuZGluZ25vdGVfaW5kZXhfYWJvdXRfbWUuaHRtbAo=</text>
+        <text encoding="base64">ICAgICAgICB0aAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9ImlzUHJlbWl1bSIgdHlwZT0iamF2YS5sYW5nLkJvb2xlYW4iKi8tLT4K</text>
+        <text encoding="base64">ICA8ZGl2IGlkPSJjaGFuZ2VfY29tcGxldGUiPgogICAgPGRpdiBjbGFzcz0iaW5uZXIgY2YiPgogICAgICA8ZGl2IGNsYXNzPSJtZXNzYWdlIj4KICAgICAgICA8ZGl2IGNsYXNzPSJzdGF0dXMiPgogICAgICAgICAg5a6M5LqG44GX44G+44GX44GfCiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0iaWNvbiI+CiAgICAgICAgICA8aW1nIGhlaWdodD0iMjEyIiBzcmM9Ii4vYXNzZXRzL2ltYWdlcy9pY29uL2ljb25fY2hlY2tib3gucG5nIiB3aWR0aD0iMjEyIgogICAgICAgICAgICAgICB0aDpzcmM9IkB7L2ltYWdlcy9pY29uL2ljb25fY2hlY2tib3gucG5nfSIvPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGltYWdlTmFtZT08c3BhbiB0aDp0ZXh0PSIke2ltYWdlTmFtZX0iPjwvc3Bhbj4K</text>
+        <text encoding="base64">ZGV2ZWxvcCBUb3BDb250cm9sbGVyI2luZGV4LiBodG1sIGlzIGVuZGluZ25vdGVfaW5kZXhfYWJvdXRfbWUuaHRtbAo=</text>
       </register>
       <register name=":" type="4">
-        <text>31</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1406,8 +1406,8 @@
         <entry>13</entry>
         <entry>1</entry>
         <entry>32,44d</entry>
-        <entry>w</entry>
         <entry>31</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
