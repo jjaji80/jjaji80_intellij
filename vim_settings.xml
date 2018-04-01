@@ -244,12 +244,12 @@
         <mark key="^" line="111" column="57" />
         <mark key="." line="111" column="57" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" timestamp="1522615997641">
-        <mark key="'" line="115" column="21" />
-        <mark key="[" line="77" column="35" />
-        <mark key="]" line="77" column="52" />
-        <mark key="." line="77" column="52" />
-        <mark key="^" line="77" column="52" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" timestamp="1522618341735">
+        <mark key="'" line="118" column="21" />
+        <mark key="[" line="75" column="96" />
+        <mark key="]" line="75" column="96" />
+        <mark key="." line="75" column="96" />
+        <mark key="^" line="75" column="96" />
       </file>
       <file name="/issue_statuses [redmine_default@red-mine.net]" timestamp="1522479092763">
         <mark key="[" line="0" column="0" />
@@ -434,12 +434,12 @@
         <mark key="." line="29" column="13" />
         <mark key="^" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/index.html" timestamp="1522613012959">
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/index.html" timestamp="1522618421287">
         <mark key="'" line="22" column="116" />
-        <mark key="[" line="52" column="42" />
-        <mark key="]" line="52" column="47" />
-        <mark key="." line="52" column="47" />
-        <mark key="^" line="52" column="47" />
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="39" />
+        <mark key="." line="22" column="39" />
+        <mark key="^" line="22" column="39" />
       </file>
       <file name="$USER_HOME$/git/ex2/.gitignore" timestamp="1522393238485">
         <mark key="'" line="0" column="0" />
@@ -509,8 +509,8 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522612553258">
-        <mark key="[" line="1" column="14" />
+      <file name="/Dummy.txt" timestamp="1522618804623">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
@@ -1365,7 +1365,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>category</text>
+        <text>endingnote_about_property.html</text>
       </register>
       <register name="/" type="4">
         <text>category</text>
@@ -1374,37 +1374,37 @@
         <text encoding="base64">ICAgICAgICBAZ2V0OiBOb3RCbGFuawogICAgICAgIHZhciBtZXNzYWdlVHlwZTogU3RyaW5nID0gIiIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiPjwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaW5kaXZpZHVhbE5vdGVDYXRlZ29yeSA9IGluCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDjgqrjg6rjgrjjg4rjg6vjgqvjg4bjgrTjg6oy44Kq44Oq44K444OK44Or44Kr44OG44K044OqMuOCquODquOCuOODiuODq+OCq+ODhuOCtOODqjIK</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiPjwvYT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDjgqrjg6rjgrjjg4rjg6vjgqvjg4bjgrTjg6oy44Kq44Oq44K444OK44Or44Kr44OG44K044OqMuOCquODquOCuOODiuODq+OCq+ODhuOCtOODqjIK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZHJvcCB0YWJsZSBpbmRpdmlkdWFsX25vdGVfY2F0ZWdvcnlfdGVtcGxhdGVzOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgaW5kaXZpZHVhbF9ub3RlX2NhdGVnb3JpZXMgRFJPUCBGT1JFSUdOIEtFWSBpbmRpdmlkdWFsX25vdGVfY2F0ZWdvcnlfdGVtcGxhdGVfZms7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>56</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1458,8 +1458,8 @@
         <entry>1</entry>
         <entry>37</entry>
         <entry>34</entry>
-        <entry>w</entry>
         <entry>56</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
