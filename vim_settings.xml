@@ -379,12 +379,12 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/StochRSIService.kt" timestamp="1522577017025">
-        <mark key="'" line="69" column="19" />
-        <mark key="[" line="25" column="33" />
-        <mark key="]" line="50" column="36" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="37" column="24" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/StochRSIService.kt" timestamp="1522578730623">
+        <mark key="'" line="73" column="19" />
+        <mark key="[" line="53" column="21" />
+        <mark key="]" line="55" column="21" />
+        <mark key="." line="53" column="21" />
+        <mark key="^" line="39" column="35" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/coincheck/TradeService.kt" timestamp="1522565478306">
         <mark key="'" line="35" column="8" />
@@ -1316,13 +1316,15 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">JiYg</text>
       </register>
       <register name="/" type="4">
         <text>stoch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAganVkZ2VDb3VudD0wCg==</text>
+      <register name="0" type="4">
+        <text>else{
+                        judgeCount=0
+                    }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
