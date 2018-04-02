@@ -221,10 +221,10 @@
         <mark key="^" line="28" column="14" />
         <mark key="." line="28" column="14" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1522569613940">
-        <mark key="'" line="6" column="23" />
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="73" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1522673671993">
+        <mark key="'" line="545" column="0" />
+        <mark key="[" line="548" column="0" />
+        <mark key="]" line="549" column="39" />
         <mark key="^" line="551" column="63" />
         <mark key="." line="551" column="59" />
       </file>
@@ -720,6 +720,13 @@
         <mark key="]" line="33" column="31" />
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1522673906195">
+        <mark key="'" line="24" column="21" />
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="15" column="40" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/eureka_server/src/main/kotlin/coinman/eureka_server/EurekaServerApplication.kt" timestamp="1520734638278">
         <mark key="[" line="7" column="19" />
@@ -1296,12 +1303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="10" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
-      <jump line="56" column="10" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
-      <jump line="60" column="10" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
-      <jump line="72" column="10" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
-      <jump line="68" column="42" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
-      <jump line="67" column="9" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
       <jump line="78" column="9" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
       <jump line="80" column="53" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
       <jump line="13" column="2" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
@@ -1341,7 +1342,6 @@
       <jump line="4" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="7" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="11" column="45" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="76" column="69" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="77" column="70" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="78" column="62" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="87" column="18" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -1396,6 +1396,13 @@
       <jump line="58" column="72" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" />
       <jump line="22" column="11" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/IndividualNote.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Account.kt" />
+      <jump line="17" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="76" column="2" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="33" column="136" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="42" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="11" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
+      <jump line="545" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="14" column="21" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1416,52 +1423,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text>=============&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>died</text>
+        <text>Bit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biBzYXZlKGk6IFRlc3RhbWVudEZvcm0sIHVzZXI6IFVzZXIpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCI9PT09PT09PT09PT09IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGFzc2VydCgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJ3cmFwcGVyX2xpc3QgY2YiPgogICAgICAgICAgICA8YSBocmVmPSJub3RpZmljYXRpb25fZmluZ2VycHJpbnRfcmVnaXN0cmF0aW9uLmh0bWwiPgogICAgICAgICAgICAgIDxmaWd1cmU+CiAgICAgICAgICAgICAgICA8aW1nIGhlaWdodD0iMjEzIiBzcmM9ImFzc2V0cy9pbWFnZXMvaWNvbi9pY29uX2FjY291bnRfb24ucG5nIiB3aWR0aD0iMjEzIi8+CiAgICAgICAgICAgICAgPC9maWd1cmU+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICBC44GV44KTCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L2E+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2xpPgogICAgICAgIDxsaT4KICAgICAgICAgIDxkaXYgY2xhc3M9IndyYXBwZXJfbGlzdCBjZiI+CiAgICAgICAgICAgIDxhIGhyZWY9Im5vdGlmaWNhdGlvbl9maW5nZXJwcmludF9yZWdpc3RyYXRpb24uaHRtbCI+CiAgICAgICAgICAgICAgPGZpZ3VyZT4KICAgICAgICAgICAgICAgIDxpbWcgaGVpZ2h0PSIyMTMiIHNyYz0iYXNzZXRzL2ltYWdlcy9pY29uL2ljb25fYWNjb3VudF9vbi5wbmciIHdpZHRoPSIyMTMiLz4KICAgICAgICAgICAgICA8L2ZpZ3VyZT4KICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgIEPjgZXjgpMKICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvYT4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoU2hhcmVBY2NvdW50Rm9ybSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKGJpdGZseWVyUHViTnViLmJpdEZseWVyUHViTnViRGF0YSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoInZpZXdGbGFnIiwgdHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEHjgZXjgpMK</text>
+        <text encoding="base64">ICAgICAgICBiaXRmbHllclB1Yk51Yi4K</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGJpdEZseWVyUHVibm8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPHNwYW4gdGg6dGV4dD0iWyArICR7Y2F0ZWdvcnl9ICsgXSIvPgo=</text>
+        <text encoding="base64">ICAgIGZ1biAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHNwYW4gdGg6dGV4dD0iWyArICR7Y2F0ZWdvcnl9ICsgXSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICA8bGk+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJ3cmFwcGVyX2xpc3QgY2YiPgogICAgICAgICAgICA8YSBocmVmPSJub3RpZmljYXRpb25fZmluZ2VycHJpbnRfcmVnaXN0cmF0aW9uLmh0bWwiPgogICAgICAgICAgICAgIDxmaWd1cmU+CiAgICAgICAgICAgICAgICA8aW1nIGhlaWdodD0iMjEzIiBzcmM9ImFzc2V0cy9pbWFnZXMvaWNvbi9pY29uX2FjY291bnRfb24ucG5nIiB3aWR0aD0iMjEzIi8+CiAgICAgICAgICAgICAgPC9maWd1cmU+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICBC44GV44KTCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L2E+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2xpPgogICAgICAgIDxsaT4KICAgICAgICAgIDxkaXYgY2xhc3M9IndyYXBwZXJfbGlzdCBjZiI+CiAgICAgICAgICAgIDxhIGhyZWY9Im5vdGlmaWNhdGlvbl9maW5nZXJwcmludF9yZWdpc3RyYXRpb24uaHRtbCI+CiAgICAgICAgICAgICAgPGZpZ3VyZT4KICAgICAgICAgICAgICAgIDxpbWcgaGVpZ2h0PSIyMTMiIHNyYz0iYXNzZXRzL2ltYWdlcy9pY29uL2ljb25fYWNjb3VudF9vbi5wbmciIHdpZHRoPSIyMTMiLz4KICAgICAgICAgICAgICA8L2ZpZ3VyZT4KICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgIEPjgZXjgpMKICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvYT4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvbGk+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>35,58d</text>
       </register>
     </registers>
     <search>
-      <last-search>died</last-search>
+      <last-search>Bit</last-search>
       <last-offset />
-      <last-pattern>died</last-pattern>
+      <last-pattern>Bit</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1469,10 +1476,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rsi</entry>
-        <entry>init</entry>
-        <entry>restS</entry>
-        <entry>sale</entry>
         <entry encoding="base64">XDxwYXN0U3RvY2hcPg==</entry>
         <entry encoding="base64">XDxwYXN0XD4=</entry>
         <entry>first</entry>
@@ -1489,6 +1492,10 @@
         <entry encoding="base64">XDxQYXRoVmFyaWFibGVcPg==</entry>
         <entry>categ</entry>
         <entry>died</entry>
+        <entry>BitF</entry>
+        <entry>BiFlyer</entry>
+        <entry>BitFl</entry>
+        <entry>Bit</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4yMA==</entry>
