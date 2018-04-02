@@ -130,12 +130,12 @@
         <mark key="." line="15" column="5" />
         <mark key="^" line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/index.html" timestamp="1522634921412">
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/index.html" timestamp="1522646938267">
         <mark key="'" line="38" column="34" />
-        <mark key="[" line="32" column="38" />
-        <mark key="]" line="32" column="39" />
-        <mark key="^" line="32" column="39" />
-        <mark key="." line="32" column="39" />
+        <mark key="[" line="39" column="94" />
+        <mark key="]" line="39" column="94" />
+        <mark key="^" line="39" column="98" />
+        <mark key="." line="39" column="94" />
       </file>
       <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/lib/capture_video_android.js" timestamp="1522460069118">
         <mark key="[" line="0" column="29" />
@@ -213,11 +213,11 @@
         <mark key="^" line="46" column="25" />
         <mark key="." line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/IndividualNoteService.kt" timestamp="1522633379459">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/IndividualNoteService.kt" timestamp="1522646617901">
         <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="87" />
-        <mark key="^" line="28" column="87" />
-        <mark key="." line="28" column="87" />
+        <mark key="]" line="28" column="14" />
+        <mark key="^" line="28" column="14" />
+        <mark key="." line="28" column="14" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1522569613940">
         <mark key="'" line="6" column="23" />
@@ -246,7 +246,7 @@
         <mark key="^" line="111" column="57" />
         <mark key="." line="111" column="57" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" timestamp="1522633423111">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" timestamp="1522646580656">
         <mark key="'" line="118" column="21" />
         <mark key="[" line="59" column="88" />
         <mark key="]" line="59" column="111" />
@@ -474,7 +474,7 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/SharedAccountController.kt" timestamp="1522632215225">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/SharedAccountController.kt" timestamp="1522647035961">
         <mark key="[" line="35" column="36" />
         <mark key="]" line="35" column="62" />
         <mark key="^" line="35" column="62" />
@@ -762,13 +762,6 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201804020347__add_individual_note_category_template.sql" timestamp="1522612400412">
-        <mark key="'" line="51" column="22" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="45" />
-      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/news/user/recommend/DefaultFollowRecommender.java" timestamp="1519896262547">
         <mark key="[" line="293" column="15" />
         <mark key="]" line="293" column="19" />
@@ -985,7 +978,7 @@
         <mark key="^" line="34" column="25" />
         <mark key="." line="34" column="25" />
       </file>
-      <file name="/fragment.kt" timestamp="1522574651634">
+      <file name="/fragment.kt" timestamp="1522646554759">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="57" />
@@ -1392,37 +1385,37 @@
         <text>categ</text>
       </register>
       <register name="0" type="4">
-        <text>individualNoteCategoryId</text>
+        <text>${individualNoteCategory.id}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoInZpZXdGbGFnIikK</text>
+        <text encoding="base64">ICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSJqYXZhLmxhbmcuQm9vbGVhbiIqLy0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRoZW50aWNhdGlvblByaW5jaXBhbAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoInZpZXdGbGFnIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaW5kaXZpZHVhbE5vdGVDYXRlZ29yeUxpc3QgPSBpbmRpdmlkdWFsTm90ZUNhdGVnb3J5U2VydmljZS5maW5kQWxsQnlBY2NvdW50SWQodXNlci5sYXN0VXNlZEFjY291bnQhISkK</text>
+        <text encoding="base64">ICAgIEBBdXRoZW50aWNhdGlvblByaW5jaXBhbAo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaW5kaXZpZHVhbE5vdGVDYXRlZ29yeUxpc3QgPSBpbmRpdmlkdWFsTm90ZUNhdGVnb3J5U2VydmljZS5maW5kQWxsQnlBY2NvdW50SWQodXNlci5sYXN0VXNlZEFjY291bnQhISkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaW5kaXZpZHVhbE5vdGVDYXRlZ29yeSA9IGluCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
