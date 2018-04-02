@@ -721,12 +721,12 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1522675163551">
-        <mark key="'" line="22" column="45" />
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="23" column="47" />
-        <mark key="." line="23" column="47" />
-        <mark key="^" line="23" column="47" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1522695409148">
+        <mark key="'" line="37" column="45" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="45" column="7" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/eureka_server/src/main/kotlin/coinman/eureka_server/EurekaServerApplication.kt" timestamp="1520734638278">
         <mark key="[" line="7" column="19" />
@@ -1004,7 +1004,7 @@
         <mark key="^" line="34" column="25" />
         <mark key="." line="34" column="25" />
       </file>
-      <file name="/fragment.kt" timestamp="1522646554759">
+      <file name="/fragment.kt" timestamp="1522694776654">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="57" />
@@ -1423,46 +1423,46 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>last</text>
+        <text>it.size % 50</text>
       </register>
       <register name="/" type="4">
         <text>Bit</text>
       </register>
       <register name="0" type="4">
-        <text>restService.getLast()!!</text>
+        <text>size = it.size % 50,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGFzc2VydCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBpLm9yZGVycy5vcmRlckxpc3QuZm9yRWFjaCB7IAogICAgICAgICAgICAgICAgaWYKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoc2l6ZSAvIDUwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKGJpdGZseWVyUHViTnViLmJpdEZseWVyUHViTnViRGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZGVidWcoIuiyt+OBhCA9ICRpdCIpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiaXRmbHllclB1Yk51Yi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoaWxkCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGJpdEZseWVyUHVibm8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGFzc2VydCgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKGJpdGZseWVyUHViTnViLmJpdEZseWVyUHViTnViRGF0YSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJ3cmFwcGVyX2xpc3QgY2YiPgogICAgICAgICAgICA8YSBocmVmPSJub3RpZmljYXRpb25fZmluZ2VycHJpbnRfcmVnaXN0cmF0aW9uLmh0bWwiPgogICAgICAgICAgICAgIDxmaWd1cmU+CiAgICAgICAgICAgICAgICA8aW1nIGhlaWdodD0iMjEzIiBzcmM9ImFzc2V0cy9pbWFnZXMvaWNvbi9pY29uX2FjY291bnRfb24ucG5nIiB3aWR0aD0iMjEzIi8+CiAgICAgICAgICAgICAgPC9maWd1cmU+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICBC44GV44KTCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L2E+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2xpPgogICAgICAgIDxsaT4KICAgICAgICAgIDxkaXYgY2xhc3M9IndyYXBwZXJfbGlzdCBjZiI+CiAgICAgICAgICAgIDxhIGhyZWY9Im5vdGlmaWNhdGlvbl9maW5nZXJwcmludF9yZWdpc3RyYXRpb24uaHRtbCI+CiAgICAgICAgICAgICAgPGZpZ3VyZT4KICAgICAgICAgICAgICAgIDxpbWcgaGVpZ2h0PSIyMTMiIHNyYz0iYXNzZXRzL2ltYWdlcy9pY29uL2ljb25fYWNjb3VudF9vbi5wbmciIHdpZHRoPSIyMTMiLz4KICAgICAgICAgICAgICA8L2ZpZ3VyZT4KICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgIEPjgZXjgpMKICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvYT4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>35,58d</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -1515,9 +1515,9 @@
         <entry>87</entry>
         <entry>7</entry>
         <entry>36</entry>
+        <entry>35,58d</entry>
         <entry>w</entry>
         <entry>1</entry>
-        <entry>35,58d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
