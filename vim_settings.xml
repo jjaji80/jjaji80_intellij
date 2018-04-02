@@ -91,7 +91,6 @@
         <mark key="." line="131" column="20" />
         <mark key="^" line="131" column="20" />
       </file>
-      <file name="757fa693-3e11-4a4b-993d-f658036d9754/schema/ora/table/individual_note_category_templates.sql" timestamp="1522609509635" />
       <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/views/index.xml" timestamp="1522208360705">
         <mark key="'" line="1" column="30" />
         <mark key="[" line="1" column="30" />
@@ -130,9 +129,6 @@
         <mark key="]" line="15" column="5" />
         <mark key="." line="15" column="5" />
         <mark key="^" line="15" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/input1.html" timestamp="1522608696555">
-        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/index.html" timestamp="1522616022581">
         <mark key="'" line="37" column="34" />
@@ -217,6 +213,12 @@
         <mark key="^" line="46" column="25" />
         <mark key="." line="46" column="25" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/IndividualNoteService.kt" timestamp="1522633379459">
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="87" />
+        <mark key="^" line="28" column="87" />
+        <mark key="." line="28" column="87" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1522569613940">
         <mark key="'" line="6" column="23" />
         <mark key="[" line="239" column="0" />
@@ -230,10 +232,10 @@
         <mark key="." line="37" column="51" />
         <mark key="^" line="37" column="51" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/IndividualNote.kt" timestamp="1521010009853">
-        <mark key="'" line="25" column="24" />
-        <mark key="[" line="33" column="114" />
-        <mark key="]" line="34" column="25" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/IndividualNote.kt" timestamp="1522633313375">
+        <mark key="'" line="22" column="11" />
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="35" />
         <mark key="^" line="34" column="25" />
         <mark key="." line="34" column="25" />
       </file>
@@ -244,12 +246,12 @@
         <mark key="^" line="111" column="57" />
         <mark key="." line="111" column="57" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" timestamp="1522618341735">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" timestamp="1522633423111">
         <mark key="'" line="118" column="21" />
-        <mark key="[" line="75" column="96" />
-        <mark key="]" line="75" column="96" />
-        <mark key="." line="75" column="96" />
-        <mark key="^" line="75" column="96" />
+        <mark key="[" line="59" column="88" />
+        <mark key="]" line="59" column="111" />
+        <mark key="." line="59" column="111" />
+        <mark key="^" line="59" column="111" />
       </file>
       <file name="/issue_statuses [redmine_default@red-mine.net]" timestamp="1522479092763">
         <mark key="[" line="0" column="0" />
@@ -366,6 +368,12 @@
         <mark key="]" line="8" column="13" />
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/repository/IndividualNoteRepository.kt" timestamp="1522633343561">
+        <mark key="[" line="8" column="69" />
+        <mark key="]" line="8" column="88" />
+        <mark key="^" line="8" column="88" />
+        <mark key="." line="8" column="88" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/api/VironAuthtypeController.kt" timestamp="1520338035403">
         <mark key="[" line="9" column="0" />
@@ -1258,7 +1266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="10" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
       <jump line="44" column="10" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
       <jump line="48" column="10" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
       <jump line="56" column="10" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
@@ -1358,6 +1365,7 @@
       <jump line="31" column="68" filename="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/index.html" />
       <jump line="37" column="34" filename="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/index.html" />
       <jump line="58" column="72" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" />
+      <jump line="22" column="11" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/IndividualNote.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1378,52 +1386,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>findAll</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQYXRoVmFyaWFibGVcPg==</text>
+        <text>categ</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAZ2V0OiBOb3RCbGFuawogICAgICAgIHZhciBtZXNzYWdlVHlwZTogU3RyaW5nID0gIiIsCg==</text>
+      <register name="0" type="4">
+        <text>individualNoteCategoryId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoInZpZXdGbGFnIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgIEBBdXRoZW50aWNhdGlvblByaW5jaXBhbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaW5kaXZpZHVhbE5vdGVDYXRlZ29yeSA9IGluCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiPjwvYT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaW5kaXZpZHVhbE5vdGVDYXRlZ29yeUxpc3QgPSBpbmRpdmlkdWFsTm90ZUNhdGVnb3J5U2VydmljZS5maW5kQWxsQnlBY2NvdW50SWQodXNlci5sYXN0VXNlZEFjY291bnQhISkK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDjgqrjg6rjgrjjg4rjg6vjgqvjg4bjgrTjg6oy44Kq44Oq44K444OK44Or44Kr44OG44K044OqMuOCquODquOCuOODiuODq+OCq+ODhuOCtOODqjIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvYT4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaW5kaXZpZHVhbE5vdGVDYXRlZ29yeSA9IGluCg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>39</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQYXRoVmFyaWFibGVcPg==</last-search>
+      <last-search>categ</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQYXRoVmFyaWFibGVcPg==</last-pattern>
+      <last-pattern>categ</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1431,7 +1439,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Coincheck1</entry>
         <entry>trade</entry>
         <entry>rsi</entry>
         <entry>init</entry>
@@ -1451,9 +1458,9 @@
         <entry>,</entry>
         <entry>category</entry>
         <entry encoding="base64">XDxQYXRoVmFyaWFibGVcPg==</entry>
+        <entry>categ</entry>
       </history-search>
       <history-cmd>
-        <entry>378,448y</entry>
         <entry>588,669y</entry>
         <entry>588,670y</entry>
         <entry>110</entry>
@@ -1473,6 +1480,7 @@
         <entry>56</entry>
         <entry>w</entry>
         <entry>1</entry>
+        <entry>39</entry>
       </history-cmd>
       <history-expr />
       <history-input />
