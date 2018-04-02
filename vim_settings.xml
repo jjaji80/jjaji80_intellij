@@ -466,7 +466,12 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/SharedAccountController.kt" timestamp="1522630207951" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/SharedAccountController.kt" timestamp="1522632215225">
+        <mark key="[" line="35" column="36" />
+        <mark key="]" line="35" column="62" />
+        <mark key="^" line="35" column="62" />
+        <mark key="." line="35" column="62" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/repository/ShopRepository.kt" timestamp="1520505559588">
         <mark key="[" line="8" column="55" />
         <mark key="]" line="8" column="3" />
@@ -1244,9 +1249,15 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="21" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" timestamp="1522632595128">
+        <mark key="'" line="59" column="72" />
+        <mark key="[" line="61" column="79" />
+        <mark key="]" line="62" column="27" />
+        <mark key="^" line="62" column="27" />
+        <mark key="." line="62" column="27" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="10" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
       <jump line="40" column="10" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
       <jump line="44" column="10" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
       <jump line="48" column="10" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
@@ -1346,6 +1357,7 @@
       <jump line="29" column="62" filename="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/index.html" />
       <jump line="31" column="68" filename="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/index.html" />
       <jump line="37" column="34" filename="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/index.html" />
+      <jump line="58" column="72" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1366,52 +1378,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>endingnote_about_property.html</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>category</text>
+        <text encoding="base64">XDxQYXRoVmFyaWFibGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBAZ2V0OiBOb3RCbGFuawogICAgICAgIHZhciBtZXNzYWdlVHlwZTogU3RyaW5nID0gIiIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaW5kaXZpZHVhbE5vdGVDYXRlZ29yeSA9IGluCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiPjwvYT4K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaW5kaXZpZHVhbE5vdGVDYXRlZ29yeSA9IGluCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9IiMiPjwvYT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDjgqrjg6rjgrjjg4rjg6vjgqvjg4bjgrTjg6oy44Kq44Oq44K444OK44Or44Kr44OG44K044OqMuOCquODquOCuOODiuODq+OCq+ODhuOCtOODqjIK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDjgqrjg6rjgrjjg4rjg6vjgqvjg4bjgrTjg6oy44Kq44Oq44K444OK44Or44Kr44OG44K044OqMuOCquODquOCuOODiuODq+OCq+ODhuOCtOODqjIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>category</last-search>
+      <last-search encoding="base64">XDxQYXRoVmFyaWFibGVcPg==</last-search>
       <last-offset />
-      <last-pattern>category</last-pattern>
+      <last-pattern encoding="base64">XDxQYXRoVmFyaWFibGVcPg==</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1419,7 +1431,6 @@
     </search>
     <history>
       <history-search>
-        <entry>electronicMoney</entry>
         <entry>Coincheck1</entry>
         <entry>trade</entry>
         <entry>rsi</entry>
@@ -1439,6 +1450,7 @@
         <entry>img</entry>
         <entry>,</entry>
         <entry>category</entry>
+        <entry encoding="base64">XDxQYXRoVmFyaWFibGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>378,448y</entry>
@@ -1456,11 +1468,11 @@
         <entry>13</entry>
         <entry>16</entry>
         <entry>4</entry>
-        <entry>1</entry>
         <entry>37</entry>
         <entry>34</entry>
         <entry>56</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
