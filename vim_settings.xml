@@ -760,8 +760,8 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1522865286183">
-        <mark key="'" line="34" column="50" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1522866067906">
+        <mark key="'" line="28" column="16" />
         <mark key="[" line="75" column="23" />
         <mark key="]" line="75" column="25" />
         <mark key="." line="75" column="25" />
@@ -1369,8 +1369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="21" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" />
-      <jump line="57" column="31" filename="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/index.html" />
       <jump line="29" column="62" filename="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/index.html" />
       <jump line="31" column="68" filename="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/index.html" />
       <jump line="37" column="34" filename="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/index.html" />
@@ -1469,6 +1467,8 @@
       <jump line="326" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="347" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="34" column="50" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
+      <jump line="64" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
+      <jump line="28" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1492,7 +1492,7 @@
         <text encoding="base64">b3JkZXIg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaWRzXD4=</text>
+        <text encoding="base64">XDxjaGVja05vcm1hbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJjYW50IG9yZGVyICRsYXN0QnVzeVRpbWUiKQo=</text>
@@ -1532,9 +1532,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaWRzXD4=</last-search>
+      <last-search encoding="base64">XDxjaGVja05vcm1hbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaWRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja05vcm1hbFw+</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1542,7 +1542,6 @@
     </search>
     <history>
       <history-search>
-        <entry>001</entry>
         <entry>getSize</entry>
         <entry>null</entry>
         <entry>start_time</entry>
@@ -1562,6 +1561,7 @@
         <entry>view</entry>
         <entry>close</entry>
         <entry encoding="base64">XDxiaWRzXD4=</entry>
+        <entry encoding="base64">XDxjaGVja05vcm1hbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
