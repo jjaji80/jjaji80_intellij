@@ -760,12 +760,12 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1522852792698">
-        <mark key="'" line="14" column="19" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="39" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="59" column="36" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1522856390816">
+        <mark key="'" line="34" column="50" />
+        <mark key="[" line="39" column="49" />
+        <mark key="]" line="39" column="76" />
+        <mark key="." line="39" column="76" />
+        <mark key="^" line="39" column="76" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/eureka_server/src/main/kotlin/coinman/eureka_server/EurekaServerApplication.kt" timestamp="1520734638278">
         <mark key="[" line="7" column="19" />
@@ -1385,7 +1385,6 @@
       <jump line="545" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="19" column="44" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="26" column="44" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
-      <jump line="34" column="32" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="36" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="6" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="12" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
@@ -1469,6 +1468,7 @@
       <jump line="65" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" />
       <jump line="326" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="347" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="34" column="50" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1489,52 +1489,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>reversed()</text>
       </register>
       <register name="/" type="4">
-        <text>close</text>
+        <text encoding="base64">XDxiaWRzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJoZWFsdGg9JGhlYWx0aCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhlYWx0aCA9IGFwaS5oZWFsdGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyQwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhlYWx0aCA9IGFwaS5oZWFsdGgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBqc29uID0gYXBpLm1ha2VPcmRlcihPcmRlcigKICAgICAgICAgICAgICAgICAgICAgICAgc2l6ZSA9IHNpemUsCiAgICAgICAgICAgICAgICAgICAgICAgIHNpZGUgPSBpZiAocG9zaXRpb25MaXN0LnNpZGUoKSA9PSAiQlVZIikgIlNFTEwiIGVsc2UgIkJVWSIKICAgICAgICAgICAgICAgICkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBqc29uID0gYXBpLm1ha2VPcmRlcihPcmRlcigKICAgICAgICAgICAgICAgICAgICAgICAgc2l6ZSA9IHNpemUsCiAgICAgICAgICAgICAgICAgICAgICAgIHNpZGUgPSBpZiAocG9zaXRpb25MaXN0LnNpZGUoKSA9PSAiQlVZIikgIlNFTEwiIGVsc2UgIkJVWSIKICAgICAgICAgICAgICAgICkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>close</last-search>
+      <last-search encoding="base64">XDxiaWRzXD4=</last-search>
       <last-offset />
-      <last-pattern>close</last-pattern>
+      <last-pattern encoding="base64">XDxiaWRzXD4=</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1542,7 +1542,6 @@
     </search>
     <history>
       <history-search>
-        <entry>0.001</entry>
         <entry>001</entry>
         <entry>getSize</entry>
         <entry>null</entry>
@@ -1562,6 +1561,7 @@
         <entry>list</entry>
         <entry>view</entry>
         <entry>close</entry>
+        <entry encoding="base64">XDxiaWRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
