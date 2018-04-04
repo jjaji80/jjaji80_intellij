@@ -766,6 +766,12 @@
         <mark key="^" line="37" column="39" />
         <mark key="." line="37" column="32" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/handler/AboutMeViewFlagInterceptor.kt" timestamp="1522807241805">
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="46" />
+        <mark key="^" line="12" column="46" />
+      </file>
       <file name="$USER_HOME$/git/ora/docs/category_about_me.md" timestamp="1521011191829">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1191,12 +1197,12 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="62" column="17" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/sharedAccount/detail.html" timestamp="1522751678449">
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/sharedAccount/detail.html" timestamp="1522806579333">
         <mark key="'" line="99" column="24" />
-        <mark key="[" line="54" column="18" />
-        <mark key="]" line="54" column="23" />
-        <mark key="." line="54" column="23" />
-        <mark key="^" line="54" column="23" />
+        <mark key="[" line="43" column="54" />
+        <mark key="]" line="43" column="60" />
+        <mark key="." line="43" column="60" />
+        <mark key="^" line="43" column="60" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/resources/application.yml" timestamp="1520504028881">
         <mark key="[" line="6" column="31" />
@@ -1442,46 +1448,46 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text>add</text>
       </register>
       <register name="/" type="4">
         <text>src</text>
       </register>
       <register name="0" type="4">
-        <text>/images/icon/icon_others.png</text>
+        <text>propertyAboutTop</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">44Ki44Kr44Km44Oz44OI5oOF5aCx44Oa44O844K4SFRNTOS/ruatowo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcDMhLmFkZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y3JlYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb2wgaW50IG5vdCBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">44Ki44Kr44Km44Oz44OI5oOF5aCx44Oa44O844K4SFRNTOS/ruatowo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">Y3JlYXRlCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEJvCg==</text>
+        <text encoding="base64">ICBjb2wgaW50IG5vdCBudWxsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY291bnRlciAhPSAwKQogICAgICAgICAgICBwdXNoU2VydmljZS5wdXNoKCLjgrXjgqTjgrrjga8kY291bnRlciIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCI9PT09PT09PT09PT09IikK</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCIke2xhc3QubG93fSA6ICR7bGFzdC5oaWdofSIpCg==</text>
+        <text encoding="base64">ICAgIEJvCg==</text>
       </register>
       <register name=":" type="4">
-        <text>57</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1535,8 +1541,8 @@
         <entry>36</entry>
         <entry>35,58d</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry>57</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
