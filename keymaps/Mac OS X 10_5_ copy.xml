@@ -17,6 +17,9 @@
   <action id="Console.TableResult.Transpose">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="t" />
   </action>
+  <action id="Debugger.ForceEarlyReturn">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl r" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="m" />
