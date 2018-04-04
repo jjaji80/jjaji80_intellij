@@ -1458,7 +1458,7 @@
         <text>aboutMeViewAccount</text>
       </register>
       <register name="/" type="4">
-        <text>href</text>
+        <text>list</text>
       </register>
       <register name="0" type="4">
         <text>?aboutMeViewAccount='</text>
@@ -1498,9 +1498,9 @@
       </register>
     </registers>
     <search>
-      <last-search>href</last-search>
+      <last-search>list</last-search>
       <last-offset />
-      <last-pattern>href</last-pattern>
+      <last-pattern>list</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1508,7 +1508,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BitFl</entry>
         <entry>Bit</entry>
         <entry>30</entry>
         <entry>50</entry>
@@ -1528,6 +1527,7 @@
         <entry encoding="base64">XDxhYm91dE1lVmlld0FjY291bnRcPg==</entry>
         <entry>cash</entry>
         <entry>href</entry>
+        <entry>list</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
