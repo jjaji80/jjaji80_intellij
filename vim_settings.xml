@@ -63,10 +63,6 @@
         <mark key="." line="16" column="81" />
         <mark key="^" line="16" column="81" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/input1.html" timestamp="1522827793607">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="27" />
-      </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/dao/UserRepository.kt" timestamp="1520511363707">
         <mark key="[" line="6" column="51" />
         <mark key="]" line="6" column="61" />
@@ -1162,12 +1158,12 @@
         <mark key="^" line="0" column="65" />
         <mark key="." line="0" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1522738784118">
-        <mark key="'" line="1702" column="30" />
-        <mark key="[" line="1705" column="14" />
-        <mark key="]" line="1705" column="41" />
-        <mark key="." line="1705" column="41" />
-        <mark key="^" line="1705" column="41" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1522906605184">
+        <mark key="'" line="1701" column="0" />
+        <mark key="[" line="846" column="7" />
+        <mark key="]" line="846" column="12" />
+        <mark key="." line="846" column="12" />
+        <mark key="^" line="846" column="12" />
       </file>
       <file name="$USER_HOME$/git/orasp/lib/main.dart" timestamp="1521097556064">
         <mark key="[" line="11" column="3" />
@@ -1372,7 +1368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="44" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="6" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="12" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="22" column="18" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
@@ -1472,6 +1467,7 @@
       <jump line="31" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="65" column="14" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="74" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
+      <jump line="1701" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1492,10 +1488,10 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>targetBoardSize</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW5PcmRlclw+</text>
+        <text>ゆめの</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJjYW50IG9yZGVyICRsYXN0QnVzeVRpbWUiKQo=</text>
@@ -1535,9 +1531,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW5PcmRlclw+</last-search>
+      <last-search>ゆめの</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW5PcmRlclw+</last-pattern>
+      <last-pattern>ゆめの</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1545,7 +1541,6 @@
     </search>
     <history>
       <history-search>
-        <entry>src</entry>
         <entry>Fla</entry>
         <entry>I</entry>
         <entry>Flag</entry>
@@ -1565,6 +1560,7 @@
         <entry>last</entry>
         <entry>cant</entry>
         <entry encoding="base64">XDxjYW5PcmRlclw+</entry>
+        <entry>ゆめの</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
