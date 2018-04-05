@@ -46,6 +46,9 @@
     <keyboard-shortcut first-keystroke="shift alt u" />
   </action>
   <action id="ToggleCamelSnakeCase" />
+  <action id="Vcs.Show.Local.Changes">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="l" />
+  </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="h" />
   </action>

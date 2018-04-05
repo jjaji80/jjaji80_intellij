@@ -287,6 +287,11 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/funeral/add.html" timestamp="1522909458688">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/list.html" timestamp="1522655938410">
         <mark key="[" line="25" column="112" />
         <mark key="]" line="25" column="115" />
@@ -576,8 +581,8 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522907585891">
-        <mark key="[" line="1" column="14" />
+      <file name="/Dummy.txt" timestamp="1522909576593">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
@@ -1497,34 +1502,34 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJjYW50IG9yZGVyICRsYXN0QnVzeVRpbWUiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJkb3VibGUgdXAgJG5vd1RhcmdldEJvYXJkU2l6ZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbnB1dF9fYm94Ij4KICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJkb3VibGUgdXAgJG5vd1RhcmdldEJvYXJkU2l6ZSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFzdAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyQwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdAo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhlYWx0aCA9IGFwaS5oZWFsdGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyQwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhlYWx0aCA9IGFwaS5oZWFsdGgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
