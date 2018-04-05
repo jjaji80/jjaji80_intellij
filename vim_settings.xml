@@ -63,6 +63,13 @@
         <mark key="." line="16" column="81" />
         <mark key="^" line="16" column="81" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/input1.html" timestamp="1522912130369">
+        <mark key="'" line="20" column="21" />
+        <mark key="[" line="20" column="64" />
+        <mark key="]" line="20" column="65" />
+        <mark key="^" line="20" column="65" />
+        <mark key="." line="20" column="65" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/dao/UserRepository.kt" timestamp="1520511363707">
         <mark key="[" line="6" column="51" />
         <mark key="]" line="6" column="61" />
@@ -278,7 +285,7 @@
         <mark key="^" line="106" column="69" />
         <mark key="." line="106" column="69" />
       </file>
-      <file name="/accounts [ora@localhost]" timestamp="1522749500187">
+      <file name="/accounts [ora@localhost]" timestamp="1522911145910">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/bitFlyer.properties" timestamp="1522567429001">
@@ -331,11 +338,11 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/detail.html" timestamp="1522054818889">
-        <mark key="[" line="31" column="17" />
-        <mark key="]" line="31" column="29" />
-        <mark key="^" line="31" column="29" />
-        <mark key="." line="31" column="29" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/detail.html" timestamp="1522912065766">
+        <mark key="[" line="38" column="56" />
+        <mark key="]" line="38" column="64" />
+        <mark key="." line="38" column="64" />
+        <mark key="^" line="38" column="64" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/OthersController.kt" timestamp="1522206199576">
         <mark key="[" line="16" column="33" />
@@ -488,7 +495,8 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="37" column="25" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/form/MessageForm.kt" timestamp="1522830375831">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/form/MessageForm.kt" timestamp="1522911875955">
+        <mark key="'" line="7" column="22" />
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="43" />
@@ -569,7 +577,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1522832921671">
+      <file name="/dummy.sql" timestamp="1522911146291">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1364,26 +1372,14 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" timestamp="1522833469710">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="82" column="37" />
-        <mark key="]" line="82" column="72" />
-        <mark key="^" line="82" column="72" />
-        <mark key="." line="82" column="72" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" timestamp="1522912181176">
+        <mark key="'" line="92" column="27" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
-      <jump line="12" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
-      <jump line="22" column="18" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
-      <jump line="14" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
-      <jump line="1676" column="48" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="4" column="43" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V201804030310__add_medicine.sql" />
-      <jump line="1702" column="30" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="266" column="18" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
-      <jump line="474" column="70" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
-      <jump line="501" column="13" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
-      <jump line="503" column="74" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="205" column="124" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="61" column="10" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="206" column="39" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
@@ -1473,6 +1469,17 @@
       <jump line="65" column="14" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="74" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="1701" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="9" column="4" filename="$USER_HOME$/git/ora/src/main/resources/templates/message/input1.html" />
+      <jump line="17" column="9" filename="$USER_HOME$/git/ora/src/main/resources/templates/message/input1.html" />
+      <jump line="31" column="30" filename="$USER_HOME$/git/ora/src/main/resources/templates/message/input1.html" />
+      <jump line="53" column="42" filename="$USER_HOME$/git/ora/src/main/resources/templates/message/input1.html" />
+      <jump line="55" column="51" filename="$USER_HOME$/git/ora/src/main/resources/templates/message/input1.html" />
+      <jump line="7" column="22" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/form/MessageForm.kt" />
+      <jump line="91" column="27" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" />
+      <jump line="16" column="65" filename="$USER_HOME$/git/ora/src/main/resources/templates/message/input1.html" />
+      <jump line="18" column="21" filename="$USER_HOME$/git/ora/src/main/resources/templates/message/input1.html" />
+      <jump line="19" column="21" filename="$USER_HOME$/git/ora/src/main/resources/templates/message/input1.html" />
+      <jump line="20" column="21" filename="$USER_HOME$/git/ora/src/main/resources/templates/message/input1.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1493,62 +1500,59 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text>= mess</text>
       </register>
       <register name="/" type="4">
-        <text>ゆめの</text>
+        <text>input</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJjYW50IG9yZGVyICRsYXN0QnVzeVRpbWUiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbnB1dF9fYm94Ij4KICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihtZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJkb3VibGUgdXAgJG5vd1RhcmdldEJvYXJkU2l6ZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWVzc2FnZSA9IG1lc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIHRoOnRleHQ9IiR7aWR9Ij48L3NwYW4+CiAgICAgICAgICAgICAgICA6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIHRoOnRleHQ9IiR7bWVzc2FnZS5hY2NvdW50LmlkfSI+PC9zcGFuPgo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyQwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbnB1dF9fYm94Ij4KICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhlYWx0aCA9IGFwaS5oZWFsdGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJkb3VibGUgdXAgJG5vd1RhcmdldEJvYXJkU2l6ZSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ゆめの</last-search>
+      <last-search>input</last-search>
       <last-offset />
-      <last-pattern>ゆめの</last-pattern>
+      <last-pattern>input</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Fla</entry>
-        <entry>I</entry>
-        <entry>Flag</entry>
         <entry encoding="base64">XDxhYm91dE1lVmlld0FjY291bnRcPg==</entry>
         <entry>cash</entry>
         <entry>href</entry>
@@ -1566,6 +1570,9 @@
         <entry>cant</entry>
         <entry encoding="base64">XDxjYW5PcmRlclw+</entry>
         <entry>ゆめの</entry>
+        <entry>id</entry>
+        <entry>messageId</entry>
+        <entry>input</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
