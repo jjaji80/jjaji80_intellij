@@ -1372,11 +1372,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" timestamp="1522912181176">
-        <mark key="'" line="92" column="27" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" timestamp="1522913122591">
+        <mark key="'" line="105" column="27" />
+        <mark key="[" line="101" column="9" />
+        <mark key="]" line="102" column="7" />
+        <mark key="." line="102" column="7" />
+        <mark key="^" line="102" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -1500,7 +1501,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>= mess</text>
+        <text encoding="base64">IG51bGw=</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
@@ -1509,34 +1510,34 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJjYW50IG9yZGVyICRsYXN0QnVzeVRpbWUiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZihtZSkK</text>
+        <text encoding="base64">ICAgICAgICBpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWVzc2FnZSA9IG1lc3MK</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihtZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIHRoOnRleHQ9IiR7aWR9Ij48L3NwYW4+CiAgICAgICAgICAgICAgICA6Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWVzc2FnZSA9IG1lc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIHRoOnRleHQ9IiR7bWVzc2FnZS5hY2NvdW50LmlkfSI+PC9zcGFuPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbnB1dF9fYm94Ij4KICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIHRoOnRleHQ9IiR7aWR9Ij48L3NwYW4+CiAgICAgICAgICAgICAgICA6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJkb3VibGUgdXAgJG5vd1RhcmdldEJvYXJkU2l6ZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIHRoOnRleHQ9IiR7bWVzc2FnZS5hY2NvdW50LmlkfSI+PC9zcGFuPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbnB1dF9fYm94Ij4KICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJkb3VibGUgdXAgJG5vd1RhcmdldEJvYXJkU2l6ZSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
