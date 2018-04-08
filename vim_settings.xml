@@ -790,8 +790,8 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1523109133823">
-        <mark key="'" line="41" column="70" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1523154620806">
+        <mark key="'" line="35" column="16" />
         <mark key="[" line="199" column="132" />
         <mark key="]" line="199" column="133" />
         <mark key="." line="199" column="133" />
@@ -872,7 +872,7 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/path.properties" timestamp="1523151574313">
+      <file name="$USER_HOME$/git/ora/src/main/resources/path.properties" timestamp="1523154106840">
         <mark key="[" line="2" column="36" />
         <mark key="]" line="2" column="42" />
         <mark key="." line="2" column="42" />
@@ -1398,9 +1398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="22" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
-      <jump line="88" column="83" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
-      <jump line="94" column="74" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/property_about_assets.html" />
       <jump line="9" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/funeral_about_top.html" />
       <jump line="27" column="90" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/funeral_about_top.html" />
       <jump line="45" column="58" filename="$USER_HOME$/git/ora/src/main/resources/templates/sharedAccount/detail.html" />
@@ -1498,6 +1495,9 @@
       <jump line="103" column="14" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" />
       <jump line="208" column="30" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" />
       <jump line="76" column="44" filename="$USER_HOME$/git/ora/src/main/resources/templates/message/input2.html" />
+      <jump line="117" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
+      <jump line="105" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
+      <jump line="35" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1521,7 +1521,7 @@
         <text encoding="base64">Zml4ZWQg</text>
       </register>
       <register name="/" type="4">
-        <text>messageT</text>
+        <text encoding="base64">XDxjaGVja05vcm1hbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tLypAdGh5bWVzVmFyIGlkPSJtZXNzYWdlQXR0YWNobWVudCIgdHlwZT0iTGlzdDxvcmEubGVhZGxpZmUuY28uanAubW9kZWwuTWVzc2FnZUF0dGFjaG1lbnQ+IiovLS0+Cg==</text>
@@ -1557,13 +1557,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dmlkZW8gdGg6c3JjPSIkeyN1cGxvYWRlZEltYWdlLmJ1aWxkKGF0dGFjaG1lbnQpfSIgLz4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>43</text>
       </register>
     </registers>
     <search>
-      <last-search>messageT</last-search>
+      <last-search encoding="base64">XDxjaGVja05vcm1hbFw+</last-search>
       <last-offset />
-      <last-pattern>messageT</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja05vcm1hbFw+</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1571,9 +1571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>input</entry>
-        <entry>select</entry>
-        <entry>file</entry>
         <entry>fileP</entry>
         <entry>csv</entry>
         <entry>layout</entry>
@@ -1591,11 +1588,11 @@
         <entry>uplo</entry>
         <entry>filety</entry>
         <entry>messageT</entry>
+        <entry encoding="base64">XDxkaWRMb3NDdXRcPg==</entry>
+        <entry encoding="base64">XDxjaGVja1NlcnZlclw+</entry>
+        <entry encoding="base64">XDxjaGVja05vcm1hbFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>3</entry>
-        <entry>13</entry>
-        <entry>16</entry>
         <entry>4</entry>
         <entry>37</entry>
         <entry>34</entry>
@@ -1613,6 +1610,9 @@
         <entry>1</entry>
         <entry>28</entry>
         <entry>w</entry>
+        <entry>169</entry>
+        <entry>19</entry>
+        <entry>43</entry>
       </history-cmd>
       <history-expr />
       <history-input />
