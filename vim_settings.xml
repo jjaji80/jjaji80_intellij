@@ -842,13 +842,13 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1523285648585">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1523290385668">
         <mark key="a" line="224" column="33" />
-        <mark key="'" line="97" column="33" />
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="30" />
-        <mark key="." line="204" column="0" />
-        <mark key="^" line="99" column="33" />
+        <mark key="'" line="224" column="16" />
+        <mark key="[" line="226" column="30" />
+        <mark key="]" line="226" column="38" />
+        <mark key="." line="226" column="38" />
+        <mark key="^" line="226" column="38" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/eureka_server/src/main/kotlin/coinman/eureka_server/EurekaServerApplication.kt" timestamp="1520734638278">
         <mark key="[" line="7" column="19" />
@@ -1585,7 +1585,6 @@
       <jump line="212" column="45" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="217" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="223" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
-      <jump line="224" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="143" column="35" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="23" column="26" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="39" column="53" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
@@ -1599,6 +1598,7 @@
       <jump line="218" column="34" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="20" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="97" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
+      <jump line="224" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1619,10 +1619,10 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>CONNECTION_TIMEOUT</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>down</text>
+        <text encoding="base64">XDxkb3duTm93VGFyZ2V0Qm9hcmRTaXplXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaHR0cFBhcmFtcy5zZXRQYXJhbWV0ZXIoQ29yZUNvbm5lY3Rpb25QTmFtZXMuQ09OTkVDVElPTl9USU1FT1VULDEwKjEwMDApCg==</text>
@@ -1662,9 +1662,9 @@
       </register>
     </registers>
     <search>
-      <last-search>down</last-search>
+      <last-search encoding="base64">XDxkb3duTm93VGFyZ2V0Qm9hcmRTaXplXD4=</last-search>
       <last-offset />
-      <last-pattern>down</last-pattern>
+      <last-pattern encoding="base64">XDxkb3duTm93VGFyZ2V0Qm9hcmRTaXplXD4=</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>medi</last-substitute>
       <last-dir>1</last-dir>
@@ -1672,7 +1672,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parent</entry>
         <entry>marke</entry>
         <entry encoding="base64">XDxwb3NpdGlvbkxpc3RcPg==</entry>
         <entry>nowP</entry>
@@ -1692,6 +1691,7 @@
         <entry>health=</entry>
         <entry>5</entry>
         <entry>down</entry>
+        <entry encoding="base64">XDxkb3duTm93VGFyZ2V0Qm9hcmRTaXplXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
