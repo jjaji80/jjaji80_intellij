@@ -299,6 +299,7 @@
         <mark key="." line="88" column="47" />
         <mark key="^" line="88" column="47" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/user/done.html" timestamp="1523266779091" />
       <file name="/issue_statuses [redmine_default@red-mine.net]" timestamp="1522479092763">
         <mark key="[" line="0" column="0" />
       </file>
@@ -486,6 +487,7 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/static/css/_common.scss" timestamp="1523266754595" />
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/pick/LikeRepository.java" timestamp="1519901402571">
         <mark key="[" line="38" column="90" />
         <mark key="]" line="38" column="95" />
@@ -1294,6 +1296,13 @@
         <mark key="^" line="27" column="33" />
         <mark key="." line="27" column="8" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/application.yml" timestamp="1523267414907">
+        <mark key="'" line="4" column="19" />
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="29" />
+        <mark key="^" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/rest/UserController.kt" timestamp="1520316215019">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="18" column="0" />
@@ -1479,7 +1488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="58" filename="$USER_HOME$/git/ora/src/main/resources/templates/sharedAccount/detail.html" />
       <jump line="28" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/index.html" />
       <jump line="4" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/sharedAccount/detail.html" />
       <jump line="21" column="18" filename="$USER_HOME$/git/ora/src/main/resources/templates/sharedAccount/detail.html" />
@@ -1579,6 +1587,7 @@
       <jump line="35" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/.gitignore" />
       <jump line="15" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" />
+      <jump line="4" column="19" filename="$USER_HOME$/git/ora/src/main/resources/application.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
