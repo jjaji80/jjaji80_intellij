@@ -288,12 +288,12 @@
         <mark key="^" line="111" column="57" />
         <mark key="." line="111" column="57" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" timestamp="1522646580656">
-        <mark key="'" line="117" column="21" />
-        <mark key="[" line="58" column="88" />
-        <mark key="]" line="58" column="111" />
-        <mark key="." line="58" column="111" />
-        <mark key="^" line="58" column="111" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" timestamp="1523260399312">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="88" column="42" />
+        <mark key="]" line="88" column="47" />
+        <mark key="." line="88" column="47" />
+        <mark key="^" line="88" column="47" />
       </file>
       <file name="/issue_statuses [redmine_default@red-mine.net]" timestamp="1522479092763">
         <mark key="[" line="0" column="0" />
@@ -1463,7 +1463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="90" filename="$USER_HOME$/git/ora/src/main/resources/templates/aboutMe/funeral_about_top.html" />
       <jump line="45" column="58" filename="$USER_HOME$/git/ora/src/main/resources/templates/sharedAccount/detail.html" />
       <jump line="28" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/index.html" />
       <jump line="4" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/sharedAccount/detail.html" />
@@ -1563,6 +1562,7 @@
       <jump line="105" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="35" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/.gitignore" />
+      <jump line="15" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1586,7 +1586,7 @@
         <text>resolver</text>
       </register>
       <register name="/" type="4">
-        <text>size</text>
+        <text>medi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBAQ29sdW1uKG5hbWUgPSAiZmlsZV9wYXRoIikKICAgICAgICB2YXIgZmlsZVBhdGg6IFN0cmluZyA9ICIiLAo=</text>
@@ -1626,9 +1626,9 @@
       </register>
     </registers>
     <search>
-      <last-search>size</last-search>
+      <last-search>medi</last-search>
       <last-offset />
-      <last-pattern>size</last-pattern>
+      <last-pattern>medi</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1636,7 +1636,6 @@
     </search>
     <history>
       <history-search>
-        <entry>csv</entry>
         <entry>layout</entry>
         <entry>List</entry>
         <entry>messageA</entry>
@@ -1656,6 +1655,7 @@
         <entry encoding="base64">XDxjaGVja1NlcnZlclw+</entry>
         <entry encoding="base64">XDxjaGVja05vcm1hbFw+</entry>
         <entry>size</entry>
+        <entry>medi</entry>
       </history-search>
       <history-cmd>
         <entry>4</entry>
