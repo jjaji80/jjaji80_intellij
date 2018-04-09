@@ -635,11 +635,10 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523262627965">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-        <mark key="^" line="1" column="16" />
+      <file name="/Dummy.txt" timestamp="1523265522233">
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="15" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/rest/UsersController.kt" timestamp="1520316815711">
         <mark key="[" line="16" column="27" />
@@ -1408,11 +1407,11 @@
       <file name="/individual_note_category_templates [ora@localhost]" timestamp="1522609652786">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/OraApplication.kt" timestamp="1520392031240">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="34" />
-        <mark key="." line="8" column="34" />
-        <mark key="^" line="8" column="34" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/OraApplication.kt" timestamp="1523265511687">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/rest/src/main/kotlin/coinman/rest/controller/TestController.kt" timestamp="1520753654437">
         <mark key="[" line="10" column="0" />
@@ -1609,37 +1608,37 @@
         <text>headerImage</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgIDxhIGNsYXNzPSJkcmF3ZXItZHJvcGRvd24tbWVudS1pdGVtIiBocmVmPSJlbmRpbmdub3RlX2luZGV4Lmh0bWwiPuOCqOODs+ODh+OCo+ODs+OCsOODjuODvOODiDwvYT4KICAgICAgICAgICAgPC9saT4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgIDxhIGNsYXNzPSJkcmF3ZXItZHJvcGRvd24tbWVudS1pdGVtIiBocmVmPSJlbmRpbmdub3RlX2luZGV4Lmh0bWwiPuOCqOODs+ODh+OCo+ODs+OCsOODjuODvOODiDwvYT4K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">QEJlYW4KZnVuIHNlcnZsZXRDb250YWluZXIoKTogRW1iZWRkZWRTZXJ2bGV0Q29udGFpbmVyRmFjdG9yeSB7CgogICAgdmFsIHRvbWNhdCA9IFRvbWNhdEVtYmVkZGVkU2VydmxldENvbnRhaW5lckZhY3RvcnkoKQoKICAgIHZhbCBhanBDb25uZWN0b3IgPSBDb25uZWN0b3IoIkFKUC8xLjMiKQogICAgYWpwQ29ubmVjdG9yLnNldFByb3RvY29sKCJBSlAvMS4zIikKICAgIGFqcENvbm5lY3Rvci5zZXRQb3J0KDkwOTApCiAgICBhanBDb25uZWN0b3Iuc2V0U2VjdXJlKGZhbHNlKQogICAgYWpwQ29ubmVjdG9yLnNldEFsbG93VHJhY2UoZmFsc2UpCiAgICBhanBDb25uZWN0b3Iuc2V0U2NoZW1lKCJodHRwIikKICAgIHRvbWNhdC5hZGRBZGRpdGlvbmFsVG9tY2F0Q29ubmVjdG9ycyhhanBDb25uZWN0b3IpCgogICAgcmV0dXJuIHRvbWNhdAp9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">44Ko44Oz44OH44Kj44Oz44Kw44OO44O844OI44Gu44OR44K55L+u5q2jCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzcmMud3JpdGVUZXh0KCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgIDxhIGNsYXNzPSJkcmF3ZXItZHJvcGRvd24tbWVudS1pdGVtIiBocmVmPSJlbmRpbmdub3RlX2luZGV4Lmh0bWwiPuOCqOODs+ODh+OCo+ODs+OCsOODjuODvOODiDwvYT4KICAgICAgICAgICAgPC9saT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzcmMuZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgIDxhIGNsYXNzPSJkcmF3ZXItZHJvcGRvd24tbWVudS1pdGVtIiBocmVmPSJlbmRpbmdub3RlX2luZGV4Lmh0bWwiPuOCqOODs+ODh+OCo+ODs+OCsOODjuODvOODiDwvYT4K</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zml4ZWQgIzMwMDg1IEAxLjAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">44OV44Kh44Kk44Or44OR44K544KS55u45a++44OR44K544Gr5aSJ5pu0Cg==</text>
+        <text encoding="base64">ICAgICAgICBzcmMud3JpdGVUZXh0KCIiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9Im1lc3NhZ2UiIHR5cGU9Im9yYS5sZWFkbGlmZS5jby5qcC5tb2RlbC5NZXNzYWdlIiovLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzcmMuZGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9IiN1cGxvYWRlZEltYWdlIiB0eXBlPSJvcmEubGVhZGxpZmUuY28uanAuaGVscGVyLlVwbG9hZGVkSW1hZ2UiKi8tLT4K</text>
+        <text encoding="base64">Zml4ZWQgIzMwMDg1IEAxLjAK</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1647,7 +1646,7 @@
       <last-offset />
       <last-pattern>medi</last-pattern>
       <last-replace>\r,</last-replace>
-      <last-substitute>,</last-substitute>
+      <last-substitute>medi</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1692,9 +1691,9 @@
         <entry>169</entry>
         <entry>19</entry>
         <entry>43</entry>
-        <entry>w</entry>
         <entry>109</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
