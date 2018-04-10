@@ -885,12 +885,13 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1523336876331">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1523338111473">
         <mark key="a" line="233" column="33" />
-        <mark key="'" line="145" column="12" />
-        <mark key="[" line="241" column="36" />
-        <mark key="]" line="241" column="36" />
-        <mark key="." line="241" column="36" />
+        <mark key="'" line="108" column="16" />
+        <mark key="[" line="114" column="12" />
+        <mark key="]" line="114" column="15" />
+        <mark key="." line="114" column="15" />
+        <mark key="^" line="114" column="15" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/eureka_server/src/main/kotlin/coinman/eureka_server/EurekaServerApplication.kt" timestamp="1520734638278">
         <mark key="[" line="7" column="19" />
@@ -1576,7 +1577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="6" filename="$USER_HOME$/git/ora/src/main/resources/templates/message/input2.html" />
       <jump line="106" column="69" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="156" column="86" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="164" column="7" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
@@ -1648,7 +1648,6 @@
       <jump line="223" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="143" column="35" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="23" column="26" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
-      <jump line="39" column="53" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="42" column="38" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="54" column="38" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="141" column="34" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
@@ -1672,10 +1671,12 @@
       <jump line="76" column="12" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/SummaryController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Blog/_title.ctp" />
       <jump line="250" column="7" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/UsersComponent.php" />
-      <jump line="97" column="94" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="232" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="102" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="145" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
+      <jump line="39" column="30" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
+      <jump line="97" column="83" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
+      <jump line="108" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1696,10 +1697,10 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MSA=</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cE5vd1RhcmdldEJvYXJkU2l6ZVw+</text>
+        <text>can</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGFzdERpZENoYW5nZUJvYXJkID0gTW9tZW50KCkK</text>
@@ -1739,9 +1740,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cE5vd1RhcmdldEJvYXJkU2l6ZVw+</last-search>
+      <last-search>can</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cE5vd1RhcmdldEJvYXJkU2l6ZVw+</last-pattern>
+      <last-pattern>can</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>medi</last-substitute>
       <last-dir>1</last-dir>
@@ -1749,9 +1750,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaWRMb3NDdXRcPg==</entry>
-        <entry encoding="base64">XDxjaGVja1NlcnZlclw+</entry>
-        <entry encoding="base64">XDxjaGVja05vcm1hbFw+</entry>
         <entry>size</entry>
         <entry>medi</entry>
         <entry encoding="base64">XDx0YXJnZXRCb2FyZFNpemVcPg==</entry>
@@ -1769,6 +1767,9 @@
         <entry>displayNa</entry>
         <entry encoding="base64">XDxmb2xsb3dlcnNcPg==</entry>
         <entry encoding="base64">XDx1cE5vd1RhcmdldEJvYXJkU2l6ZVw+</entry>
+        <entry>cann</entry>
+        <entry>cano</entry>
+        <entry>can</entry>
       </history-search>
       <history-cmd>
         <entry>35,58d</entry>
