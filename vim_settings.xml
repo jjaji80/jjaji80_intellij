@@ -1146,11 +1146,12 @@
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="62" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/BereaveService.kt" timestamp="1523438942774">
-        <mark key="[" line="63" column="54" />
-        <mark key="]" line="63" column="52" />
-        <mark key="^" line="63" column="52" />
-        <mark key="." line="63" column="52" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/BereaveService.kt" timestamp="1523439644566">
+        <mark key="'" line="69" column="13" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="66" column="13" />
+        <mark key="." line="66" column="13" />
+        <mark key="^" line="66" column="13" />
       </file>
       <file name="$USER_HOME$/git/orasp/app/views/index.xml" timestamp="1521305076764">
         <mark key="[" line="4" column="68" />
@@ -1571,8 +1572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="19" filename="$USER_HOME$/git/ora/src/main/resources/application.yml" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="22" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="184" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="187" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
@@ -1671,6 +1670,8 @@
       <jump line="43" column="28" filename="$USER_HOME$/git/manganews-web-master/app/Config/routes.php" />
       <jump line="50" column="59" filename="$USER_HOME$/git/manganews-web-master/app/Config/routes.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" />
+      <jump line="18" column="13" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/BereaveService.kt" />
+      <jump line="69" column="13" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/BereaveService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1691,7 +1692,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>bereaveService.findByAccountAndUser()</text>
+        <text>subList()</text>
       </register>
       <register name="/" type="4">
         <text>be</text>
@@ -1700,34 +1701,34 @@
         <text encoding="base64">ICYmICR0aGlzLT5hY3Rpb24gPT0gIm9yaWdpbmFsIg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYWNjb3VudDpBY2NvdW50PyA9IG51bGwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoYmVyZWF2ZVNlcnZpY2UuZmluZCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaWYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYgo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgYWNjb3VudDpBY2NvdW50PyA9IG51bGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoYmVyZWF2ZVNlcnZpY2UuZmluZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJyZWRpcmVjdDovaW5kaXZpZHVhbE5vdGUvdmlldy8ke2lkfSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYgo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWFib3V0TWVWaWV3QWNjb3VudC5pc051bGxPckJsYW5rKCkpCiAgICAgICAgICAgIHJldHVybiAicmVkaXJlY3Q6L2luZGl2aWR1YWxOb3RlL3ZpZXcvJHtpZH0iCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q29uZmxpY3TjgavjgabmtojjgYjjgabjgYTjgZ/kv67mraPjgpLlj43mmKAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJyZWRpcmVjdDovaW5kaXZpZHVhbE5vdGUvdmlldy8ke2lkfSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWFib3V0TWVWaWV3QWNjb3VudC5pc051bGxPckJsYW5rKCkpCiAgICAgICAgICAgIHJldHVybiAicmVkaXJlY3Q6L2luZGl2aWR1YWxOb3RlL3ZpZXcvJHtpZH0iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8P3BocCBlbmRpZjsgPz4K</text>
+        <text encoding="base64">Q29uZmxpY3TjgavjgabmtojjgYjjgabjgYTjgZ/kv67mraPjgpLlj43mmKAK</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
