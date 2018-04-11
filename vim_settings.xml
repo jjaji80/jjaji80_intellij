@@ -299,12 +299,12 @@
         <mark key="^" line="111" column="57" />
         <mark key="." line="111" column="57" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" timestamp="1523429963943">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" timestamp="1523436446938">
         <mark key="'" line="63" column="8" />
-        <mark key="[" line="68" column="57" />
-        <mark key="]" line="68" column="57" />
-        <mark key="." line="68" column="57" />
-        <mark key="^" line="68" column="57" />
+        <mark key="[" line="66" column="55" />
+        <mark key="]" line="66" column="55" />
+        <mark key="." line="66" column="55" />
+        <mark key="^" line="66" column="55" />
       </file>
       <file name="/issue_statuses [redmine_default@red-mine.net]" timestamp="1522479092763">
         <mark key="[" line="0" column="0" />
@@ -905,7 +905,7 @@
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/list.html" timestamp="1523429811021">
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/list.html" timestamp="1523436583114">
         <mark key="[" line="22" column="114" />
         <mark key="]" line="22" column="138" />
         <mark key="^" line="22" column="138" />
@@ -1685,7 +1685,7 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text>detail</text>
       </register>
       <register name="/" type="4">
         <text>themenew</text>
