@@ -886,13 +886,13 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1523448253433">
-        <mark key="a" line="232" column="33" />
-        <mark key="'" line="199" column="64" />
-        <mark key="[" line="231" column="33" />
-        <mark key="]" line="231" column="44" />
-        <mark key="." line="231" column="44" />
-        <mark key="^" line="231" column="44" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1523460424514">
+        <mark key="a" line="244" column="33" />
+        <mark key="'" line="211" column="64" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="81" column="53" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/eureka_server/src/main/kotlin/coinman/eureka_server/EurekaServerApplication.kt" timestamp="1520734638278">
         <mark key="[" line="7" column="19" />
@@ -1698,7 +1698,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text encoding="base64">dGFyZ2V0Q29sbGF0ZXJhbCA=</text>
       </register>
       <register name="/" type="4">
         <text>100</text>
@@ -1707,37 +1707,37 @@
         <text encoding="base64">U0VMRUNUCiAgbWFpbi5maXJzdG5hbWUsCiAgdHJ1bmMoY2FzdChzdW0ocmVhbF90aW1lKSBBUyBOVU1FUklDKSwgMikgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyByZWFsX3RpbWUsCiAgdHJ1bmMoY2FzdChzdW0ocmVhbF90aW1lKSBBUyBOVU1FUklDKSwgMikgLyA4ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIHBlcl9kYXksCiAgc3VtKGVzdGltYXRlZF9ob3VycykgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBlc3RpbWF0ZWRfaG91cnMsCiAgdHJ1bmMoY2FzdChzdW0oZXN0aW1hdGVkX2hvdXJzKSAvIHN1bShyZWFsX3RpbWUpIEFTIE5VTUVSSUMpLCAzKSAgICAgICAgICAgICAgICAgICAgICAgICBBUyBwZXJjZW50LAogIHRydW5jKGNhc3Qoc3VtKGVzdGltYXRlZF9ob3VycykgLyBzdW0ocmVhbF90aW1lKSAqIChzdW0ocmVhbF90aW1lKSAvIDIzKSBBUyBOVU1FUklDKSwgMykgQVMgcmVzdWx0Ci0tICAgLCAoU0VMRUNUIHN1bShULmhvdXJzKSBGUk9NIHRpbWVfZW50cmllcyBUIFdIRVJFIFQudXNlcl9pZD1tYWluLmlkIGFuZCBULnR5ZWFyPTIwMTggYW5kICkKRlJPTSAoCiAgICAgICBTRUxFQ1QKICAgICAgICAgVS5pZCwKICAgICAgICAgVS5maXJzdG5hbWUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgZmlyc3RuYW1lLAogICAgICAgICAoU0VMRUNUIHN1bShULmhvdXJzKQogICAgICAgICAgRlJPTSB0aW1lX2VudHJpZXMgVAogICAgICAgICAgV0hFUkUgSS5pZCA9IFQuaXNzdWVfaWQgQU5EIGRhdGVfcGFydCgneWVhcicsIFQuY3JlYXRlZF9vbikgPSAyMDE4IEFORCBkYXRlX3BhcnQoJ21vbnRoJywgVC5jcmVhdGVkX29uKSA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQpIEFTIHJlYWxfdGltZSwKICAgICAgICAgSS5lc3RpbWF0ZWRfaG91cnMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgZXN0aW1hdGVkX2hvdXJzCiAgICAgICBGUk9NIGlzc3VlcyBJCiAgICAgICAgIElOTkVSIEpPSU4gdXNlcnMgVSBPTiBJLmFzc2lnbmVkX3RvX2lkID0gVS5pZAogICAgICAgV0hFUkUKICAgICAgICAgZXhpc3RzKFNFTEVDVCAqCiAgICAgICAgICAgICAgICBGUk9NIHRpbWVfZW50cmllcwogICAgICAgICAgICAgICAgV0hFUkUgdGltZV9lbnRyaWVzLmlzc3VlX2lkID0gSS5pZAogICAgICAgICAgICAgICAgICAgICAgQU5EIGRhdGVfcGFydCgneWVhcicsIHRpbWVfZW50cmllcy5jcmVhdGVkX29uKSA9IDIwMTggQU5ECiAgICAgICAgICAgICAgICAgICAgICBkYXRlX3BhcnQoJ21vbnRoJywgdGltZV9lbnRyaWVzLmNyZWF0ZWRfb24pID0gNAogICAgICAgICApCiAgICAgICAgIEFORCBJLmVzdGltYXRlZF9ob3VycyBJUyBOT1QgTlVMTAogICAgICAgICBBTkQgSS5zdGF0dXNfaWQgSU4gKDMsIDUsIDYpCiAgICAgKSBBUyBtYWluCkdST1VQIEJZIG1haW4uaWQsIG1haW4uZmlyc3RuYW1lCk9SREVSIEJZIHJlc3VsdCBERVNDOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDAwICogMykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V0hFUkUgdGltZV9lbnRyaWVzLmlzc3VlX2lkID0gSS5pZAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImtlZXBSYXRlID0gJGtlZXBSYXRlIDogdGFyZ2V0Q29sbGF0ZXJhbD0kdGFyZ2V0Q29sbGF0ZXJhbCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0Q29sbGF0ZXJhbCAvPSAyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJyZWRpcmVjdDovbWVkaWNpbmUvaW5wdXQiIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGFjCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwga2VlcFJhdGUgPSBhcGkuZ2V0Q29sbGF0ZXJhbCgpLmtlZXBSYXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoNyoxMDAwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAicmVkaXJlY3Q6LyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoZWNrQ29sbGF0ZXJhbCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobm90ZS5hY2NvdW50LmlkICE9IGFjY291bnQuaWQpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1789,10 +1789,10 @@
         <entry>31</entry>
         <entry>251</entry>
         <entry>30</entry>
-        <entry>w</entry>
         <entry>30,58y</entry>
         <entry>98,128y</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
