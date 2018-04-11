@@ -299,12 +299,12 @@
         <mark key="^" line="111" column="57" />
         <mark key="." line="111" column="57" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" timestamp="1523436446938">
-        <mark key="'" line="63" column="8" />
-        <mark key="[" line="66" column="55" />
-        <mark key="]" line="66" column="55" />
-        <mark key="." line="66" column="55" />
-        <mark key="^" line="66" column="55" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" timestamp="1523438904053">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="72" column="15" />
+        <mark key="]" line="72" column="15" />
+        <mark key="." line="72" column="15" />
+        <mark key="^" line="72" column="50" />
       </file>
       <file name="/issue_statuses [redmine_default@red-mine.net]" timestamp="1522479092763">
         <mark key="[" line="0" column="0" />
@@ -1146,6 +1146,12 @@
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="62" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/BereaveService.kt" timestamp="1523438942774">
+        <mark key="[" line="63" column="54" />
+        <mark key="]" line="63" column="52" />
+        <mark key="^" line="63" column="52" />
+        <mark key="." line="63" column="52" />
+      </file>
       <file name="$USER_HOME$/git/orasp/app/views/index.xml" timestamp="1521305076764">
         <mark key="[" line="4" column="68" />
         <mark key="]" line="5" column="80" />
@@ -1565,7 +1571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" />
       <jump line="4" column="19" filename="$USER_HOME$/git/ora/src/main/resources/application.yml" />
       <jump line="2" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="22" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
@@ -1665,6 +1670,7 @@
       <jump line="581" column="2" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="43" column="28" filename="$USER_HOME$/git/manganews-web-master/app/Config/routes.php" />
       <jump line="50" column="59" filename="$USER_HOME$/git/manganews-web-master/app/Config/routes.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1685,52 +1691,52 @@
         <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>detail</text>
+        <text>bereaveService.findByAccountAndUser()</text>
       </register>
       <register name="/" type="4">
-        <text>themenew</text>
+        <text>be</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICYmICR0aGlzLT5hY3Rpb24gPT0gIm9yaWdpbmFsIg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q29uZmxpY3TjgavjgabmtojjgYjjgabjgYTjgZ/kv67mraPjgpLlj43mmKAK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgYWNjb3VudDpBY2NvdW50PyA9IG51bGwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoYmVyZWF2ZVNlcnZpY2UuZmluZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8P3BocCBlbmRpZjsgPz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8P3BocCBpZiAoJHRoaXMtPmFjdGlvbiA9PSAiYm9keSIpOiA/PgoJCQk8P3BocCAkdGl0bGUgPSBAJGRhdGFbIm5ld3MiXS0+dGl0bGUgLiAiIHwg6KiY5LqL5LiA6KanIHwg44Oe44Oz44Ks5paw6IGeIjsgPz4KCQk8P3BocCBlbHNlOiA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlNT5o6y6LyJ44Gu6KiY5LqLVVJM5aSJ5pu0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJyZWRpcmVjdDovaW5kaXZpZHVhbE5vdGUvdmlldy8ke2lkfSIK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CTw/cGhwIGVsc2VpZiAoJHRoaXMtPm5hbWUgPT0gIlRoZW1lbmV3cyIgJiYgJHRoaXMtPmFjdGlvbiA9PSAib3JpZ2luYWwiKTogPz4KCQk8P3BocCAkdGl0bGUgPSAi44Kq44Oq44K444OK44Or6KiY5LqLIHwg6KiY5LqL5LiA6KanIHwg44Oe44Oz44Ks5paw6IGeIiA7ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWFib3V0TWVWaWV3QWNjb3VudC5pc051bGxPckJsYW5rKCkpCiAgICAgICAgICAgIHJldHVybiAicmVkaXJlY3Q6L2luZGl2aWR1YWxOb3RlL3ZpZXcvJHtpZH0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q29uZmxpY3TjgavjgabmtojjgYjjgabjgYTjgZ/kv67mraPjgpLlj43mmKAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8P3BocCAkdGl0bGUgPSBAJGRhdGFbIm5ld3MiXS0+dGl0bGUgLiAiIHwg44Oe44Oz44Ks5paw6IGeIjsgPz4K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQk8P3BocCBlbmRpZjsgPz4K</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>themenew</last-search>
+      <last-search>be</last-search>
       <last-offset />
-      <last-pattern>themenew</last-pattern>
+      <last-pattern>be</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>medi</last-substitute>
       <last-dir>1</last-dir>
@@ -1738,7 +1744,6 @@
     </search>
     <history>
       <history-search>
-        <entry>categor</entry>
         <entry>#contents.detail #left .sec2 p</entry>
         <entry encoding="base64">XDxsaW1pdFw+</entry>
         <entry>displayNa</entry>
@@ -1758,6 +1763,7 @@
         <entry>detail</entry>
         <entry>body</entry>
         <entry>themenew</entry>
+        <entry>be</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
@@ -1777,9 +1783,9 @@
         <entry>4</entry>
         <entry>31</entry>
         <entry>251</entry>
-        <entry>1</entry>
         <entry>30</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
