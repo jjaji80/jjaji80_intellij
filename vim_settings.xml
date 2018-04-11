@@ -116,6 +116,13 @@
         <mark key="." line="11" column="2" />
         <mark key="^" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/detail.html" timestamp="1523441222058">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="49" column="58" />
+        <mark key="]" line="49" column="69" />
+        <mark key="." line="49" column="69" />
+        <mark key="^" line="49" column="69" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/index.html" timestamp="1522286068699">
         <mark key="'" line="20" column="42" />
         <mark key="[" line="46" column="19" />
@@ -299,12 +306,12 @@
         <mark key="^" line="111" column="57" />
         <mark key="." line="111" column="57" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" timestamp="1523438904053">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" timestamp="1523441150991">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="72" column="15" />
-        <mark key="]" line="72" column="15" />
-        <mark key="." line="72" column="15" />
-        <mark key="^" line="72" column="50" />
+        <mark key="[" line="72" column="41" />
+        <mark key="]" line="72" column="45" />
+        <mark key="." line="72" column="45" />
+        <mark key="^" line="72" column="45" />
       </file>
       <file name="/issue_statuses [redmine_default@red-mine.net]" timestamp="1522479092763">
         <mark key="[" line="0" column="0" />
@@ -653,11 +660,11 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523431685394">
-        <mark key="[" line="1" column="15" />
+      <file name="/Dummy.txt" timestamp="1523441280519">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
-        <mark key="^" line="0" column="20" />
+        <mark key="^" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/helper/DiedNotification.kt" timestamp="1523276491538">
         <mark key="[" line="9" column="0" />
@@ -1572,7 +1579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="184" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="187" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="11" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/repository/MessageRepository.kt" />
@@ -1672,6 +1678,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/IndividualNoteController.kt" />
       <jump line="18" column="13" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/BereaveService.kt" />
       <jump line="69" column="13" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/BereaveService.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/detail.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1688,11 +1695,14 @@
       <register name="&quot;" type="2">
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
-      <register name="*" type="4">
-        <text>u</text>
+      <register name="i" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
+      </register>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>subList()</text>
+        <text>account</text>
       </register>
       <register name="/" type="4">
         <text>be</text>
@@ -1701,37 +1711,37 @@
         <text encoding="base64">ICYmICR0aGlzLT5hY3Rpb24gPT0gIm9yaWdpbmFsIg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGFjCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYWNjb3VudDpBY2NvdW50PyA9IG51bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoYmVyZWF2ZVNlcnZpY2UuZmluZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAicmVkaXJlY3Q6LyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobm90ZS5hY2NvdW50LmlkICE9IGFjY291bnQuaWQpIHsK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJyZWRpcmVjdDovaW5kaXZpZHVhbE5vdGUvdmlldy8ke2lkfSIK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaWYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWFib3V0TWVWaWV3QWNjb3VudC5pc051bGxPckJsYW5rKCkpCiAgICAgICAgICAgIHJldHVybiAicmVkaXJlY3Q6L2luZGl2aWR1YWxOb3RlL3ZpZXcvJHtpZH0iCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgYWNjb3VudDpBY2NvdW50PyA9IG51bGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q29uZmxpY3TjgavjgabmtojjgYjjgabjgYTjgZ/kv67mraPjgpLlj43mmKAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoYmVyZWF2ZVNlcnZpY2UuZmluZCkK</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1785,8 +1795,8 @@
         <entry>31</entry>
         <entry>251</entry>
         <entry>30</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
