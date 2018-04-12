@@ -149,7 +149,8 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitflyerPubNub.kt" timestamp="1523337186517">
+      <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitflyerPubNub.kt" timestamp="1523496822312">
+        <mark key="'" line="22" column="8" />
         <mark key="[" line="129" column="30" />
         <mark key="]" line="129" column="30" />
         <mark key="." line="129" column="30" />
@@ -886,12 +887,12 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1523469664804">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1523496912607">
         <mark key="a" line="241" column="33" />
         <mark key="'" line="146" column="25" />
-        <mark key="[" line="219" column="81" />
-        <mark key="]" line="219" column="82" />
-        <mark key="." line="219" column="82" />
+        <mark key="[" line="78" column="31" />
+        <mark key="]" line="78" column="47" />
+        <mark key="." line="78" column="47" />
         <mark key="^" line="78" column="47" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/eureka_server/src/main/kotlin/coinman/eureka_server/EurekaServerApplication.kt" timestamp="1520734638278">
@@ -1575,8 +1576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="6" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="11" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/UsersController.php" />
       <jump line="33" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Config/routes.php" />
       <jump line="7221" column="11" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="1274" column="17" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
@@ -1675,6 +1674,8 @@
       <jump line="174" column="113" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="199" column="64" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="146" column="25" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
+      <jump line="91" column="16" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitflyerPubNub.kt" />
+      <jump line="22" column="8" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitflyerPubNub.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1698,10 +1699,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>initialTargetCollateral / divSize</text>
+        <text encoding="base64">dGFyZ2V0Qm9hcmRTaXplIA==</text>
       </register>
       <register name="/" type="4">
-        <text>30</text>
+        <text encoding="base64">XDxsYXN0R2V0RGF0YVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U0VMRUNUCiAgbWFpbi5maXJzdG5hbWUsCiAgdHJ1bmMoY2FzdChzdW0ocmVhbF90aW1lKSBBUyBOVU1FUklDKSwgMikgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyByZWFsX3RpbWUsCiAgdHJ1bmMoY2FzdChzdW0ocmVhbF90aW1lKSBBUyBOVU1FUklDKSwgMikgLyA4ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIHBlcl9kYXksCiAgc3VtKGVzdGltYXRlZF9ob3VycykgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBlc3RpbWF0ZWRfaG91cnMsCiAgdHJ1bmMoY2FzdChzdW0oZXN0aW1hdGVkX2hvdXJzKSAvIHN1bShyZWFsX3RpbWUpIEFTIE5VTUVSSUMpLCAzKSAgICAgICAgICAgICAgICAgICAgICAgICBBUyBwZXJjZW50LAogIHRydW5jKGNhc3Qoc3VtKGVzdGltYXRlZF9ob3VycykgLyBzdW0ocmVhbF90aW1lKSAqIChzdW0ocmVhbF90aW1lKSAvIDIzKSBBUyBOVU1FUklDKSwgMykgQVMgcmVzdWx0Ci0tICAgLCAoU0VMRUNUIHN1bShULmhvdXJzKSBGUk9NIHRpbWVfZW50cmllcyBUIFdIRVJFIFQudXNlcl9pZD1tYWluLmlkIGFuZCBULnR5ZWFyPTIwMTggYW5kICkKRlJPTSAoCiAgICAgICBTRUxFQ1QKICAgICAgICAgVS5pZCwKICAgICAgICAgVS5maXJzdG5hbWUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgZmlyc3RuYW1lLAogICAgICAgICAoU0VMRUNUIHN1bShULmhvdXJzKQogICAgICAgICAgRlJPTSB0aW1lX2VudHJpZXMgVAogICAgICAgICAgV0hFUkUgSS5pZCA9IFQuaXNzdWVfaWQgQU5EIGRhdGVfcGFydCgneWVhcicsIFQuY3JlYXRlZF9vbikgPSAyMDE4IEFORCBkYXRlX3BhcnQoJ21vbnRoJywgVC5jcmVhdGVkX29uKSA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQpIEFTIHJlYWxfdGltZSwKICAgICAgICAgSS5lc3RpbWF0ZWRfaG91cnMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgZXN0aW1hdGVkX2hvdXJzCiAgICAgICBGUk9NIGlzc3VlcyBJCiAgICAgICAgIElOTkVSIEpPSU4gdXNlcnMgVSBPTiBJLmFzc2lnbmVkX3RvX2lkID0gVS5pZAogICAgICAgV0hFUkUKICAgICAgICAgZXhpc3RzKFNFTEVDVCAqCiAgICAgICAgICAgICAgICBGUk9NIHRpbWVfZW50cmllcwogICAgICAgICAgICAgICAgV0hFUkUgdGltZV9lbnRyaWVzLmlzc3VlX2lkID0gSS5pZAogICAgICAgICAgICAgICAgICAgICAgQU5EIGRhdGVfcGFydCgneWVhcicsIHRpbWVfZW50cmllcy5jcmVhdGVkX29uKSA9IDIwMTggQU5ECiAgICAgICAgICAgICAgICAgICAgICBkYXRlX3BhcnQoJ21vbnRoJywgdGltZV9lbnRyaWVzLmNyZWF0ZWRfb24pID0gNAogICAgICAgICApCiAgICAgICAgIEFORCBJLmVzdGltYXRlZF9ob3VycyBJUyBOT1QgTlVMTAogICAgICAgICBBTkQgSS5zdGF0dXNfaWQgSU4gKDMsIDUsIDYpCiAgICAgKSBBUyBtYWluCkdST1VQIEJZIG1haW4uaWQsIG1haW4uZmlyc3RuYW1lCk9SREVSIEJZIHJlc3VsdCBERVNDOwo=</text>
@@ -1741,9 +1742,9 @@
       </register>
     </registers>
     <search>
-      <last-search>30</last-search>
+      <last-search encoding="base64">XDxsYXN0R2V0RGF0YVw+</last-search>
       <last-offset />
-      <last-pattern>30</last-pattern>
+      <last-pattern encoding="base64">XDxsYXN0R2V0RGF0YVw+</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>medi</last-substitute>
       <last-dir>1</last-dir>
@@ -1751,7 +1752,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cann</entry>
         <entry>cano</entry>
         <entry>can</entry>
         <entry>adver</entry>
@@ -1771,6 +1771,7 @@
         <entry>6</entry>
         <entry>100</entry>
         <entry>30</entry>
+        <entry encoding="base64">XDxsYXN0R2V0RGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry>51</entry>
