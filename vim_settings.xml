@@ -780,8 +780,8 @@
         <mark key="." line="21" column="1" />
         <mark key="^" line="17" column="70" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" timestamp="1523343840072">
-        <mark key="'" line="133" column="0" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" timestamp="1523514825380">
+        <mark key="'" line="346" column="15" />
         <mark key="[" line="203" column="39" />
         <mark key="]" line="265" column="0" />
         <mark key="." line="265" column="0" />
@@ -887,13 +887,13 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1523496912607">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1523514541769">
         <mark key="a" line="241" column="33" />
-        <mark key="'" line="146" column="25" />
-        <mark key="[" line="78" column="31" />
-        <mark key="]" line="78" column="47" />
-        <mark key="." line="78" column="47" />
-        <mark key="^" line="78" column="47" />
+        <mark key="'" line="78" column="31" />
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="22" column="37" />
+        <mark key="." line="22" column="37" />
+        <mark key="^" line="22" column="37" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/eureka_server/src/main/kotlin/coinman/eureka_server/EurekaServerApplication.kt" timestamp="1520734638278">
         <mark key="[" line="7" column="19" />
@@ -981,6 +981,10 @@
       </file>
       <file name="/message_categories [ora@localhost]" timestamp="1522827983648">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/AdvertisementsComponent.php" timestamp="1523515228092">
+        <mark key="[" line="18" column="52" />
+        <mark key="]" line="18" column="69" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Mypage/index.ctp" timestamp="1520927130052">
         <mark key="[" line="10" column="0" />
@@ -1576,11 +1580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1274" column="17" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="1930" column="16" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="5687" column="20" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="1929" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="1926" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="5685" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="76" column="12" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/SummaryController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Blog/_title.ctp" />
@@ -1676,6 +1675,11 @@
       <jump line="22" column="8" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitflyerPubNub.kt" />
       <jump line="42" column="6" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="193" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="78" column="31" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
+      <jump line="342" column="34" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
+      <jump line="343" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
+      <jump line="344" column="49" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
+      <jump line="346" column="15" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1699,13 +1703,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGFyZ2V0Qm9hcmRTaXplIA==</text>
+        <text>500</text>
       </register>
       <register name="/" type="4">
-        <text>fragm</text>
+        <text>advertisement</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUCiAgbWFpbi5maXJzdG5hbWUsCiAgdHJ1bmMoY2FzdChzdW0ocmVhbF90aW1lKSBBUyBOVU1FUklDKSwgMikgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyByZWFsX3RpbWUsCiAgdHJ1bmMoY2FzdChzdW0ocmVhbF90aW1lKSBBUyBOVU1FUklDKSwgMikgLyA4ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIHBlcl9kYXksCiAgc3VtKGVzdGltYXRlZF9ob3VycykgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBlc3RpbWF0ZWRfaG91cnMsCiAgdHJ1bmMoY2FzdChzdW0oZXN0aW1hdGVkX2hvdXJzKSAvIHN1bShyZWFsX3RpbWUpIEFTIE5VTUVSSUMpLCAzKSAgICAgICAgICAgICAgICAgICAgICAgICBBUyBwZXJjZW50LAogIHRydW5jKGNhc3Qoc3VtKGVzdGltYXRlZF9ob3VycykgLyBzdW0ocmVhbF90aW1lKSAqIChzdW0ocmVhbF90aW1lKSAvIDIzKSBBUyBOVU1FUklDKSwgMykgQVMgcmVzdWx0Ci0tICAgLCAoU0VMRUNUIHN1bShULmhvdXJzKSBGUk9NIHRpbWVfZW50cmllcyBUIFdIRVJFIFQudXNlcl9pZD1tYWluLmlkIGFuZCBULnR5ZWFyPTIwMTggYW5kICkKRlJPTSAoCiAgICAgICBTRUxFQ1QKICAgICAgICAgVS5pZCwKICAgICAgICAgVS5maXJzdG5hbWUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgZmlyc3RuYW1lLAogICAgICAgICAoU0VMRUNUIHN1bShULmhvdXJzKQogICAgICAgICAgRlJPTSB0aW1lX2VudHJpZXMgVAogICAgICAgICAgV0hFUkUgSS5pZCA9IFQuaXNzdWVfaWQgQU5EIGRhdGVfcGFydCgneWVhcicsIFQuY3JlYXRlZF9vbikgPSAyMDE4IEFORCBkYXRlX3BhcnQoJ21vbnRoJywgVC5jcmVhdGVkX29uKSA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQpIEFTIHJlYWxfdGltZSwKICAgICAgICAgSS5lc3RpbWF0ZWRfaG91cnMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgZXN0aW1hdGVkX2hvdXJzCiAgICAgICBGUk9NIGlzc3VlcyBJCiAgICAgICAgIElOTkVSIEpPSU4gdXNlcnMgVSBPTiBJLmFzc2lnbmVkX3RvX2lkID0gVS5pZAogICAgICAgV0hFUkUKICAgICAgICAgZXhpc3RzKFNFTEVDVCAqCiAgICAgICAgICAgICAgICBGUk9NIHRpbWVfZW50cmllcwogICAgICAgICAgICAgICAgV0hFUkUgdGltZV9lbnRyaWVzLmlzc3VlX2lkID0gSS5pZAogICAgICAgICAgICAgICAgICAgICAgQU5EIGRhdGVfcGFydCgneWVhcicsIHRpbWVfZW50cmllcy5jcmVhdGVkX29uKSA9IDIwMTggQU5ECiAgICAgICAgICAgICAgICAgICAgICBkYXRlX3BhcnQoJ21vbnRoJywgdGltZV9lbnRyaWVzLmNyZWF0ZWRfb24pID0gNAogICAgICAgICApCiAgICAgICAgIEFORCBJLmVzdGltYXRlZF9ob3VycyBJUyBOT1QgTlVMTAogICAgICAgICBBTkQgSS5zdGF0dXNfaWQgSU4gKDMsIDUsIDYpCiAgICAgKSBBUyBtYWluCkdST1VQIEJZIG1haW4uaWQsIG1haW4uZmlyc3RuYW1lCk9SREVSIEJZIHJlc3VsdCBERVNDOwo=</text>
+      <register name="0" type="4">
+        <text>advertisements/all</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgcG9zaXRpb25TaXplID0gYXBpLm9wZW5Qb3NpdGlvbnMucG9zaXRpb25MaXN0LnNpemUK</text>
@@ -1742,9 +1746,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fragm</last-search>
+      <last-search>advertisement</last-search>
       <last-offset />
-      <last-pattern>fragm</last-pattern>
+      <last-pattern>advertisement</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>medi</last-substitute>
       <last-dir>1</last-dir>
@@ -1752,8 +1756,6 @@
     </search>
     <history>
       <history-search>
-        <entry>can</entry>
-        <entry>adver</entry>
         <entry encoding="base64">XDxfZ2V0X2FkdmVydGlzZW1lbnRzXD4=</entry>
         <entry encoding="base64">XDxhbmFseXRpY3NcPg==</entry>
         <entry>modal</entry>
@@ -1772,6 +1774,8 @@
         <entry>30</entry>
         <entry encoding="base64">XDxsYXN0R2V0RGF0YVw+</entry>
         <entry>fragm</entry>
+        <entry>500</entry>
+        <entry>advertisement</entry>
       </history-search>
       <history-cmd>
         <entry>51</entry>
