@@ -352,6 +352,11 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" timestamp="1523613275319">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/list.html" timestamp="1522655938410">
         <mark key="[" line="25" column="112" />
         <mark key="]" line="25" column="115" />
@@ -378,12 +383,12 @@
         <mark key="^" line="62" column="64" />
         <mark key="." line="62" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1523611056567">
-        <mark key="'" line="132" column="36" />
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="21" />
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1523614528937">
+        <mark key="'" line="17" column="14" />
+        <mark key="[" line="220" column="8" />
+        <mark key="]" line="220" column="26" />
+        <mark key="^" line="17" column="14" />
+        <mark key="." line="17" column="14" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1520851607800">
         <mark key="'" line="3" column="0" />
@@ -598,6 +603,13 @@
         <mark key="]" line="29" column="13" />
         <mark key="." line="29" column="13" />
         <mark key="^" line="29" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/index.html" timestamp="1523613285618">
+        <mark key="'" line="24" column="116" />
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/FileType.kt" timestamp="1523150783475">
         <mark key="[" line="0" column="8" />
@@ -1561,6 +1573,11 @@
         <mark key="." line="64" column="24" />
         <mark key="^" line="64" column="24" />
       </file>
+      <file name="$USER_HOME$/git/ex2/public/js/hikikae.coffee" timestamp="1523588588774">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/pom.xml" timestamp="1520753006585">
         <mark key="'" line="34" column="22" />
         <mark key="[" line="50" column="8" />
@@ -1583,13 +1600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
-      <jump line="83" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
-      <jump line="94" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
-      <jump line="103" column="14" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
-      <jump line="494" column="76" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
-      <jump line="500" column="65" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
-      <jump line="501" column="32" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
       <jump line="502" column="37" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
       <jump line="592" column="99" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
       <jump line="605" column="65" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" />
@@ -1683,6 +1693,13 @@
       <jump line="30" column="6" filename="$USER_HOME$/git/ex2/app/mailers/entry_mailer.rb" />
       <jump line="12" column="52" filename="$USER_HOME$/git/ex2/app/mailers/entry_mailer.rb" />
       <jump line="13" column="48" filename="$USER_HOME$/git/ex2/app/mailers/entry_mailer.rb" />
+      <jump line="1" column="4" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="32" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="9" column="8" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="10" column="4" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="6" column="9" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="191" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="17" column="14" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1706,52 +1723,52 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>unless</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</text>
+        <text>getAr</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNldERlbGl2ZXJ5RGF0ZShwYXJhbXMpCg==</text>
+      <register name="0" type="4">
+        <text>Ti.App.getArguments</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0ic2VpemVuc2Vpcmk6Ly9ob2dlIj50ZXN0PC9hPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChwYXJhbXNbOmRlbGl2ZXJ5X2RhdGVdLnByZXNlbnQ/ICYmICFwYXJhbXNbOmRlbGl2ZXJ5X2RhdGVdLmluY2x1ZGU/KCLpgbjmip4iKSkKICAgICAgQHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0gPSBnZXREYXRlKHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0pCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmIChwYXJhbXNbOmRlbGl2ZXJ5X2RhdGVdLnByZXNlbnQ/ICYmICFwYXJhbXNbOmRlbGl2ZXJ5X2RhdGVdLmluY2x1ZGU/KCLpgbjmip4iKSkKICAgICAgQHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0gPSBnZXREYXRlKHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChwYXJhbXNbOmRlbGl2ZXJ5X2RhdGVdLnByZXNlbnQ/ICYmICFwYXJhbXNbOmRlbGl2ZXJ5X2RhdGVdLmluY2x1ZGU/KCLpgbjmip4iKSkKICAgICAgQHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0gPSBnZXREYXRlKHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0pCiAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChwYXJhbXNbOmRlbGl2ZXJ5X2RhdGVdLnByZXNlbnQ/ICYmICFwYXJhbXNbOmRlbGl2ZXJ5X2RhdGVdLmluY2x1ZGU/KCLpgbjmip4iKSkKICAgICAgQHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0gPSBnZXREYXRlKHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0pCg==</text>
+        <text encoding="base64">ICAgIGlmIChwYXJhbXNbOmRlbGl2ZXJ5X2RhdGVdLnByZXNlbnQ/ICYmICFwYXJhbXNbOmRlbGl2ZXJ5X2RhdGVdLmluY2x1ZGU/KCLpgbjmip4iKSkKICAgICAgQHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0gPSBnZXREYXRlKHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0pCiAgICBlbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmIChwYXJhbXNbOmRlbGl2ZXJ5X2RhdGVdLnByZXNlbnQ/ICYmICFwYXJhbXNbOmRlbGl2ZXJ5X2RhdGVdLmluY2x1ZGU/KCLpgbjmip4iKSkKICAgICAgQHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0gPSBnZXREYXRlKHBhcmFtc1s6ZGVsaXZlcnlfZGF0ZV0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2hhcmVkQWNjb3VudC9kZXRhaWzjgYvjgonjga7jgYrolqzjga7kuovjga7jg6rjg4DjgqTjg6zjgq/jg4jkv67mraMK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2hhcmVkQWNjb3VudC9kZXRhaWzjgYvjgonjga7jgYrolqzjga7kuovjga7jg6rjg4DjgqTjg6zjgq/jg4jkv67mraMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-search>
+      <last-search>getAr</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</last-pattern>
+      <last-pattern>getAr</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>medi</last-substitute>
       <last-dir>1</last-dir>
@@ -1759,11 +1776,6 @@
     </search>
     <history>
       <history-search>
-        <entry>disney_usj</entry>
-        <entry>希望日</entry>
-        <entry encoding="base64">XDxvcHRpb25zX2Zvcl9zZWxlY3RcPg==</entry>
-        <entry>Dire</entry>
-        <entry encoding="base64">XDxudWxsU2FmZVw+</entry>
         <entry>map</entry>
         <entry>disn</entry>
         <entry encoding="base64">XDxkaXNuZXlfdXNqXD4=</entry>
@@ -1779,6 +1791,11 @@
         <entry>deliver</entry>
         <entry encoding="base64">XDxnZXREYXRlXD4=</entry>
         <entry encoding="base64">XDxkZWxpdmVyeV9kYXRlXD4=</entry>
+        <entry>seiz</entry>
+        <entry encoding="base64">XDxob3N0XD4=</entry>
+        <entry encoding="base64">XDx3ZWJWaWV3XD4=</entry>
+        <entry encoding="base64">XDxkb1JlbmRlclw+</entry>
+        <entry>getAr</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
@@ -1796,10 +1813,10 @@
         <entry>98,128y</entry>
         <entry>232,242d</entry>
         <entry>23</entry>
-        <entry>1</entry>
         <entry>32</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>36</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
