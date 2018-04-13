@@ -705,7 +705,7 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="/winners [development.sqlite3]" timestamp="1522909700554">
+      <file name="/winners [development.sqlite3]" timestamp="1523583923522">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/test4/pubspec.yaml" timestamp="1520992045533">
@@ -873,13 +873,13 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1523543783757">
-        <mark key="a" line="241" column="33" />
-        <mark key="'" line="19" column="8" />
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="17" column="27" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1523584748703">
+        <mark key="a" line="243" column="33" />
+        <mark key="'" line="94" column="12" />
+        <mark key="[" line="97" column="22" />
+        <mark key="]" line="98" column="21" />
+        <mark key="." line="98" column="21" />
+        <mark key="^" line="98" column="21" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/eureka_server/src/main/kotlin/coinman/eureka_server/EurekaServerApplication.kt" timestamp="1520734638278">
         <mark key="[" line="7" column="19" />
@@ -1180,12 +1180,12 @@
         <mark key="." line="5" column="30" />
         <mark key="^" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" timestamp="1522814486248">
-        <mark key="'" line="335" column="35" />
-        <mark key="[" line="336" column="0" />
-        <mark key="]" line="336" column="52" />
+      <file name="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" timestamp="1523584854620">
+        <mark key="'" line="103" column="14" />
+        <mark key="[" line="229" column="170" />
+        <mark key="]" line="229" column="170" />
         <mark key="^" line="662" column="15" />
-        <mark key="." line="662" column="0" />
+        <mark key="." line="229" column="170" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/signup/registry.html" timestamp="1523271665380">
         <mark key="[" line="18" column="0" />
@@ -1206,7 +1206,7 @@
         <mark key="." line="231" column="22" />
         <mark key="^" line="231" column="22" />
       </file>
-      <file name="/products [development.sqlite3]" timestamp="1522909700715">
+      <file name="/products [development.sqlite3]" timestamp="1523583923839">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/orasp/app/config.json" timestamp="1521305053709">
@@ -1485,7 +1485,7 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="31" />
       </file>
-      <file name="/orders [development.sqlite3]" timestamp="1522909697015">
+      <file name="/orders [development.sqlite3]" timestamp="1523583919013">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/individual_note_category_templates [ora@localhost]" timestamp="1522609652786">
@@ -1555,13 +1555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="399" column="13" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="395" column="19" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="277" column="5" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="36" column="315" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="20" column="68" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="133" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="110" column="50" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="111" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="114" column="37" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="119" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
@@ -1653,8 +1646,15 @@
       <jump line="17" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="18" column="29" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="77" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
+      <jump line="227" column="157" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
+      <jump line="229" column="170" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
+      <jump line="30" column="78" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
+      <jump line="76" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="19" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
+      <jump line="83" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
+      <jump line="94" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
+      <jump line="103" column="14" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1678,52 +1678,52 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>= 2</text>
+        <text>positionPercentage</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaXplUmF0ZVw+</text>
+        <text>pref</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PGRpdiBpZD0ibW9kYWwiIHN0eWxlPSJkaXNwbGF5OiBub25lOyI+Cgk8ZGl2IGNsYXNzPSJ3cmFwIj4KCQk8cCBjbGFzcz0iY2xvc2UiPjxpbWcgc3JjPSIvaW1nL2ljbi1tb2RhbC1jbG9zZS5wbmciIGFsdD0i6ZaJ44GY44KLIj48L3A+CgkJPGg0IGNsYXNzPSJtb2RhbC10dGwiPjxzcGFuPuS9nOWTgee0ueS7izwvc3Bhbj48L2g0PgoJCTxwIGNsYXNzPSJjb250ZW50cyI+44CQ44GT44Gu5L2c5ZOB44Gv772iU1VQRVIgTkFUVVJBTO+9o+OBrue2muevh+OBp+OBguOCiuOAgeWNmOihjOacrOOAjuWkouW5u+S8veiXjeOAj+OBq+OCguWPjumMsuOBleOCjOOBpuOBhOOBvuOBmeOAguOAke+9ouWNoOOBo+OBpuOCguOCieOBhiDjgYrliY3jga7lvpfmhI/jgapTRVjljaDjgYTjgaDvvaPigJXmgYvkurrjgavjgarjgozjgZ/jgajmgJ3jgaPjgZ/jgIHjgYrloIXjgYTpoqjntIDlp5Tlk6Hplbfjga7kuozmnaEo4pmCKeOBi+OCieOAgeOBquOCk+OBi+acgOi/kemBv+OBkeOCieOCjOOBpuOCi+OCiOOBhuOBq+aAneOBiOOCi+S/uuOAguOBguOBhOOBpOOBrueJueaKgOOAgVNFWOWNoOOBhOOCkuOBvuOBn+OBl+OCiOOBhuOBqOWFiOaXpee0hOadn+OBl+OBn+OBsOOBi+OCiuOBmOOCg+OBreOBiOOBi+OBoyEg44GX44GL44KC44Gq44KT44Gg44GL5pyA6L+R44CB5LqM5p2h44Gu44KE44Gk44CB6Imy44Gj44G944GP44Gq44Gj44Gm44GN44Gf44KI44GG44Gq5rCX44KC44GX44Gm44GN44GmIT8g4oCm44G+44GV44GL5LuW44Gr55S344GMITwvcD4KCQk8cCBjbGFzcz0idHRsLXNlcnZpY2UiPjxzcGFuPuOBk+OBruODnuODs+OCrOOBjOiqreOCgeOCi+OCteODvOODk+OCuTwvc3Bhbj48L3A+CgkJPHAgY2xhc3M9Im5vdGUiPuKAu+aOsui8ieWGheWuueOBr+S6iOWumuOBruOBn+OCgeOAgeWkieabtOOBq+OBquOCi+WgtOWQiOOBjOOBguOCiuOBvuOBmeOAgjwvcD4KCQk8cCBjbGFzcz0idXJsIj48L3A+CgkJPHAgY2xhc3M9ImJuciI+PGEgaHJlZj0iYWFhLmNvbSI+PGltZyBzcmM9Ii9pbWcvYm5yLWxpbmVtYW5nYS5wbmciIGFsdD0i44OQ44OK44O8Ij48L2E+IDxhIGhyZWY9ImJiYi5jb20iPjxpbWcgc3JjPSIvaW1nL2Juci1jb21pbmF2aS5wbmciIGFsdD0i44OQ44OK44O8Ij48L2E+PC9wPgoJPC9kaXY+IDwhLS0gL3dyYXAgLS0+Cgk8ZGl2IGNsYXNzPSJvdmVybGF5Ij48L2Rpdj4KPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U21hcnROZXdz6YCj5YuV44Gr44Gm5bqD5ZGK44GM6KGo56S644GV44KM44Gq44GE5ZWP6aGM5L+u5q2jCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChub3dDb2xsYXRlcmFsID4gMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U21hcnROZXdz6YCj5YuV44Gr44Gm5bqD5ZGK44GM6KGo56S644GV44KM44Gq44GE5ZWP6aGM5L+u5q2jCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGRpdiBpZD0ibW9kYWwiIHN0eWxlPSJkaXNwbGF5OiBub25lOyI+Cgk8ZGl2IGNsYXNzPSJ3cmFwIj4KCQk8cCBjbGFzcz0iY2xvc2UiPjxpbWcgc3JjPSIvaW1nL2ljbi1tb2RhbC1jbG9zZS5wbmciIGFsdD0i6ZaJ44GY44KLIj48L3A+CgkJPGg0IGNsYXNzPSJtb2RhbC10dGwiPjxzcGFuPuS9nOWTgee0ueS7izwvc3Bhbj48L2g0PgoJCTxwIGNsYXNzPSJjb250ZW50cyI+44CQ44GT44Gu5L2c5ZOB44Gv772iU1VQRVIgTkFUVVJBTO+9o+OBrue2muevh+OBp+OBguOCiuOAgeWNmOihjOacrOOAjuWkouW5u+S8veiXjeOAj+OBq+OCguWPjumMsuOBleOCjOOBpuOBhOOBvuOBmeOAguOAke+9ouWNoOOBo+OBpuOCguOCieOBhiDjgYrliY3jga7lvpfmhI/jgapTRVjljaDjgYTjgaDvvaPigJXmgYvkurrjgavjgarjgozjgZ/jgajmgJ3jgaPjgZ/jgIHjgYrloIXjgYTpoqjntIDlp5Tlk6Hplbfjga7kuozmnaEo4pmCKeOBi+OCieOAgeOBquOCk+OBi+acgOi/kemBv+OBkeOCieOCjOOBpuOCi+OCiOOBhuOBq+aAneOBiOOCi+S/uuOAguOBguOBhOOBpOOBrueJueaKgOOAgVNFWOWNoOOBhOOCkuOBvuOBn+OBl+OCiOOBhuOBqOWFiOaXpee0hOadn+OBl+OBn+OBsOOBi+OCiuOBmOOCg+OBreOBiOOBi+OBoyEg44GX44GL44KC44Gq44KT44Gg44GL5pyA6L+R44CB5LqM5p2h44Gu44KE44Gk44CB6Imy44Gj44G944GP44Gq44Gj44Gm44GN44Gf44KI44GG44Gq5rCX44KC44GX44Gm44GN44GmIT8g4oCm44G+44GV44GL5LuW44Gr55S344GMITwvcD4KCQk8cCBjbGFzcz0idHRsLXNlcnZpY2UiPjxpbWcgc3JjPSIvaW1nL3R0bC1zZXJ2aWNlLnBuZyIgYWx0PSLjgZPjga7mvKvnlLvjgYzoqq3jgoHjgovjgrXjg7zjg5PjgrkiPjwvcD4KCQk8cCBjbGFzcz0idXJsIj48L3A+CgkJPHAgY2xhc3M9ImJuciI+PGEgaHJlZj0iYWFhLmNvbSI+PGltZyBzcmM9Ii9pbWcvYm5yLWxpbmVtYW5nYS5wbmciIGFsdD0i44OQ44OK44O8Ij48L2E+IDxhIGhyZWY9ImJiYi5jb20iPjxpbWcgc3JjPSIvaW1nL2Juci1jb21pbmF2aS5wbmciIGFsdD0i44OQ44OK44O8Ij48L2E+PC9wPgoJPC9kaXY+IDwhLS0gL3dyYXAgLS0+Cgk8ZGl2IGNsYXNzPSJvdmVybGF5Ij48L2Rpdj4KPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MjE6MzkK</text>
+        <text encoding="base64">PGRpdiBpZD0ibW9kYWwiIHN0eWxlPSJkaXNwbGF5OiBub25lOyI+Cgk8ZGl2IGNsYXNzPSJ3cmFwIj4KCQk8cCBjbGFzcz0iY2xvc2UiPjxpbWcgc3JjPSIvaW1nL2ljbi1tb2RhbC1jbG9zZS5wbmciIGFsdD0i6ZaJ44GY44KLIj48L3A+CgkJPGg0IGNsYXNzPSJtb2RhbC10dGwiPjxzcGFuPuS9nOWTgee0ueS7izwvc3Bhbj48L2g0PgoJCTxwIGNsYXNzPSJjb250ZW50cyI+44CQ44GT44Gu5L2c5ZOB44Gv772iU1VQRVIgTkFUVVJBTO+9o+OBrue2muevh+OBp+OBguOCiuOAgeWNmOihjOacrOOAjuWkouW5u+S8veiXjeOAj+OBq+OCguWPjumMsuOBleOCjOOBpuOBhOOBvuOBmeOAguOAke+9ouWNoOOBo+OBpuOCguOCieOBhiDjgYrliY3jga7lvpfmhI/jgapTRVjljaDjgYTjgaDvvaPigJXmgYvkurrjgavjgarjgozjgZ/jgajmgJ3jgaPjgZ/jgIHjgYrloIXjgYTpoqjntIDlp5Tlk6Hplbfjga7kuozmnaEo4pmCKeOBi+OCieOAgeOBquOCk+OBi+acgOi/kemBv+OBkeOCieOCjOOBpuOCi+OCiOOBhuOBq+aAneOBiOOCi+S/uuOAguOBguOBhOOBpOOBrueJueaKgOOAgVNFWOWNoOOBhOOCkuOBvuOBn+OBl+OCiOOBhuOBqOWFiOaXpee0hOadn+OBl+OBn+OBsOOBi+OCiuOBmOOCg+OBreOBiOOBi+OBoyEg44GX44GL44KC44Gq44KT44Gg44GL5pyA6L+R44CB5LqM5p2h44Gu44KE44Gk44CB6Imy44Gj44G944GP44Gq44Gj44Gm44GN44Gf44KI44GG44Gq5rCX44KC44GX44Gm44GN44GmIT8g4oCm44G+44GV44GL5LuW44Gr55S344GMITwvcD4KCQk8cCBjbGFzcz0idHRsLXNlcnZpY2UiPjxpbWcgc3JjPSIvaW1nL3R0bC1zZXJ2aWNlLnBuZyIgYWx0PSLjgZPjga7mvKvnlLvjgYzoqq3jgoHjgovjgrXjg7zjg5PjgrkiPjwvcD4KCQk8cCBjbGFzcz0idXJsIj48L3A+CgkJPHAgY2xhc3M9ImJuciI+PGEgaHJlZj0iYWFhLmNvbSI+PGltZyBzcmM9Ii9pbWcvYm5yLWxpbmVtYW5nYS5wbmciIGFsdD0i44OQ44OK44O8Ij48L2E+IDxhIGhyZWY9ImJiYi5jb20iPjxpbWcgc3JjPSIvaW1nL2Juci1jb21pbmF2aS5wbmciIGFsdD0i44OQ44OK44O8Ij48L2E+PC9wPgoJPC9kaXY+IDwhLS0gL3dyYXAgLS0+Cgk8ZGl2IGNsYXNzPSJvdmVybGF5Ij48L2Rpdj4KPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8cCBjbGFzcz0idHRsLXNlcnZpY2UiPjxpbWcgc3JjPSIvaW1nL3R0bC1zZXJ2aWNlLnBuZyIgYWx0PSLjgZPjga7mvKvnlLvjgYzoqq3jgoHjgovjgrXjg7zjg5PjgrkiPjwvcD4K</text>
+        <text encoding="base64">MjE6MzkK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcG9zaXRpb25TaXplID0gYXBpLm9wZW5Qb3NpdGlvbnMucG9zaXRpb25MaXN0LnNpemUK</text>
+        <text encoding="base64">CQk8cCBjbGFzcz0idHRsLXNlcnZpY2UiPjxpbWcgc3JjPSIvaW1nL3R0bC1zZXJ2aWNlLnBuZyIgYWx0PSLjgZPjga7mvKvnlLvjgYzoqq3jgoHjgovjgrXjg7zjg5PjgrkiPjwvcD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGl2U2l6ZSA9IHBvc2l0aW9uU2l6ZSAvIHRhcmdldENvbGxhdGVyYWxEaXZTaXplCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcG9zaXRpb25TaXplID0gYXBpLm9wZW5Qb3NpdGlvbnMucG9zaXRpb25MaXN0LnNpemUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCB0YXJnZXRDb2xsYXRlcmFsRGl2U2l6ZSA9IDEwCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZGl2U2l6ZSA9IHBvc2l0aW9uU2l6ZSAvIHRhcmdldENvbGxhdGVyYWxEaXZTaXplCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDAwICogMykK</text>
+        <text encoding="base64">ICAgIHZhbCB0YXJnZXRDb2xsYXRlcmFsRGl2U2l6ZSA9IDEwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaXplUmF0ZVw+</last-search>
+      <last-search>pref</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaXplUmF0ZVw+</last-pattern>
+      <last-pattern>pref</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>medi</last-substitute>
       <last-dir>1</last-dir>
@@ -1731,11 +1731,6 @@
     </search>
     <history>
       <history-search>
-        <entry>themenew</entry>
-        <entry>be</entry>
-        <entry>001</entry>
-        <entry encoding="base64">XDxtZWRpY2luZUNvZGVcPg==</entry>
-        <entry>6</entry>
         <entry>100</entry>
         <entry>30</entry>
         <entry encoding="base64">XDxsYXN0R2V0RGF0YVw+</entry>
@@ -1750,7 +1745,12 @@
         <entry>id=&quot;moda</entry>
         <entry encoding="base64">XDxpc0JlcmVhdmVcPg==</entry>
         <entry encoding="base64">XDx0YXJnZXRCb2FyZFNpemVcPg==</entry>
+        <entry encoding="base64">XDxvbnBhc3RlXD4=</entry>
+        <entry>thanks</entry>
+        <entry encoding="base64">XDxjaGFuZ2VUYXJnZXRDb2xsYXRlcmFsXD4=</entry>
+        <entry>sizeRate</entry>
         <entry encoding="base64">XDxzaXplUmF0ZVw+</entry>
+        <entry>pref</entry>
       </history-search>
       <history-cmd>
         <entry>142,166d</entry>
