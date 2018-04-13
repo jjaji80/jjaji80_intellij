@@ -1454,11 +1454,12 @@
         <mark key="[" line="350" column="0" />
         <mark key="]" line="350" column="75" />
       </file>
-      <file name="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/FingerprintLoader.kt" timestamp="1523628512411">
-        <mark key="[" line="25" column="70" />
-        <mark key="]" line="26" column="31" />
-        <mark key="." line="26" column="31" />
-        <mark key="^" line="26" column="31" />
+      <file name="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/FingerprintLoader.kt" timestamp="1523637206658">
+        <mark key="'" line="7" column="23" />
+        <mark key="[" line="26" column="35" />
+        <mark key="]" line="27" column="40" />
+        <mark key="." line="27" column="40" />
+        <mark key="^" line="27" column="40" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/sharedAccount/detail.html" timestamp="1522824459616">
         <mark key="'" line="21" column="18" />
@@ -1528,11 +1529,12 @@
         <mark key="." line="19" column="63" />
         <mark key="^" line="19" column="63" />
       </file>
-      <file name="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/MainActivity.kt" timestamp="1523635826096">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/MainActivity.kt" timestamp="1523637198928">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="26" column="88" />
+        <mark key="]" line="26" column="91" />
+        <mark key="." line="26" column="91" />
+        <mark key="^" line="26" column="91" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/model/Coincheck1minute.kt" timestamp="1520515238098">
         <mark key="[" line="17" column="27" />
@@ -1592,12 +1594,12 @@
         <mark key="." line="64" column="24" />
         <mark key="^" line="64" column="24" />
       </file>
-      <file name="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/WebViewLoader.kt" timestamp="1523635414696">
-        <mark key="'" line="43" column="40" />
-        <mark key="[" line="52" column="80" />
-        <mark key="]" line="52" column="85" />
-        <mark key="^" line="52" column="85" />
-        <mark key="." line="52" column="85" />
+      <file name="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/WebViewLoader.kt" timestamp="1523636793295">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="64" column="89" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/git/ex2/public/js/hikikae.coffee" timestamp="1523588588774">
         <mark key="[" line="38" column="0" />
@@ -1626,11 +1628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="178" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
-      <jump line="230" column="4" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="262" column="85" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
-      <jump line="261" column="0" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
-      <jump line="204" column="8" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="246" column="20" filename="$USER_HOME$/git/ex2/public/js/hikikae.js" />
       <jump line="319" column="38" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
       <jump line="313" column="114" filename="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" />
@@ -1726,6 +1723,11 @@
       <jump line="10" column="28" filename="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/MyContext.kt" />
       <jump line="14" column="20" filename="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/MyContext.kt" />
       <jump line="18" column="24" filename="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/MyContext.kt" />
+      <jump line="37" column="0" filename="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/WebViewLoader.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/WebViewLoader.kt" />
+      <jump line="27" column="70" filename="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/MainActivity.kt" />
+      <jump line="26" column="0" filename="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/MainActivity.kt" />
+      <jump line="7" column="23" filename="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/FingerprintLoader.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1749,7 +1751,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>commit()</text>
+        <text>toByte()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnN0YW5jZVw+</text>
@@ -1758,37 +1760,37 @@
         <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3Qgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0b3IK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIE15Q29udGV4dChhcHBsaWNhdGlvbkNvbnRleHQ6IENvbnRleHQpIHsKICAgICAgICB0aGlzLmFwcGxpY2F0aW9uQ29udGV4dCA9IGFwcGxpY2F0aW9uQ29udGV4dAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2FkZXIuYXV0b0xvZ2luKCIkaG9zdC9sb2dpbiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKGFwcGxpY2F0aW9uQ29udGV4dDogQ29udGV4dCkgOiB0aGlzKCkgewogICAgICAgIHRoaXMuYXBwbGljYXRpb25Db250ZXh0ID0gYXBwbGljYXRpb25Db250ZXh0CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlZGl0b3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIE15Q29udGV4dChhcHBsaWNhdGlvbkNvbnRleHQ6IENvbnRleHQpIHsKICAgICAgICB0aGlzLmFwcGxpY2F0aW9uQ29udGV4dCA9IGFwcGxpY2F0aW9uQ29udGV4dAogICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHNlbGY6IE9yYUFwcGxpY2F0aW9uID0gdGhpcwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKGFwcGxpY2F0aW9uQ29udGV4dDogQ29udGV4dCkgOiB0aGlzKCkgewogICAgICAgIHRoaXMuYXBwbGljYXRpb25Db250ZXh0ID0gYXBwbGljYXRpb25Db250ZXh0CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNeUNvbnRleHQub25DcmVhdGVBcHBsaWNhdGlvbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gZ2V0Q29udGV4dAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHNlbGY6IE9yYUFwcGxpY2F0aW9uID0gdGhpcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>294</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1840,10 +1842,10 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>36</entry>
         <entry>%s/getWebView()/webView/g</entry>
-        <entry>1</entry>
         <entry>15</entry>
-        <entry>w</entry>
         <entry>294</entry>
+        <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
