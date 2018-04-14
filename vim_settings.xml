@@ -885,10 +885,10 @@
       <file name="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/LoginMethodInterface.kt" timestamp="1523672540533">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/git/utelAndroid/app/src/main/AndroidManifest.xml" timestamp="1523687624837">
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/AndroidManifest.xml" timestamp="1523687651958">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="34" column="12" />
-        <mark key="]" line="34" column="41" />
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="45" column="27" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/others/fingerprint/login.html" timestamp="1522206234042">
         <mark key="[" line="29" column="88" />
@@ -1823,7 +1823,7 @@
         <text>login</text>
       </register>
       <register name="0" type="4">
-        <text>android:launchMode=&quot;singleTop&quot;</text>
+        <text encoding="base64">PGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLlZJRVciLz4KICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkRFRkFVTFQiLz4KICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkJST1dTQUJMRSIvPgogICAgICAgICAgICAgICAgPGRhdGEgYW5kcm9pZDpzY2hlbWU9InV0ZWwiIGFuZHJvaWQ6aG9zdD0idXRlbCIgLz4KICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzaGFyZWRQcmVmZXJlbmNlcy5lZGl0KCkuY2xlYXIoKS5hcHBseSgpCg==</text>
