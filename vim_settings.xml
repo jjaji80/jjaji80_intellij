@@ -118,6 +118,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PasswordReminderController.kt" timestamp="1523701529574">
+        <mark key="[" line="79" column="79" />
+        <mark key="]" line="79" column="79" />
+        <mark key="^" line="79" column="75" />
+        <mark key="." line="79" column="79" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/CommonComponent.php" timestamp="1523515985055">
         <mark key="'" line="15" column="27" />
       </file>
@@ -365,10 +371,9 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" timestamp="1523698793716">
-        <mark key="'" line="17" column="51" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" timestamp="1523700964917">
         <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="133" />
+        <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/list.html" timestamp="1522655938410">
@@ -573,11 +578,11 @@
         <mark key="^" line="7" column="65" />
         <mark key="." line="7" column="65" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/ShareAccountController.kt" timestamp="1522655058811">
-        <mark key="[" line="56" column="15" />
-        <mark key="]" line="56" column="32" />
-        <mark key="." line="56" column="32" />
-        <mark key="^" line="56" column="32" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/ShareAccountController.kt" timestamp="1523701557477">
+        <mark key="[" line="80" column="63" />
+        <mark key="]" line="80" column="79" />
+        <mark key="." line="80" column="79" />
+        <mark key="^" line="80" column="79" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/admin/AdminUserController.kt" timestamp="1521472476642">
         <mark key="[" line="20" column="27" />
@@ -702,11 +707,11 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523695482746">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="15" />
+      <file name="/Dummy.txt" timestamp="1523701706235">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+        <mark key="^" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/helper/DiedNotification.kt" timestamp="1523594815784">
         <mark key="[" line="8" column="22" />
@@ -895,6 +900,13 @@
         <mark key="'" line="10" column="0" />
         <mark key="[" line="40" column="12" />
         <mark key="]" line="45" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" timestamp="1523701428580">
+        <mark key="'" line="187" column="16" />
+        <mark key="[" line="140" column="67" />
+        <mark key="]" line="140" column="83" />
+        <mark key="^" line="140" column="83" />
+        <mark key="." line="140" column="83" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/others/fingerprint/login.html" timestamp="1522206234042">
         <mark key="[" line="33" column="88" />
@@ -1221,10 +1233,10 @@
         <mark key="^" line="66" column="13" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/SmartPhoneController.kt" timestamp="1523698023110">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="44" />
-        <mark key="." line="16" column="44" />
-        <mark key="^" line="16" column="44" />
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+        <mark key="^" line="15" column="44" />
       </file>
       <file name="$USER_HOME$/git/orasp/app/views/index.xml" timestamp="1521305076764">
         <mark key="[" line="4" column="68" />
@@ -1713,8 +1725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="48" filename="$USER_HOME$/git/ex2/app/mailers/entry_mailer.rb" />
-      <jump line="1" column="4" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="32" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="9" column="8" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="10" column="4" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
@@ -1813,6 +1823,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/SignupController.kt" />
       <jump line="98" column="16" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/SignupController.kt" />
       <jump line="88" column="16" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/SignupController.kt" />
+      <jump line="179" column="16" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" />
+      <jump line="188" column="16" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1836,43 +1848,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>ora</text>
+        <text>?q=${URLEncoder.encode(user.resetPasswordToken, &quot;UTF-8&quot;)}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZW5kTWFpbFw+</text>
       </register>
       <register name="0" type="4">
-        <text>Util.encrypt(user.email)</text>
+        <text>user.resetPasswordToken</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGEgaHJlZj0iaHR0cDovLzE5Mi4xNjguMi4xMDA6ODA4MC9zbWFydFBob25lP3BhdGg9L3NpZ251cC9jb25maXJtZWQlM0ZxJTNEbGUzVUt1NlZLcnM1REtQc2pnc2Q1aFRBSXFvejJyS0hBUTBzTEZ5TkJkYyUzRCI+Z288L2E+Cg==</text>
+        <text encoding="base64">ICAgIDxhIGhyZWY9Imh0dHA6Ly8xOTIuMTY4LjIuMTAwOjgwODAvc21hcnRQaG9uZT9wYXRoPS9zaWdudXAvY29uZmlybWVkJTNGcSUzRGxlM1VLdTZWS3JzNURLUHNqZ3NkNWhUQUlxb3oycktIQVEwc0xGeU5CZGMlM0QiPmdvPC9hPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGEgaHJlZj0iaHR0cDovLzE5Mi4xNjguMi4xMDA6ODA4MC9zbWFydFBob25lP3BhdGg9L2xvZ2luL2lucHV0Ij5nbzwvYT4K</text>
+        <text encoding="base64">ICAgICAgPGEgaHJlZj0iaHR0cDovLzE5Mi4xNjguMi4xMDA6ODA4MC9zbWFydFBob25lP3BhdGg9L3NpZ251cC9jb25maXJtZWQlM0ZxJTNEbGUzVUt1NlZLcnM1REtQc2pnc2Q1aFRBSXFvejJyS0hBUTBzTEZ5TkJkYyUzRCI+Z288L2E+Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgPGEgaHJlZj0iaHR0cDovLzE5Mi4xNjguMi4xMDA6ODA4MC9zbWFydFBob25lP3BhdGg9L2xvZ2luL2lucHV0Ij5nbzwvYT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFJlcWV1c3RNYQo=</text>
+        <text encoding="base64">ICAgICAgPGEgaHJlZj0iaHR0cDovLzE5Mi4xNjguMi4xMDA6ODA4MC9zbWFydFBob25lP3BhdGg9L2xvZ2luL2lucHV0Ij5nbzwvYT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0ic2VpemVuc2Vpcmk6Ly8/cGF0aD1wZXRlcy9pbnB1dCI+dGVzdDwvYT4K</text>
+        <text encoding="base64">QFJlcWV1c3RNYQo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHdlYlZpZXc6IFdlYlZpZXc/ID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0ic2VpemVuc2Vpcmk6Ly8/cGF0aD1wZXRlcy9pbnB1dCI+dGVzdDwvYT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGdldCgpewogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHdlYlZpZXc6IFdlYlZpZXc/ID0gbnVsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGdldCgpewogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgdmFsIHVyaSA9IGludGVudC5kYXRhCiAgICAgICAgdXJpLmdldFF1ZXJ5UGFyYW1ldGVyKCJwYXRoIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
