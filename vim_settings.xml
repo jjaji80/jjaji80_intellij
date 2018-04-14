@@ -906,13 +906,13 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1523669885293">
-        <mark key="a" line="249" column="33" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" timestamp="1523670645184">
+        <mark key="a" line="250" column="33" />
         <mark key="'" line="18" column="8" />
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="42" />
-        <mark key="." line="20" column="42" />
-        <mark key="^" line="20" column="42" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="60" column="33" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/eureka_server/src/main/kotlin/coinman/eureka_server/EurekaServerApplication.kt" timestamp="1520734638278">
         <mark key="[" line="7" column="19" />
@@ -1759,43 +1759,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>targetBoardSize</text>
+        <text>sell</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXJnZXRCb2FyZFNpemVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNyYyA9IEZpbGUoInJlc3RhcnQudHh0IikuYWJzb2x1dGVGaWxlCiAgICAgICAgICAgIHNyYy53cml0ZVRleHQoTW9tZW50KCkudG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZGVidWcoInNlbGw9JG9yZGVyQ291bnQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNyYyA9IEZpbGUoInJlc3RhcnQudHh0IikuYWJzb2x1dGVGaWxlCiAgICAgICAgICAgIHNyYy53cml0ZVRleHQoTW9tZW50KCkudG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZygiPT09PT09PT09PT09PSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3JjLmNsbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNyYyA9IEZpbGUoInJlc3RhcnQudHh0IikuYWJzb2x1dGVGaWxlCiAgICAgICAgICAgIHNyYy53cml0ZVRleHQoTW9tZW50KCkudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QW5kcm9pZOOBq+OBpuaMh+e0i+iqjeiovAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3JjLmNsbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QW5kcm9pZOOBq+OBpuaMh+e0i+iqjeiovAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkZXIuYXV0b0xvZ2luKCIkaG9zdC9sb2dpbiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsb2FkZXIuYXV0b0xvZ2luKCIkaG9zdC9sb2dpbiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0b3IK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIE15Q29udGV4dChhcHBsaWNhdGlvbkNvbnRleHQ6IENvbnRleHQpIHsKICAgICAgICB0aGlzLmFwcGxpY2F0aW9uQ29udGV4dCA9IGFwcGxpY2F0aW9uQ29udGV4dAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBlZGl0b3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKGFwcGxpY2F0aW9uQ29udGV4dDogQ29udGV4dCkgOiB0aGlzKCkgewogICAgICAgIHRoaXMuYXBwbGljYXRpb25Db250ZXh0ID0gYXBwbGljYXRpb25Db250ZXh0CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIE15Q29udGV4dChhcHBsaWNhdGlvbkNvbnRleHQ6IENvbnRleHQpIHsKICAgICAgICB0aGlzLmFwcGxpY2F0aW9uQ29udGV4dCA9IGFwcGxpY2F0aW9uQ29udGV4dAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
