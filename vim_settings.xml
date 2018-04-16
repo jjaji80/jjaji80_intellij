@@ -284,12 +284,12 @@
       <file name="/shop_pay_histories [ora@localhost]" timestamp="1522203229285">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/p1-doc/要件定義/01_main.md" timestamp="1523836139329">
-        <mark key="'" line="274" column="6" />
-        <mark key="[" line="336" column="13" />
-        <mark key="]" line="338" column="0" />
-        <mark key="^" line="338" column="0" />
-        <mark key="." line="338" column="0" />
+      <file name="$USER_HOME$/git/p1-doc/要件定義/01_main.md" timestamp="1523837951735">
+        <mark key="'" line="623" column="0" />
+        <mark key="[" line="348" column="0" />
+        <mark key="]" line="348" column="4" />
+        <mark key="^" line="345" column="7" />
+        <mark key="." line="348" column="4" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/ExchangeService.java" timestamp="1520226457004">
         <mark key="[" line="122" column="25" />
@@ -1729,19 +1729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="0" column="3" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/index.html" />
-      <jump line="2" column="23" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" />
-      <jump line="74" column="23" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" />
-      <jump line="82" column="46" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" />
-      <jump line="28" column="36" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" />
-      <jump line="67" column="26" filename="$USER_HOME$/git/tsi/tiapp.xml" />
-      <jump line="66" column="47" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" />
-      <jump line="3" column="10" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" />
-      <jump line="30" column="51" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" />
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/tiapp.xml" />
       <jump line="18" column="34" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="24" column="22" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
       <jump line="25" column="22" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
@@ -1829,6 +1816,19 @@
       <jump line="111" column="25" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="210" column="4" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="272" column="6" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="93" column="24" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="151" column="7" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="226" column="11" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="234" column="2" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="245" column="2" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="265" column="15" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="453" column="13" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="544" column="2" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="553" column="0" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="560" column="0" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="581" column="6" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="609" column="0" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="623" column="0" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1852,60 +1852,59 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fn4g</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="/" type="4">
-        <text>30</text>
+        <text>TODO</text>
       </register>
       <register name="0" type="4">
         <text>有料会員の特典</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxhIGhyZWY9Imh0dHA6Ly8xOTIuMTY4LjIuMTAwOjgwODAvc21hcnRQaG9uZT9wYXRoPS9zaWdudXAvY29uZmlybWVkJTNGcSUzRGxlM1VLdTZWS3JzNURLUHNqZ3NkNWhUQUlxb3oycktIQVEwc0xGeU5CZGMlM0QiPmdvPC9hPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGEgaHJlZj0iaHR0cDovLzE5Mi4xNjguMi4xMDA6ODA4MC9zbWFydFBob25lP3BhdGg9L3NpZ251cC9jb25maXJtZWQlM0ZxJTNEbGUzVUt1NlZLcnM1REtQc2pnc2Q1aFRBSXFvejJyS0hBUTBzTEZ5TkJkYyUzRCI+Z288L2E+Cg==</text>
+        <text encoding="base64">VE9ETyDopoHjg6rjg7PjgrDjgrLjg7zjg6Djgajjga7mr5TovIMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGEgaHJlZj0iaHR0cDovLzE5Mi4xNjguMi4xMDA6ODA4MC9zbWFydFBob25lP3BhdGg9L2xvZ2luL2lucHV0Ij5nbzwvYT4K</text>
+        <text encoding="base64">ICAgIDxhIGhyZWY9Imh0dHA6Ly8xOTIuMTY4LjIuMTAwOjgwODAvc21hcnRQaG9uZT9wYXRoPS9zaWdudXAvY29uZmlybWVkJTNGcSUzRGxlM1VLdTZWS3JzNURLUHNqZ3NkNWhUQUlxb3oycktIQVEwc0xGeU5CZGMlM0QiPmdvPC9hPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGEgaHJlZj0iaHR0cDovLzE5Mi4xNjguMi4xMDA6ODA4MC9zbWFydFBob25lP3BhdGg9L2xvZ2luL2lucHV0Ij5nbzwvYT4K</text>
+        <text encoding="base64">ICAgICAgPGEgaHJlZj0iaHR0cDovLzE5Mi4xNjguMi4xMDA6ODA4MC9zbWFydFBob25lP3BhdGg9L3NpZ251cC9jb25maXJtZWQlM0ZxJTNEbGUzVUt1NlZLcnM1REtQc2pnc2Q1aFRBSXFvejJyS0hBUTBzTEZ5TkJkYyUzRCI+Z288L2E+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFJlcWV1c3RNYQo=</text>
+        <text encoding="base64">ICAgICAgPGEgaHJlZj0iaHR0cDovLzE5Mi4xNjguMi4xMDA6ODA4MC9zbWFydFBob25lP3BhdGg9L2xvZ2luL2lucHV0Ij5nbzwvYT4K</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0ic2VpemVuc2Vpcmk6Ly8/cGF0aD1wZXRlcy9pbnB1dCI+dGVzdDwvYT4K</text>
+        <text encoding="base64">ICAgICAgPGEgaHJlZj0iaHR0cDovLzE5Mi4xNjguMi4xMDA6ODA4MC9zbWFydFBob25lP3BhdGg9L2xvZ2luL2lucHV0Ij5nbzwvYT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHdlYlZpZXc6IFdlYlZpZXc/ID0gbnVsbAo=</text>
+        <text encoding="base64">QFJlcWV1c3RNYQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGdldCgpewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0ic2VpemVuc2Vpcmk6Ly8/cGF0aD1wZXRlcy9pbnB1dCI+dGVzdDwvYT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHdlYlZpZXc6IFdlYlZpZXc/ID0gbnVsbAo=</text>
       </register>
       <register name=":" type="4">
-        <text>101</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>30</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern>30</last-pattern>
+      <last-pattern>TODO</last-pattern>
       <last-replace>webView</last-replace>
       <last-substitute>getWebView()</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>min</entry>
         <entry encoding="base64">XDxsb2dpbk1ldGhvZFw+</entry>
         <entry encoding="base64">XDx3aW5kb3dcPg==</entry>
         <entry>sha</entry>
@@ -1925,6 +1924,7 @@
         <entry>通貨</entry>
         <entry>フレンド</entry>
         <entry>30</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
@@ -1944,9 +1944,9 @@
         <entry>23</entry>
         <entry>49</entry>
         <entry>40</entry>
-        <entry>1</entry>
         <entry>w</entry>
         <entry>101</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
