@@ -700,7 +700,7 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523959505885">
+      <file name="/Dummy.txt" timestamp="1523965723948">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
@@ -1235,10 +1235,10 @@
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/BereaveService.kt" timestamp="1523954137910">
         <mark key="'" line="13" column="6" />
-        <mark key="[" line="70" column="50" />
-        <mark key="]" line="70" column="62" />
-        <mark key="." line="70" column="62" />
-        <mark key="^" line="70" column="62" />
+        <mark key="[" line="69" column="50" />
+        <mark key="]" line="69" column="62" />
+        <mark key="." line="69" column="62" />
+        <mark key="^" line="69" column="62" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/SmartPhoneController.kt" timestamp="1523698023110">
         <mark key="[" line="15" column="40" />
@@ -1482,12 +1482,12 @@
         <mark key="^" line="27" column="33" />
         <mark key="." line="27" column="8" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/application.yml" timestamp="1523267414907">
-        <mark key="'" line="4" column="19" />
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="29" />
-        <mark key="^" line="20" column="29" />
-        <mark key="." line="20" column="29" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/application.yml" timestamp="1523965642969">
+        <mark key="'" line="14" column="8" />
+        <mark key="[" line="19" column="38" />
+        <mark key="]" line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+        <mark key="." line="20" column="24" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/rest/UserController.kt" timestamp="1520316215019">
         <mark key="[" line="10" column="0" />
@@ -1703,7 +1703,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/MainActivity.kt" />
       <jump line="47" column="44" filename="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/MainActivity.kt" />
       <jump line="10" column="25" filename="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/MainActivity.kt" />
       <jump line="19" column="51" filename="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/MainActivity.kt" />
@@ -1803,6 +1802,7 @@
       <jump line="8" column="3" filename="$USER_HOME$/git/ora/src/main/resources/templates/sharedAccount/detail.html" />
       <jump line="25" column="75" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="44" column="31" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="14" column="8" filename="$USER_HOME$/git/ora/src/main/resources/application.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
