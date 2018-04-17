@@ -50,12 +50,12 @@
         <mark key="^" line="26" column="87" />
         <mark key="." line="26" column="75" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" timestamp="1523879893583">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" timestamp="1523935919142">
         <mark key="'" line="23" column="3" />
-        <mark key="[" line="37" column="86" />
-        <mark key="]" line="37" column="91" />
-        <mark key="." line="37" column="91" />
-        <mark key="^" line="37" column="91" />
+        <mark key="[" line="48" column="5" />
+        <mark key="]" line="48" column="15" />
+        <mark key="." line="48" column="15" />
+        <mark key="^" line="48" column="15" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/admin/UserController.kt" timestamp="1521453288758">
         <mark key="[" line="8" column="22" />
@@ -138,12 +138,12 @@
         <mark key="." line="53" column="69" />
         <mark key="^" line="53" column="69" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/index.html" timestamp="1523871155652">
-        <mark key="'" line="20" column="42" />
-        <mark key="[" line="44" column="17" />
-        <mark key="]" line="44" column="42" />
-        <mark key="." line="44" column="42" />
-        <mark key="^" line="44" column="42" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/index.html" timestamp="1523935789881">
+        <mark key="'" line="44" column="35" />
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="46" column="41" />
+        <mark key="." line="46" column="41" />
+        <mark key="^" line="46" column="41" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/model/pom.xml" timestamp="1520579905554">
         <mark key="[" line="76" column="0" />
@@ -185,12 +185,12 @@
         <mark key="^" line="7365" column="0" />
         <mark key="." line="7365" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/confirm.html" timestamp="1523882483414">
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/confirm.html" timestamp="1523935877782">
         <mark key="'" line="39" column="4" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="36" column="66" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="61" column="71" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/git/orasp/ios/Podfile" timestamp="1520993188680">
         <mark key="[" line="69" column="4" />
@@ -279,7 +279,7 @@
         <mark key="^" line="61" column="65" />
         <mark key="." line="61" column="65" />
       </file>
-      <file name="/a.sql" timestamp="1522740945308">
+      <file name="/a.sql" timestamp="1523936030785">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/shop_pay_histories [ora@localhost]" timestamp="1522203229285">
@@ -442,8 +442,8 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Payment.kt" timestamp="1521691111660">
-        <mark key="'" line="10" column="19" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Payment.kt" timestamp="1523936208595">
+        <mark key="'" line="11" column="18" />
         <mark key="[" line="27" column="41" />
         <mark key="]" line="27" column="46" />
         <mark key="." line="27" column="46" />
@@ -691,7 +691,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1523698904591">
+      <file name="/dummy.sql" timestamp="1523936033301">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -888,6 +888,12 @@
         <mark key="]" line="20" column="15" />
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201804171234__set_payments_id_auto_increment.sql" timestamp="1523936079160">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="65" />
+        <mark key="^" line="0" column="65" />
+        <mark key="." line="0" column="65" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/repository/PaymentRepository.kt" timestamp="1521691154862">
         <mark key="[" line="5" column="28" />
@@ -1260,11 +1266,12 @@
         <mark key="." line="15" column="44" />
         <mark key="^" line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaidRegistrationService.kt" timestamp="1523879839007">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaidRegistrationService.kt" timestamp="1523936232051">
         <mark key="'" line="32" column="19" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+        <mark key="[" line="33" column="64" />
+        <mark key="]" line="33" column="86" />
+        <mark key="." line="33" column="86" />
+        <mark key="^" line="33" column="86" />
       </file>
       <file name="$USER_HOME$/git/orasp/app/views/index.xml" timestamp="1521305076764">
         <mark key="[" line="4" column="68" />
@@ -1720,8 +1727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
-      <jump line="322" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
       <jump line="56" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="18" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="142" column="40" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
@@ -1820,6 +1825,8 @@
       <jump line="30" column="19" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaidRegistrationService.kt" />
       <jump line="2" column="24" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V201804160930__insert_default_setting.sql" />
       <jump line="39" column="4" filename="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/confirm.html" />
+      <jump line="44" column="35" filename="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/index.html" />
+      <jump line="11" column="18" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Payment.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1843,52 +1850,52 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zml4ZWQg</text>
+        <text>GetMapping</text>
       </register>
       <register name="/" type="4">
-        <text>pass</text>
+        <text>accou</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiB0aDpmaWVsZD0iKnt0b2tlbn0iLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">44OZ44Oq44OI44Op44Oz44K544Go44Gu6YCj5YuV6ZaL55m6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0icGFpZF9tZW1iZXJfcmVnaXN0cmF0aW9uX2ZpbmlzaC5odG1sIj48L2E+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">44OZ44Oq44OI44Op44Oz44K544Go44Gu6YCj5YuV6ZaL55m6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNoZWNrYm94Ij4KICAgICAgICAgICAgPGlucHV0IGlkPSJjaGVjazAxIiB0eXBlPSJjaGVja2JveCIvPjxsYWJlbCBmb3I9ImNoZWNrMDEiPuODkeOCueODr+ODvOODieWFpeWKmzwvbGFiZWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2V0dGluZ3MuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNoZWNrYm94Ij4KICAgICAgICAgICAgPGlucHV0IGlkPSJjaGVjazAxIiB0eXBlPSJjaGVja2JveCIvPjxsYWJlbCBmb3I9ImNoZWNrMDEiPuODkeOCueODr+ODvOODieWFpeWKmzwvbGFiZWw+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0dGluZ3MuCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXRBbW91bnQodXNlcjpVc2VyKTpJbnR7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRBbW91bnQodXNlcjpVc2VyKTpJbnR7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pass</last-search>
+      <last-search>accou</last-search>
       <last-offset />
-      <last-pattern>pass</last-pattern>
+      <last-pattern>accou</last-pattern>
       <last-replace>webView</last-replace>
       <last-substitute>getWebView()</last-substitute>
       <last-dir>1</last-dir>
@@ -1896,8 +1903,6 @@
     </search>
     <history>
       <history-search>
-        <entry>通貨</entry>
-        <entry>フレンド</entry>
         <entry>30</entry>
         <entry>TODO</entry>
         <entry>file_path</entry>
@@ -1916,6 +1921,8 @@
         <entry encoding="base64">XDxhbGVydFw+</entry>
         <entry>form</entry>
         <entry>pass</entry>
+        <entry>done</entry>
+        <entry>accou</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
@@ -1935,8 +1942,8 @@
         <entry>40</entry>
         <entry>101</entry>
         <entry>31</entry>
-        <entry>1</entry>
         <entry>20</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
