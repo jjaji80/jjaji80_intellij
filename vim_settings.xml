@@ -786,12 +786,13 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/input.html" timestamp="1523940185787">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="65" />
-        <mark key="]" line="31" column="75" />
-        <mark key="." line="31" column="75" />
-        <mark key="^" line="31" column="75" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/input.html" timestamp="1523942866509">
+        <mark key="a" line="170" column="8" />
+        <mark key="'" line="32" column="47" />
+        <mark key="[" line="172" column="25" />
+        <mark key="]" line="172" column="31" />
+        <mark key="^" line="172" column="31" />
+        <mark key="." line="172" column="31" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1522729848330">
         <mark key="'" line="478" column="8" />
@@ -1254,7 +1255,7 @@
       <file name="/addresses [ora@localhost]" timestamp="1523056686208">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/BereaveService.kt" timestamp="1523942150441">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/BereaveService.kt" timestamp="1523942784081">
         <mark key="'" line="13" column="6" />
         <mark key="[" line="68" column="8" />
         <mark key="]" line="68" column="16" />
@@ -1728,7 +1729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="40" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="69" column="41" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="95" column="24" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="156" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
@@ -1819,7 +1819,6 @@
       <jump line="31" column="53" filename="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/input.html" />
       <jump line="155" column="26" filename="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/input.html" />
       <jump line="24" column="53" filename="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/input.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/input.html" />
       <jump line="49" column="25" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaidRegistrationService.kt" />
       <jump line="30" column="19" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaidRegistrationService.kt" />
       <jump line="2" column="24" filename="$USER_HOME$/git/ora/src/main/resources/db/migration/V201804160930__insert_default_setting.sql" />
@@ -1828,6 +1827,8 @@
       <jump line="11" column="18" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Payment.kt" />
       <jump line="42" column="48" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaidRegistrationService.kt" />
       <jump line="22" column="17" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/input.html" />
+      <jump line="32" column="47" filename="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/input.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1854,49 +1855,49 @@
         <text>redirect:/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b2tlblw+</text>
+        <text>error</text>
       </register>
       <register name="0" type="4">
         <text>override fun preHandle(p0: HttpServletRequest?, p1: HttpServletResponse?, p2: Any?): Boolean {</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInJlZGlyZWN0Oi8iCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIOWun+ihjOOBl+OBn+OBhOWHpueQhgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0icGFpZF9tZW1iZXJfcmVnaXN0cmF0aW9uX2ZpbmlzaC5odG1sIj48L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgJChmdW5jdGlvbigpewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">44OZ44Oq44OI44Op44Oz44K544Go44Gu6YCj5YuV6ZaL55m6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gInJlZGlyZWN0Oi8iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNoZWNrYm94Ij4KICAgICAgICAgICAgPGlucHV0IGlkPSJjaGVjazAxIiB0eXBlPSJjaGVja2JveCIvPjxsYWJlbCBmb3I9ImNoZWNrMDEiPuODkeOCueODr+ODvOODieWFpeWKmzwvbGFiZWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0icGFpZF9tZW1iZXJfcmVnaXN0cmF0aW9uX2ZpbmlzaC5odG1sIj48L2E+Cg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2V0dGluZ3MuCg==</text>
+        <text encoding="base64">44OZ44Oq44OI44Op44Oz44K544Go44Gu6YCj5YuV6ZaL55m6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXRBbW91bnQodXNlcjpVc2VyKTpJbnR7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNoZWNrYm94Ij4KICAgICAgICAgICAgPGlucHV0IGlkPSJjaGVjazAxIiB0eXBlPSJjaGVja2JveCIvPjxsYWJlbCBmb3I9ImNoZWNrMDEiPuODkeOCueODr+ODvOODieWFpeWKmzwvbGFiZWw+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0dGluZ3MuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b2tlblw+</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b2tlblw+</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-replace>webView</last-replace>
       <last-substitute>getWebView()</last-substitute>
       <last-dir>1</last-dir>
@@ -1904,7 +1905,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TODO</entry>
         <entry>file_path</entry>
         <entry>file_type</entry>
         <entry>70</entry>
@@ -1924,6 +1924,7 @@
         <entry>done</entry>
         <entry>accou</entry>
         <entry encoding="base64">XDx0b2tlblw+</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
@@ -1944,8 +1945,8 @@
         <entry>101</entry>
         <entry>31</entry>
         <entry>20</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
