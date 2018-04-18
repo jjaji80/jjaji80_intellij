@@ -368,8 +368,8 @@
       <file name="/issue_statuses [redmine_default@red-mine.net]" timestamp="1522479092763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1524045686047">
-        <mark key="'" line="131" column="42" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1524047895534">
+        <mark key="'" line="154" column="70" />
         <mark key="[" line="154" column="58" />
         <mark key="]" line="154" column="70" />
         <mark key="." line="154" column="70" />
@@ -694,7 +694,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1524044905790">
+      <file name="/dummy.sql" timestamp="1524047410860">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -706,8 +706,8 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524045996282">
-        <mark key="[" line="1" column="14" />
+      <file name="/Dummy.txt" timestamp="1524047391855">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
@@ -810,6 +810,9 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
+      <file name="/accounts [ora@ora.seizen-seiri.net]" timestamp="1524047410150">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ex2/config/routes.rb" timestamp="1521798355063">
         <mark key="'" line="40" column="9" />
         <mark key="[" line="43" column="42" />
@@ -865,7 +868,7 @@
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="74" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1522739906074">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1524047450999">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -907,12 +910,12 @@
       <file name="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/LoginMethodInterface.kt" timestamp="1523672540533">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" timestamp="1523957853352">
-        <mark key="'" line="187" column="16" />
-        <mark key="[" line="68" column="12" />
-        <mark key="]" line="68" column="18" />
-        <mark key="^" line="140" column="83" />
-        <mark key="." line="140" column="83" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" timestamp="1524046860645">
+        <mark key="'" line="189" column="16" />
+        <mark key="[" line="135" column="31" />
+        <mark key="]" line="136" column="16" />
+        <mark key="^" line="136" column="16" />
+        <mark key="." line="136" column="16" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/others/fingerprint/login.html" timestamp="1522206234042">
         <mark key="[" line="33" column="88" />
@@ -1217,6 +1220,7 @@
         <mark key="^" line="7" column="68" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/handler/AboutMeViewAccountCheckInterceptor.kt" timestamp="1524047736060" />
       <file name="$USER_HOME$/git/coinman_parent/rest-dao/src/main/resources/application.yml" timestamp="1520754669648">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="0" />
@@ -1711,7 +1715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="4" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="272" column="6" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="93" column="24" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="151" column="7" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
@@ -1811,6 +1814,7 @@
       <jump line="64" column="143" filename="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/MainActivity.kt" />
       <jump line="65" column="34" filename="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/MainActivity.kt" />
       <jump line="131" column="42" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="154" column="70" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1873,7 +1877,7 @@
         <text encoding="base64">ICAgICAgICB2YWwgcG9zaXRpb25MaXN0ID0gYXBpLm9wZW5Qb3NpdGlvbnMK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>33</text>
       </register>
     </registers>
     <search>
@@ -1909,8 +1913,6 @@
         <entry>share</entry>
       </history-search>
       <history-cmd>
-        <entry>30,58y</entry>
-        <entry>98,128y</entry>
         <entry>232,242d</entry>
         <entry>32</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -1929,6 +1931,8 @@
         <entry>1</entry>
         <entry>81</entry>
         <entry>w</entry>
+        <entry>107</entry>
+        <entry>33</entry>
       </history-cmd>
       <history-expr />
       <history-input />
