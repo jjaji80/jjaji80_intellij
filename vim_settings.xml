@@ -118,6 +118,12 @@
         <mark key="^" line="79" column="75" />
         <mark key="." line="79" column="79" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/util/Util.kt" timestamp="1524040783967">
+        <mark key="[" line="28" column="72" />
+        <mark key="]" line="28" column="72" />
+        <mark key="." line="28" column="72" />
+        <mark key="^" line="28" column="72" />
+      </file>
       <file name="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/Util.kt" timestamp="1523686176590">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -705,7 +711,7 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524038645280">
+      <file name="/Dummy.txt" timestamp="1524040800983">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
@@ -1837,8 +1843,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxob3N0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0ICE9IG51bGwpCg==</text>
+      <register name="0" type="4">
+        <text>+ request.serverName</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHB1c2hTZXJ2aWNlLnB1c2goIuWkp+mHj+azqOaWh+OBruOBn+OCgeW8t+WItuaxuua4iCIpCg==</text>
@@ -1871,7 +1877,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>81</text>
       </register>
     </registers>
     <search>
@@ -1907,7 +1913,6 @@
         <entry encoding="base64">XDxob3N0XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>30</entry>
         <entry>30,58y</entry>
         <entry>98,128y</entry>
         <entry>232,242d</entry>
@@ -1927,6 +1932,7 @@
         <entry>20</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>81</entry>
       </history-cmd>
       <history-expr />
       <history-input />
