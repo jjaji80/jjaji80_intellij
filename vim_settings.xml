@@ -25,12 +25,6 @@
       <file name="/room_numbers [cakephp@www.elsa-online.net]" timestamp="1523001438610">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora_android/build.gradle" timestamp="1524065917772">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="42" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/api/VironController.java" timestamp="1520336907864">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="4" column="14" />
@@ -1532,12 +1526,12 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora_android/app/src/main/AndroidManifest.xml" timestamp="1524066895862">
+      <file name="$USER_HOME$/git/ora_android/app/src/main/AndroidManifest.xml" timestamp="1524095534067">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="54" />
-        <mark key="]" line="5" column="74" />
-        <mark key="." line="5" column="74" />
-        <mark key="^" line="5" column="74" />
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="46" />
+        <mark key="." line="10" column="46" />
+        <mark key="^" line="10" column="46" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/admin/account/index.html" timestamp="1521633152076">
         <mark key="'" line="40" column="47" />
@@ -1868,52 +1862,52 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text>ic_launcher_background</text>
       </register>
       <register name="/" type="4">
-        <text>elsa</text>
+        <text>lan</text>
       </register>
       <register name="0" type="4">
         <text>accept</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QW5kcm9pZOOBp2ZpbGUgdXBsb2Fk44GM5YuV44GL44Gq44GECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLWFuZHJvaWQ6cm91bmRJY29uPSJAbWlwbWFwL2ljX2xhdW5jaGVyX3JvdW5kIi0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">5pKu5b2x44GZ44KL44Oc44K/44Oz44GM5qmf6IO944GX44Gm44GE44Gq44GECg==</text>
+        <text encoding="base64">QW5kcm9pZOOBp2ZpbGUgdXBsb2Fk44GM5YuV44GL44Gq44GECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJmaWxlIiBhY2NlcHQ9InZpZGVvLyoiIGNhcHR1cmU9ImNhcHR1cmUiLz4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">5pKu5b2x44GZ44KL44Oc44K/44Oz44GM5qmf6IO944GX44Gm44GE44Gq44GECg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJmaWxlIiBhY2NlcHQ9InZpZGVvLyoiIGNhcHR1cmU9ImNhcHR1cmUiLz4K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">5pKu5b2x44GZ44KL44Oc44K/44Oz44GM5qmf6IO944GX44Gm44GE44Gq44GECg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHRoOnNyYz0iQHsvaW1hZ2VzL2hlYWRlci9oZWFkZXJfbWVzc2FnZS5wbmd9Ii8+Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGRpdiBsYXlvdXQ6ZnJhZ21lbnQ9ImhlYWRlckltYWdlIj4KICA8aW1nIGFsdD0iIiBzcmM9Ii4vYXNzZXRzL2ltYWdlcy9oZWFkZXIvaGVhZGVyX21lc3NhZ2UucG5nIiB3aWR0aD0iNzEyIgo=</text>
+        <text encoding="base64">ICAgICAgIHRoOnNyYz0iQHsvaW1hZ2VzL2hlYWRlci9oZWFkZXJfbWVzc2FnZS5wbmd9Ii8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGRpdiBsYXlvdXQ6ZnJhZ21lbnQ9ImhlYWRlckltYWdlIj4KICAgIDxpbWcgYWx0PSIiIHNyYz0iLi9hc3NldHMvaW1hZ2VzL2hlYWRlci9oZWFkZXJfbWVzc2FnZS5wbmciIHdpZHRoPSI3MTIiCiAgICAgICAgIHRoOnNyYz0iQHsvaW1hZ2VzL2hlYWRlci9oZWFkZXJfbWVzc2FnZS5wbmd9Ii8+CjwvZGl2Pgo=</text>
+        <text encoding="base64">PGRpdiBsYXlvdXQ6ZnJhZ21lbnQ9ImhlYWRlckltYWdlIj4KICA8aW1nIGFsdD0iIiBzcmM9Ii4vYXNzZXRzL2ltYWdlcy9oZWFkZXIvaGVhZGVyX21lc3NhZ2UucG5nIiB3aWR0aD0iNzEyIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgb2trCg==</text>
+        <text encoding="base64">PGRpdiBsYXlvdXQ6ZnJhZ21lbnQ9ImhlYWRlckltYWdlIj4KICAgIDxpbWcgYWx0PSIiIHNyYz0iLi9hc3NldHMvaW1hZ2VzL2hlYWRlci9oZWFkZXJfbWVzc2FnZS5wbmciIHdpZHRoPSI3MTIiCiAgICAgICAgIHRoOnNyYz0iQHsvaW1hZ2VzL2hlYWRlci9oZWFkZXJfbWVzc2FnZS5wbmd9Ii8+CjwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>elsa</last-search>
+      <last-search>lan</last-search>
       <last-offset />
-      <last-pattern>elsa</last-pattern>
+      <last-pattern>lan</last-pattern>
       <last-replace>webView</last-replace>
       <last-substitute>getWebView()</last-substitute>
       <last-dir>1</last-dir>
@@ -1921,7 +1915,6 @@
     </search>
     <history>
       <history-search>
-        <entry>null</entry>
         <entry>prof_picture</entry>
         <entry>title</entry>
         <entry>VERY</entry>
@@ -1941,6 +1934,7 @@
         <entry>button_filming.jpg</entry>
         <entry>ELSA</entry>
         <entry>elsa</entry>
+        <entry>lan</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
