@@ -1067,6 +1067,9 @@
       <file name="/message_categories [ora@localhost]" timestamp="1522827983648">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1524133897279">
+        <mark key="'" line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/AdvertisementsComponent.php" timestamp="1523516131712">
         <mark key="'" line="10" column="35" />
         <mark key="[" line="21" column="15" />
@@ -1755,7 +1758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="46" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaidRegistrationService.kt" />
       <jump line="41" column="31" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaidRegistrationService.kt" />
       <jump line="14" column="3" filename="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/input.html" />
       <jump line="81" column="38" filename="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/input.html" />
@@ -1855,6 +1857,7 @@
       <jump line="211" column="105" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="257" column="10" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="269" column="36" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="61" column="0" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1881,7 +1884,7 @@
         <text>1.0</text>
       </register>
       <register name="/" type="4">
-        <text>css</text>
+        <text>twi</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PGxpbmsgaHJlZj0iL2Nzcy9yZXNldC5jc3MiIHRoOmhyZWY9IkB7L2Nzcy9yZXNldC5jc3N9IiByZWw9InN0eWxlc2hlZXQiPjwvbGluaz4KICA8bGluayBocmVmPSIvY3NzL2RyYXdlci5jc3MiIHRoOmhyZWY9IkB7L2Nzcy9kcmF3ZXIuY3NzfSIgcmVsPSJzdHlsZXNoZWV0Ij48L2xpbms+CiAgPGxpbmsgaHJlZj0iLy9tYXhjZG4uYm9vdHN0cmFwY2RuLmNvbS9mb250LWF3ZXNvbWUvNC40LjAvY3NzL2ZvbnQtYXdlc29tZS5taW4uY3NzIiByZWw9InN0eWxlc2hlZXQiLz4KICA8bGluayBocmVmPSIvY3NzL3N0eWxlLmNzcyIgdGg6aHJlZj0iQHsvY3NzL3N0eWxlLmNzc30iIHJlbD0ic3R5bGVzaGVldCI+PC9saW5rPg==</text>
@@ -1921,9 +1924,9 @@
       </register>
     </registers>
     <search>
-      <last-search>css</last-search>
+      <last-search>twi</last-search>
       <last-offset />
-      <last-pattern>css</last-pattern>
+      <last-pattern>twi</last-pattern>
       <last-replace>webView</last-replace>
       <last-substitute>getWebView()</last-substitute>
       <last-dir>1</last-dir>
@@ -1931,7 +1934,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shared</entry>
         <entry>share</entry>
         <entry>about</entry>
         <entry>repo</entry>
@@ -1951,6 +1953,7 @@
         <entry>$</entry>
         <entry>${</entry>
         <entry>css</entry>
+        <entry>twi</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
