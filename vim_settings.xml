@@ -240,12 +240,12 @@
         <mark key="^" line="32" column="25" />
         <mark key="." line="32" column="25" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/3GPSMDK.properties" timestamp="1524119330662">
+      <file name="$USER_HOME$/git/ora/src/main/resources/3GPSMDK.properties" timestamp="1524122989438">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="31" column="35" />
-        <mark key="]" line="31" column="75" />
+        <mark key="[" line="31" column="81" />
+        <mark key="]" line="31" column="81" />
         <mark key="^" line="31" column="48" />
-        <mark key="." line="31" column="49" />
+        <mark key="." line="31" column="81" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/RankingService.java" timestamp="1519901498649">
         <mark key="[" line="82" column="41" />
@@ -667,6 +667,10 @@
         <mark key="]" line="8" column="3" />
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
+      </file>
+      <file name="/3GPSMDK.properties" timestamp="1524122980833">
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="31" column="80" />
       </file>
       <file name="$USER_HOME$/git/orasp/app/lib/Reprint.js" timestamp="1521310066292">
         <mark key="[" line="0" column="23" />
@@ -1873,13 +1877,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>/usr/local/ora/src/main/resources/cacerts</text>
       </register>
       <register name="/" type="4">
         <text>${</text>
       </register>
       <register name="0" type="4">
-        <text>/usr/local/ora/src/main/resources/cacerts</text>
+        <text>$USER_HOME$/git/ora/src/main/resources/cacerts</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnCg==</text>
