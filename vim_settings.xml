@@ -411,13 +411,13 @@
         <mark key="^" line="62" column="64" />
         <mark key="." line="62" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1524200865362">
+      <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" timestamp="1524201996657">
         <mark key="a" line="111" column="53" />
-        <mark key="'" line="145" column="12" />
-        <mark key="[" line="152" column="66" />
-        <mark key="]" line="152" column="78" />
-        <mark key="." line="152" column="78" />
-        <mark key="^" line="152" column="78" />
+        <mark key="'" line="97" column="20" />
+        <mark key="[" line="187" column="32" />
+        <mark key="]" line="187" column="32" />
+        <mark key="." line="187" column="32" />
+        <mark key="^" line="187" column="32" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/service/InagoService.kt" timestamp="1520851607800">
         <mark key="'" line="3" column="0" />
@@ -1756,15 +1756,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="18" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Payment.kt" />
-      <jump line="42" column="48" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaidRegistrationService.kt" />
-      <jump line="22" column="17" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/input.html" />
-      <jump line="32" column="47" filename="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/input.html" />
-      <jump line="54" column="15" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
-      <jump line="0" column="4" filename="$USER_HOME$/git/ora/src/main/resources/templates/message/input2.html" />
-      <jump line="8" column="16" filename="$USER_HOME$/git/ora/src/main/resources/templates/message/input2.html" />
-      <jump line="64" column="73" filename="$USER_HOME$/git/ora/src/main/resources/templates/message/input2.html" />
       <jump line="26" column="74" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="29" column="56" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="31" column="40" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
@@ -1856,6 +1847,15 @@
       <jump line="85" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="145" column="12" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="20" column="25" filename="$USER_HOME$/git/ora/src/main/resources/templates/user/index.html" />
+      <jump line="111" column="14" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="151" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="152" column="21" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="182" column="31" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="179" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="180" column="27" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="195" column="44" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="185" column="20" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="97" column="20" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1879,52 +1879,52 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lckZ1bmNNYWluXD4=</text>
+        <text>json</text>
       </register>
-      <register name="0" type="4">
-        <text>Ti.API.info</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHdlYlZpZXcucmVtb3ZlRXZlbnRMaXN0ZW5lcignbG9hZCcsIGxvYWRDYWxsYmFjayk7CiAgICB3ZWJWaWV3LmFkZEV2ZW50TGlzdGVuZXIoJ2xvYWQnLCBsb2FkQ2FsbGJhY2spOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIganNvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIganNvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCFuYXRpdmVfb2spewogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbGVlcCgxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCFuYXRpdmVfb2spewogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbGVlcCgxKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAxLzAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHA+PGEgdGg6aHJlZj0iQHsvfSI+44OI44OD44OX44Gr5oi744KLPC9hPjwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAxLzAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGgxIHRoOnRleHQ9IiR7c3RhdHVzfSArICcgJyArICR7ZXJyb3J9Ij41MDAgSW50ZXJuYWwgU2VydmVyIEVycm9yPC9oMT4K</text>
+        <text encoding="base64">PHA+PGEgdGg6aHJlZj0iQHsvfSI+44OI44OD44OX44Gr5oi744KLPC9hPjwvcD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lckZ1bmNNYWluXD4=</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lckZ1bmNNYWluXD4=</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-replace>webView</last-replace>
       <last-substitute>getWebView()</last-substitute>
       <last-dir>1</last-dir>
@@ -1932,9 +1932,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYWdlX2xhYmVsXD4=</entry>
-        <entry>vide</entry>
-        <entry>button_filming.jpg</entry>
         <entry>ELSA</entry>
         <entry>elsa</entry>
         <entry>lan</entry>
@@ -1952,6 +1949,9 @@
         <entry encoding="base64">XDxDSEVDS19UWVBFX1VTRVJfQ0hBTkdFXD4=</entry>
         <entry encoding="base64">XDxDSEVDS19UWVBFX0xPR0lOXD4=</entry>
         <entry encoding="base64">XDx0aW1lckZ1bmNNYWluXD4=</entry>
+        <entry encoding="base64">XDxjaGVja1VybFw+</entry>
+        <entry encoding="base64">XDxsb2FkQ2FsbGJhY2tcPg==</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
