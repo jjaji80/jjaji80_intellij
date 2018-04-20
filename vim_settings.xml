@@ -943,12 +943,12 @@
       <file name="/settings [ora@localhost]" timestamp="1524208102032">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/user/index.html" timestamp="1524200893038">
-        <mark key="'" line="20" column="25" />
-        <mark key="[" line="150" column="17" />
-        <mark key="]" line="151" column="27" />
-        <mark key="." line="151" column="27" />
-        <mark key="^" line="151" column="27" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/user/index.html" timestamp="1524219240807">
+        <mark key="'" line="105" column="23" />
+        <mark key="[" line="148" column="23" />
+        <mark key="]" line="148" column="28" />
+        <mark key="." line="148" column="28" />
+        <mark key="^" line="148" column="28" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803072115__change_account_id.sql" timestamp="1520425039590">
         <mark key="[" line="0" column="0" />
@@ -1754,8 +1754,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="89" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
-      <jump line="205" column="53" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="210" column="5" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="226" column="17" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="4" column="0" filename="$USER_HOME$/git/ora/src/main/resources/3GPSMDK.properties" />
@@ -1854,6 +1852,8 @@
       <jump line="123" column="30" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="124" column="16" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="64" column="49" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
+      <jump line="26" column="8" filename="$USER_HOME$/git/ora/src/main/resources/templates/user/index.html" />
+      <jump line="105" column="23" filename="$USER_HOME$/git/ora/src/main/resources/templates/user/index.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1877,13 +1877,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>get_submited</text>
+        <text>onsubmit</text>
       </register>
       <register name="/" type="4">
-        <text>submit</text>
+        <text encoding="base64">XDx3YWl0U2VjXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>webView.evalJS('get_submited()');</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI3VzZXJuYW1lX3RpdGxlJykudGV4dCgid2FpdF9zZW5kIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
@@ -1920,9 +1920,9 @@
       </register>
     </registers>
     <search>
-      <last-search>submit</last-search>
+      <last-search encoding="base64">XDx3YWl0U2VjXD4=</last-search>
       <last-offset />
-      <last-pattern>submit</last-pattern>
+      <last-pattern encoding="base64">XDx3YWl0U2VjXD4=</last-pattern>
       <last-replace>'beforeload'</last-replace>
       <last-substitute>'load'</last-substitute>
       <last-dir>1</last-dir>
@@ -1930,7 +1930,6 @@
     </search>
     <history>
       <history-search>
-        <entry>catch</entry>
         <entry>obj:</entry>
         <entry>timer</entry>
         <entry>'load'</entry>
@@ -1950,6 +1949,7 @@
         <entry encoding="base64">XDxjaGVja1R5cGVcPg==</entry>
         <entry encoding="base64">XDxteXRpbWVyXD4=</entry>
         <entry>submit</entry>
+        <entry encoding="base64">XDx3YWl0U2VjXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>294</entry>
