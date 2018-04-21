@@ -355,12 +355,12 @@
         <mark key="^" line="20" column="84" />
         <mark key="." line="20" column="84" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1524132250882">
-        <mark key="'" line="269" column="36" />
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="15" column="81" />
-        <mark key="." line="214" column="17" />
-        <mark key="^" line="214" column="17" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1524349392187">
+        <mark key="'" line="209" column="18" />
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/bitFlyer.properties" timestamp="1524272839752">
         <mark key="[" line="2" column="48" />
@@ -1709,11 +1709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="36" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
-      <jump line="61" column="0" filename="$USER_HOME$/git/utelAndroid/app/build.gradle" />
-      <jump line="111" column="74" filename="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" />
-      <jump line="112" column="81" filename="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" />
-      <jump line="109" column="33" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="80" column="8" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="20" column="25" filename="$USER_HOME$/git/ora/src/main/resources/templates/user/index.html" />
       <jump line="111" column="14" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
@@ -1809,6 +1804,11 @@
       <jump line="132" column="21" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/git/ora/src/main/resources/application.yml" />
       <jump line="102" column="85" filename="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" />
+      <jump line="24" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="207" column="22" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="14" column="23" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="208" column="28" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="209" column="18" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1835,10 +1835,10 @@
         <text>httpReq.parameterMap</text>
       </register>
       <register name="/" type="4">
-        <text>api</text>
+        <text>&quot;\/\/</text>
       </register>
       <register name="0" type="4">
-        <text>/others/fingerprint/login</text>
+        <text>//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">U0VMRUNUICoKRlJPTSB0aW1lX2VudHJpZXMKV0hFUkUKICAgICAgZGF0ZV9wYXJ0KCd5ZWFyJywgdGltZV9lbnRyaWVzLmNyZWF0ZWRfb24pID0gMjAxOCBBTkQKICAgICAgZGF0ZV9wYXJ0KCdtb250aCcsIHRpbWVfZW50cmllcy5jcmVhdGVkX29uKSA9IDQKYW5kIHVzZXJfaWQ9Ngo=</text>
@@ -1875,20 +1875,16 @@
       </register>
     </registers>
     <search>
-      <last-search>api</last-search>
+      <last-search>&quot;\/\/</last-search>
       <last-offset />
-      <last-pattern>api</last-pattern>
+      <last-pattern>&quot;\/\/</last-pattern>
       <last-replace>'beforeload'</last-replace>
       <last-substitute>'load'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkQ2FsbGJhY2tcPg==</entry>
-        <entry>loginBy</entry>
-        <entry>ok save load</entry>
-        <entry>ok sa</entry>
         <entry>jjjj</entry>
         <entry encoding="base64">XDx0aW1lckZ1bmNcPg==</entry>
         <entry>result=</entry>
@@ -1905,6 +1901,10 @@
         <entry encoding="base64">XDxUaHJlYWRcPg==</entry>
         <entry encoding="base64">XDxzbGVlcFw+</entry>
         <entry>api</entry>
+        <entry>front</entry>
+        <entry>boots</entry>
+        <entry>&quot;</entry>
+        <entry>&quot;\/\/</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
