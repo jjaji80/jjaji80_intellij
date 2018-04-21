@@ -349,11 +349,11 @@
         <mark key="^" line="14" column="61" />
         <mark key="." line="14" column="61" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/signup/input.html" timestamp="1524312205223">
-        <mark key="[" line="20" column="81" />
-        <mark key="]" line="20" column="84" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/signup/input.html" timestamp="1524350103162">
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="21" column="35" />
         <mark key="^" line="20" column="84" />
-        <mark key="." line="20" column="84" />
+        <mark key="." line="21" column="35" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1524349392187">
         <mark key="'" line="209" column="18" />
@@ -1832,7 +1832,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>httpReq.parameterMap</text>
+        <text>指紋</text>
       </register>
       <register name="/" type="4">
         <text>&quot;\/\/</text>
