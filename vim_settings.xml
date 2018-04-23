@@ -22,9 +22,12 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1524463419125">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1524464684595">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="325" column="106" />
+        <mark key="[" line="328" column="0" />
+        <mark key="]" line="329" column="19" />
+        <mark key="^" line="329" column="19" />
+        <mark key="." line="329" column="19" />
       </file>
       <file name="$USER_HOME$/git/ora_android/build.gradle" timestamp="1524105162577">
         <mark key="'" line="8" column="0" />
@@ -709,7 +712,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1524460575679">
+      <file name="/dummy.sql" timestamp="1524464559614">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1306,6 +1309,9 @@
         <mark key="." line="5" column="30" />
         <mark key="^" line="5" column="30" />
       </file>
+      <file name="/users [ora@ora.seizen-seiri.net]" timestamp="1524464555993">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ex2/app/views/winners/hikikae.html.erb" timestamp="1523605757998">
         <mark key="'" line="21" column="75" />
         <mark key="[" line="19" column="75" />
@@ -1866,8 +1872,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tZW50XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>th:selected=&quot;${i.index == 0}&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">54Sh5paZ44Gu5aC05ZCI44Gn44KC56eB44Gu5LqL44KS5YWx5pyJ44Gn44GN44KL44KI44GG44Gr44GZ44KLCuS8muWToeaDheWgseOBruODoeODvOODq+OCouODieODrOOCueOCkuWkieabtOWPr+iDveOBqOOBmeOCiwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgYWNjb3VudCA9IHVzZXIubGFzdFVzZWRBY2NvdW50ISEK</text>
