@@ -1279,6 +1279,12 @@
         <mark key="." line="23" column="41" />
         <mark key="^" line="23" column="41" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/OraConfiguration.kt" timestamp="1524447706171">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1522174083506">
         <mark key="'" line="196" column="7" />
         <mark key="[" line="175" column="0" />
@@ -1462,6 +1468,13 @@
         <mark key="^" line="27" column="33" />
         <mark key="." line="27" column="8" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/application.yml" timestamp="1524447693624">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="24" column="6" />
+        <mark key="]" line="24" column="9" />
+        <mark key="." line="24" column="9" />
+        <mark key="^" line="24" column="9" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/rest/UserController.kt" timestamp="1520316215019">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="18" column="0" />
@@ -1612,10 +1625,11 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/git/ora/pom.xml" timestamp="1524314622357">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/git/ora/pom.xml" timestamp="1524447814393">
+        <mark key="[" line="124" column="21" />
+        <mark key="]" line="129" column="20" />
+        <mark key="." line="129" column="20" />
+        <mark key="^" line="129" column="20" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/bbs/detail.html" timestamp="1522284480016">
         <mark key="'" line="60" column="69" />
@@ -1795,7 +1809,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>&quot;\/\/</text>
