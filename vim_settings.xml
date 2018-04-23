@@ -210,6 +210,10 @@
         <mark key="^" line="33" column="140" />
         <mark key="." line="40" column="96" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/individualNote/input1.html" timestamp="1524459864907">
+        <mark key="[" line="34" column="36" />
+        <mark key="]" line="34" column="64" />
+      </file>
       <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/lib/capture_video_android.js" timestamp="1522460069118">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="37" />
@@ -701,7 +705,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1524449810904">
+      <file name="/dummy.sql" timestamp="1524459541731">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -876,6 +880,9 @@
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="22" />
+      </file>
+      <file name="/individual_note_categories [ora@ora.seizen-seiri.net]" timestamp="1524459478301">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora_android/app/build.gradle" timestamp="1524066008586">
         <mark key="'" line="27" column="0" />
@@ -1856,7 +1863,7 @@
         <text encoding="base64">XDxjb21tZW50XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>bereave.account</text>
+        <text>th:selected=&quot;${i.index == 0}&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgYWNjb3VudCA9IHVzZXIubGFzdFVzZWRBY2NvdW50ISEK</text>
