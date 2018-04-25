@@ -852,12 +852,12 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" timestamp="1524639608443">
-        <mark key="'" line="450" column="145" />
-        <mark key="[" line="236" column="67" />
-        <mark key="]" line="237" column="48" />
-        <mark key="." line="237" column="48" />
-        <mark key="^" line="237" column="48" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" timestamp="1524641393629">
+        <mark key="'" line="230" column="151" />
+        <mark key="[" line="231" column="154" />
+        <mark key="]" line="232" column="18" />
+        <mark key="." line="232" column="18" />
+        <mark key="^" line="232" column="18" />
       </file>
       <file name="/coincheck_1minutes [coinman@red-mine.net]" timestamp="1524634021314">
         <mark key="[" line="0" column="0" />
@@ -1740,10 +1740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="65" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="68" column="65" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="120" column="24" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
-      <jump line="49" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="53" column="21" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="58" column="29" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
       <jump line="146" column="13" filename="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/controllers/index.js" />
@@ -1840,6 +1836,10 @@
       <jump line="22" column="32" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="27" column="32" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="450" column="145" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
+      <jump line="227" column="110" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
+      <jump line="228" column="135" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
+      <jump line="229" column="135" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
+      <jump line="230" column="151" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1863,10 +1863,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>/common/images/v1/main_column/icon_store_kindle.png'</text>
+        <text>content</text>
       </register>
       <register name="/" type="4">
-        <text>body</text>
+        <text>conte</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkkcmVzdWx0ID0gc3RyX3JlcGxhY2UoJ2h0dHBzOi8vbWFuZ2EtbmV3cy1pbWFnZS5zMy5hbWF6b25hd3MuY29tL3VwbG9hZF8zNTkxMzE1XzE1MDY0MjA4NzYnLCAnaHR0cDovL2ltYWdlLm1hbmdhLW5ld3MuanAvY29tbW9uL2FtYXpvbi5wbmcnLCAkY29udGVudCk7Cg==</text>
@@ -1906,9 +1906,9 @@
       </register>
     </registers>
     <search>
-      <last-search>body</last-search>
+      <last-search>conte</last-search>
       <last-offset />
-      <last-pattern>body</last-pattern>
+      <last-pattern>conte</last-pattern>
       <last-replace>'beforeload'</last-replace>
       <last-substitute>body</last-substitute>
       <last-dir>1</last-dir>
@@ -1916,7 +1916,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUaHJlYWRcPg==</entry>
         <entry encoding="base64">XDxzbGVlcFw+</entry>
         <entry>api</entry>
         <entry>front</entry>
@@ -1936,6 +1935,7 @@
         <entry encoding="base64">XDx0aXRsZVw+</entry>
         <entry>Theme</entry>
         <entry>body</entry>
+        <entry>conte</entry>
       </history-search>
       <history-cmd>
         <entry>147</entry>
