@@ -1457,12 +1457,12 @@
         <mark key="^" line="0" column="65" />
         <mark key="." line="0" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1524561240733">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1524623149342">
         <mark key="'" line="1670" column="0" />
-        <mark key="[" line="1707" column="7" />
-        <mark key="]" line="1707" column="18" />
-        <mark key="." line="1707" column="18" />
-        <mark key="^" line="1707" column="18" />
+        <mark key="[" line="1710" column="19" />
+        <mark key="]" line="1710" column="21" />
+        <mark key="." line="1710" column="21" />
+        <mark key="^" line="1710" column="21" />
       </file>
       <file name="$USER_HOME$/git/orasp/lib/main.dart" timestamp="1521097556064">
         <mark key="[" line="11" column="3" />
@@ -1845,7 +1845,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29udGVudHMg</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>width</text>
