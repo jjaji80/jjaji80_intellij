@@ -408,7 +408,7 @@
         <mark key="." line="469" column="0" />
         <mark key="^" line="469" column="0" />
       </file>
-      <file name="/accounts [ora@localhost]" timestamp="1524721054801">
+      <file name="/accounts [ora@localhost]" timestamp="1524733730543">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/bitFlyer.properties" timestamp="1524272839752">
@@ -968,12 +968,6 @@
         <mark key="]" line="34" column="17" />
         <mark key="^" line="34" column="17" />
         <mark key="." line="34" column="17" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/freeMigration/index.html" timestamp="1524713017273">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" timestamp="1524448855882">
         <mark key="'" line="126" column="50" />
@@ -1663,6 +1657,9 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="6" column="31" />
       </file>
+      <file name="757fa693-3e11-4a4b-993d-f658036d9754/schema/ora/table/users.sql" timestamp="1524733896859">
+        <mark key="'" line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/LogService.java" timestamp="1519951265581">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -1833,7 +1830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="81" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="92" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="132" column="21" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
@@ -1933,6 +1929,7 @@
       <jump line="98" column="34" filename="$USER_HOME$/git/MdkSample-Java/web/WEB-INF/src/jp/veritrans/tercerog/sample/web/paynowid/EntryAndCardExec.java" />
       <jump line="79" column="25" filename="$USER_HOME$/git/MdkSample-Java/web/WEB-INF/src/jp/veritrans/tercerog/sample/web/paynowid/EntryAndCardExec.java" />
       <jump line="41" column="30" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaidRegistrationService.kt" />
+      <jump line="1" column="13" filename="757fa693-3e11-4a4b-993d-f658036d9754/schema/ora/table/users.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1959,7 +1956,7 @@
         <text>1.0</text>
       </register>
       <register name="/" type="4">
-        <text>acc</text>
+        <text>admin</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PHAgY2xhc3M9ImNsb3NlIj4=</text>
@@ -1999,9 +1996,9 @@
       </register>
     </registers>
     <search>
-      <last-search>acc</last-search>
+      <last-search>admin</last-search>
       <last-offset />
-      <last-pattern>acc</last-pattern>
+      <last-pattern>admin</last-pattern>
       <last-replace>'beforeload'</last-replace>
       <last-substitute>body</last-substitute>
       <last-dir>1</last-dir>
@@ -2009,8 +2006,6 @@
     </search>
     <history>
       <history-search>
-        <entry>title</entry>
-        <entry>getHtml</entry>
         <entry encoding="base64">XDx0aXRsZVw+</entry>
         <entry>Theme</entry>
         <entry>conte</entry>
@@ -2029,6 +2024,8 @@
         <entry encoding="base64">XDxyZWN1cnJpbmdBbW91bnRcPg==</entry>
         <entry encoding="base64">XDxhbW91bnRcPg==</entry>
         <entry>acc</entry>
+        <entry>role</entry>
+        <entry>admin</entry>
       </history-search>
       <history-cmd>
         <entry>231,243d</entry>
