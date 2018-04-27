@@ -401,10 +401,10 @@
         <mark key="^" line="20" column="84" />
         <mark key="." line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1524446647882">
-        <mark key="'" line="209" column="18" />
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="469" column="0" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1524807581846">
+        <mark key="'" line="500" column="7" />
+        <mark key="[" line="587" column="0" />
+        <mark key="]" line="588" column="23" />
         <mark key="." line="469" column="0" />
         <mark key="^" line="469" column="0" />
       </file>
@@ -1830,7 +1830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="92" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="132" column="21" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/git/ora/src/main/resources/application.yml" />
@@ -1930,6 +1929,7 @@
       <jump line="79" column="25" filename="$USER_HOME$/git/MdkSample-Java/web/WEB-INF/src/jp/veritrans/tercerog/sample/web/paynowid/EntryAndCardExec.java" />
       <jump line="41" column="30" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaidRegistrationService.kt" />
       <jump line="1" column="13" filename="757fa693-3e11-4a4b-993d-f658036d9754/schema/ora/table/users.sql" />
+      <jump line="500" column="7" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1956,10 +1956,10 @@
         <text>1.0</text>
       </register>
       <register name="/" type="4">
-        <text>admin</text>
+        <text>read</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PHAgY2xhc3M9ImNsb3NlIj4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgdmlldyA9IC8qW1ske2Fib3V0TWVWaWV3QWNjb3VudH1dXSovIDA7CiAgICAgICAgaWYodmlldyA9PSAxKSB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1996,17 +1996,16 @@
       </register>
     </registers>
     <search>
-      <last-search>admin</last-search>
+      <last-search>read</last-search>
       <last-offset />
-      <last-pattern>admin</last-pattern>
+      <last-pattern>read</last-pattern>
       <last-replace>'beforeload'</last-replace>
       <last-substitute>body</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aXRsZVw+</entry>
         <entry>Theme</entry>
         <entry>conte</entry>
         <entry>opacity</entry>
@@ -2026,6 +2025,7 @@
         <entry>acc</entry>
         <entry>role</entry>
         <entry>admin</entry>
+        <entry>read</entry>
       </history-search>
       <history-cmd>
         <entry>231,243d</entry>
