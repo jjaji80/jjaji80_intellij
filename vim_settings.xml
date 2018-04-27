@@ -1164,10 +1164,10 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" timestamp="1521693139221">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" timestamp="1524822815847">
         <mark key="'" line="8" column="49" />
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="28" />
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="17" />
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
       </file>
@@ -1958,8 +1958,8 @@
       <register name="/" type="4">
         <text>000</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdmlldyA9IC8qW1ske2Fib3V0TWVWaWV3QWNjb3VudH1dXSovIDA7CiAgICAgICAgaWYodmlldyA9PSAxKSB7Cg==</text>
+      <register name="0" type="4">
+        <text>*  else # add</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
