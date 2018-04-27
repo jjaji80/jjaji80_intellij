@@ -300,8 +300,8 @@
         <mark key="^" line="61" column="65" />
         <mark key="." line="61" column="65" />
       </file>
-      <file name="$USER_HOME$/git/p1-doc/要件定義/01_main.md" timestamp="1523861643036">
-        <mark key="'" line="171" column="3" />
+      <file name="$USER_HOME$/git/p1-doc/要件定義/01_main.md" timestamp="1524818683292">
+        <mark key="'" line="543" column="2" />
         <mark key="[" line="170" column="6" />
         <mark key="]" line="172" column="4" />
         <mark key="." line="172" column="4" />
@@ -1830,8 +1830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
-      <jump line="132" column="21" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BoardService.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/git/ora/src/main/resources/application.yml" />
       <jump line="102" column="85" filename="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" />
       <jump line="24" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
@@ -1930,6 +1928,8 @@
       <jump line="41" column="30" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaidRegistrationService.kt" />
       <jump line="1" column="13" filename="757fa693-3e11-4a4b-993d-f658036d9754/schema/ora/table/users.sql" />
       <jump line="500" column="7" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="638" column="0" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
+      <jump line="543" column="2" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1956,7 +1956,7 @@
         <text>1.0</text>
       </register>
       <register name="/" type="4">
-        <text>read</text>
+        <text>アグレ</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgdmlldyA9IC8qW1ske2Fib3V0TWVWaWV3QWNjb3VudH1dXSovIDA7CiAgICAgICAgaWYodmlldyA9PSAxKSB7Cg==</text>
@@ -1996,17 +1996,16 @@
       </register>
     </registers>
     <search>
-      <last-search>read</last-search>
+      <last-search>アグレ</last-search>
       <last-offset />
-      <last-pattern>read</last-pattern>
+      <last-pattern>アグレ</last-pattern>
       <last-replace>'beforeload'</last-replace>
       <last-substitute>body</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Theme</entry>
         <entry>conte</entry>
         <entry>opacity</entry>
         <entry>RSS</entry>
@@ -2026,6 +2025,7 @@
         <entry>role</entry>
         <entry>admin</entry>
         <entry>read</entry>
+        <entry>アグレ</entry>
       </history-search>
       <history-cmd>
         <entry>231,243d</entry>
