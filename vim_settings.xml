@@ -534,7 +534,7 @@
         <mark key="^" line="8" column="55" />
         <mark key="." line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/list.html" timestamp="1522833286536">
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/list.html" timestamp="1524828091158">
         <mark key="'" line="54" column="28" />
         <mark key="[" line="25" column="81" />
         <mark key="]" line="25" column="91" />
@@ -578,7 +578,7 @@
         <mark key="^" line="33" column="25" />
         <mark key="." line="33" column="25" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/admin/shop/index.html" timestamp="1521691988904">
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/admin/shop/index.html" timestamp="1524826252627">
         <mark key="[" line="149" column="34" />
         <mark key="]" line="149" column="53" />
         <mark key="." line="151" column="56" />
@@ -773,11 +773,11 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524772200251">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="16" />
+      <file name="/Dummy.txt" timestamp="1524828034760">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/aboutPay.html" timestamp="1523871184218">
         <mark key="[" line="82" column="33" />
@@ -1164,12 +1164,12 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" timestamp="1524824046377">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" timestamp="1524827871226">
         <mark key="'" line="13" column="21" />
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="19" column="28" />
-        <mark key="^" line="19" column="28" />
+        <mark key="[" line="29" column="9" />
+        <mark key="]" line="30" column="8" />
+        <mark key="." line="30" column="8" />
+        <mark key="^" line="30" column="8" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/impl/NewsFacadeImpl.java" timestamp="1520254886554">
         <mark key="[" line="170" column="29" />
@@ -1338,7 +1338,8 @@
         <mark key="^" line="61" column="18" />
         <mark key="." line="61" column="18" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Shop.kt" timestamp="1521518339907">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Shop.kt" timestamp="1524824078171">
+        <mark key="'" line="32" column="13" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="26" />
         <mark key="^" line="32" column="25" />
@@ -1830,9 +1831,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="3" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/ShareAccountController.kt" />
-      <jump line="84" column="20" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/ShareAccountController.kt" />
-      <jump line="91" column="16" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/ShareAccountController.kt" />
       <jump line="166" column="8" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" />
       <jump line="179" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" />
       <jump line="142" column="50" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" />
@@ -1930,6 +1928,9 @@
       <jump line="261" column="26" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="262" column="25" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="13" column="21" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Shop.kt" />
+      <jump line="2" column="44" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Shop.kt" />
+      <jump line="32" column="13" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Shop.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
