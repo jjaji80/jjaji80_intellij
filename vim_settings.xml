@@ -167,9 +167,6 @@
         <mark key="." line="53" column="69" />
         <mark key="^" line="53" column="69" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/index.html" timestamp="1524708303715">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/coinman_parent/model/pom.xml" timestamp="1520579905554">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="132" column="12" />
@@ -363,10 +360,10 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1524629461023">
-        <mark key="'" line="344" column="24" />
-        <mark key="[" line="350" column="47" />
-        <mark key="]" line="350" column="47" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1524956395687">
+        <mark key="'" line="279" column="41" />
+        <mark key="[" line="545" column="0" />
+        <mark key="]" line="546" column="39" />
         <mark key="^" line="350" column="47" />
         <mark key="." line="350" column="47" />
       </file>
@@ -873,9 +870,6 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/static/css/style.css" timestamp="1524712682560">
-        <mark key="'" line="5377" column="33" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" timestamp="1521702416513">
         <mark key="'" line="793" column="0" />
         <mark key="[" line="809" column="325" />
@@ -1032,6 +1026,13 @@
         <mark key="]" line="11" column="15" />
         <mark key="^" line="13" column="25" />
         <mark key="." line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitFlyerJSONRPC.kt" timestamp="1524957348331">
+        <mark key="'" line="20" column="47" />
+        <mark key="[" line="20" column="114" />
+        <mark key="]" line="20" column="122" />
+        <mark key="." line="20" column="122" />
+        <mark key="^" line="20" column="122" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironDto.kt" timestamp="1520338682874">
         <mark key="[" line="33" column="28" />
@@ -1469,9 +1470,6 @@
         <mark key="^" line="2" column="60" />
         <mark key="." line="2" column="60" />
       </file>
-      <file name="$USER_HOME$/git/MdkSample-Java/web/WEB-INF/src/jp/veritrans/tercerog/sample/web/paynowid/EntryAndCardExec.java" timestamp="1524714137679">
-        <mark key="'" line="79" column="25" />
-      </file>
       <file name="$USER_HOME$/git/coinman_parent/rest/pom.xml" timestamp="1520776251599">
         <mark key="'" line="42" column="19" />
         <mark key="[" line="83" column="24" />
@@ -1670,9 +1668,6 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="757fa693-3e11-4a4b-993d-f658036d9754/schema/ora/table/users.sql" timestamp="1524733896859">
-        <mark key="'" line="1" column="13" />
-      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/LogService.java" timestamp="1519951265581">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -1843,8 +1838,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="8" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" />
-      <jump line="179" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" />
       <jump line="142" column="50" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/DiedConfirmationController.kt" />
       <jump line="80" column="20" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" />
       <jump line="129" column="49" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageController.kt" />
@@ -1943,6 +1936,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Shop.kt" />
       <jump line="2" column="44" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Shop.kt" />
       <jump line="32" column="13" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Shop.kt" />
+      <jump line="279" column="41" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="20" column="47" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitFlyerJSONRPC.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1966,60 +1961,59 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text>BTC_JPY</text>
       </register>
       <register name="/" type="4">
-        <text>back</text>
+        <text>boa</text>
       </register>
-      <register name="0" type="4">
-        <text>*  else # add</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB3ZWJTb2NrZXQuc2VuZCgie1wianNvbnJwY1wiOlwiMi4wXCIsXCJtZXRob2RcIjogXCJzdWJzY3JpYmVcIiwgXCJwYXJhbXNcIjoge1wiY2hhbm5lbFwiOlwibGlnaHRuaW5nX2JvYXJkX0ZYX0JUQ19KUFlcIn19IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB3ZWJTb2NrZXQuc2VuZCgie1wianNvbnJwY1wiOlwiMi4wXCIsXCJtZXRob2RcIjogXCJzdWJzY3JpYmVcIiwgXCJwYXJhbXNcIjoge1wiY2hhbm5lbFwiOlwibGlnaHRuaW5nX2JvYXJkX0JUQ19KUFlcIn19IiAie1wic3Vic2NyaWJlXCI6IHsgXCJjaGFubmVsXCI6IFwibGlnaHRuaW5nX2JvYXJkX0JUQ19KUFlcIiB9fSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGRpdiBsYXlvdXQ6ZnJhZ21lbnQ9Im90aGVyU2NyaXB0Ij4KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KICAgICAgICAkKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgaWYgKCQoJyNjb2RlJykudGV4dCgpICE9PSAiIikgewogICAgICAgICAgICAgICAgJCgnI2FsZXJ0Jykuc2hvdygpCiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIDwvc2NyaXB0Pgo8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICB2YWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZXJyb3IiIHN0eWxlPSJkaXNwbGF5OiBub25lIiBpZD0iYWxlcnQiPgogICAgICAgICAgICAgICAgPGgyPgogICAgICAgICAgICAgICAgICAgIOOCqOODqeODvAogICAgICAgICAgICAgICAgPC9oMj4KICAgICAgICAgICAgICAgIDx1bD4KICAgICAgICAgICAgICAgICAgICA8bGk+44K344K544Ko44Op44O844GM55m655Sf44GX44G+44GX44Gf44CC44GK5omL5pWw44GK5o6b44GR44GX44G+44GZ44GM44CB5Lul5LiL44Gu44K344K544OG44Og44Kz44O844OJ44KS44GK5ZWP44GE5ZCI44KP44Gb44GP44Gg44GV44GE44CCPC9saT4KICAgICAgICAgICAgICAgICAgICA8bGk+44K344K544OG44Og44Kz44O844OJIDogPCEtLS8qQHRoeW1lc1ZhciBpZD0iZXJyb3IiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciKi8tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gaWQ9ImNvZGUiIHRoOnRleHQ9IiR7ZXJyb3J9Ij48L3NwYW4+PC9saT4KICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpY29uIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBoZWlnaHQ9IjIxMiIgc3JjPSIuL2Fzc2V0cy9pbWFnZXMvaWNvbi9pY29uX2NoZWNrYm94LnBuZyIgd2lkdGg9IjIxMiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aDpzcmM9IkB7L2ltYWdlcy9pY29uL2ljb25fY2hlY2tib3gucG5nfSIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAg56e76KGM44GM5a6M5LqG44GX44G+44GX44GfCg==</text>
+        <text encoding="base64">PGRpdiBsYXlvdXQ6ZnJhZ21lbnQ9Im90aGVyU2NyaXB0Ij4KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KICAgICAgICAkKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgaWYgKCQoJyNjb2RlJykudGV4dCgpICE9PSAiIikgewogICAgICAgICAgICAgICAgJCgnI2FsZXJ0Jykuc2hvdygpCiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIDwvc2NyaXB0Pgo8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGk+44Gn44GZ44CCPC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZXJyb3IiIHN0eWxlPSJkaXNwbGF5OiBub25lIiBpZD0iYWxlcnQiPgogICAgICAgICAgICAgICAgPGgyPgogICAgICAgICAgICAgICAgICAgIOOCqOODqeODvAogICAgICAgICAgICAgICAgPC9oMj4KICAgICAgICAgICAgICAgIDx1bD4KICAgICAgICAgICAgICAgICAgICA8bGk+44K344K544Ko44Op44O844GM55m655Sf44GX44G+44GX44Gf44CC44GK5omL5pWw44GK5o6b44GR44GX44G+44GZ44GM44CB5Lul5LiL44Gu44K344K544OG44Og44Kz44O844OJ44KS44GK5ZWP44GE5ZCI44KP44Gb44GP44Gg44GV44GE44CCPC9saT4KICAgICAgICAgICAgICAgICAgICA8bGk+44K344K544OG44Og44Kz44O844OJIDogPCEtLS8qQHRoeW1lc1ZhciBpZD0iZXJyb3IiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciKi8tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gaWQ9ImNvZGUiIHRoOnRleHQ9IiR7ZXJyb3J9Ij48L3NwYW4+PC9saT4KICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>back</last-search>
+      <last-search>boa</last-search>
       <last-offset />
-      <last-pattern>back</last-pattern>
+      <last-pattern>boa</last-pattern>
       <last-replace>'beforeload'</last-replace>
       <last-substitute>body</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>body</entry>
         <entry>java</entry>
         <entry>.js&quot;</entry>
         <entry>js</entry>
@@ -2039,6 +2033,7 @@
         <entry>3,00</entry>
         <entry>000</entry>
         <entry>back</entry>
+        <entry>boa</entry>
       </history-search>
       <history-cmd>
         <entry>231,243d</entry>
