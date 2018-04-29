@@ -193,6 +193,7 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0.jar!/com/ullink/slack/simpleslackapi/SlackSession.class" timestamp="1524964664877" />
       <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitflyerPubNub.kt" timestamp="1524961731434">
         <mark key="'" line="47" column="134" />
         <mark key="[" line="173" column="0" />
@@ -245,10 +246,10 @@
         <mark key="^" line="39" column="10" />
         <mark key="." line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/pom.xml" timestamp="1523082057997">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/pom.xml" timestamp="1524965689656">
         <mark key="'" line="16" column="17" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="47" />
+        <mark key="[" line="201" column="24" />
+        <mark key="]" line="201" column="28" />
         <mark key="^" line="201" column="28" />
         <mark key="." line="201" column="28" />
       </file>
@@ -329,7 +330,7 @@
       <file name="/tickers [coinman@red-mine.net]" timestamp="1524955185492">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/coincheck_trades [coinman@red-mine.net]" timestamp="1524959453207">
+      <file name="/coincheck_trades [coinman@red-mine.net]" timestamp="1524963453880">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ex2/app/mailers/entry_mailer.rb" timestamp="1523612723290">
@@ -363,12 +364,12 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1524959031810">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="303" column="12" />
-        <mark key="]" line="303" column="26" />
-        <mark key="^" line="303" column="26" />
-        <mark key="." line="303" column="26" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1524971452900">
+        <mark key="'" line="76" column="16" />
+        <mark key="[" line="206" column="156" />
+        <mark key="]" line="206" column="157" />
+        <mark key="." line="206" column="157" />
+        <mark key="^" line="206" column="157" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1524532450311">
         <mark key="[" line="60" column="36" />
@@ -389,7 +390,7 @@
         <mark key="^" line="14" column="61" />
         <mark key="." line="14" column="61" />
       </file>
-      <file name="/users [redmine_default@red-mine.net]" timestamp="1524955184622">
+      <file name="/users [redmine_default@red-mine.net]" timestamp="1524963454925">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/users_status [tools@localhost]" timestamp="1524643008583">
@@ -417,10 +418,10 @@
       <file name="/accounts [ora@localhost]" timestamp="1524811030075">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/bitFlyer.properties" timestamp="1524272839752">
-        <mark key="[" line="2" column="48" />
+      <file name="$USER_HOME$/git/coinman_parent/bitFlyer.properties" timestamp="1524970151655">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="^" line="14" column="39" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/list.html" timestamp="1522655938410">
@@ -791,7 +792,7 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524961578928">
+      <file name="/Dummy.txt" timestamp="1524969080604">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
@@ -908,12 +909,11 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/slack/pom.xml" timestamp="1524963080970">
-        <mark key="'" line="62" column="35" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-        <mark key="^" line="62" column="35" />
+      <file name="$USER_HOME$/git/coinman_parent/slack/pom.xml" timestamp="1524967164024">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="68" column="20" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/MyContext.kt" timestamp="1523636433053">
         <mark key="'" line="24" column="24" />
@@ -929,7 +929,7 @@
         <mark key="." line="246" column="46" />
         <mark key="^" line="184" column="35" />
       </file>
-      <file name="/coincheck_1minutes [coinman@red-mine.net]" timestamp="1524959448271">
+      <file name="/coincheck_1minutes [coinman@red-mine.net]" timestamp="1524963450305">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/admin/AdminSettingController.kt" timestamp="1521471930298">
@@ -1468,7 +1468,7 @@
         <mark key="^" line="30" column="19" />
         <mark key="." line="30" column="19" />
       </file>
-      <file name="/fragment.kt" timestamp="1524713572859">
+      <file name="/fragment.kt" timestamp="1524964710747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
@@ -1866,36 +1866,18 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/slack/src/main/kotlin/coinman/SlackMessage.kt" timestamp="1524963353694">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/git/coinman_parent/slack/src/main/kotlin/coinman/SlackMessage.kt" timestamp="1524971163463">
+        <mark key="[" line="44" column="42" />
+        <mark key="]" line="44" column="47" />
+        <mark key="." line="44" column="47" />
+        <mark key="^" line="44" column="47" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" timestamp="1524966863446">
+        <mark key="[" line="63" column="100" />
+        <mark key="]" line="63" column="105" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="125" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_modal_book.ctp" />
-      <jump line="1670" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="1710" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="63" column="29" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.loadcsv.js" />
-      <jump line="45" column="37" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.modal.js" />
-      <jump line="10" column="48" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="379" column="29" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="18" column="2" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="26" column="11" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="28" column="11" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="31" column="35" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="103" column="52" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="113" column="54" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="21" column="41" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="309" column="37" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="320" column="49" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="17" column="43" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="22" column="32" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="27" column="32" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="450" column="145" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="227" column="110" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="228" column="135" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
-      <jump line="229" column="135" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
       <jump line="230" column="151" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-manganews/app/Config/const.php" />
       <jump line="395" column="29" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
@@ -1973,6 +1955,29 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/coinman_parent/pom.xml" />
       <jump line="47" column="134" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitflyerPubNub.kt" />
       <jump line="62" column="35" filename="$USER_HOME$/git/coinman_parent/slack/pom.xml" />
+      <jump line="74" column="32" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="85" column="22" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="91" column="18" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="130" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="131" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="188" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="189" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="323" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="327" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="452" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="469" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="468" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="40" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="48" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="71" column="1" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="142" column="151" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
+      <jump line="147" column="51" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="30" column="17" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="271" column="4" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="4" column="15" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="43" column="31" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="76" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1996,52 +2001,52 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>src</text>
+        <text>nowCollateral</text>
       </register>
       <register name="/" type="4">
-        <text>spring</text>
+        <text>slack</text>
       </register>
-      <register name="0" type="4">
-        <text>${project.basedir}/src/main/kotlin</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsYWNrTWVzc2FnZS5zZW5kKCLmkI3nm4o6JHtwb3NpdGlvbkxpc3QuZ2V0VG90YWxQbmwoKX1cbiR7TW9tZW50KCkuZm9ybWF0KCJ5eXl5L01NL2RkIEhIOm1tIil9IiwgIuaQjeebijoiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTbGFjawo=</text>
+        <text encoding="base64">ICAgICAgICBzbGFja01lc3NhZ2Uuc2VuZCgidGVzdCIsIuaQjeebiiIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTbGFjawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8obG9uZ1NlcnZpY2UuY2FsY05leHRUYXJnZXQodHJ1ZSwgIjEiLDUwLjApKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmtvdGxpbi1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuamV0YnJhaW5zLmtvdGxpbjwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7a290bGluLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPGFyZ3M+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcmc+LVhqc3IzMDU9c3RyaWN0PC9hcmc+CiAgICAgICAgICAgICAgICAgICAgPC9hcmdzPgogICAgICAgICAgICAgICAgICAgIDxjb21waWxlclBsdWdpbnM+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwbHVnaW4+c3ByaW5nPC9wbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgPC9jb21waWxlclBsdWdpbnM+CiAgICAgICAgICAgICAgICAgICAgPGp2bVRhcmdldD4xLjg8L2p2bVRhcmdldD4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpZD5jb21waWxlPC9pZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHBoYXNlPmNvbXBpbGU8L3BoYXNlPgogICAgICAgICAgICAgICAgICAgICAgICA8Z29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5jb21waWxlPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpZD50ZXN0LWNvbXBpbGU8L2lkPgogICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+dGVzdC1jb21waWxlPC9waGFzZT4KICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+dGVzdC1jb21waWxlPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICAgICAgPGRlcGVuZGVuY2llcz4KICAgICAgICAgICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmpldGJyYWlucy5rb3RsaW48L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmtvdGxpbi1tYXZlbi1hbGxvcGVuPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke2tvdGxpbi52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8L2RlcGVuZGVuY2llcz4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">Qml0Rmx5ZXJQcm9wZXJ0aWVzLmFwaUtleT0zNzJ5NHR4Nm1SU2ZBYUJDUkxEejliCkJpdEZseWVyUHJvcGVydGllcy5hcGlTZWNyZXQ9Q2JPUjBmTy9Ya3Y3MWkzU0lqVGZFZllGelV2ejIvWDdteGdRWEFNUjRQVT0KI0JpdEZseWVyUHJvcGVydGllcy5hcGlLZXk9NFo5Yk43b1VFOHFBQ0pEVTVLdXBRNgojCiNCaXRGbHllclByb3BlcnRpZXMuYXBpU2VjcmV0PXJ5ZEFPcVA2M3lOVUx6VW5YQjMvUC85N3oyNUdMcDJDSmVtSVNXUDZGdUk9CkJpdEZseWVyUHJvcGVydGllcy5zdGFydFJhdGU9MS4wCkJpdEZseWVyUHJvcGVydGllcy5wcmljZURlZmF1bHREaWZmPTI1MDAuMApCaXRGbHllclByb3BlcnRpZXMucHJpY2VBZGREaWZmPTIwMApCaXRGbHllclByb3BlcnRpZXMubG9zc0N1dEp1ZGdlUmF0ZT0xMDIuMApCaXRGbHllclByb3BlcnRpZXMubG9zc0N1dFJhdGU9MC4xCkJpdEZseWVyUHJvcGVydGllcy5icm9hZGNhc3Rpbmc9dHJ1ZQpCaXRGbHllclByb3BlcnRpZXMuZnVsbEJyb2FkY2FzdGluZz10cnVlCkJpdEZseWVyUHJvcGVydGllcy5vcmRlclBvc2l0aW9ucz03MCwxNDAsMjgwCkJpdEZseWVyUHJvcGVydGllcy5yc2lMb3c9MjUKQml0Rmx5ZXJQcm9wZXJ0aWVzLnJzaUhpZ2g9NzUKQml0Rmx5ZXJQcm9wZXJ0aWVzLmNoZWNrVHlwZT01CkJpdEZseWVyUHJvcGVydGllcy5pbmRpdmlkdWFsTG9zc0N1dFJhdGU9My4wCkJpdEZseWVyUHJvcGVydGllcy5pbml0aWFsQW1vdW50VGltZXM9OAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTbGFjawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsYWNrTWVzc2FnZS5zZW5kKCLmkI3nm4o6JHtwb3NpdGlvbkxpc3QuZ2V0VG90YWxQbmwoKX1cbiR7TW9tZW50KCkuZm9ybWF0KCJ5eXl5L01NL2RkIEhIOm1tIil9IiwgIuaQjeebijoiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTbGFjCg==</text>
+        <text encoding="base64">ICAgICAgICBzbGFja1NlcnZpY2UudXAK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTbGFja0MK</text>
+        <text encoding="base64">ICAgICAgICBzbGFja1NlcnZpY2Uuc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTbGFja0MK</text>
+        <text encoding="base64">ICAgICAgICBzbGFja1NlcnZpY2UuYWRkU2xhY2tsZXQoU2xhY2tsZXQoKXsKICAgICAgICAgICAgCiAgICAgICAgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTbGFjawo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFubmVsID0gc2Vzc2lvbi5maW5kQ2hhbm5lbEJ5TmFtZSgiY29pbm1hbiIpIC8vbWFrZSBzdXJlIGJvdCBpcyBhIG1lbWJlciBvZiB0aGUgY2hhbm5lbC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS41LjU8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uLmNvbm5lY3QoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>spring</last-search>
+      <last-search>slack</last-search>
       <last-offset />
-      <last-pattern>spring</last-pattern>
+      <last-pattern>slack</last-pattern>
       <last-replace>'beforeload'</last-replace>
       <last-substitute>body</last-substitute>
       <last-dir>1</last-dir>
@@ -2049,11 +2054,6 @@
     </search>
     <history>
       <history-search>
-        <entry>link</entry>
-        <entry>url</entry>
-        <entry>href</entry>
-        <entry>isPre</entry>
-        <entry>alert</entry>
         <entry>amount</entry>
         <entry encoding="base64">XDxyZWN1cnJpbmdBbW91bnRcPg==</entry>
         <entry encoding="base64">XDxhbW91bnRcPg==</entry>
@@ -2069,9 +2069,13 @@
         <entry encoding="base64">XDxiaXRGbHllclB1Yk51YkRhdGFcPg==</entry>
         <entry encoding="base64">XDxCaXRmbHllclB1Yk51Ylw+</entry>
         <entry>spring</entry>
+        <entry>deb</entry>
+        <entry>bene</entry>
+        <entry encoding="base64">XDxub3dDb2xsYXRlcmFsXD4=</entry>
+        <entry>keep</entry>
+        <entry>slack</entry>
       </history-search>
       <history-cmd>
-        <entry>247,292d</entry>
         <entry>2</entry>
         <entry>15</entry>
         <entry>16</entry>
@@ -2080,7 +2084,6 @@
         <entry>41</entry>
         <entry>46</entry>
         <entry>21,31y</entry>
-        <entry>19</entry>
         <entry>21,31d</entry>
         <entry>54,62d</entry>
         <entry>20,29d</entry>
@@ -2090,6 +2093,8 @@
         <entry>1</entry>
         <entry>60</entry>
         <entry>127,163d</entry>
+        <entry>473</entry>
+        <entry>19</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
