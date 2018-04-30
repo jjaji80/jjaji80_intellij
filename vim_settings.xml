@@ -198,7 +198,7 @@
       <file name="/tickers [coinman@red-mine.net]" timestamp="1524955185492">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/coincheck_trades [coinman@red-mine.net]" timestamp="1524989290663">
+      <file name="/coincheck_trades [coinman@red-mine.net]" timestamp="1525069092270">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ex2/app/mailers/entry_mailer.rb" timestamp="1523612723290">
@@ -615,7 +615,7 @@
         <mark key="." line="59" column="0" />
       </file>
       <file name="/view.html" timestamp="1525052705839" />
-      <file name="/coincheck_1minutes [coinman@red-mine.net]" timestamp="1524989278051">
+      <file name="/coincheck_1minutes [coinman@red-mine.net]" timestamp="1525069091424">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/admin/AdminSettingController.kt" timestamp="1521471930298">
@@ -954,6 +954,10 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="9" column="55" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackAttachment.java" timestamp="1525069569873">
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="40" column="21" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/api/SwaggerController.kt" timestamp="1520336857393">
         <mark key="[" line="6" column="25" />
         <mark key="]" line="7" column="37" />
@@ -1177,24 +1181,19 @@
         <mark key="^" line="1" column="50" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/slack/src/main/kotlin/coinman/SlackMessage.kt" timestamp="1525020266222">
-        <mark key="[" line="28" column="25" />
-        <mark key="]" line="28" column="26" />
-        <mark key="." line="28" column="26" />
-        <mark key="^" line="28" column="26" />
+      <file name="$USER_HOME$/git/coinman_parent/slack/src/main/kotlin/coinman/SlackMessage.kt" timestamp="1525069916224">
+        <mark key="[" line="57" column="36" />
+        <mark key="]" line="57" column="40" />
+        <mark key="." line="57" column="40" />
+        <mark key="^" line="57" column="40" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" timestamp="1525069488193">
+        <mark key="'" line="99" column="130" />
+        <mark key="[" line="63" column="100" />
+        <mark key="]" line="63" column="105" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="29" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
-      <jump line="108" column="102" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
-      <jump line="15" column="13" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/MedicineService.kt" />
-      <jump line="61" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaidRegistrationService.kt" />
-      <jump line="29" column="3" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/WithdrawalController.kt" />
-      <jump line="28" column="55" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/WithdrawalController.kt" />
-      <jump line="27" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/WithdrawalController.kt" />
-      <jump line="30" column="3" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/WithdrawalController.kt" />
-      <jump line="26" column="3" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/AccountService.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/index.html" />
       <jump line="27" column="88" filename="$USER_HOME$/git/ora/src/main/resources/templates/freeMigration/input.html" />
       <jump line="134" column="1" filename="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/input.html" />
       <jump line="39" column="38" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/FreeMigrationController.kt" />
@@ -1285,6 +1284,16 @@
       <jump line="577" column="30" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="473" column="19" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
       <jump line="474" column="20" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="65" column="42" filename="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" />
+      <jump line="59" column="108" filename="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" />
+      <jump line="61" column="108" filename="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" />
+      <jump line="71" column="133" filename="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" />
+      <jump line="73" column="133" filename="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" />
+      <jump line="75" column="133" filename="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" />
+      <jump line="77" column="133" filename="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" />
+      <jump line="93" column="108" filename="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" />
+      <jump line="95" column="109" filename="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" />
+      <jump line="99" column="130" filename="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1308,52 +1317,52 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>minOrMaxPrice()</text>
+        <text encoding="base64">PC9mb250Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>dia</text>
+        <text>att</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbGFja01lc3NhZ2Uuc2VuZChzZW5kTWVzc2FnZSwgIuOCquODvOODgOODvOS7tuaVsCIsMSkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZmFsbGJhY2sg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3IoZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xhY2tBdHRhY2htZW50Lm1hCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDAwICogMTApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDIwICogMTAwMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xhY2tBdHRhY2htZW50LmZhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JkZXJDb3Jkcy5hZGQocmVzdWx0LnN0cmluZygiY2hpbGRfb3JkZXJfYWNjZXB0YW5jZV9pZCIpISEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbi5zZW5kTWVzc2FnZShjaGFubmVsLG1lc3NhZ2UsKQo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbi5zZW5kTWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJiYgKHNpZGUgPiAiQlVZIiBpdC5wcmljZSAmJiApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3IoZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJiYgKHNpZGUgPiAiQlVZIiBpdC5wcmljZSAmJiApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxMDAwICogMTApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dia</last-search>
+      <last-search>att</last-search>
       <last-offset />
-      <last-pattern>dia</last-pattern>
+      <last-pattern>att</last-pattern>
       <last-replace>'beforeload'</last-replace>
       <last-substitute>body</last-substitute>
       <last-dir>1</last-dir>
@@ -1361,7 +1370,6 @@
     </search>
     <history>
       <history-search>
-        <entry>アグレ</entry>
         <entry>3,00</entry>
         <entry>000</entry>
         <entry>back</entry>
@@ -1381,6 +1389,7 @@
         <entry encoding="base64">XDxvcmRlckNvcmRzXD4=</entry>
         <entry encoding="base64">XDxkZWxldGVEaWFsb2dcPg==</entry>
         <entry>dia</entry>
+        <entry>att</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
