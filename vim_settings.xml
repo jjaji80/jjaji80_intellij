@@ -1356,7 +1356,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>104</text>
       </register>
     </registers>
     <search>
@@ -1392,7 +1392,6 @@
         <entry>att</entry>
       </history-search>
       <history-cmd>
-        <entry>2</entry>
         <entry>15</entry>
         <entry>16</entry>
         <entry>38</entry>
@@ -1412,6 +1411,7 @@
         <entry>19</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>104</entry>
       </history-cmd>
       <history-expr />
       <history-input />
