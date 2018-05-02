@@ -39,6 +39,9 @@
       <file name="/room_numbers [cakephp@www.elsa-online.net]" timestamp="1524721586195">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1525220936320">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/api/VironController.java" timestamp="1520336907864">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="4" column="14" />
@@ -166,6 +169,12 @@
         <mark key="]" line="53" column="69" />
         <mark key="." line="53" column="69" />
         <mark key="^" line="53" column="69" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/slack/src/main/kotlin/coinman/SlackWatcher.kt" timestamp="1525220398711">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+        <mark key="^" line="3" column="35" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/model/pom.xml" timestamp="1520579905554">
         <mark key="[" line="76" column="0" />
@@ -363,12 +372,12 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1525218888619">
-        <mark key="'" line="253" column="88" />
-        <mark key="[" line="293" column="46" />
-        <mark key="]" line="293" column="47" />
-        <mark key="." line="293" column="47" />
-        <mark key="^" line="293" column="47" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1525224195864">
+        <mark key="'" line="275" column="17" />
+        <mark key="[" line="357" column="55" />
+        <mark key="]" line="357" column="75" />
+        <mark key="^" line="357" column="75" />
+        <mark key="." line="357" column="75" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1524532450311">
         <mark key="[" line="60" column="36" />
@@ -406,11 +415,6 @@
         <mark key="]" line="21" column="35" />
         <mark key="^" line="20" column="84" />
         <mark key="." line="21" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1525056933867">
-        <mark key="'" line="474" column="20" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="589" column="23" />
       </file>
       <file name="/accounts [ora@localhost]" timestamp="1524811030075">
         <mark key="[" line="0" column="0" />
@@ -1863,12 +1867,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/slack/src/main/kotlin/coinman/SlackMessage.kt" timestamp="1525165636881">
-        <mark key="'" line="35" column="81" />
-        <mark key="[" line="60" column="113" />
-        <mark key="]" line="60" column="113" />
-        <mark key="." line="60" column="113" />
-        <mark key="^" line="60" column="113" />
+      <file name="$USER_HOME$/git/coinman_parent/slack/src/main/kotlin/coinman/SlackMessage.kt" timestamp="1525224123700">
+        <mark key="'" line="38" column="81" />
+        <mark key="[" line="81" column="15" />
+        <mark key="]" line="81" column="20" />
+        <mark key="." line="81" column="20" />
+        <mark key="^" line="81" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" timestamp="1525069488193">
         <mark key="'" line="99" column="130" />
@@ -1877,19 +1881,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="25" filename="$USER_HOME$/git/MdkSample-Java/web/WEB-INF/src/jp/veritrans/tercerog/sample/web/paynowid/EntryAndCardExec.java" />
-      <jump line="41" column="30" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaidRegistrationService.kt" />
-      <jump line="1" column="13" filename="757fa693-3e11-4a4b-993d-f658036d9754/schema/ora/table/users.sql" />
-      <jump line="500" column="7" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
-      <jump line="638" column="0" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
-      <jump line="543" column="2" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
-      <jump line="537" column="0" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
-      <jump line="601" column="10" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
-      <jump line="223" column="17" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
-      <jump line="259" column="25" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
-      <jump line="260" column="25" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
-      <jump line="261" column="26" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
-      <jump line="262" column="25" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="13" column="21" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Shop.kt" />
       <jump line="2" column="44" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Shop.kt" />
@@ -1977,6 +1968,19 @@
       <jump line="127" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="167" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="253" column="88" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="50" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="314" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="346" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="355" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="356" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="361" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="347" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="656" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="651" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="658" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="47" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="64" column="25" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="275" column="17" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2000,52 +2004,52 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>オーダー</text>
+        <text encoding="base64">XDxzdG9wRmxhZ1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oKQo=</text>
+      <register name="0" type="4">
+        <text>it.messageContent.contains(key)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYXN0U2VuZCA9IE1vbWVudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc3RvcEV4aXN0cyA9IGZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9tZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgoMTAwMCAqIDYwICogbWFpbldhaXRUaW1lIC8gMikudG9Mb25nKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBjaGVja1dvcmRzLmZvckVhY2ggewogICAgICAgICAgICBpZiAoaXQuY29udGFpbnMoIuWBnOatoiIpKQogICAgICAgICAgICAgICAgc3RvcEV4aXN0cyA9IHRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0b3BGbGFnKQogICAgICAgICAgICAgICAgYXBpLmNsZWFyT3JkZXIoKQo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzbGFja01lc3NhZ2Uuc2VuZCgiKuaQjeebiirjgIAgJHtwb3NpdGlvbkxpc3QuZ2V0VG90YWxQbmwoKS50b0ludCgpfVxuKue2reaMgeeOhyogJHsoYXBpLmdldENvbGxhdGVyYWwoKS5rZWVwUmF0ZSAqIDEwMCkudG9JbnQoKX1cbirjgrXjgqTjgroqICR7cG9zaXRpb25MaXN0LmdldFNpemVUb3RhbCgpfVxuJHtNb21lbnQoKS5mb3JtYXQoInl5eXkvTU0vZGQgSEg6bW0iKX0iLCAiKuaQjeebiioiKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcmVzdGFydEV4aXN0cyA9IGZhbHNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzbGFja01lc3NhZ2Uuc2VuZCgi6LK344GE5L6h5qC8IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFrZVN0ZXBDbG9zZU9yZGVyKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xhY2tNZXNzYWdlLmRlbGV0ZSgi5YaN6ZaLIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xhY2tNZXNzYWdlLmRlbGV0ZSgi5YGcIOatoiDkuK0iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>オーダー</last-search>
+      <last-search encoding="base64">XDxzdG9wRmxhZ1w+</last-search>
       <last-offset />
-      <last-pattern>オーダー</last-pattern>
+      <last-pattern encoding="base64">XDxzdG9wRmxhZ1w+</last-pattern>
       <last-replace>'beforeload'</last-replace>
       <last-substitute>body</last-substitute>
       <last-dir>1</last-dir>
@@ -2053,9 +2057,6 @@
     </search>
     <history>
       <history-search>
-        <entry>deb</entry>
-        <entry>bene</entry>
-        <entry>keep</entry>
         <entry>push</entry>
         <entry>!!</entry>
         <entry>,</entry>
@@ -2073,10 +2074,11 @@
         <entry>slack</entry>
         <entry encoding="base64">XDxsYXN0UG9zdGlvblNpemVcPg==</entry>
         <entry>オーダー</entry>
+        <entry encoding="base64">XDxjaGVja0Nsb3NlQ291bnRlclw+</entry>
+        <entry encoding="base64">XDxjaGVja0Nsb3NlT3JkZXJcPg==</entry>
+        <entry encoding="base64">XDxzdG9wRmxhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>16</entry>
-        <entry>38</entry>
         <entry>248</entry>
         <entry>41</entry>
         <entry>46</entry>
@@ -2091,9 +2093,11 @@
         <entry>127,163d</entry>
         <entry>473</entry>
         <entry>19</entry>
-        <entry>1</entry>
         <entry>104</entry>
         <entry>15</entry>
+        <entry>1</entry>
+        <entry encoding="base64">JzwsJz40Ng==</entry>
+        <entry>358</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
