@@ -384,12 +384,12 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1525250693632">
-        <mark key="'" line="288" column="24" />
-        <mark key="[" line="288" column="24" />
-        <mark key="]" line="288" column="36" />
-        <mark key="." line="288" column="36" />
-        <mark key="^" line="288" column="36" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1525401244235">
+        <mark key="'" line="279" column="8" />
+        <mark key="[" line="282" column="8" />
+        <mark key="]" line="282" column="8" />
+        <mark key="." line="282" column="8" />
+        <mark key="^" line="324" column="35" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1524532450311">
         <mark key="[" line="60" column="36" />
@@ -539,12 +539,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" timestamp="1524990588189">
-        <mark key="'" line="273" column="24" />
-        <mark key="[" line="190" column="34" />
-        <mark key="]" line="191" column="23" />
-        <mark key="." line="191" column="23" />
-        <mark key="^" line="191" column="23" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" timestamp="1525401662798">
+        <mark key="'" line="279" column="24" />
+        <mark key="[" line="269" column="33" />
+        <mark key="]" line="270" column="45" />
+        <mark key="." line="270" column="45" />
+        <mark key="^" line="270" column="45" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/TradeController.kt" timestamp="1522163214626">
         <mark key="'" line="18" column="48" />
@@ -1921,7 +1921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="134" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitflyerPubNub.kt" />
       <jump line="62" column="35" filename="$USER_HOME$/git/coinman_parent/slack/pom.xml" />
       <jump line="85" column="22" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="91" column="18" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -2021,6 +2020,7 @@
       <jump line="385" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
       <jump line="284" column="28" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="286" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="279" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2044,60 +2044,59 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>boardData</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxib2FyZERhdGFcPg==</text>
+        <text encoding="base64">XDxtYWtlT3JkZXJGcm9tQm9hcmRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxsaT48YSBocmVmPSIvc2FsZXMvaW5kZXgiPuWjsuS4iueiuuiqjTwvYT48L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYm9hcmREYXRhLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocm93YWJsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29weUJvYXJkRGF0YS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmEK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmEK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAodHJ1ZSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6ZW1wbG95ZWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYm9hcmREYXRhLgo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29weUJvYXJkRGF0YS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoYmkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA6ZW1wbG95ZWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxib2FyZERhdGFcPg==</last-search>
+      <last-search encoding="base64">XDxtYWtlT3JkZXJGcm9tQm9hcmRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxib2FyZERhdGFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtYWtlT3JkZXJGcm9tQm9hcmRcPg==</last-pattern>
       <last-replace>'beforeload'</last-replace>
       <last-substitute>body</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dia</entry>
         <entry>att</entry>
         <entry encoding="base64">XDxjcmVhdGUxTWludXRlc1w+</entry>
         <entry encoding="base64">XDx0cmFkZU1hbmFnZW1lbnRTZXJ2aWNlXD4=</entry>
@@ -2117,9 +2116,9 @@
         <entry>with</entry>
         <entry encoding="base64">XDx3aXRoaG9sZGluZ19jYXJkX3NhdmVkXD4=</entry>
         <entry encoding="base64">XDxib2FyZERhdGFcPg==</entry>
+        <entry encoding="base64">XDxtYWtlT3JkZXJGcm9tQm9hcmRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>41</entry>
         <entry>46</entry>
         <entry>21,31y</entry>
         <entry>21,31d</entry>
@@ -2138,6 +2137,7 @@
         <entry>358</entry>
         <entry>55</entry>
         <entry>1</entry>
+        <entry>262</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
