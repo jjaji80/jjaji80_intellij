@@ -384,12 +384,12 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1525401244235">
-        <mark key="'" line="279" column="8" />
-        <mark key="[" line="282" column="8" />
-        <mark key="]" line="282" column="8" />
-        <mark key="." line="282" column="8" />
-        <mark key="^" line="324" column="35" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1525432355248">
+        <mark key="'" line="166" column="40" />
+        <mark key="[" line="281" column="28" />
+        <mark key="]" line="281" column="28" />
+        <mark key="." line="281" column="28" />
+        <mark key="^" line="281" column="28" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1524532450311">
         <mark key="[" line="60" column="36" />
@@ -1921,8 +1921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="178" column="40" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="179" column="40" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="187" column="36" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="191" column="30" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -2021,6 +2019,8 @@
       <jump line="54" column="151" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitFlyerJSONRPC.kt" />
       <jump line="55" column="87" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitFlyerJSONRPC.kt" />
       <jump line="65" column="79" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitFlyerJSONRPC.kt" />
+      <jump line="62" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="166" column="40" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2044,10 +2044,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>FX_BTC_JPY</text>
+        <text>01</text>
       </register>
       <register name="/" type="4">
-        <text>FX</text>
+        <text>0.01</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxsaT48YSBocmVmPSIvc2FsZXMvaW5kZXgiPuWjsuS4iueiuuiqjTwvYT48L2xpPgo=</text>
@@ -2083,13 +2083,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmEK</text>
       </register>
       <register name=":" type="4">
-        <text>36</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>FX</last-search>
+      <last-search>0.01</last-search>
       <last-offset />
-      <last-pattern>FX</last-pattern>
+      <last-pattern>0.01</last-pattern>
       <last-replace>productCode</last-replace>
       <last-substitute>PRODUCT_CODE</last-substitute>
       <last-dir>1</last-dir>
@@ -2097,7 +2097,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sleep</entry>
         <entry encoding="base64">XDxhcGlcPg==</entry>
         <entry>slack</entry>
         <entry encoding="base64">XDxsYXN0UG9zdGlvblNpemVcPg==</entry>
@@ -2117,6 +2116,7 @@
         <entry>PRODUCT_CODE</entry>
         <entry encoding="base64">XDxsaWdodG5pbmdfYm9hcmRfRlhfQlRDX0pQWVw+</entry>
         <entry>FX</entry>
+        <entry>0.01</entry>
       </history-search>
       <history-cmd>
         <entry>21,31d</entry>
@@ -2136,9 +2136,9 @@
         <entry>55</entry>
         <entry>1</entry>
         <entry>262</entry>
-        <entry>w</entry>
         <entry>%s/PRODUCT_CODE/productCode/g</entry>
         <entry>36</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
