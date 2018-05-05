@@ -384,12 +384,12 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1525463011869">
-        <mark key="'" line="42" column="42" />
-        <mark key="[" line="65" column="27" />
-        <mark key="]" line="66" column="29" />
-        <mark key="." line="66" column="29" />
-        <mark key="^" line="66" column="29" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1525541839354">
+        <mark key="'" line="522" column="39" />
+        <mark key="[" line="453" column="32" />
+        <mark key="]" line="453" column="32" />
+        <mark key="." line="453" column="32" />
+        <mark key="^" line="453" column="32" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1524532450311">
         <mark key="[" line="60" column="36" />
@@ -1921,13 +1921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="40" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="187" column="36" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="191" column="30" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="265" column="28" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="276" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="281" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="282" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="373" column="36" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="388" column="32" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="423" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -2021,6 +2014,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="42" column="42" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="14" column="8" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitFlyerJSONRPC.kt" />
+      <jump line="676" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="204" column="56" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="209" column="40" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="211" column="40" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="213" column="40" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="478" column="58" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="522" column="39" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2047,7 +2047,7 @@
         <text encoding="base64">IH0=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYXN0R2V0RGF0YVw+</text>
+        <text>0.5</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBiaXRGbHllckpTT05SUEMgPSBCaXRGbHllckpTT05SUEMoZG9UcmFkZU1hbmFnZW1lbnQgPSBkb1NhdmUsIGJpdEZseWVyUlBDRXJyb3JMaXN0bmVyID0gdGhpcykK</text>
@@ -2087,9 +2087,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYXN0R2V0RGF0YVw+</last-search>
+      <last-search>0.5</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYXN0R2V0RGF0YVw+</last-pattern>
+      <last-pattern>0.5</last-pattern>
       <last-replace>productCode</last-replace>
       <last-substitute>PRODUCT_CODE</last-substitute>
       <last-dir>1</last-dir>
@@ -2097,8 +2097,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcGlcPg==</entry>
-        <entry>slack</entry>
         <entry encoding="base64">XDxsYXN0UG9zdGlvblNpemVcPg==</entry>
         <entry>オーダー</entry>
         <entry encoding="base64">XDxjaGVja0Nsb3NlQ291bnRlclw+</entry>
@@ -2117,6 +2115,8 @@
         <entry>0.01</entry>
         <entry>JSON</entry>
         <entry encoding="base64">XDxsYXN0R2V0RGF0YVw+</entry>
+        <entry>0.05</entry>
+        <entry>0.5</entry>
       </history-search>
       <history-cmd>
         <entry>21,31d</entry>
