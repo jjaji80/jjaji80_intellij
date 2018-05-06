@@ -350,7 +350,7 @@
       <file name="/tickers [coinman@red-mine.net]" timestamp="1524955185492">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/coincheck_trades [coinman@red-mine.net]" timestamp="1525640065623">
+      <file name="/coincheck_trades [coinman@red-mine.net]" timestamp="1525640292613">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ex2/app/mailers/entry_mailer.rb" timestamp="1523612723290">
@@ -816,11 +816,11 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525640084740">
+      <file name="/Dummy.txt" timestamp="1525641153571">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/aboutPay.html" timestamp="1523871184218">
         <mark key="[" line="82" column="33" />
@@ -953,7 +953,7 @@
         <mark key="." line="246" column="46" />
         <mark key="^" line="184" column="35" />
       </file>
-      <file name="/coincheck_1minutes [coinman@red-mine.net]" timestamp="1525640063994">
+      <file name="/coincheck_1minutes [coinman@red-mine.net]" timestamp="1525640291832">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitFlyerRPCErrorListner.kt" timestamp="1525241283435">
@@ -1820,7 +1820,7 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="15" column="51" />
       </file>
-      <file name="/individual_note_category_templates [ora@localhost]" timestamp="1525640072775">
+      <file name="/individual_note_category_templates [ora@localhost]" timestamp="1525640297757">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/OraApplication.kt" timestamp="1523265511687">
@@ -1835,11 +1835,12 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/git/ora/pom.xml" timestamp="1524447814393">
-        <mark key="[" line="124" column="21" />
-        <mark key="]" line="129" column="20" />
-        <mark key="." line="129" column="20" />
-        <mark key="^" line="129" column="20" />
+      <file name="$USER_HOME$/git/ora/pom.xml" timestamp="1525640485740">
+        <mark key="'" line="75" column="20" />
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+        <mark key="^" line="25" column="29" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/bbs/detail.html" timestamp="1522284480016">
         <mark key="'" line="60" column="69" />
@@ -1921,7 +1922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="373" column="36" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="388" column="32" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="423" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="236" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -2021,6 +2021,7 @@
       <jump line="213" column="40" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="478" column="58" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="522" column="39" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="75" column="20" filename="$USER_HOME$/git/ora/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2044,10 +2045,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>1.0</text>
       </register>
       <register name="/" type="4">
-        <text>0.5</text>
+        <text>stdl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBiaXRGbHllckpTT05SUEMgPSBCaXRGbHllckpTT05SUEMoZG9UcmFkZU1hbmFnZW1lbnQgPSBkb1NhdmUsIGJpdEZseWVyUlBDRXJyb3JMaXN0bmVyID0gdGhpcykK</text>
@@ -2087,18 +2088,16 @@
       </register>
     </registers>
     <search>
-      <last-search>0.5</last-search>
+      <last-search>stdl</last-search>
       <last-offset />
-      <last-pattern>0.5</last-pattern>
+      <last-pattern>stdl</last-pattern>
       <last-replace>productCode</last-replace>
       <last-substitute>PRODUCT_CODE</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsYXN0UG9zdGlvblNpemVcPg==</entry>
-        <entry>オーダー</entry>
         <entry encoding="base64">XDxjaGVja0Nsb3NlQ291bnRlclw+</entry>
         <entry encoding="base64">XDxjaGVja0Nsb3NlT3JkZXJcPg==</entry>
         <entry encoding="base64">XDxzdG9wRmxhZ1w+</entry>
@@ -2117,6 +2116,8 @@
         <entry encoding="base64">XDxsYXN0R2V0RGF0YVw+</entry>
         <entry>0.05</entry>
         <entry>0.5</entry>
+        <entry>21</entry>
+        <entry>stdl</entry>
       </history-search>
       <history-cmd>
         <entry>21,31d</entry>
