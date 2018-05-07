@@ -1628,12 +1628,12 @@
         <mark key="^" line="0" column="65" />
         <mark key="." line="0" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1524631974072">
-        <mark key="'" line="1710" column="21" />
-        <mark key="[" line="1710" column="40" />
-        <mark key="]" line="1710" column="40" />
-        <mark key="." line="1710" column="40" />
-        <mark key="^" line="1710" column="40" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1525678571557">
+        <mark key="'" line="1686" column="0" />
+        <mark key="[" line="1715" column="7" />
+        <mark key="]" line="1715" column="9" />
+        <mark key="." line="1715" column="9" />
+        <mark key="^" line="1715" column="9" />
       </file>
       <file name="$USER_HOME$/git/orasp/lib/main.dart" timestamp="1521097556064">
         <mark key="[" line="11" column="3" />
@@ -1938,7 +1938,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="35" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="239" column="35" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="83" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PositionList.kt" />
       <jump line="246" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -2038,6 +2037,7 @@
       <jump line="17" column="15" filename="$USER_HOME$/git/utel/doc/dialNoApp.puml" />
       <jump line="8" column="13" filename="$USER_HOME$/git/hms/app/models/slip.rb" />
       <jump line="44" column="14" filename="$USER_HOME$/git/hms/app/controllers/slips_controller.rb" />
+      <jump line="1686" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2061,46 +2061,58 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text>'3916'</text>
       </register>
       <register name="/" type="4">
         <text>slip_c</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YWN0aXZhdGUg5Y2g44GE5bir6Zu76KmxCg==</text>
+      <register name="0" type="4">
+        <text>SELECT id,os from users WHERE uid='yuka3';
+SELECT *
+FROM
+  bookings AS B
+  LEFT JOIN call_logs AS C ON C.booking_id = B.id
+  LEFT JOIN schedules AS S
+    ON B.schedule_id = S.id
+  INNER JOIN fortunetellers AS F ON F.id = S.fortuneteller_id
+  LEFT JOIN users AS U
+    ON U.id = B.user_id
+WHERE F.id = 84
+      and uid='yuka3'
+ORDER BY B.id DESC;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">44Kr44O844OJ5omV44GE5L+u5q2jOjo644Kr44O844OJ44Gu5rqQ5rOJ44Gq44Gp44Gu6KGo44KS5L2c5oiQCg==</text>
+        <text encoding="base64">U0VMRUNUIGlkLG9zIGZyb20gdXNlcnMgV0hFUkUgdWlkPSd5dWthMyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOnNsaXBfY291bnQK</text>
+        <text encoding="base64">c2VsZWN0ICogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">44Kr44Oz44OV44Kh44Os44Oz44K544Gu44Oq44O844K444On44Oz6Kit5a6aCg==</text>
+        <text encoding="base64">44Kr44O844OJ5omV44GE5L+u5q2jOjo644Kr44O844OJ44Gu5rqQ5rOJ44Gq44Gp44Gu6KGo44KS5L2c5oiQCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">44K344K544OG44OgIC0+IFR3aWxpbzog44Od44Kk44Oz44OI5LiN6LazeOWIhuWJjemAmuefpQo=</text>
+        <text encoding="base64">ICB2YWxpZGF0ZXMgOnNsaXBfY291bnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">5Y2g44GE5bir6Zu76KmxIC0+IFR3aWxpbzog6YCa6Kmx6ZaL5aeLCg==</text>
+        <text encoding="base64">44Kr44Oz44OV44Kh44Os44Oz44K544Gu44Oq44O844K444On44Oz6Kit5a6aCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">5Y2g44GE5bir44OW44Op44Km44K2IC0+IOWNoOOBhOW4q+mbu+ipsTog6Zu76Kmx6LW35YuVCg==</text>
+        <text encoding="base64">44K344K544OG44OgIC0+IFR3aWxpbzog44Od44Kk44Oz44OI5LiN6LazeOWIhuWJjemAmuefpQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">44K344K544OG44OgIC0+IOWNoOOBhOW4q+ODluODqeOCpuOCtjog44Om44O844K244O86YCa6Kmx6ZaL5aeL6YCa55+lCg==</text>
+        <text encoding="base64">5Y2g44GE5bir6Zu76KmxIC0+IFR3aWxpbzog6YCa6Kmx6ZaL5aeLCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">5Y2g44GE5bir44Oh44O844OrIC0+IOWNoOOBhOW4q+mbu+ipsTog6Zu76Kmx6LW35YuVCg==</text>
+        <text encoding="base64">5Y2g44GE5bir44OW44Op44Km44K2IC0+IOWNoOOBhOW4q+mbu+ipsTog6Zu76Kmx6LW35YuVCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">44K344K544OG44OgIC0+IOWNoOOBhOW4q+ODoeODvOODqzog44Om44O844K244O86YCa6Kmx6ZaL5aeL6YCa55+lCg==</text>
+        <text encoding="base64">44K344K544OG44OgIC0+IOWNoOOBhOW4q+ODluODqeOCpuOCtjog44Om44O844K244O86YCa6Kmx6ZaL5aeL6YCa55+lCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -2153,9 +2165,9 @@
         <entry>262</entry>
         <entry>%s/PRODUCT_CODE/productCode/g</entry>
         <entry>36</entry>
-        <entry>1</entry>
         <entry>9</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
