@@ -818,11 +818,11 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525726272866">
+      <file name="/Dummy.txt" timestamp="1525727924134">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="15" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/aboutPay.html" timestamp="1523871184218">
         <mark key="[" line="82" column="33" />
@@ -1218,6 +1218,9 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="42" />
       </file>
+      <file name="/messages [ora@localhost]" timestamp="1525727747957">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/news/user/recommend/DefaultFollowRecommender.java" timestamp="1519896262547">
         <mark key="[" line="293" column="15" />
         <mark key="]" line="293" column="19" />
@@ -1260,6 +1263,9 @@
         <mark key="]" line="171" column="24" />
         <mark key="." line="171" column="24" />
         <mark key="^" line="171" column="24" />
+      </file>
+      <file name="/forums [ora@localhost]" timestamp="1525727747806">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" timestamp="1523058625029">
         <mark key="'" line="0" column="0" />
@@ -1866,9 +1872,9 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/git/ora/pom.xml" timestamp="1525640485740">
-        <mark key="'" line="75" column="20" />
-        <mark key="[" line="25" column="28" />
+      <file name="$USER_HOME$/git/ora/pom.xml" timestamp="1525727856007">
+        <mark key="'" line="121" column="33" />
+        <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="29" />
         <mark key="." line="25" column="29" />
         <mark key="^" line="25" column="29" />
@@ -1948,7 +1954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="70" column="30" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="71" column="30" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="606" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -2048,6 +2053,7 @@
       <jump line="339" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="102" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="653" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="121" column="33" filename="$USER_HOME$/git/ora/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2071,28 +2077,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MTAwMDAg</text>
+        <text>1.0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFubmVsQnJlYWtPdXRGbGFnXD4=</text>
+        <text>41</text>
       </register>
       <register name="0" type="4">
-        <text>setChannelBreakOutInformation</text>
+        <text>1.2.21</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbEJyZWFrT3V0RmxhZyA9IGZhbHNlCg==</text>
+        <text encoding="base64">a290bGlu44Gu44OQ44O844K444On44Oz44Ki44OD44OXCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocmVhZCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbEJyZWFrT3V0RmxhZyA9IGZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocmVhZCB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCkK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
@@ -2101,22 +2107,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBub3dQcmljZSA9IHByaWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBub3dQcmljZSA9IDAuMAo=</text>
+        <text encoding="base64">ICAgICAgICBub3dQcmljZSA9IHByaWNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFubmVsQnJlYWtPdXRGbGFnXD4=</last-search>
+      <last-search>41</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFubmVsQnJlYWtPdXRGbGFnXD4=</last-pattern>
+      <last-pattern>41</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -2124,7 +2130,6 @@
     </search>
     <history>
       <history-search>
-        <entry>FX</entry>
         <entry>0.01</entry>
         <entry>JSON</entry>
         <entry encoding="base64">XDxsYXN0R2V0RGF0YVw+</entry>
@@ -2144,6 +2149,7 @@
         <entry encoding="base64">XDxyYW5kb21cPg==</entry>
         <entry encoding="base64">XDxub3dQcmljZVw+</entry>
         <entry encoding="base64">XDxjaGFubmVsQnJlYWtPdXRGbGFnXD4=</entry>
+        <entry>41</entry>
       </history-search>
       <history-cmd>
         <entry>20,29d</entry>
