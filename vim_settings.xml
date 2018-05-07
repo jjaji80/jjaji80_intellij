@@ -1872,10 +1872,10 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/git/ora/pom.xml" timestamp="1525727856007">
+      <file name="$USER_HOME$/git/ora/pom.xml" timestamp="1525729668113">
         <mark key="'" line="121" column="33" />
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="29" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="47" />
         <mark key="." line="25" column="29" />
         <mark key="^" line="25" column="29" />
       </file>
@@ -2082,8 +2082,8 @@
       <register name="/" type="4">
         <text>41</text>
       </register>
-      <register name="0" type="4">
-        <text>1.2.21</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8a290bGluLnZlcnNpb24+MS4yLjIxPC9rb3RsaW4udmVyc2lvbj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">a290bGlu44Gu44OQ44O844K444On44Oz44Ki44OD44OXCg==</text>
