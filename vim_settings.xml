@@ -618,8 +618,10 @@
         <mark key="." line="26" column="57" />
         <mark key="^" line="26" column="57" />
       </file>
-      <file name="$USER_HOME$/git/hms/app/models/slip.rb" timestamp="1525676281928">
-        <mark key="'" line="8" column="13" />
+      <file name="$USER_HOME$/git/hms/app/models/slip.rb" timestamp="1525677015396">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/resources/application.properties" timestamp="1520560591846">
         <mark key="[" line="7" column="48" />
@@ -816,11 +818,11 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525653728126">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="4" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="1" column="4" />
+      <file name="/Dummy.txt" timestamp="1525677165495">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/aboutPay.html" timestamp="1523871184218">
         <mark key="[" line="82" column="33" />
@@ -2059,7 +2061,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zml4ZWQg</text>
+        <text>1.0</text>
       </register>
       <register name="/" type="4">
         <text>slip_c</text>
@@ -2068,34 +2070,34 @@
         <text encoding="base64">YWN0aXZhdGUg5Y2g44GE5bir6Zu76KmxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">44Kr44Oz44OV44Kh44Os44Oz44K544Gu44Oq44O844K444On44Oz6Kit5a6aCg==</text>
+        <text encoding="base64">44Kr44O844OJ5omV44GE5L+u5q2jOjo644Kr44O844OJ44Gu5rqQ5rOJ44Gq44Gp44Gu6KGo44KS5L2c5oiQCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">44K344K544OG44OgIC0+IFR3aWxpbzog44Od44Kk44Oz44OI5LiN6LazeOWIhuWJjemAmuefpQo=</text>
+        <text encoding="base64">ICB2YWxpZGF0ZXMgOnNsaXBfY291bnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">5Y2g44GE5bir6Zu76KmxIC0+IFR3aWxpbzog6YCa6Kmx6ZaL5aeLCg==</text>
+        <text encoding="base64">44Kr44Oz44OV44Kh44Os44Oz44K544Gu44Oq44O844K444On44Oz6Kit5a6aCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">5Y2g44GE5bir44OW44Op44Km44K2IC0+IOWNoOOBhOW4q+mbu+ipsTog6Zu76Kmx6LW35YuVCg==</text>
+        <text encoding="base64">44K344K544OG44OgIC0+IFR3aWxpbzog44Od44Kk44Oz44OI5LiN6LazeOWIhuWJjemAmuefpQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">44K344K544OG44OgIC0+IOWNoOOBhOW4q+ODluODqeOCpuOCtjog44Om44O844K244O86YCa6Kmx6ZaL5aeL6YCa55+lCg==</text>
+        <text encoding="base64">5Y2g44GE5bir6Zu76KmxIC0+IFR3aWxpbzog6YCa6Kmx6ZaL5aeLCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">5Y2g44GE5bir44Oh44O844OrIC0+IOWNoOOBhOW4q+mbu+ipsTog6Zu76Kmx6LW35YuVCg==</text>
+        <text encoding="base64">5Y2g44GE5bir44OW44Op44Km44K2IC0+IOWNoOOBhOW4q+mbu+ipsTog6Zu76Kmx6LW35YuVCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">44K344K544OG44OgIC0+IOWNoOOBhOW4q+ODoeODvOODqzog44Om44O844K244O86YCa6Kmx6ZaL5aeL6YCa55+lCg==</text>
+        <text encoding="base64">44K344K544OG44OgIC0+IOWNoOOBhOW4q+ODluODqeOCpuOCtjog44Om44O844K244O86YCa6Kmx6ZaL5aeL6YCa55+lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VHdpbGlvIC0+IOOCt+OCueODhuODoDog44Om44O844K244O86YCa6Kmx6ZaL5aeL6YCa55+lCg==</text>
+        <text encoding="base64">5Y2g44GE5bir44Oh44O844OrIC0+IOWNoOOBhOW4q+mbu+ipsTog6Zu76Kmx6LW35YuVCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWN0aXZhdGUg5Y2g44GE5bir6Zu76KmxCg==</text>
+        <text encoding="base64">44K344K544OG44OgIC0+IOWNoOOBhOW4q+ODoeODvOODqzog44Om44O844K244O86YCa6Kmx6ZaL5aeL6YCa55+lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2134,7 +2136,6 @@
         <entry>slip_c</entry>
       </history-search>
       <history-cmd>
-        <entry>21,31d</entry>
         <entry>54,62d</entry>
         <entry>20,29d</entry>
         <entry>67,75d</entry>
@@ -2153,6 +2154,7 @@
         <entry>%s/PRODUCT_CODE/productCode/g</entry>
         <entry>36</entry>
         <entry>1</entry>
+        <entry>9</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
