@@ -384,12 +384,13 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1525680433487">
-        <mark key="'" line="72" column="20" />
-        <mark key="[" line="698" column="34" />
-        <mark key="]" line="698" column="35" />
-        <mark key="." line="698" column="35" />
-        <mark key="^" line="698" column="35" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1525682477563">
+        <mark key="a" line="728" column="12" />
+        <mark key="'" line="102" column="12" />
+        <mark key="[" line="741" column="100" />
+        <mark key="]" line="741" column="117" />
+        <mark key="." line="741" column="117" />
+        <mark key="^" line="741" column="117" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1524532450311">
         <mark key="[" line="60" column="36" />
@@ -1723,11 +1724,11 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PositionList.kt" timestamp="1525018612724">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PositionList.kt" timestamp="1525680545154">
         <mark key="'" line="82" column="8" />
-        <mark key="[" line="82" column="3" />
-        <mark key="]" line="82" column="3" />
-        <mark key="." line="82" column="3" />
+        <mark key="[" line="8" column="102" />
+        <mark key="]" line="8" column="102" />
+        <mark key="." line="8" column="102" />
         <mark key="^" line="82" column="3" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/pom.xml" timestamp="1524961599461">
@@ -1938,12 +1939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="577" column="30" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
-      <jump line="473" column="19" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
-      <jump line="474" column="20" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
-      <jump line="65" column="42" filename="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" />
-      <jump line="59" column="108" filename="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" />
       <jump line="61" column="108" filename="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" />
       <jump line="71" column="133" filename="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" />
       <jump line="73" column="133" filename="$MAVEN_REPOSITORY$/com/ullink/slack/simpleslackapi/1.2.0/simpleslackapi-1.2.0-sources.jar!/com/ullink/slack/simpleslackapi/SlackSession.java" />
@@ -2038,6 +2033,12 @@
       <jump line="87" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="714" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="72" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="696" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="706" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="103" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="610" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="727" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="102" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2061,64 +2062,52 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>'3916'</text>
+        <text encoding="base64">bG93IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWluXD4=</text>
+        <text encoding="base64">XDxjaGFubmVsQnJlYWtPdXRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>SELECT id,os from users WHERE uid='yuka3';
-SELECT *
-FROM
-  bookings AS B
-  LEFT JOIN call_logs AS C ON C.booking_id = B.id
-  LEFT JOIN schedules AS S
-    ON B.schedule_id = S.id
-  INNER JOIN fortunetellers AS F ON F.id = S.fortuneteller_id
-  LEFT JOIN users AS U
-    ON U.id = B.user_id
-WHERE F.id = 84
-      and uid='yuka3'
-ORDER BY B.id DESC;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG5vd1NpemUgPSBwb3NpdGlvbkxpc3QucG9zaXRpb25MaXN0LnNpemUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZihkYXRhWzBdLmxhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYobWluIT1udWxsKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGkK</text>
+        <text encoding="base64">ICAgICAgICBzbGFja01lc3NhZ2Uuc2VuZChtZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUIGlkLG9zIGZyb20gdXNlcnMgV0hFUkUgdWlkPSd5dWthMyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ha2VTdGVwQ2xvc2VPcmRlcigpCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">44Kr44O844OJ5omV44GE5L+u5q2jOjo644Kr44O844OJ44Gu5rqQ5rOJ44Gq44Gp44Gu6KGo44KS5L2c5oiQCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG5vd1NpemUgPSBwb3NpdGlvbkxpc3QucG9zaXRpb25MaXN0LnNpemUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOnNsaXBfY291bnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">44Kr44Oz44OV44Kh44Os44Oz44K544Gu44Oq44O844K444On44Oz6Kit5a6aCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBpLmNsZWFyT3JkZXIoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">44K344K544OG44OgIC0+IFR3aWxpbzog44Od44Kk44Oz44OI5LiN6LazeOWIhuWJjemAmuefpQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYocG9zaXRpb25MaXN0LikK</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWluXD4=</last-search>
+      <last-search encoding="base64">XDxjaGFubmVsQnJlYWtPdXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWluXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFubmVsQnJlYWtPdXRcPg==</last-pattern>
       <last-replace>productCode</last-replace>
       <last-substitute>PRODUCT_CODE</last-substitute>
       <last-dir>1</last-dir>
@@ -2126,9 +2115,6 @@ ORDER BY B.id DESC;</text>
     </search>
     <history>
       <history-search>
-        <entry>with</entry>
-        <entry encoding="base64">XDx3aXRoaG9sZGluZ19jYXJkX3NhdmVkXD4=</entry>
-        <entry encoding="base64">XDxib2FyZERhdGFcPg==</entry>
         <entry encoding="base64">XDxtYWtlT3JkZXJGcm9tQm9hcmRcPg==</entry>
         <entry>LongSer</entry>
         <entry encoding="base64">XDxGWF9CVENfSlBZXD4=</entry>
@@ -2146,6 +2132,9 @@ ORDER BY B.id DESC;</text>
         <entry encoding="base64">XDxzbGlwX2NvdW50XD4=</entry>
         <entry>slip_c</entry>
         <entry encoding="base64">XDxtYWluXD4=</entry>
+        <entry>loss</entry>
+        <entry encoding="base64">XDxsb3NzQ3V0XD4=</entry>
+        <entry encoding="base64">XDxjaGFubmVsQnJlYWtPdXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>54,62d</entry>
@@ -2166,8 +2155,8 @@ ORDER BY B.id DESC;</text>
         <entry>%s/PRODUCT_CODE/productCode/g</entry>
         <entry>36</entry>
         <entry>9</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
