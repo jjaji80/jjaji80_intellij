@@ -384,11 +384,11 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1525770122076">
-        <mark key="'" line="2" column="15" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1525771799496">
+        <mark key="'" line="748" column="12" />
+        <mark key="[" line="748" column="12" />
+        <mark key="]" line="748" column="12" />
+        <mark key="." line="748" column="12" />
         <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1524532450311">
@@ -1956,8 +1956,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="78" column="41" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="35" column="81" filename="$USER_HOME$/git/coinman_parent/slack/src/main/kotlin/coinman/SlackMessage.kt" />
       <jump line="28" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="43" column="31" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -2056,6 +2054,8 @@
       <jump line="1715" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="1718" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="1719" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="3" column="23" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="748" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2079,10 +2079,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>ポイント</text>
+        <text encoding="base64">JiYg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFubmVsQnJlYWtPdXRTaXplXD4=</text>
+        <text encoding="base64">XDxjaGFubmVsQnJlYWtPdXRUYXJnZXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvaW5tYW4uc2VydmljZS5QdXNoU2VydmljZQo=</text>
@@ -2122,9 +2122,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFubmVsQnJlYWtPdXRTaXplXD4=</last-search>
+      <last-search encoding="base64">XDxjaGFubmVsQnJlYWtPdXRUYXJnZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFubmVsQnJlYWtPdXRTaXplXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFubmVsQnJlYWtPdXRUYXJnZXRcPg==</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -2150,8 +2150,8 @@
         <entry encoding="base64">XDxub3dQcmljZVw+</entry>
         <entry encoding="base64">XDxjaGFubmVsQnJlYWtPdXRGbGFnXD4=</entry>
         <entry>41</entry>
-        <entry encoding="base64">XDxjaGFubmVsQnJlYWtPdXRUYXJnZXRcPg==</entry>
         <entry encoding="base64">XDxjaGFubmVsQnJlYWtPdXRTaXplXD4=</entry>
+        <entry encoding="base64">XDxjaGFubmVsQnJlYWtPdXRUYXJnZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>20,29d</entry>
