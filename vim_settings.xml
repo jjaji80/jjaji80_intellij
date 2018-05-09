@@ -413,6 +413,12 @@
         <mark key="^" line="14" column="61" />
         <mark key="." line="14" column="61" />
       </file>
+      <file name="$USER_HOME$/git/utel/doc/dialNewWithRedirect.puml" timestamp="1525843979553">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="44" column="19" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="/users [redmine_default@red-mine.net]" timestamp="1524963454925">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1132,6 +1138,7 @@
         <mark key="^" line="26" column="138" />
         <mark key="." line="26" column="138" />
       </file>
+      <file name="$USER_HOME$/git/utel/doc/dial.puml" timestamp="1525843629335" />
       <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201804030310__add_medicine.sql" timestamp="1522740419793">
         <mark key="'" line="21" column="26" />
         <mark key="[" line="28" column="35" />
@@ -2078,43 +2085,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>callate</text>
+        <text>ポイント不足通知</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVjdXRlRXhwaXJlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvaW5tYW4udXRpbC5hc1N0cmluZwo=</text>
+        <text encoding="base64">VHdpbGlvIC0+IOODpuODvOOCtuODvOmbu+ipsTog44Od44Kk44Oz44OI5LiN6Laz6YCa55+lClR3aWxpbyAtPiDljaDjgYTluKvpm7voqbE6IOODneOCpOODs+ODiOS4jei2s+mAmuefpQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwcmludGxuKGFwaS5vcGVuUG9zaXRpb25zLmdldEF2ZXJhZ2UoKSkKLy8gICAgICAgICAgICBwcmludGxuKGFwaS5vcGVuUG9zaXRpb25zLmdldFRvdGFsUG5sKCkpCi8vICAgICAgICAgICAgYXBpLm1ha2VPcmRlcihPcmRlcigpKQo=</text>
+        <text encoding="base64">44Om44O844K244O844Ki44OX44OqIC0+IFR3aWxpbzogPHM+6YCa6Kmx6ZaL5aeLPC9zPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBsb2cuZGVidWcoYXBpLm9wZW5Qb3NpdGlvbnMuc2lkZSgpKQo=</text>
+        <text encoding="base64">ZGVhY3RpdmF0ZSDljaDjgYTluKvpm7voqbEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gQ29sbGF0ZXJhbEhpc3RvcnlMaXN0KGxpc3QpCg==</text>
+        <text encoding="base64">5Y2g44GE5bir44Ki44OX44OqIC0+IOWNoOOBhOW4q+mbu+ipsTog6Zu76Kmx6LW35YuVCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">5Y2g44GE5bir44Ki44OX44OqIC0+IFR3aWxpbzogPHM+6YCa6Kmx6ZaL5aeLPC9zPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWN0aXZhdGUg5Y2g44GE5bir6Zu76KmxCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gQ29sbGF0ZXJhbEhpc3RvcnlMaXN0KGxpc3QpCg==</text>
+        <text encoding="base64">44K344K544OG44OgIC0+IOWNoOOBhOW4q+OCouODl+ODqjog44Om44O844K244O86YCa6Kmx6ZaL5aeL6YCa55+lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5mb3JFYWNoIHsKICAgICAgICAgICAgICAgIGlmKE1vbWVudChpdC5kYXRlKS5kYXk8ICkKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">VHdpbGlvIC0+IOOCt+OCueODhuODoDog44Om44O844K244O86YCa6Kmx6ZaL5aeL6YCa55+lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5mb3JFYWNoIHsgCiAgICAgICAgICAgICAgICBpZihNb21lbnQoaXQuZGF0ZSkuZGF5PCApCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBwcmludGxuKGFwaS5vcGVuUG9zaXRpb25zLmdldEF2ZXJhZ2UoKSkKLy8gICAgICAgICAgICBwcmludGxuKGFwaS5vcGVuUG9zaXRpb25zLmdldFRvdGFsUG5sKCkpCi8vICAgICAgICAgICAgYXBpLm1ha2VPcmRlcihPcmRlcigpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBsb2cuZGVidWcoYXBpLm9wZW5Qb3NpdGlvbnMuc2lkZSgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
