@@ -218,7 +218,7 @@
         <mark key="." line="130" column="88" />
         <mark key="^" line="130" column="88" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1523517527162">
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1525850628742">
         <mark key="'" line="1926" column="0" />
         <mark key="[" line="7341" column="0" />
         <mark key="]" line="7364" column="1" />
@@ -601,10 +601,10 @@
         <mark key="^" line="8" column="88" />
         <mark key="." line="8" column="88" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.modal.js" timestamp="1524717575474">
-        <mark key="'" line="48" column="37" />
-        <mark key="[" line="38" column="35" />
-        <mark key="]" line="38" column="84" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.modal.js" timestamp="1525850536925">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="54" column="2" />
         <mark key="." line="38" column="84" />
         <mark key="^" line="38" column="84" />
       </file>
@@ -974,12 +974,12 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" timestamp="1524717571332">
-        <mark key="'" line="230" column="151" />
-        <mark key="[" line="246" column="46" />
-        <mark key="]" line="246" column="46" />
-        <mark key="." line="246" column="46" />
-        <mark key="^" line="184" column="35" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" timestamp="1525850870646">
+        <mark key="'" line="234" column="151" />
+        <mark key="[" line="158" column="18" />
+        <mark key="]" line="158" column="29" />
+        <mark key="." line="158" column="29" />
+        <mark key="^" line="158" column="29" />
       </file>
       <file name="/coincheck_1minutes [coinman@red-mine.net]" timestamp="1525838310351">
         <mark key="[" line="0" column="0" />
@@ -1968,7 +1968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="16" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="11" column="95" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitFlyerJSONRPC.kt" />
       <jump line="43" column="4" filename="$USER_HOME$/git/hms/app/controllers/employee_shops_controller.rb" />
@@ -2068,6 +2067,7 @@
       <jump line="85" column="22" filename="$USER_HOME$/git/utel/app/src/Shell/MoneyShell.php" />
       <jump line="100" column="26" filename="$USER_HOME$/git/utel/app/src/Shell/MoneyShell.php" />
       <jump line="160" column="13" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.modal.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2091,43 +2091,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>電話</text>
+        <text encoding="base64">PCEtLSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVjdXRlRXhwaXJlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VHdpbGlvIC0+IOODpuODvOOCtuODvOmbu+ipsTog5YiH5patCg==</text>
+        <text encoding="base64">I21vZGFsIC53cmFwIC50dGwtc2VydmljZSBzcGFuIHsKCWRpc3BsYXk6IGlubGluZS1ibG9jazsKCWNvbG9yOiAjZmM0ZDFmOwoJYmFja2dyb3VuZDogI2YyZjJmMjsKCXBhZGRpbmc6IDEycHggMjJweDsKCXBvc2l0aW9uOiByZWxhdGl2ZTsKfQoKI21vZGFsIC53cmFwIC50dGwtc2VydmljZSBzcGFuOjphZnRlciB7Cgljb250ZW50OiAnJzsKCXBvc2l0aW9uOiBhYnNvbHV0ZTsKCXRvcDogMDsKCXJpZ2h0OiAtMTBweDsKCWJvdHRvbTogMDsKCXdpZHRoOiAyMHB4OwoJYmFja2dyb3VuZDogI2YyZjJmMjsKCXRyYW5zZm9ybTogc2tldyggMjBkZWcgKTsKfQoKI21vZGFsIC53cmFwIC5ub3RlIHsKCWNvbG9yOiAjNTU1OwoJZm9udC1zaXplOiAxM3B4OwoJcGFkZGluZzogMDsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">44Kr44Oz44OV44Kh44Os44Oz44K544KS5L2/55So44GX44Gq44GE44OR44K/44O844Oz44KS6KiY6LyJCg==</text>
+        <text encoding="base64">CgktLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">44K344K544OG44OgIC0+IOWNoOOBhOW4q+OCouODl+ODqjog44Od44Kk44Oz44OI5LiN6LazeOWIhuWJjemAmuefpQplbmQK</text>
+        <text encoding="base64">PCEtLSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VHdpbGlvIC0+IOWNoOOBhOW4q+mbu+ipsTog5YaN5o6l57aaCg==</text>
+        <text encoding="base64">JChmdW5jdGlvbigpIHsKCSQoICcub3ZlcmxheScgKS5jbGljayggZnVuY3Rpb24oKSB7CgkJJCggJyNtb2RhbCcgKS5mYWRlT3V0KCdmYXN0Jyk7Cgl9KTsKCSQoICcuY2xvc2UnICkuY2xpY2soIGZ1bmN0aW9uKCkgewoJCSQoICcjbW9kYWwnICkuZmFkZU91dCgnZmFzdCcpOwoJfSk7CgkkKCAnYVtjbGFzcz1tb2RhbF0nICkuY2xpY2soIGZ1bmN0aW9uKCkgewoJCXZhciBjb250ZW50cyAJPSAkKHRoaXMpLmRhdGEoJ2NvbnRlbnRzJyk7CgkJdmFyIHVybCAJCT0gJCh0aGlzKS5kYXRhKCd1cmwnKTsKCQl2YXIgYm5yIAkJPSAkKHRoaXMpLmRhdGEoJ2JucicpOwoJCXZhciBibnJ3aWR0aCAJCT0gJCh0aGlzKS5kYXRhKCdibnJ3aWR0aCcpOwoJCXZhciB1cmwyIAkJPSAkKHRoaXMpLmRhdGEoJ3VybDInKTsKCQl2YXIgYm5yMiAJCT0gJCh0aGlzKS5kYXRhKCdibnIyJyk7CgkJdmFyIGJucndpZHRoMiAJCT0gJCh0aGlzKS5kYXRhKCdibnJ3aWR0aDInKTsKCQl2YXIgdXJsMyAJCT0gJCh0aGlzKS5kYXRhKCd1cmwzJyk7CgkJdmFyIGJucjMgCQk9ICQodGhpcykuZGF0YSgnYm5yMycpOwoJCXZhciBibnJ3aWR0aDMgCQk9ICQodGhpcykuZGF0YSgnYm5yd2lkdGgzJyk7CgkJdmFyIHVybDQgCQk9ICQodGhpcykuZGF0YSgndXJsNCcpOwoJCXZhciBibnI0IAkJPSAkKHRoaXMpLmRhdGEoJ2JucjQnKTsKCQl2YXIgYm5yd2lkdGg0IAkJPSAkKHRoaXMpLmRhdGEoJ2JucndkaXRoNCcpOwoJCXZhciB1cmw1IAkJPSAkKHRoaXMpLmRhdGEoJ3VybDUnKTsKCQl2YXIgYm5yNSAJCT0gJCh0aGlzKS5kYXRhKCdibnI1Jyk7CgkJdmFyIGJucndpZHRoNSAJCT0gJCh0aGlzKS5kYXRhKCdibnJ3aWR0aDUnKTsKCQl2YXIgdGl0bGUJCT0gJCh0aGlzKS5kYXRhKCd0aXRsZScpOwoJCS8vZGF0YS1ibnIg44KS5rih44GX44Gm44CBYm5yX2h0bWwg44KS5Y+W5b6XCgkJdmFyIGJucl9odG1sID0gc2V0X2JuciggdXJsLCBibnIgLGJucndpZHRoKTsKCQlibnJfaHRtbCArPSAnICcgKyBzZXRfYm5yKCB1cmwyLCBibnIyICxibnJ3aWR0aDIpOwoJCWJucl9odG1sICs9ICcgJyArIHNldF9ibnIoIHVybDMsIGJucjMgLGJucndpZHRoMyk7CgkJYm5yX2h0bWwgKz0gJyAnICsgc2V0X2JuciggdXJsNCwgYm5yNCAsYm5yd2lkdGg0KTsKCQlibnJfaHRtbCArPSAnICcgKyBzZXRfYm5yKCB1cmw1LCBibnI1ICxibnJ3aWR0aDUpOwoKCQl2YXIgbW9kYWwgCQk9ICQoICcjbW9kYWwnICk7CgkJbW9kYWwuZmluZCgnLmNvbnRlbnRzJykuaHRtbCggY29udGVudHMgKTsKCQltb2RhbC5maW5kKCcudGl0bGUnKS5odG1sKCB0aXRsZSApOwoJCW1vZGFsLmZpbmQoJy5ibnInKS5odG1sKCBibnJfaHRtbCApOwoJCW1vZGFsLmZhZGVJbignZmFzdCcpOwoJCXJldHVybiBmYWxzZTsKCX0pOwoKCWZ1bmN0aW9uIHNldF9ibnIoIHVybCwgYm5yICwgd2lkdGgpIHsKCQl2YXIgYm5yX2h0bWwgPSAnJzsKCQlpZiggYm5yICkgewoJCQlpZiggdXJsICkgYm5yX2h0bWwgPSAnPGEgaHJlZj0iJyArIHVybCArICciIHRhcmdldD0iX2JsYW5rIj4nOwoJCQlibnJfaHRtbCArPSAnPGltZyBzcmM9IicgKyBibnIgKyAnIiBhbHQ9IuODkOODiuODvCIgc3R5bGU9IndpZHRoOiAnICsgd2lkdGggKyAncHggIWltcG9ydGFudDsiPic7CgkJCWlmKCB1cmwgKSBibnJfaHRtbCArPSAnPC9hPic7CgkJfQoJCXJldHVybiBibnJfaHRtbDsKCX0KCn0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VHdpbGlvIC0+IOODpuODvOOCtuODvOmbu+ipsTog5YaN5o6l57aaCg==</text>
+        <text encoding="base64">44Kr44Oz44OV44Kh44Os44Oz44K544KS5L2/55So44GX44Gq44GE44OR44K/44O844Oz44KS6KiY6LyJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VHdpbGlvIC0+IOWNoOOBhOW4q+mbu+ipsTog44Od44Kk44Oz44OI5LiN6Laz6YCa55+lCg==</text>
+        <text encoding="base64">44K344K544OG44OgIC0+IOWNoOOBhOW4q+OCouODl+ODqjog44Od44Kk44Oz44OI5LiN6LazeOWIhuWJjemAmuefpQplbmQK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VHdpbGlvIC0+IOODpuODvOOCtuODvOmbu+ipsTog5LiA5pem5YiH5patClR3aWxpbyAtPiDljaDjgYTluKvpm7voqbE6IOS4gOaXpuWIh+aWrQpUd2lsaW8gLT4g44Om44O844K244O86Zu76KmxOiDjg53jgqTjg7Pjg4jkuI3otrPpgJrnn6UK</text>
+        <text encoding="base64">VHdpbGlvIC0+IOWNoOOBhOW4q+mbu+ipsTog5YaN5o6l57aaCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBtb25leV9tYW5hZ2VtZW50cyB3aGVyZSB1Zl9pZD0yNjQ1Owo=</text>
+        <text encoding="base64">VHdpbGlvIC0+IOODpuODvOOCtuODvOmbu+ipsTog5YaN5o6l57aaCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">44K344O844Kx44Oz44K55Zuz6L+95YqgCg==</text>
+        <text encoding="base64">VHdpbGlvIC0+IOWNoOOBhOW4q+mbu+ipsTog44Od44Kk44Oz44OI5LiN6Laz6YCa55+lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">44Om44O844K244O844Ki44OX44OqIC0+IFR3aWxpbzogPHM+6YCa6Kmx6ZaL5aeLPC9zPgo=</text>
+        <text encoding="base64">VHdpbGlvIC0+IOODpuODvOOCtuODvOmbu+ipsTog5LiA5pem5YiH5patClR3aWxpbyAtPiDljaDjgYTluKvpm7voqbE6IOS4gOaXpuWIh+aWrQpUd2lsaW8gLT4g44Om44O844K244O86Zu76KmxOiDjg53jgqTjg7Pjg4jkuI3otrPpgJrnn6UK</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
@@ -2166,7 +2166,6 @@
         <entry encoding="base64">XDxleGVjdXRlRXhwaXJlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>20,29d</entry>
         <entry>67,75d</entry>
         <entry>14</entry>
         <entry>3</entry>
@@ -2185,6 +2184,7 @@
         <entry>9</entry>
         <entry>%s/ドテン/チャンネルブレイクアウト/</entry>
         <entry>w</entry>
+        <entry>258,308d</entry>
         <entry>1</entry>
       </history-cmd>
       <history-expr />
