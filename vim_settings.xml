@@ -841,11 +841,11 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525850354078">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="1" column="16" />
+      <file name="/Dummy.txt" timestamp="1525851796069">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/aboutPay.html" timestamp="1523871184218">
         <mark key="[" line="82" column="33" />
@@ -974,10 +974,10 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" timestamp="1525850870646">
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" timestamp="1525851999365">
         <mark key="'" line="234" column="151" />
-        <mark key="[" line="158" column="18" />
-        <mark key="]" line="158" column="29" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="10" />
         <mark key="." line="158" column="29" />
         <mark key="^" line="158" column="29" />
       </file>
@@ -2091,13 +2091,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCEtLSA=</text>
+        <text>1.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVjdXRlRXhwaXJlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I21vZGFsIC53cmFwIC50dGwtc2VydmljZSBzcGFuIHsKCWRpc3BsYXk6IGlubGluZS1ibG9jazsKCWNvbG9yOiAjZmM0ZDFmOwoJYmFja2dyb3VuZDogI2YyZjJmMjsKCXBhZGRpbmc6IDEycHggMjJweDsKCXBvc2l0aW9uOiByZWxhdGl2ZTsKfQoKI21vZGFsIC53cmFwIC50dGwtc2VydmljZSBzcGFuOjphZnRlciB7Cgljb250ZW50OiAnJzsKCXBvc2l0aW9uOiBhYnNvbHV0ZTsKCXRvcDogMDsKCXJpZ2h0OiAtMTBweDsKCWJvdHRvbTogMDsKCXdpZHRoOiAyMHB4OwoJYmFja2dyb3VuZDogI2YyZjJmMjsKCXRyYW5zZm9ybTogc2tldyggMjBkZWcgKTsKfQoKI21vZGFsIC53cmFwIC5ub3RlIHsKCWNvbG9yOiAjNTU1OwoJZm9udC1zaXplOiAxM3B4OwoJcGFkZGluZzogMDsKfQo=</text>
+      <register name="0" type="4">
+        <text>/*ここは強制格納*/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CgktLT4K</text>
