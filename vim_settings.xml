@@ -595,8 +595,8 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/AppController.php" timestamp="1525927840945">
-        <mark key="'" line="37" column="10" />
+      <file name="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/AppController.php" timestamp="1525929196031">
+        <mark key="'" line="47" column="11" />
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -1913,9 +1913,11 @@
         <mark key="." line="25" column="29" />
         <mark key="^" line="25" column="29" />
       </file>
-      <file name="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/BlogController.php" timestamp="1525927910975">
-        <mark key="a" line="277" column="18" />
-        <mark key="'" line="10" column="0" />
+      <file name="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/BlogController.php" timestamp="1525930786337">
+        <mark key="'" line="38" column="35" />
+        <mark key="[" line="251" column="53" />
+        <mark key="]" line="251" column="64" />
+        <mark key="." line="256" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/bbs/detail.html" timestamp="1522284480016">
         <mark key="'" line="60" column="69" />
@@ -1996,15 +1998,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="20" filename="$USER_HOME$/git/ora/pom.xml" />
-      <jump line="17" column="15" filename="$USER_HOME$/git/utel/doc/dialNoApp.puml" />
-      <jump line="8" column="13" filename="$USER_HOME$/git/hms/app/models/slip.rb" />
-      <jump line="44" column="14" filename="$USER_HOME$/git/hms/app/controllers/slips_controller.rb" />
-      <jump line="1686" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="714" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="696" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="706" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="103" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="610" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
       <jump line="143" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -2096,6 +2089,15 @@
       <jump line="191" column="71" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/AppController.php" />
       <jump line="202" column="42" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/AppController.php" />
       <jump line="37" column="10" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/AppController.php" />
+      <jump line="279" column="27" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/BlogController.php" />
+      <jump line="851" column="34" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/BlogController.php" />
+      <jump line="858" column="34" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/BlogController.php" />
+      <jump line="906" column="19" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/BlogController.php" />
+      <jump line="38" column="35" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/BlogController.php" />
+      <jump line="78" column="18" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/AppController.php" />
+      <jump line="30" column="21" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/AppController.php" />
+      <jump line="34" column="21" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/AppController.php" />
+      <jump line="47" column="11" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/AppController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2119,52 +2121,52 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPnVzZXJfaWQ=</text>
+        <text>000000000</text>
       </register>
       <register name="/" type="4">
-        <text>user_id</text>
+        <text encoding="base64">XDxfQ2hlY2tTZXNzaW9uXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JHRoaXMtPlNlc3Npb24tPnJlYWQoJ3VzZXJfaWQnKQ==</text>
+        <text encoding="base64">OTk5OTk5OTk5OTkg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkdGhpcy0+YXV0b1JlbmRlciA9IGZhbHNlOwo=</text>
+        <text encoding="base64">CQllY2hvICRmaWxlbmFtZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJ29rJyk7CiAgICAgIHZhcl9kdW1wKCR0aGlzLT51c2VyX2lkKTtkaWUoKTsK</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRpbWFnZXMpO2RpZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCdvaycpOwogICAgdmFyX2R1bXAoJHRoaXMtPnVzZXJfaWQpO2RpZSgpOwo=</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkaW1hZ2VzKTtkaWUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgnb2syJyk7Cg==</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkaW1hZ2VzKTtkaWUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl2YXJfZXhwb3J0KCkK</text>
+        <text encoding="base64">ICAgIGlmKCEkdGhpcy0+dXNlcl9pZCl7CiAgICAgICR0aGlzLT51c2VyX2lkID0gJHRoaXMtPlNlc3Npb24tPnJlYWQoJ3VzZXJfaWQnKTsKICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl4ZGVidWdfdmFyX2R1bXAoKQo=</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCR0aGlzLT5TZXNzaW9uLT5yZWFkKCd1c2VyX2lkJykpO2RpZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCdvaycpOwo=</text>
+        <text encoding="base64">CQkkdGhpcy0+YXV0b1JlbmRlciA9IGZhbHNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRpbWFnZXMpO2RpZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJ29rJyk7CiAgICAgIHZhcl9kdW1wKCR0aGlzLT51c2VyX2lkKTtkaWUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRmaWxlbmFtZSA9ICd1cGxvYWRfNDU0MTc1MV8nOwo=</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCdvaycpOwogICAgdmFyX2R1bXAoJHRoaXMtPnVzZXJfaWQpO2RpZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>user_id</last-search>
+      <last-search encoding="base64">XDxfQ2hlY2tTZXNzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>user_id</last-pattern>
+      <last-pattern encoding="base64">XDxfQ2hlY2tTZXNzaW9uXD4=</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -2172,10 +2174,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxub3dQcmljZVw+</entry>
-        <entry encoding="base64">XDxjaGFubmVsQnJlYWtPdXRGbGFnXD4=</entry>
-        <entry>41</entry>
-        <entry encoding="base64">XDxjaGFubmVsQnJlYWtPdXRUYXJnZXRcPg==</entry>
         <entry encoding="base64">XDxjaGFubmVsQnJlYWtPdXRTaXplXD4=</entry>
         <entry encoding="base64">XDxjaGFubmVsQnJlYWtPdXRcPg==</entry>
         <entry>JSON</entry>
@@ -2192,6 +2190,10 @@
         <entry encoding="base64">XDxBbWF6b25cPg==</entry>
         <entry encoding="base64">XDx1c2VyX2lkXD4=</entry>
         <entry>user_id</entry>
+        <entry>ok</entry>
+        <entry>die</entry>
+        <entry>check</entry>
+        <entry encoding="base64">XDxfQ2hlY2tTZXNzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
