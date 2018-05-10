@@ -517,6 +517,13 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="47" />
       </file>
+      <file name="$USER_HOME$/git/hms/config/locales/ja.yml" timestamp="1525935173863">
+        <mark key="'" line="346" column="8" />
+        <mark key="[" line="59" column="23" />
+        <mark key="]" line="60" column="17" />
+        <mark key="^" line="60" column="17" />
+        <mark key="." line="60" column="17" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/OthersController.kt" timestamp="1522206199576">
         <mark key="[" line="16" column="33" />
         <mark key="]" line="16" column="49" />
@@ -1630,6 +1637,12 @@
         <mark key="^" line="37" column="142" />
         <mark key="." line="5" column="35" />
       </file>
+      <file name="$USER_HOME$/git/hms/app/controllers/shops_controller.rb" timestamp="1525935131441">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="13" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/util/src/coinman/service/PushService.kt" timestamp="1520567753551">
         <mark key="[" line="12" column="93" />
         <mark key="]" line="12" column="108" />
@@ -1998,19 +2011,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="610" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
-      <jump line="143" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="148" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="194" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="262" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="87" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="30" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="735" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="738" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="46" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="646" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="29" column="54" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="758" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="336" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="346" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -2098,6 +2098,19 @@
       <jump line="30" column="21" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/AppController.php" />
       <jump line="34" column="21" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/AppController.php" />
       <jump line="47" column="11" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/AppController.php" />
+      <jump line="117" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="163" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="180" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="192" column="14" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="214" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="225" column="17" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="246" column="15" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="248" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="299" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="300" column="13" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="310" column="14" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="316" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
+      <jump line="345" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2124,49 +2137,49 @@
         <text>000000000</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfQ2hlY2tTZXNzaW9uXD4=</text>
+        <text>shop:</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">OTk5OTk5OTk5OTkg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQllY2hvICRmaWxlbmFtZTsK</text>
+        <text encoding="base64">ICAgICAgICA6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRpbWFnZXMpO2RpZSgpOwo=</text>
+        <text encoding="base64">CQllY2hvICRmaWxlbmFtZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkaW1hZ2VzKTtkaWUoKTsK</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRpbWFnZXMpO2RpZSgpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CQl2YXJfZHVtcCgkaW1hZ2VzKTtkaWUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmKCEkdGhpcy0+dXNlcl9pZCl7CiAgICAgICR0aGlzLT51c2VyX2lkID0gJHRoaXMtPlNlc3Npb24tPnJlYWQoJ3VzZXJfaWQnKTsKICAgIH0K</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkaW1hZ2VzKTtkaWUoKTsK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCR0aGlzLT5TZXNzaW9uLT5yZWFkKCd1c2VyX2lkJykpO2RpZSgpOwo=</text>
+        <text encoding="base64">ICAgIGlmKCEkdGhpcy0+dXNlcl9pZCl7CiAgICAgICR0aGlzLT51c2VyX2lkID0gJHRoaXMtPlNlc3Npb24tPnJlYWQoJ3VzZXJfaWQnKTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkdGhpcy0+YXV0b1JlbmRlciA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCR0aGlzLT5TZXNzaW9uLT5yZWFkKCd1c2VyX2lkJykpO2RpZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJ29rJyk7CiAgICAgIHZhcl9kdW1wKCR0aGlzLT51c2VyX2lkKTtkaWUoKTsK</text>
+        <text encoding="base64">CQkkdGhpcy0+YXV0b1JlbmRlciA9IGZhbHNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCdvaycpOwogICAgdmFyX2R1bXAoJHRoaXMtPnVzZXJfaWQpO2RpZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJ29rJyk7CiAgICAgIHZhcl9kdW1wKCR0aGlzLT51c2VyX2lkKTtkaWUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfQ2hlY2tTZXNzaW9uXD4=</last-search>
+      <last-search>shop:</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfQ2hlY2tTZXNzaW9uXD4=</last-pattern>
+      <last-pattern>shop:</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -2174,7 +2187,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGFubmVsQnJlYWtPdXRTaXplXD4=</entry>
         <entry encoding="base64">XDxjaGFubmVsQnJlYWtPdXRcPg==</entry>
         <entry>JSON</entry>
         <entry encoding="base64">XDxCaXRGbHllckpTT05SUENcPg==</entry>
@@ -2194,6 +2206,7 @@
         <entry>die</entry>
         <entry>check</entry>
         <entry encoding="base64">XDxfQ2hlY2tTZXNzaW9uXD4=</entry>
+        <entry>shop:</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
