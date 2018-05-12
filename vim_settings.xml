@@ -390,12 +390,12 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1525822835426">
-        <mark key="'" line="749" column="0" />
-        <mark key="[" line="749" column="0" />
-        <mark key="]" line="749" column="0" />
-        <mark key="." line="749" column="0" />
-        <mark key="^" line="728" column="58" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1526144353752">
+        <mark key="'" line="100" column="36" />
+        <mark key="[" line="109" column="12" />
+        <mark key="]" line="109" column="33" />
+        <mark key="." line="109" column="12" />
+        <mark key="^" line="109" column="11" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1524532450311">
         <mark key="[" line="60" column="36" />
@@ -851,7 +851,7 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525937042038">
+      <file name="/Dummy.txt" timestamp="1526144434656">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
@@ -2001,8 +2001,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="653" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="121" column="33" filename="$USER_HOME$/git/ora/pom.xml" />
       <jump line="732" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="742" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="743" column="25" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -2101,6 +2099,8 @@
       <jump line="8" column="9" filename="$USER_HOME$/git/hms/app/controllers/shop_daily_reports_controller.rb" />
       <jump line="35" column="9" filename="$USER_HOME$/git/hms/app/controllers/shop_daily_reports_controller.rb" />
       <jump line="45" column="18" filename="$USER_HOME$/git/hms/app/controllers/shop_daily_reports_controller.rb" />
+      <jump line="757" column="14" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="100" column="36" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2124,28 +2124,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ezpzcWwgPT4gImVudHJ5X2RhdGUgZGVzYyIgfQ==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>shop</text>
+        <text>1</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbmYubGlzdC5zb3J0aW5nID0gW3s6ZW50cnlfZGF0ZT0+IDpkZXNjfV0K</text>
+      <register name="0" type="4">
+        <text>lastPostionSize = 0.0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgY29uZi5saXN0LnNvcnRpbmcgPSBbezplbnRyeV9kYXRlPT4gOmRlc2N9XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW5nZVByaWNlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbmYubGlzdC5zb3J0aW5nID0gezpzcWwgPT4gImVudHJ5X2RhdGUgZGVzYyIgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbEJyZWFrT3V0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbmYuY28K</text>
+        <text encoding="base64">ICAgICMgY29uZi5saXN0LnNvcnRpbmcgPSBbezplbnRyeV9kYXRlPT4gOmRlc2N9XQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbmYubGlzdC5zb3J0aW5nID0gezpzcWwgPT4gImVudHJ5X2RhdGUgZGVzYyIgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgY3VzdG9tX2ZpbmRlcl9vcHRpb25zCiAgICB7cmVvcmRlcjogJ2VudHJ5X2RhdGUgZGVzYyd9CiAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGNvbmYuY28K</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
@@ -2157,19 +2157,19 @@
         <text encoding="base64">ICBkZWYgY3VzdG9tX2ZpbmRlcl9vcHRpb25zCiAgICB7cmVvcmRlcjogJ2VudHJ5X2RhdGUgZGVzYyd9CiAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQllY2hvICRmaWxlbmFtZTsK</text>
+        <text encoding="base64">ICBkZWYgY3VzdG9tX2ZpbmRlcl9vcHRpb25zCiAgICB7cmVvcmRlcjogJ2VudHJ5X2RhdGUgZGVzYyd9CiAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>shop</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern>shop</last-pattern>
+      <last-pattern>1</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -2177,7 +2177,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCaXRGbHllckpTT05SUENcPg==</entry>
         <entry>alive</entry>
         <entry encoding="base64">PGg0</entry>
         <entry>paym</entry>
@@ -2197,6 +2196,7 @@
         <entry>shop:</entry>
         <entry>sort</entry>
         <entry>shop</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
