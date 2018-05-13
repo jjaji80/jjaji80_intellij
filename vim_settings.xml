@@ -260,7 +260,7 @@
         <mark key="^" line="39" column="10" />
         <mark key="." line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/pom.xml" timestamp="1525839580603">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/pom.xml" timestamp="1526205949290">
         <mark key="'" line="16" column="17" />
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="29" />
@@ -390,12 +390,12 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1526150971555">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1526206413202">
         <mark key="'" line="106" column="42" />
-        <mark key="[" line="109" column="12" />
-        <mark key="]" line="109" column="33" />
-        <mark key="." line="109" column="12" />
-        <mark key="^" line="109" column="11" />
+        <mark key="[" line="295" column="30" />
+        <mark key="]" line="295" column="30" />
+        <mark key="." line="295" column="30" />
+        <mark key="^" line="759" column="31" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1524532450311">
         <mark key="[" line="60" column="36" />
@@ -2123,7 +2123,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
@@ -2132,28 +2132,28 @@
         <text>lastPostionSize = 0.0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW5nZVByaWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoNjAgKiAxMDAwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbEJyZWFrT3V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgY29uZi5saXN0LnNvcnRpbmcgPSBbezplbnRyeV9kYXRlPT4gOmRlc2N9XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW5nZVByaWNlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbmYubGlzdC5zb3J0aW5nID0gezpzcWwgPT4gImVudHJ5X2RhdGUgZGVzYyIgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbEJyZWFrT3V0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbmYuY28K</text>
+        <text encoding="base64">ICAgICMgY29uZi5saXN0LnNvcnRpbmcgPSBbezplbnRyeV9kYXRlPT4gOmRlc2N9XQo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbmYubGlzdC5zb3J0aW5nID0gezpzcWwgPT4gImVudHJ5X2RhdGUgZGVzYyIgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgY3VzdG9tX2ZpbmRlcl9vcHRpb25zCiAgICB7cmVvcmRlcjogJ2VudHJ5X2RhdGUgZGVzYyd9CiAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGNvbmYuY28K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -2215,8 +2215,8 @@
         <entry>%s/ドテン/チャンネルブレイクアウト/</entry>
         <entry>258,308d</entry>
         <entry>277</entry>
-        <entry>1</entry>
         <entry>60</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
