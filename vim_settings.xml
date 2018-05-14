@@ -839,7 +839,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1525917672914">
+      <file name="/dummy.sql" timestamp="1526287007270">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -851,11 +851,11 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526144434656">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="16" />
+      <file name="/Dummy.txt" timestamp="1526287332206">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/aboutPay.html" timestamp="1523871184218">
         <mark key="[" line="82" column="33" />
@@ -887,6 +887,13 @@
         <mark key="]" line="16" column="56" />
         <mark key="." line="16" column="56" />
         <mark key="^" line="16" column="56" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/admin/setting/index.html" timestamp="1526287276749">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="51" column="76" />
+        <mark key="]" line="51" column="91" />
+        <mark key="." line="51" column="91" />
+        <mark key="^" line="51" column="91" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/api/UsersController.kt" timestamp="1520317628789">
         <mark key="[" line="16" column="26" />
@@ -1088,6 +1095,9 @@
         <mark key="]" line="103" column="74" />
         <mark key="." line="103" column="74" />
         <mark key="^" line="103" column="74" />
+      </file>
+      <file name="/settings [ora@localhost]" timestamp="1526287004653">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/user/index.html" timestamp="1524312225389">
         <mark key="'" line="106" column="23" />
@@ -2000,7 +2010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="742" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="743" column="25" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="2" column="15" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="1715" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
@@ -2100,6 +2109,7 @@
       <jump line="757" column="14" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="100" column="36" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="106" column="42" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/setting/index.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2123,43 +2133,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">Zml4ZWQg</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
       <register name="0" type="4">
-        <text>lastPostionSize = 0.0</text>
+        <text encoding="base64">IDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbD7nqI7njoc8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgIDwhLS08aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgdHlwZT0idGV4dCIgdGg6ZmllbGQ9Iip7dGF4fSIvPi0tPgogICAgICAgICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoNjAgKiAxMDAwKQo=</text>
+        <text encoding="base64">IzMwMzg2IEAxLjAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyZQo=</text>
+        <text encoding="base64">a290bGlu44Gu44OQ44O844K444On44Oz44Ki44OD44OXCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW5nZVByaWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgdHlwZT0idGV4dCIgdGg6ZmllbGQ9Iip7bGF3eWVyX2VtYWlsfSIvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbEJyZWFrT3V0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgY29uZi5saXN0LnNvcnRpbmcgPSBbezplbnRyeV9kYXRlPT4gOmRlc2N9XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoNjAgKiAxMDAwKQo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbmYubGlzdC5zb3J0aW5nID0gezpzcWwgPT4gImVudHJ5X2RhdGUgZGVzYyIgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbmYuY28K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW5nZVByaWNlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbEJyZWFrT3V0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgY3VzdG9tX2ZpbmRlcl9vcHRpb25zCiAgICB7cmVvcmRlcjogJ2VudHJ5X2RhdGUgZGVzYyd9CiAgZW5kCg==</text>
+        <text encoding="base64">ICAgICMgY29uZi5saXN0LnNvcnRpbmcgPSBbezplbnRyeV9kYXRlPT4gOmRlc2N9XQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
