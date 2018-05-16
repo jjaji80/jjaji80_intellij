@@ -634,11 +634,12 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/UsersController.php" timestamp="1526455434786">
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/UsersController.php" timestamp="1526461230374">
         <mark key="'" line="368" column="40" />
-        <mark key="[" line="389" column="5" />
-        <mark key="]" line="389" column="5" />
-        <mark key="." line="389" column="5" />
+        <mark key="[" line="400" column="32" />
+        <mark key="]" line="400" column="34" />
+        <mark key="." line="400" column="34" />
+        <mark key="^" line="400" column="34" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Column.kt" timestamp="1520317175171">
         <mark key="[" line="36" column="80" />
@@ -2145,60 +2146,59 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>jpeg</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text>hoge</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JHRoaXMtPnJlcXVlc3QtPnF1ZXJ5Wyd1cmwnXTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCSRyZXN1bHQgPSBmaWxlX2dldF9jb250ZW50cygkZGVmYXVsdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U21hcnROZXdz55SoUlNT44GM6KGo56S65Ye65p2l44Gq44GE5aC05ZCI44GM44GC44KLCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IzMwMzg2IEAxLjAK</text>
+        <text encoding="base64">CQkkcmVzdWx0ID0gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">a290bGlu44Gu44OQ44O844K444On44Oz44Ki44OD44OXCg==</text>
+        <text encoding="base64">Ly8JCSRkZWZhdWx0ID0gJHRoaXMtPnJlcXVlc3QtPnF1ZXJ5WydkZWZhdWx0J107Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgdHlwZT0idGV4dCIgdGg6ZmllbGQ9Iip7bGF3eWVyX2VtYWlsfSIvPgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U21hcnROZXdz55SoUlNT44GM6KGo56S65Ye65p2l44Gq44GE5aC05ZCI44GM44GC44KLCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoNjAgKiAxMDAwKQo=</text>
+        <text encoding="base64">IzMwMzg2IEAxLjAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyZQo=</text>
+        <text encoding="base64">a290bGlu44Gu44OQ44O844K444On44Oz44Ki44OD44OXCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW5nZVByaWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgdHlwZT0idGV4dCIgdGg6ZmllbGQ9Iip7bGF3eWVyX2VtYWlsfSIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbEJyZWFrT3V0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>1</last-search>
+      <last-search>hoge</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
+      <last-pattern>hoge</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>alive</entry>
         <entry encoding="base64">PGg0</entry>
         <entry>paym</entry>
         <entry encoding="base64">XDxleGVjdXRlRXhwaXJlXD4=</entry>
@@ -2218,9 +2218,9 @@
         <entry>sort</entry>
         <entry>shop</entry>
         <entry>1</entry>
+        <entry>hoge</entry>
       </history-search>
       <history-cmd>
-        <entry>14</entry>
         <entry>3</entry>
         <entry>127,163d</entry>
         <entry>473</entry>
@@ -2239,6 +2239,7 @@
         <entry>277</entry>
         <entry>60</entry>
         <entry>1</entry>
+        <entry>385</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
