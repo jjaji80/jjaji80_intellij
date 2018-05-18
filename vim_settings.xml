@@ -54,11 +54,11 @@
         <mark key="." line="17" column="66" />
         <mark key="^" line="17" column="66" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Helper/CommonHelper.php" timestamp="1523327351013">
-        <mark key="[" line="30" column="66" />
-        <mark key="]" line="30" column="70" />
-        <mark key="^" line="30" column="70" />
-        <mark key="." line="30" column="70" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Helper/CommonHelper.php" timestamp="1526611779344">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="31" column="23" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/git/ex2/app/views/winners/hikikae_smart_phone.html.erb" timestamp="1523605736932">
         <mark key="'" line="9" column="63" />
@@ -1221,7 +1221,7 @@
         <mark key="^" line="87" column="13" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" timestamp="1525927753865">
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" timestamp="1526611855445">
         <mark key="'" line="42" column="3" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -2146,7 +2146,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>curl</text>
+        <text>CONTENT_HOST</text>
       </register>
       <register name="/" type="4">
         <text>ajax</text>
@@ -2155,27 +2155,33 @@
         <text>mediado2017</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlDYWNoZTo6Y2xlYXIoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkaW1nX3NyYyk7Ci8vCQl2YXJfZHVtcChDT05URU5UX0hPU1QpOwoJCWRpZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZGllKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJdmFyX2R1bXAoJHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JCQkkcmVzdWx0ID0gJHRoaXMtPmZpbGVfZ2V0X2NvbnRlbnRzX2N1cmwoJHVybCk7Cg==</text>
+        <text encoding="base64">CQkJZGllKCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CQkJdmFyX2R1bXAoJHJlc3VsdCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8JCQkkcmVzdWx0ID0gJHRoaXMtPmZpbGVfZ2V0X2NvbnRlbnRzX2N1cmwoJHVybCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CXByaXZhdGUgZnVuY3Rpb24gZmlsZV9nZXRfY29udGVudHNfY3VybCgkdXJsKSAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>{
 		$ch = curl_init();
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); //Set curl to return the data instead of printing it to the browser.
@@ -2187,12 +2193,6 @@
 		curl_close($ch);
 		return $data;
 	}</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQljdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfSEVBREVSLCAwKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
