@@ -112,6 +112,12 @@
         <mark key="." line="16" column="81" />
         <mark key="^" line="16" column="81" />
       </file>
+      <file name="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" timestamp="1526769988236">
+        <mark key="'" line="25" column="18" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/input1.html" timestamp="1523149960605">
         <mark key="'" line="20" column="21" />
         <mark key="[" line="36" column="64" />
@@ -855,8 +861,8 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526613344916">
-        <mark key="[" line="1" column="13" />
+      <file name="/Dummy.txt" timestamp="1526770214396">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="14" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="1" column="14" />
@@ -2023,13 +2029,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="746" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="741" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="766" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="52" column="15" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="193" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="301" column="100" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="423" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="425" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="717" column="46" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -2123,6 +2122,13 @@
       <jump line="308" column="28" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="306" column="6" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="0" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-tools/hosts" />
+      <jump line="18" column="0" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="479" column="62" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="345" column="4" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="391" column="6" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="20" column="12" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="476" column="0" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="25" column="18" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2146,73 +2152,63 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>CONTENT_HOST</text>
+        <text>results</text>
       </register>
       <register name="/" type="4">
-        <text>ajax</text>
+        <text encoding="base64">XDxtYWtlVHJhbnNsYXRlQXBpVXJsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>mediado2017</text>
+        <text>HTTP.request</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlDYWNoZTo6Y2xlYXIoKTsK</text>
+        <text encoding="base64">ICByb2JvdC5oZWFyIC8o44GK5YWI44GrfOS4iuOBjOOCiuOBvuOBmSkvLCAobXNnKSAtPgogICAgcm9ib3QubG9nZ2VyLmluZm8gIiEhISEhISEhISEhISEhICAgb3Nha2luaSAhISEhISEhISEhISEhISEhISEiCiAgICBtc2cucmVwbHkgIuOBiueWsuOCjOOBleOBvuOBp+OBmSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkaW1nX3NyYyk7Ci8vCQl2YXJfZHVtcChDT05URU5UX0hPU1QpOwoJCWRpZSgpOwo=</text>
+        <text encoding="base64">ICAgIG1zZy5zZW5kKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImhlYWRlcnMiOiBoZWFkZXJzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmRwb2ludHMgPSA7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJZGllKCk7Cg==</text>
+      <register name="5" type="4">
+        <text>{
+    translate: &quot;&quot;,
+    detect: &quot;detect&quot;,
+    languages: &quot;languages&quot;
+  }</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJdmFyX2R1bXAoJHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICB1cmwgPQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8JCQkkcmVzdWx0ID0gJHRoaXMtPmZpbGVfZ2V0X2NvbnRlbnRzX2N1cmwoJHVybCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgZnVuY3Rpb24gZmlsZV9nZXRfY29udGVudHNfY3VybCgkdXJsKSAK</text>
+        <text encoding="base64">ICAgIGdvb2dsZV9rZXkgPSAnQUl6YVN5RG1uRmliQzloUWV5V09za0lNYTBZNXA3dDhFVHpZXzNvJwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-		$ch = curl_init();
-		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); //Set curl to return the data instead of printing it to the browser.
-		curl_setopt($ch, CURLOPT_USERAGENT, &quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36&quot;);
-		curl_setopt($ch, CURLOPT_URL, $url);
-		curl_setopt($ch, CURLOPT_AUTOREFERER, TRUE); // リダイレクトの際にヘッダのRefererを自動的に追加させる
-		curl_setopt($ch, CURLOPT_TIMEOUT, 10); // タイムアウト（秒）
-		$data = curl_exec($ch);
-		curl_close($ch);
-		return $data;
-	}</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQlDYWNoZTo6Y2xlYXIoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ajax</last-search>
+      <last-search encoding="base64">XDxtYWtlVHJhbnNsYXRlQXBpVXJsXD4=</last-search>
       <last-offset />
-      <last-pattern>ajax</last-pattern>
+      <last-pattern encoding="base64">XDxtYWtlVHJhbnNsYXRlQXBpVXJsXD4=</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>paym</entry>
-        <entry encoding="base64">XDxleGVjdXRlRXhwaXJlXD4=</entry>
-        <entry>2100</entry>
-        <entry>PAY</entry>
         <entry>image</entry>
         <entry>upload</entry>
         <entry>echo</entry>
@@ -2229,6 +2225,10 @@
         <entry>1</entry>
         <entry>hoge</entry>
         <entry>ajax</entry>
+        <entry>func</entry>
+        <entry encoding="base64">XDxlbmRwb2ludFw+</entry>
+        <entry>tran</entry>
+        <entry encoding="base64">XDxtYWtlVHJhbnNsYXRlQXBpVXJsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>3</entry>
