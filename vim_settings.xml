@@ -1381,11 +1381,12 @@
         <mark key="^" line="11" column="34" />
         <mark key="." line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" timestamp="1524637402117">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="46" />
-        <mark key="." line="7" column="51" />
-        <mark key="^" line="7" column="19" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" timestamp="1526890597347">
+        <mark key="'" line="55" column="35" />
+        <mark key="[" line="44" column="24" />
+        <mark key="]" line="44" column="27" />
+        <mark key="." line="44" column="27" />
+        <mark key="^" line="44" column="27" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/web/src/main/resources/application.yml" timestamp="1520748542457">
         <mark key="[" line="20" column="2" />
@@ -2051,11 +2052,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/utel/app/src/Model/Table/UsersTable.php" />
-      <jump line="47" column="20" filename="$USER_HOME$/git/utel/app/src/Model/Table/UsersTable.php" />
-      <jump line="85" column="22" filename="$USER_HOME$/git/utel/app/src/Shell/MoneyShell.php" />
-      <jump line="100" column="26" filename="$USER_HOME$/git/utel/app/src/Shell/MoneyShell.php" />
-      <jump line="160" column="13" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.modal.js" />
       <jump line="1695" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="1735" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
@@ -2151,6 +2147,11 @@
       <jump line="53" column="12" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
       <jump line="169" column="11" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
       <jump line="59" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" />
+      <jump line="22" column="9" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
+      <jump line="35" column="17" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
+      <jump line="37" column="36" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
+      <jump line="34" column="26" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
+      <jump line="55" column="35" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2174,10 +2175,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>36</text>
+        <text>Tweet</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbWF6b25fc2V0X29yZGVyX2luZm9cPg==</text>
+        <text>twitt</text>
       </register>
       <register name="0" type="4">
         <text>apt-get install -y \
@@ -2230,13 +2231,13 @@
         <text encoding="base64">CQlDYWNoZTo6Y2xlYXIoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>210</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbWF6b25fc2V0X29yZGVyX2luZm9cPg==</last-search>
+      <last-search>twitt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbWF6b25fc2V0X29yZGVyX2luZm9cPg==</last-pattern>
+      <last-pattern>twitt</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -2244,7 +2245,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user_id</entry>
         <entry>ok</entry>
         <entry>die</entry>
         <entry>check</entry>
@@ -2264,6 +2264,7 @@
         <entry encoding="base64">XDx0b2RheXNFbmRQZXJmb3JtZXJzXD4=</entry>
         <entry encoding="base64">XDxhbWF6b25fZ2V0X29yZGVyXD4=</entry>
         <entry encoding="base64">XDxhbWF6b25fc2V0X29yZGVyX2luZm9cPg==</entry>
+        <entry>twitt</entry>
       </history-search>
       <history-cmd>
         <entry>127,163d</entry>
@@ -2284,8 +2285,8 @@
         <entry>60</entry>
         <entry>1</entry>
         <entry>385</entry>
-        <entry>w</entry>
         <entry>210</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
