@@ -231,12 +231,10 @@
         <mark key="." line="130" column="88" />
         <mark key="^" line="130" column="88" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1526891871355">
-        <mark key="'" line="5901" column="20" />
-        <mark key="[" line="7365" column="0" />
-        <mark key="]" line="7411" column="0" />
-        <mark key="^" line="7411" column="0" />
-        <mark key="." line="7411" column="0" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1526896943688">
+        <mark key="]" line="7424" column="0" />
+        <mark key="^" line="7424" column="0" />
+        <mark key="." line="7424" column="0" />
       </file>
       <file name="$USER_HOME$/git/orasp/ios/Podfile" timestamp="1520993188680">
         <mark key="[" line="69" column="4" />
@@ -1381,12 +1379,11 @@
         <mark key="^" line="11" column="34" />
         <mark key="." line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" timestamp="1526894763145">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="67" column="16" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" timestamp="1526896883264">
+        <mark key="[" line="38" column="9" />
+        <mark key="]" line="38" column="9" />
+        <mark key="." line="38" column="9" />
+        <mark key="^" line="65" column="59" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/web/src/main/resources/application.yml" timestamp="1520748542457">
         <mark key="[" line="20" column="2" />
@@ -2052,8 +2049,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="36" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/BlogController.php" />
-      <jump line="507" column="18" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/BlogController.php" />
       <jump line="690" column="4" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/BlogController.php" />
       <jump line="0" column="0" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/BlogController.php" />
       <jump line="11" column="55" filename="&lt;be3bc773-0cbc-4a2a-8ca3-4b80faf86aff&gt;/app/Controller/BlogController.php" />
@@ -2148,10 +2143,12 @@
       <jump line="7316" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="5908" column="14" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="6823" column="28" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="174" column="7" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="38" column="39" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
       <jump line="5901" column="20" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="49" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
+      <jump line="7398" column="32" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="174" column="7" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="4368" column="10" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2175,7 +2172,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Tweet</text>
+        <text>twitter</text>
       </register>
       <register name="/" type="4">
         <text>twitter</text>
@@ -2184,38 +2181,34 @@
         <text encoding="base64">ICAgICAgPGxpIGNsYXNzPSJ0d2l0dGVyIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQk8IS0tIEZST00gLS0+Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">CQkJCQk8ZGl2IGNsYXNzPSJ0d2l0dGVyIj50d2l0dGVyPC9kaXY+Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByb2JvdC5oZWFyIC8o44GK5YWI44GrfOS4iuOBjOOCiuOBvuOBmSkvLCAobXNnKSAtPgogICAgcm9ib3QubG9nZ2VyLmluZm8gIiEhISEhISEhISEhISEhICAgb3Nha2luaSAhISEhISEhISEhISEhISEhISEiCiAgICBtc2cucmVwbHkgIuOBiueWsuOCjOOBleOBvuOBp+OBmSIK</text>
+        <text encoding="base64">CQk8IS0tIEZST00gLS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1zZy5zZW5kKCkK</text>
+        <text encoding="base64">CQkJCQk8ZGl2IGNsYXNzPSJ0d2l0dGVyIj50d2l0dGVyPC9kaXY+Cg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgImhlYWRlcnMiOiBoZWFkZXJzCg==</text>
+        <text encoding="base64">ICByb2JvdC5oZWFyIC8o44GK5YWI44GrfOS4iuOBjOOCiuOBvuOBmSkvLCAobXNnKSAtPgogICAgcm9ib3QubG9nZ2VyLmluZm8gIiEhISEhISEhISEhISEhICAgb3Nha2luaSAhISEhISEhISEhISEhISEhISEiCiAgICBtc2cucmVwbHkgIuOBiueWsuOCjOOBleOBvuOBp+OBmSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlbmRwb2ludHMgPSA7Cg==</text>
+        <text encoding="base64">ICAgIG1zZy5zZW5kKCkK</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-    translate: &quot;&quot;,
-    detect: &quot;detect&quot;,
-    languages: &quot;languages&quot;
-  }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgImhlYWRlcnMiOiBoZWFkZXJzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB1cmwgPQo=</text>
+        <text encoding="base64">ICBlbmRwb2ludHMgPSA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
