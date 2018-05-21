@@ -17,6 +17,10 @@
         <mark key="." line="123" column="25" />
         <mark key="^" line="123" column="25" />
       </file>
+      <file name="$USER_HOME$/git/utel/Dockerfile" timestamp="1526863016974">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="15" column="10" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/market_data/src/coinman/interceptor/BigOrderInterceptor.kt" timestamp="1524034020506">
         <mark key="[" line="4" column="44" />
         <mark key="]" line="4" column="55" />
@@ -2158,7 +2162,20 @@
         <text encoding="base64">XDxtYWtlVHJhbnNsYXRlQXBpVXJsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>HTTP.request</text>
+        <text>apt-get install -y \
+        composer \
+        curl \
+        php \
+        php-xml \
+        php-intl \
+        php-mbstring \
+        php-mysql \
+        unzip \
+        php-curl \
+        php-sqlite3 \
+        php7.0-zip \
+        php-xdebug \
+        zip</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICByb2JvdC5oZWFyIC8o44GK5YWI44GrfOS4iuOBjOOCiuOBvuOBmSkvLCAobXNnKSAtPgogICAgcm9ib3QubG9nZ2VyLmluZm8gIiEhISEhISEhISEhISEhICAgb3Nha2luaSAhISEhISEhISEhISEhISEhISEiCiAgICBtc2cucmVwbHkgIuOBiueWsuOCjOOBleOBvuOBp+OBmSIK</text>
