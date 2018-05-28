@@ -574,12 +574,11 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527490539786">
-        <mark key="'" line="3" column="11" />
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-        <mark key="^" line="6" column="6" />
+      <file name="/Dummy.txt" timestamp="1527495790662">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/aboutPay.html" timestamp="1523871184218">
         <mark key="[" line="82" column="33" />
@@ -896,13 +895,13 @@
         <mark key="^" line="11" column="34" />
         <mark key="." line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" timestamp="1527489684750">
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" timestamp="1527495201913">
         <mark key="a" line="38" column="14" />
         <mark key="'" line="38" column="88" />
-        <mark key="[" line="38" column="188" />
-        <mark key="]" line="38" column="188" />
-        <mark key="." line="38" column="188" />
-        <mark key="^" line="38" column="85" />
+        <mark key="[" line="38" column="295" />
+        <mark key="]" line="38" column="309" />
+        <mark key="." line="38" column="309" />
+        <mark key="^" line="38" column="309" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/web/src/main/resources/application.yml" timestamp="1520748542457">
         <mark key="[" line="20" column="2" />
@@ -969,6 +968,10 @@
         <mark key="]" line="5" column="80" />
         <mark key="." line="5" column="80" />
         <mark key="^" line="5" column="80" />
+      </file>
+      <file name="/_news_info.ctp" timestamp="1527494891979">
+        <mark key="[" line="39" column="128" />
+        <mark key="]" line="39" column="143" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/model/User.kt" timestamp="1520511668827">
         <mark key="[" line="15" column="34" />
@@ -1053,6 +1056,12 @@
       </file>
       <file name="/admins [cakephp@utel.ajio.net]" timestamp="1527230312902">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1527495656612">
+        <mark key="'" line="84" column="77" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="99" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Twilio/dial2.ctp" timestamp="1527414697273">
         <mark key="[" line="4" column="38" />
@@ -1281,7 +1290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="345" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
       <jump line="53" column="0" filename="$USER_HOME$/git/hms/app/controllers/shop_daily_reports_controller.rb" />
       <jump line="2" column="14" filename="$USER_HOME$/git/hms/app/controllers/shop_daily_reports_controller.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/git/hms/app/controllers/shop_daily_reports_controller.rb" />
@@ -1381,6 +1389,7 @@
       <jump line="6827" column="24" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="1" column="15" filename="/Dummy.txt" />
       <jump line="3" column="11" filename="/Dummy.txt" />
+      <jump line="83" column="77" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1404,52 +1413,52 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Facebook</text>
+        <text>TOPページのコンソール上のエラーを解消</text>
       </register>
       <register name="/" type="4">
-        <text>dev</text>
+        <text>tab.js</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">RmFjZWJvb2vjga7jgqvjgqbjg7Pjgr/jg7zlr77lv5wKcmVmcyAjMzA0NjcgQDAuNQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5qSc57Si44KC5paw44GX44GE44Km44Kj44Oz44OJ44Km44Gr5aSJ5pu0CnJlZnMgIzMwNDY4IEAwLjEKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJPGxpIGNsYXNzPSJ0d2l0dGVyIj48YSBjbGFzcz0idHctaWNvbiIgaHJlZj0iaHR0cDovL2dvb2dsZS5jby5qcCI+44OE44Kk44O844OIIDxzcGFuIGNsYXNzPSJ0dy1jb3VudCIgaWQ9InR3ZWV0Q291bnQiPjwvc3Bhbj48L2E+PC9saT4K</text>
+        <text encoding="base64">CTxzY3JpcHQgYXN5bmMgc3JjPSI8P3BocCBlY2hvIGgoV0VCX0hPU1QuJ2pzL2pxdWVyeS5tYXRjaEhlaWdodC1taW4uanM/djIwMTcwODMxJyk7ID8+Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">44OE44Kk44O844OI44Oc44K/44Oz44Gu44Oq44Oz44Kv5aSJ5pu0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">44Kz44Of44OD44OI5ryP44KMCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllKCk7Cg==</text>
+        <text encoding="base64">VE9Q44Oa44O844K444Gu44Kz44Oz44K944O844Or5LiK44Gu44Ko44Op44O844KS6Kej5raICnJlZnMgIzI5NjU0IEAwLjUKCkZhY2Vib29r44Gu44Kr44Km44Oz44K/44O85a++5b+cCnJlZnMgIzMwNDY3IEAwLjUKClR3aXR0ZXLjga7jgqvjgqbjg7Pjgr/jg7zlr77lv5wKcmVmcyAjMzA0NjggQDIuMAoK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4K</text>
+        <text encoding="base64">CQkJPGxpIGNsYXNzPSJ0d2l0dGVyIj48YSBjbGFzcz0idHctaWNvbiIgaHJlZj0iaHR0cDovL2dvb2dsZS5jby5qcCI+44OE44Kk44O844OIIDxzcGFuIGNsYXNzPSJ0dy1jb3VudCIgaWQ9InR3ZWV0Q291bnQiPjwvc3Bhbj48L2E+PC9saT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PFJlc3BvbnNlPgogICAgPERpYWwgY2FsbGVySWQ9Ijw/cGhwIGVjaG8gJGNhbGxlcklkID8+Ij4KICAgICAgICA8Q29uZmVyZW5jZSBiZWVwPSJmYWxzZSIgd2FpdFVybD0iIiBzdGFydENvbmZlcmVuY2VPbkVudGVyPSJ0cnVlIiBlbmRDb25mZXJlbmNlT25FeGl0PSJ0cnVlIiA8P3BocCBlY2hvICRzdGF0dXNDYWxsYmFjaz8+ICByZWNvcmQ9InJlY29yZC1mcm9tLXN0YXJ0IiByZWdpb249ImpwMSI+CiAgICAgICAgICAgIDw/cGhwIGVjaG8gJGNvbmZlcmVuY2VSb29tID8+CiAgICAgICAgPC9Db25mZXJlbmNlPgogICAgPC9EaWFsPgo8L1Jlc3BvbnNlPgoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWFsZXJ0KGpzb24uY291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dev</last-search>
+      <last-search>tab.js</last-search>
       <last-offset />
-      <last-pattern>dev</last-pattern>
+      <last-pattern>tab.js</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1457,7 +1466,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbWF6b25fZ2V0X29yZGVyXD4=</entry>
         <entry encoding="base64">XDxhbWF6b25fc2V0X29yZGVyX2luZm9cPg==</entry>
         <entry>twitt</entry>
         <entry>twitter</entry>
@@ -1477,6 +1485,7 @@
         <entry>request</entry>
         <entry>777</entry>
         <entry>dev</entry>
+        <entry>tab.js</entry>
       </history-search>
       <history-cmd>
         <entry>104</entry>
