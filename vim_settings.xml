@@ -33,7 +33,8 @@
         <mark key="." line="17" column="66" />
         <mark key="^" line="17" column="66" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Helper/CommonHelper.php" timestamp="1526613305940">
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Helper/CommonHelper.php" timestamp="1527489336662">
+        <mark key="a" line="111" column="18" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="^" line="31" column="23" />
@@ -152,8 +153,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1527370989802">
-        <mark key="'" line="6845" column="13" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1527489719717">
+        <mark key="'" line="6827" column="24" />
+        <mark key="[" line="4375" column="31" />
+        <mark key="]" line="4375" column="34" />
+        <mark key="^" line="4375" column="34" />
+        <mark key="." line="4375" column="34" />
       </file>
       <file name="$USER_HOME$/git/orasp/ios/Podfile" timestamp="1520993188680">
         <mark key="[" line="69" column="4" />
@@ -569,9 +574,12 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527484778118">
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="/Dummy.txt" timestamp="1527490539786">
+        <mark key="'" line="3" column="11" />
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="6" column="6" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/aboutPay.html" timestamp="1523871184218">
         <mark key="[" line="82" column="33" />
@@ -888,11 +896,13 @@
         <mark key="^" line="11" column="34" />
         <mark key="." line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" timestamp="1527486298323">
-        <mark key="'" line="34" column="4" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" timestamp="1527489684750">
+        <mark key="a" line="38" column="14" />
+        <mark key="'" line="38" column="88" />
+        <mark key="[" line="38" column="188" />
+        <mark key="]" line="38" column="188" />
+        <mark key="." line="38" column="188" />
+        <mark key="^" line="38" column="85" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/web/src/main/resources/application.yml" timestamp="1520748542457">
         <mark key="[" line="20" column="2" />
@@ -1269,18 +1279,8 @@
         <mark key="^" line="1" column="50" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogRestController.php" timestamp="1527380694301">
-        <mark key="'" line="70" column="2" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="28" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
-      <jump line="299" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
-      <jump line="300" column="13" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
-      <jump line="310" column="14" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
-      <jump line="316" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
       <jump line="345" column="8" filename="$USER_HOME$/git/hms/config/locales/ja.yml" />
       <jump line="53" column="0" filename="$USER_HOME$/git/hms/app/controllers/shop_daily_reports_controller.rb" />
       <jump line="2" column="14" filename="$USER_HOME$/git/hms/app/controllers/shop_daily_reports_controller.rb" />
@@ -1323,7 +1323,6 @@
       <jump line="37" column="36" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
       <jump line="7316" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="5908" column="14" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="38" column="39" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
       <jump line="5901" column="20" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="7398" column="32" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="174" column="7" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
@@ -1376,6 +1375,12 @@
       <jump line="226" column="32" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="254" column="44" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="264" column="52" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
+      <jump line="74" column="12" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
+      <jump line="38" column="88" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
+      <jump line="4375" column="34" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="6827" column="24" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
+      <jump line="1" column="15" filename="/Dummy.txt" />
+      <jump line="3" column="11" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1399,13 +1404,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>7043891828</text>
+        <text>Facebook</text>
       </register>
       <register name="/" type="4">
-        <text>request</text>
+        <text>dev</text>
       </register>
-      <register name="0" type="4">
-        <text>disconnect</text>
+      <register name="0" type="2">
+        <text encoding="base64">RmFjZWJvb2vjga7jgqvjgqbjg7Pjgr/jg7zlr77lv5wKcmVmcyAjMzA0NjcgQDAuNQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1442,9 +1447,9 @@
       </register>
     </registers>
     <search>
-      <last-search>request</last-search>
+      <last-search>dev</last-search>
       <last-offset />
-      <last-pattern>request</last-pattern>
+      <last-pattern>dev</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1452,8 +1457,6 @@
     </search>
     <history>
       <history-search>
-        <entry>secret</entry>
-        <entry encoding="base64">XDx0b2RheXNFbmRQZXJmb3JtZXJzXD4=</entry>
         <entry encoding="base64">XDxhbWF6b25fZ2V0X29yZGVyXD4=</entry>
         <entry encoding="base64">XDxhbWF6b25fc2V0X29yZGVyX2luZm9cPg==</entry>
         <entry>twitt</entry>
@@ -1472,6 +1475,8 @@
         <entry encoding="base64">XDxzdGF0dXNDYWxsYmFja1w+</entry>
         <entry>Client</entry>
         <entry>request</entry>
+        <entry>777</entry>
+        <entry>dev</entry>
       </history-search>
       <history-cmd>
         <entry>104</entry>
