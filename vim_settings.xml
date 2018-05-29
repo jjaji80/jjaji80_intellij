@@ -190,6 +190,12 @@
         <mark key="^" line="32" column="25" />
         <mark key="." line="32" column="25" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/3GPSMDK.properties" timestamp="1527570152438">
+        <mark key="[" line="25" column="99" />
+        <mark key="]" line="25" column="99" />
+        <mark key="^" line="25" column="99" />
+        <mark key="." line="25" column="99" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/RankingService.java" timestamp="1519901498649">
         <mark key="[" line="82" column="41" />
         <mark key="]" line="82" column="46" />
@@ -574,10 +580,10 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527495790662">
-        <mark key="[" line="1" column="15" />
+      <file name="/Dummy.txt" timestamp="1527570220004">
+        <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="16" />
-        <mark key="^" line="0" column="18" />
+        <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/aboutPay.html" timestamp="1523871184218">
@@ -738,12 +744,6 @@
         <mark key="]" line="4" column="54" />
         <mark key="^" line="4" column="54" />
         <mark key="." line="4" column="54" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/message/input2.html" timestamp="1524079745605">
-        <mark key="[" line="50" column="4" />
-        <mark key="]" line="50" column="38" />
-        <mark key="." line="50" column="38" />
-        <mark key="^" line="50" column="38" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/NewsController.kt" timestamp="1522286252382">
         <mark key="[" line="11" column="15" />
@@ -1414,7 +1414,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>TOPページのコンソール上のエラーを解消</text>
+        <text>1.0</text>
       </register>
       <register name="/" type="4">
         <text>tab.js</text>
