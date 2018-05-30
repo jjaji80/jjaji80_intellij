@@ -1105,6 +1105,13 @@
         <mark key="^" line="0" column="65" />
         <mark key="." line="0" column="65" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1527664111126">
+        <mark key="'" line="1744" column="0" />
+        <mark key="[" line="1743" column="0" />
+        <mark key="]" line="1743" column="71" />
+        <mark key="^" line="1743" column="27" />
+        <mark key="." line="1743" column="27" />
+      </file>
       <file name="$USER_HOME$/git/orasp/lib/main.dart" timestamp="1521097556064">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="11" column="1" />
@@ -1284,7 +1291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="9" filename="$USER_HOME$/git/hms/app/controllers/shop_daily_reports_controller.rb" />
       <jump line="35" column="9" filename="$USER_HOME$/git/hms/app/controllers/shop_daily_reports_controller.rb" />
       <jump line="45" column="18" filename="$USER_HOME$/git/hms/app/controllers/shop_daily_reports_controller.rb" />
       <jump line="757" column="14" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -1384,6 +1390,7 @@
       <jump line="611" column="38" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="315" column="20" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="328" column="14" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
+      <jump line="1742" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1412,8 +1419,8 @@
       <register name="/" type="4">
         <text>statusca</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JGNhbGxTaWQgPSAkdGhpcy0+cmVxdWVzdC0+cXVlcnkoJ2NhbGxTaWQnKTsKICAgICAgICAkY2FsbCA9ICRjbGllbnQtPmNhbGxzKCRjYWxsU2lkKQogICAgICAgICAgICAtPnVwZGF0ZShhcnJheSgKICAgICAgICAgICAgICAgICAgICAibWV0aG9kIiA9PiAiUE9TVCIsCiAgICAgICAgICAgICAgICAgICAgInVybCIgPT4gImh0dHA6Ly91dGVsLmFqaW8ubmV0L3R3aWxpby9sb3dQb2ludCIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0IGlkLGZpZCxwYXNzd29yZCxlbWFpbCBmcm9tIGZvcnR1bmV0ZWxsZXJzIHdoZXJlIG5hbWUgbGlrZSAnJeW4jOm+jSUnOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
