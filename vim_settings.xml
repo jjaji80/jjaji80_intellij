@@ -458,6 +458,7 @@
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="41" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsTagService.java" timestamp="1527844625853" />
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Bereave.kt" timestamp="1520317119550">
         <mark key="[" line="32" column="58" />
         <mark key="]" line="37" column="25" />
@@ -575,11 +576,11 @@
         <mark key="^" line="95" column="86" />
         <mark key="." line="95" column="86" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527844092050">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="4" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="1" column="4" />
+      <file name="/Dummy.txt" timestamp="1527845511626">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/aboutPay.html" timestamp="1523871184218">
         <mark key="[" line="82" column="33" />
@@ -902,12 +903,12 @@
         <mark key="^" line="11" column="34" />
         <mark key="." line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" timestamp="1527748364406">
-        <mark key="'" line="39" column="131" />
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="35" column="39" />
-        <mark key="." line="35" column="39" />
-        <mark key="^" line="35" column="39" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" timestamp="1527845279812">
+        <mark key="'" line="35" column="5" />
+        <mark key="[" line="39" column="274" />
+        <mark key="]" line="39" column="276" />
+        <mark key="." line="39" column="276" />
+        <mark key="^" line="39" column="276" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/web/src/main/resources/application.yml" timestamp="1520748542457">
         <mark key="[" line="20" column="2" />
@@ -1132,6 +1133,7 @@
         <mark key="^" line="1743" column="27" />
         <mark key="." line="1743" column="27" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1527844615378" />
       <file name="$USER_HOME$/git/orasp/lib/main.dart" timestamp="1521097556064">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="11" column="1" />
@@ -1316,6 +1318,7 @@
         <mark key="^" line="1" column="50" />
         <mark key="." line="2" column="40" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/slack/src/main/kotlin/coinman/SlackMessage.kt" timestamp="1527845142801" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/setting/index.html" />
@@ -1368,7 +1371,6 @@
       <jump line="6025" column="26" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="6823" column="13" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="6841" column="13" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="35" column="11" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
       <jump line="51" column="47" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
       <jump line="3" column="40" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogRestController.php" />
       <jump line="24" column="9" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogRestController.php" />
@@ -1416,8 +1418,9 @@
       <jump line="57" column="24" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
       <jump line="476" column="36" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="7" column="6" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" />
-      <jump line="39" column="131" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
       <jump line="23" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="39" column="312" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
+      <jump line="35" column="5" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1441,60 +1444,59 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zml4ZWQg</text>
+        <text>1.5</text>
       </register>
       <register name="/" type="4">
-        <text>hoge</text>
+        <text encoding="base64">XDx0d2VldFVybFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSRibG9nX2pzb24gPSBmaWxlX2dldF9jb250ZW50cygnaHR0cHM6Ly93d3cuZWxzYS1vbmxpbmUubmV0L2Jsb2cvP2pzb249MScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">amF2YXNjcmlwdOOBruiqreOBv+i+vOOBv+mghuW6j+WkieabtAo=</text>
+        <text encoding="base64">6KiY5LqL44Gu5LiA6Kan55So55S75YOP44GM44Gq44GE5aC05ZCI44Gr44OH44OV44Kp44Or44OI55S75YOP44O7R29vZ2xlK+OCkumdnuihqOekuuODu+ODhOOCo+ODvOODiOODnOOCv+ODs+OBrlVSTOWkieabtAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkdHcK</text>
+        <text encoding="base64">amF2YXNjcmlwdOOBruiqreOBv+i+vOOBv+mghuW6j+WkieabtAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CQkkdHcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">CQkkdHcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgkY2FsbC0+dG8pOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgkY2FsbC0+dG8pOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">44OZ44Oq44OI44Op44Oz44K544Gu55Kw5aKD44KS5pys55Wq44Gr5aSJ5pu0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">5qSc57Si44KC5paw44GX44GE44Km44Kj44Oz44OJ44Km44Gr5aSJ5pu0CnJlZnMgIzMwNDY4IEAwLjEKCg==</text>
+        <text encoding="base64">44OZ44Oq44OI44Op44Oz44K544Gu55Kw5aKD44KS5pys55Wq44Gr5aSJ5pu0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>hoge</last-search>
+      <last-search encoding="base64">XDx0d2VldFVybFw+</last-search>
       <last-offset />
-      <last-pattern>hoge</last-pattern>
+      <last-pattern encoding="base64">XDx0d2VldFVybFw+</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>:</entry>
         <entry encoding="base64">XDx0d2VldENvdW50XD4=</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry>body</entry>
@@ -1514,6 +1516,7 @@
         <entry>goo</entry>
         <entry>style.css</entry>
         <entry>hoge</entry>
+        <entry encoding="base64">XDx0d2VldFVybFw+</entry>
       </history-search>
       <history-cmd>
         <entry>15</entry>
@@ -1534,8 +1537,8 @@
         <entry>39</entry>
         <entry>227</entry>
         <entry>313,388y</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
