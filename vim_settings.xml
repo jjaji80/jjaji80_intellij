@@ -266,12 +266,12 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1528184713979">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1528186248676">
         <mark key="'" line="211" column="104" />
-        <mark key="[" line="748" column="48" />
-        <mark key="]" line="749" column="14" />
-        <mark key="." line="749" column="14" />
-        <mark key="^" line="749" column="14" />
+        <mark key="[" line="762" column="0" />
+        <mark key="]" line="762" column="23" />
+        <mark key="." line="762" column="0" />
+        <mark key="^" line="760" column="22" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1527651165033">
         <mark key="[" line="60" column="36" />
@@ -312,12 +312,12 @@
       <file name="/accounts [ora@localhost]" timestamp="1524811030075">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/bitFlyer.properties" timestamp="1528184700659">
+      <file name="$USER_HOME$/git/coinman_parent/bitFlyer.properties" timestamp="1528186404359">
         <mark key="'" line="18" column="14" />
-        <mark key="[" line="29" column="40" />
-        <mark key="]" line="30" column="16" />
-        <mark key="^" line="30" column="16" />
-        <mark key="." line="30" column="16" />
+        <mark key="[" line="33" column="49" />
+        <mark key="]" line="33" column="48" />
+        <mark key="^" line="33" column="48" />
+        <mark key="." line="33" column="48" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/list.html" timestamp="1522655938410">
         <mark key="[" line="25" column="112" />
@@ -1481,7 +1481,7 @@
         <text encoding="base64">XDxpbml0aWFsQW1vdW50VGltZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBpdCBpc24ndCB1c2VkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">VHdpdHRlcuOBrlVSTOOBjOihqOekuuOBleOCjOOBquOBhOWVj+mhjAo=</text>
@@ -1514,7 +1514,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%y</text>
+        <text>2</text>
       </register>
     </registers>
     <search>
@@ -1550,7 +1550,6 @@
         <entry encoding="base64">XDxpbml0aWFsQW1vdW50VGltZXNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz40Ng==</entry>
         <entry>358</entry>
         <entry>55</entry>
         <entry>262</entry>
@@ -1570,6 +1569,7 @@
         <entry>1</entry>
         <entry>w</entry>
         <entry>%y</entry>
+        <entry>2</entry>
       </history-cmd>
       <history-expr />
       <history-input />
