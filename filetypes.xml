@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="finish.html" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="frm" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
