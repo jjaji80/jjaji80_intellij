@@ -69,12 +69,12 @@
       <file name="/timeline_picks [newspicks@production-cluster.cluster-ci9znf4p6ffv.ap-northeast-1.rds.amazonaws.com]" timestamp="1528056857539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1528325295447">
-        <mark key="'" line="382" column="14" />
+      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1528327444324">
+        <mark key="'" line="493" column="27" />
         <mark key="[" line="216" column="5" />
-        <mark key="]" line="164" column="24" />
-        <mark key="." line="164" column="24" />
-        <mark key="^" line="164" column="24" />
+        <mark key="]" line="183" column="18" />
+        <mark key="." line="183" column="18" />
+        <mark key="^" line="183" column="18" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/rest/src/main/resources/application.yml" timestamp="1520754175053">
         <mark key="[" line="7" column="0" />
@@ -1352,12 +1352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5913" column="19" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="4376" column="24" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="4488" column="32" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="5216" column="26" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="5261" column="26" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="5434" column="26" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="5446" column="26" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="5458" column="26" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="5470" column="26" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
@@ -1452,6 +1446,12 @@
       <jump line="577" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="211" column="104" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="18" column="14" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
+      <jump line="336" column="35" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
+      <jump line="381" column="8" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
+      <jump line="412" column="25" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
+      <jump line="460" column="35" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
+      <jump line="461" column="36" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
+      <jump line="493" column="27" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1478,7 +1478,7 @@
         <text>0.8</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0aWFsQW1vdW50VGltZXNcPg==</text>
+        <text>join</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBkaWFsKCkKICAgIHsKCiAgICAgICAgJHRoaXMtPnZpZXdCdWlsZGVyKCktPmxheW91dCgnJyk7CgogICAgICAgICRjYWxsZXJJZCA9IFRXSUxJT19DQUxMRVJfVEVMOwoKICAgICAgICAkc3RhdHVzQ2FsbGJhY2sgPSAiIHN0YXR1c0NhbGxiYWNrPVwiIiAuIFRXSUxJT19TVEFUVVNfQ0FMTEJBQ0tfVVJMIC4gIlwiIHN0YXR1c0NhbGxiYWNrTWV0aG9kPVwiR0VUXCIgIHN0YXR1c0NhbGxiYWNrRXZlbnQ9XCJzdGFydCBlbmQgam9pbiBsZWF2ZSBtdXRlIGhvbGRcIiI7CiAgICAgICAgJHRoaXMtPnNldCgnc3RhdHVzQ2FsbGJhY2snLCAkc3RhdHVzQ2FsbGJhY2spOwoKICAgICAgICAvLyBUT0RPIOmbu+ipseOBp+adpeOBn+WgtOWQiOOBr+OAgeOBk+OBk+OBp+ODquOCr+OCqOOCueODiOOBi+OCiembu+ipseeVquWPt+OCkuaxguOCgeOCiwogICAgICAgICRudW1iZXIgPSAkdGhpcy0+cmVxdWVzdC0+cXVlcnkoJ25hbWUnKTsKICAgICAgICAkZnJvbSA9ICR0aGlzLT5yZXF1ZXN0LT5xdWVyeSgnRnJvbScpOyAjIFR3aWxpb+OBrueZuuS/oeiAheeVquWPtwogICAgICAgICRpc0ZvcnR1bmVUZWxsZXIgPSAkdGhpcy0+cmVxdWVzdC0+cXVlcnkoJ2lzRm9ydHVuZVRlbGxlcicpOwoKCiAgICAgICAgJGJvb2tpbmcgPSAkdGhpcy0+Z2V0Qm9va2luZyggJG51bWJlciA9PSBudWxsID8gJGZyb20gOiAkbnVtYmVyICwgJGlzRm9ydHVuZVRlbGxlcik7CiAgICAgICAgaWYgKCRib29raW5nID09IG51bGwpIHsKICAgICAgICAgICAgJHRoaXMtPnNldEFjdGlvbigibm9Cb29raW5nIik7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgLy8g5q6L44KK44Od44Kk44Oz44OI44GM6Laz44KK44Gm44GE44KL44GL44OB44Kn44OD44KvCiAgICAgICAgaWYgKCAhJGlzRm9ydHVuZVRlbGxlciAmJiAhJHRoaXMtPmNhblBlcmZvcm1Nb3JlVGhhbjYwU2VjKCRib29raW5nKSl7CiAgICAgICAgICAkdGhpcy0+c2V0QWN0aW9uKCJub01vbmV5Iik7CiAgICAgICAgICAvLyDkuojntITjgpLntYLkuobjgavjgZnjgosKICAgICAgICAgICR0aGlzLT5jaGFuZ2VTdGF0dXMoJGJvb2tpbmctPmlkLCBTQ0hFRFVMRV9TVEFUVVNfV0FJVElORywgQk9PS0lOR19TVEFUVVNfQU5BTFlTSVNfQ09NUExFVEUpOwogICAgICAgICAgLy8g5LuW44Gu5LqI57SE44GM44GC44KL44GL5qSc57Si44CC44GC44KM44Gw6YCa55+lCiAgICAgICAgICAkc2NoZWR1bGUgPSAkdGhpcy0+c2VhcmNoV2FpdGluZ3MoJGJvb2tpbmctPmlkKTsKICAgICAgICAgIGlmKCRzY2hlZHVsZSl7CiAgICAgICAgICAgICR0aGlzLT5ub3RpY2VUb0dldFJlYWR5VG9Gb3J0dW5ldGVsbGVyKCRzY2hlZHVsZSwgJ2NhbmNlbCcpOwogICAgICAgICAgfQogICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICAkbnVtYmVyID0gJGJvb2tpbmctPmlkOwogICAgICAgICRjYWxsU2lkID0gJHRoaXMtPnJlcXVlc3QtPnF1ZXJ5KCdDYWxsU2lkJyk7CiAgICAgICAgLy8g44Om44O844K244O844GM6YCa6Kmx44KS6ZaL5aeL44GX44CB5Y2g44GE5bir44G46Zu76Kmx5Y+X44GR5Y+W44KK55So6YCa55+l44KS6YCB44KLCiAgICAgICAgaWYoISRpc0ZvcnR1bmVUZWxsZXIpewogICAgICAgICAgICAvLyDpoIbnlarlvoXjgaHjga7kuojntITjgrnjg4bjg7zjgr/jgrnjgpLljaDjgYTluKvpm7voqbHlvoXjgaHjgavlpInmm7QKICAgICAgICAgICAgJHRoaXMtPmNoYW5nZVN0YXR1cygkYm9va2luZy0+aWQsIFNDSEVEVUxFX1NUQVRVU19XQUlUSU5HLCBCT09LSU5HX1NUQVRVU19XQUlUX0ZPUl9GT1JUVU5FVEVMTEVSKTsKICAgICAgICAgICAgJHRoaXMtPm5vdGljZUNhbGxpbmdUb0ZvcnR1bmV0ZWxsZXIoJGJvb2tpbmcpOwogICAgICAgICAgICAkY2FsbExvZ3MgPSBUYWJsZVJlZ2lzdHJ5OjpnZXQoJ0NhbGxMb2dzJyk7CiAgICAgICAgICAgICRlbnRpdHkgPSAkY2FsbExvZ3MtPm5ld0VudGl0eSgpOwogICAgICAgICAgICAkZW50aXR5LT51c2VyX3RlbCA9ICRudW1iZXI7CiAgICAgICAgICAgICRlbnRpdHktPmZvcnR1bmV0ZWxsZXJfdGVsID0gJGJvb2tpbmctPnNjaGVkdWxlLT5mb3J0dW5ldGVsbGVyX2lkOwogICAgICAgICAgICAkZW50aXR5LT5jYWxsX3NpZCA9ICRjYWxsU2lkOyAvL2NhbGxfc2lk44KS44Oq44Kv44Ko44K544OI44GL44KJ5Y+W5b6XCiAgICAgICAgICAgICRjYWxsTG9ncy0+c2F2ZSgkZW50aXR5KTsKICAgICAgICB9CgogICAgICAgICR0aGlzLT5sb2coIlR3aWxpbyBkaWFsIGNhbGxlcklkOiAiLiRjYWxsZXJJZCAsJ2RlYnVnJyk7CgogICAgICAgICR0aGlzLT5zZXQoJ2NhbGxlcklkJywgJGNhbGxlcklkKTsKICAgICAgICAkdGhpcy0+c2V0KCdjb25mZXJlbmNlUm9vbScsICRudW1iZXIpOwogICAgfQo=</text>
@@ -1518,17 +1518,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0aWFsQW1vdW50VGltZXNcPg==</last-search>
+      <last-search>join</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0aWFsQW1vdW50VGltZXNcPg==</last-pattern>
+      <last-pattern>join</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>layout</entry>
         <entry>statusca</entry>
         <entry>goo</entry>
         <entry>style.css</entry>
@@ -1548,6 +1547,7 @@
         <entry encoding="base64">XDxpbmRpdmlkdWFsTG9zc0N1dFJhdGVcPg==</entry>
         <entry encoding="base64">XDxpbmRpdmlkdWFsTG9zc0N1dFw+</entry>
         <entry encoding="base64">XDxpbml0aWFsQW1vdW50VGltZXNcPg==</entry>
+        <entry>join</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
