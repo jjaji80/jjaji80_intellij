@@ -266,12 +266,12 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1528186248676">
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1528331632315">
         <mark key="'" line="211" column="104" />
-        <mark key="[" line="762" column="0" />
-        <mark key="]" line="762" column="23" />
-        <mark key="." line="762" column="0" />
-        <mark key="^" line="760" column="22" />
+        <mark key="[" line="299" column="48" />
+        <mark key="]" line="300" column="18" />
+        <mark key="." line="300" column="18" />
+        <mark key="^" line="300" column="18" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1527651165033">
         <mark key="[" line="60" column="36" />
@@ -313,12 +313,12 @@
       <file name="/accounts [ora@localhost]" timestamp="1524811030075">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/bitFlyer.properties" timestamp="1528186404359">
+      <file name="$USER_HOME$/git/coinman_parent/bitFlyer.properties" timestamp="1528331699426">
         <mark key="'" line="18" column="14" />
-        <mark key="[" line="33" column="49" />
-        <mark key="]" line="33" column="48" />
-        <mark key="^" line="33" column="48" />
-        <mark key="." line="33" column="48" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="39" column="39" />
+        <mark key="^" line="39" column="35" />
+        <mark key="." line="39" column="35" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/list.html" timestamp="1522655938410">
         <mark key="[" line="25" column="112" />
@@ -1478,13 +1478,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>0.8</text>
+        <text>DefaultTargetSize</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="4">
-        <text>cakephp-error-email</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBBUEnjgq3jg7wKQml0Rmx5ZXJQcm9wZXJ0aWVzLmFwaUtleT0zNzJ5NHR4Nm1SU2ZBYUJDUkxEejliCiMgQVBJ44K344O844Kv44Os44OD44OICkJpdEZseWVyUHJvcGVydGllcy5hcGlTZWNyZXQ9Q2JPUjBmTy9Ya3Y3MWkzU0lqVGZFZllGelV2ejIvWDdteGdRWEFNUjRQVT0KIyDliJ3mnJ/jg6zjg7zjg4gKQml0Rmx5ZXJQcm9wZXJ0aWVzLnN0YXJ0UmF0ZT0xLjUKIyBpdCBpc24ndCB1c2VkCkJpdEZseWVyUHJvcGVydGllcy5wcmljZURlZmF1bHREaWZmPTI1MDAuMAojIGl0IGlzbid0IHVzZWQKQml0Rmx5ZXJQcm9wZXJ0aWVzLnByaWNlQWRkRGlmZj0xNTAKIyDlvLfliLbjg63jgrnjgqvjg4Pjg4jjgpLooYzjgYbntq3mjIHnjocKQml0Rmx5ZXJQcm9wZXJ0aWVzLmxvc3NDdXRKdWRnZVJhdGU9MTEwLjAKIyDlvLfliLbjg63jgrnjgqvjg4Pjg4jjgpLooYzjgYblibLlkIgKQml0Rmx5ZXJQcm9wZXJ0aWVzLmxvc3NDdXRSYXRlPTAuMQojIGl0IGlzbid0IHVzZWQKQml0Rmx5ZXJQcm9wZXJ0aWVzLmJyb2FkY2FzdGluZz10cnVlCiMgaXQgaXNuJ3QgdXNlZApCaXRGbHllclByb3BlcnRpZXMuZnVsbEJyb2FkY2FzdGluZz1mYWxzZQojIGl0IGlzbid0IHVzZWQKQml0Rmx5ZXJQcm9wZXJ0aWVzLm9yZGVyUG9zaXRpb25zPTE4MCwyMDAsMjUwCiMg44Ot44Oz44Kw6ZaL5aeL44Os44OZ44OrCkJpdEZseWVyUHJvcGVydGllcy5yc2lMb3c9NQojIOOCt+ODp+ODvOODiOmWi+Wni+ODrOODmeODqwpCaXRGbHllclByb3BlcnRpZXMucnNpSGlnaD02MAojIOebo+imlui2syjliIYpKDUsMzAsNjAsMTIwLDI0MCw0ODAsMTQ0MCkKQml0Rmx5ZXJQcm9wZXJ0aWVzLmNoZWNrVHlwZT01CiMg5bu6546J44Ot44K544Kr44OD44OIJQpCaXRGbHllclByb3BlcnRpZXMuaW5kaXZpZHVhbExvc3NDdXRSYXRlPTkuMAojIGl0IGlzbid0IHVzZWQKQml0Rmx5ZXJQcm9wZXJ0aWVzLmluaXRpYWxBbW91bnRUaW1lcz0zMAojIOODgeODo+ODs+ODjeODq+ODluODrOOCpOOCr+OCouOCpuODiOOCteOCpOOCugpCaXRGbHllclByb3BlcnRpZXMuY2hhbm5lbEJyZWFrT3V0U2l6ZT0wLjgKIyDjg4Hjg6Pjg7Pjg43jg6vjg5bjg6zjgqTjgq/jgqLjgqbjg4jlvoXjgaHnp5IKQml0Rmx5ZXJQcm9wZXJ0aWVzLmNoYW5uZWxCcmVha091dFdhaXRTZWNvbmRzPTEyMAojIOadv+iqreOBv+azqOaWh+WvvuixoQpCaXRGbHllclByb3BlcnRpZXMucmVhZEJvYXJkVGFyZ2V0U2l6ZT0yMAojIOadv+iqreOBv+azqOaWh+WIneacn+OCteOCpOOCugpCaXRGbHllclByb3BlcnRpZXMub3JkZXJEZWZhdWx0VGFyZ2V0U2l6ZT0wLjAxCiMg5p2/6Kqt44G/5rOo5paH5aKX5Yqg5Ymy5ZCICkJpdEZseWVyUHJvcGVydGllcy5vcmRlckluY3JlYXNlUmF0ZT0wLjEK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">VHdpdHRlcuOBrlVSTOOBjOihqOekuuOBleOCjOOBquOBhOWVj+mhjAo=</text>
@@ -1517,7 +1517,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>110,162y</text>
+        <text>%y</text>
       </register>
     </registers>
     <search>
@@ -1570,9 +1570,9 @@
         <entry>313,388y</entry>
         <entry>1</entry>
         <entry>w</entry>
-        <entry>%y</entry>
         <entry>2</entry>
         <entry>110,162y</entry>
+        <entry>%y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
