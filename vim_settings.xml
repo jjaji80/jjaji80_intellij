@@ -262,11 +262,11 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1528331632315">
-        <mark key="'" line="211" column="104" />
-        <mark key="[" line="299" column="48" />
-        <mark key="]" line="300" column="18" />
-        <mark key="." line="300" column="18" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1528635180485">
+        <mark key="'" line="277" column="35" />
+        <mark key="[" line="295" column="25" />
+        <mark key="]" line="295" column="26" />
+        <mark key="." line="295" column="26" />
         <mark key="^" line="300" column="18" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1527651165033">
@@ -393,6 +393,7 @@
         <mark key="^" line="8" column="88" />
         <mark key="." line="8" column="88" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/User.kt" timestamp="1528635313553" />
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/api/VironAuthtypeController.kt" timestamp="1520338035403">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1055,11 +1056,6 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/composer.json" timestamp="1528328942381">
-        <mark key="'" line="12" column="15" />
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="18" column="37" />
-      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/DailyBenefitData.kt" timestamp="1520436161532">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="8" column="0" />
@@ -1349,7 +1345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5458" column="26" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="5470" column="26" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="5590" column="26" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="5619" column="26" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
@@ -1449,6 +1444,7 @@
       <jump line="461" column="36" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="493" column="27" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="12" column="15" filename="$USER_HOME$/git/utel/app/composer.json" />
+      <jump line="277" column="35" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1475,7 +1471,7 @@
         <text>DefaultTargetSize</text>
       </register>
       <register name="/" type="4">
-        <text>error</text>
+        <text>20</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBBUEnjgq3jg7wKQml0Rmx5ZXJQcm9wZXJ0aWVzLmFwaUtleT0zNzJ5NHR4Nm1SU2ZBYUJDUkxEejliCiMgQVBJ44K344O844Kv44Os44OD44OICkJpdEZseWVyUHJvcGVydGllcy5hcGlTZWNyZXQ9Q2JPUjBmTy9Ya3Y3MWkzU0lqVGZFZllGelV2ejIvWDdteGdRWEFNUjRQVT0KIyDliJ3mnJ/jg6zjg7zjg4gKQml0Rmx5ZXJQcm9wZXJ0aWVzLnN0YXJ0UmF0ZT0xLjUKIyBpdCBpc24ndCB1c2VkCkJpdEZseWVyUHJvcGVydGllcy5wcmljZURlZmF1bHREaWZmPTI1MDAuMAojIGl0IGlzbid0IHVzZWQKQml0Rmx5ZXJQcm9wZXJ0aWVzLnByaWNlQWRkRGlmZj0xNTAKIyDlvLfliLbjg63jgrnjgqvjg4Pjg4jjgpLooYzjgYbntq3mjIHnjocKQml0Rmx5ZXJQcm9wZXJ0aWVzLmxvc3NDdXRKdWRnZVJhdGU9MTEwLjAKIyDlvLfliLbjg63jgrnjgqvjg4Pjg4jjgpLooYzjgYblibLlkIgKQml0Rmx5ZXJQcm9wZXJ0aWVzLmxvc3NDdXRSYXRlPTAuMQojIGl0IGlzbid0IHVzZWQKQml0Rmx5ZXJQcm9wZXJ0aWVzLmJyb2FkY2FzdGluZz10cnVlCiMgaXQgaXNuJ3QgdXNlZApCaXRGbHllclByb3BlcnRpZXMuZnVsbEJyb2FkY2FzdGluZz1mYWxzZQojIGl0IGlzbid0IHVzZWQKQml0Rmx5ZXJQcm9wZXJ0aWVzLm9yZGVyUG9zaXRpb25zPTE4MCwyMDAsMjUwCiMg44Ot44Oz44Kw6ZaL5aeL44Os44OZ44OrCkJpdEZseWVyUHJvcGVydGllcy5yc2lMb3c9NQojIOOCt+ODp+ODvOODiOmWi+Wni+ODrOODmeODqwpCaXRGbHllclByb3BlcnRpZXMucnNpSGlnaD02MAojIOebo+imlui2syjliIYpKDUsMzAsNjAsMTIwLDI0MCw0ODAsMTQ0MCkKQml0Rmx5ZXJQcm9wZXJ0aWVzLmNoZWNrVHlwZT01CiMg5bu6546J44Ot44K544Kr44OD44OIJQpCaXRGbHllclByb3BlcnRpZXMuaW5kaXZpZHVhbExvc3NDdXRSYXRlPTkuMAojIGl0IGlzbid0IHVzZWQKQml0Rmx5ZXJQcm9wZXJ0aWVzLmluaXRpYWxBbW91bnRUaW1lcz0zMAojIOODgeODo+ODs+ODjeODq+ODluODrOOCpOOCr+OCouOCpuODiOOCteOCpOOCugpCaXRGbHllclByb3BlcnRpZXMuY2hhbm5lbEJyZWFrT3V0U2l6ZT0wLjgKIyDjg4Hjg6Pjg7Pjg43jg6vjg5bjg6zjgqTjgq/jgqLjgqbjg4jlvoXjgaHnp5IKQml0Rmx5ZXJQcm9wZXJ0aWVzLmNoYW5uZWxCcmVha091dFdhaXRTZWNvbmRzPTEyMAojIOadv+iqreOBv+azqOaWh+WvvuixoQpCaXRGbHllclByb3BlcnRpZXMucmVhZEJvYXJkVGFyZ2V0U2l6ZT0yMAojIOadv+iqreOBv+azqOaWh+WIneacn+OCteOCpOOCugpCaXRGbHllclByb3BlcnRpZXMub3JkZXJEZWZhdWx0VGFyZ2V0U2l6ZT0wLjAxCiMg5p2/6Kqt44G/5rOo5paH5aKX5Yqg5Ymy5ZCICkJpdEZseWVyUHJvcGVydGllcy5vcmRlckluY3JlYXNlUmF0ZT0wLjEK</text>
@@ -1511,21 +1507,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%y</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>error</last-search>
+      <last-search>20</last-search>
       <last-offset />
-      <last-pattern>error</last-pattern>
+      <last-pattern>20</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>statusca</entry>
         <entry>goo</entry>
         <entry>style.css</entry>
         <entry>hoge</entry>
@@ -1545,6 +1540,7 @@
         <entry encoding="base64">XDxpbml0aWFsQW1vdW50VGltZXNcPg==</entry>
         <entry>join</entry>
         <entry>error</entry>
+        <entry>20</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
@@ -1563,10 +1559,10 @@
         <entry>227</entry>
         <entry>313,388y</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry>2</entry>
         <entry>110,162y</entry>
         <entry>%y</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
