@@ -858,7 +858,7 @@
         <mark key="^" line="35" column="25" />
         <mark key="." line="35" column="25" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Template/Twilio/dial3.ctp" timestamp="1529306527038">
+      <file name="$USER_HOME$/git/utel/app/src/Template/Twilio/dial3.ctp" timestamp="1529307407905">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="23" />
         <mark key="^" line="3" column="23" />
@@ -1451,7 +1451,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>ConferenceName</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWFsM1w+</text>
