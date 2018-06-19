@@ -69,13 +69,13 @@
       <file name="/timeline_picks [newspicks@production-cluster.cluster-ci9znf4p6ffv.ap-northeast-1.rds.amazonaws.com]" timestamp="1528056857539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1529373923773">
+      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1529398666053">
         <mark key="a" line="183" column="0" />
         <mark key="'" line="215" column="18" />
-        <mark key="[" line="232" column="56" />
-        <mark key="]" line="232" column="74" />
-        <mark key="." line="232" column="74" />
-        <mark key="^" line="232" column="74" />
+        <mark key="[" line="212" column="51" />
+        <mark key="]" line="212" column="80" />
+        <mark key="." line="212" column="80" />
+        <mark key="^" line="212" column="80" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/rest/src/main/resources/application.yml" timestamp="1520754175053">
         <mark key="[" line="7" column="0" />
@@ -588,7 +588,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1529289980379">
+      <file name="/dummy.sql" timestamp="1529398701985">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1269,7 +1269,7 @@
         <mark key="." line="4" column="52" />
         <mark key="^" line="4" column="52" />
       </file>
-      <file name="/fortunetellers [cakephp@www.elsa-online.net]" timestamp="1525743014508">
+      <file name="/fortunetellers [cakephp@www.elsa-online.net]" timestamp="1529398680782">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/admin/AdminForumController.kt" timestamp="1521605558381">
@@ -1469,13 +1469,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>dial3</text>
+        <text>noticeCallingToFortuneteller</text>
       </register>
       <register name="/" type="4">
         <text>dial3</text>
       </register>
-      <register name="0" type="4">
-        <text>dialToFortuneTeller</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5ub3RpY2VDYWxsaW5nVG9Gb3J0dW5ldGVsbGVyKCRib29raW5nKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
