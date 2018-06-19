@@ -69,13 +69,13 @@
       <file name="/timeline_picks [newspicks@production-cluster.cluster-ci9znf4p6ffv.ap-northeast-1.rds.amazonaws.com]" timestamp="1528056857539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1529373603646">
+      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1529373923773">
         <mark key="a" line="183" column="0" />
-        <mark key="'" line="187" column="56" />
-        <mark key="[" line="186" column="16" />
-        <mark key="]" line="186" column="25" />
-        <mark key="." line="186" column="25" />
-        <mark key="^" line="186" column="25" />
+        <mark key="'" line="215" column="18" />
+        <mark key="[" line="232" column="56" />
+        <mark key="]" line="232" column="74" />
+        <mark key="." line="232" column="74" />
+        <mark key="^" line="232" column="74" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/rest/src/main/resources/application.yml" timestamp="1520754175053">
         <mark key="[" line="7" column="0" />
@@ -876,11 +876,11 @@
         <mark key="^" line="35" column="25" />
         <mark key="." line="35" column="25" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Template/Twilio/dial3.ctp" timestamp="1529307407905">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="23" />
+      <file name="$USER_HOME$/git/utel/app/src/Template/Twilio/dial3.ctp" timestamp="1529373700334">
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+        <mark key="." line="1" column="44" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Mypage/index.ctp" timestamp="1524646672409">
         <mark key="[" line="1" column="43" />
@@ -1008,7 +1008,7 @@
         <mark key="^" line="34" column="25" />
         <mark key="." line="34" column="25" />
       </file>
-      <file name="/admins [cakephp@www.elsa-online.net]" timestamp="1529373004143">
+      <file name="/admins [cakephp@www.elsa-online.net]" timestamp="1529373634830">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/SmartPhoneController.kt" timestamp="1523698023110">
@@ -1346,7 +1346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="9" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
       <jump line="70" column="10" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
       <jump line="72" column="12" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
       <jump line="36" column="149" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
@@ -1446,6 +1445,7 @@
       <jump line="752" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="761" column="108" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="760" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="215" column="18" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1469,25 +1469,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>intType</text>
+        <text>dial3</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text>dial3</text>
       </register>
       <register name="0" type="4">
-        <text>channelBreakOutWaitSeconds</text>
+        <text>dialToFortuneTeller</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPCg==</text>
@@ -1496,25 +1496,25 @@
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PFJlc3BvbnNlPgogICAgPERpYWwgY2FsbGVySWQ9Ijw/cGhwIGVjaG8gJGNhbGxlcklkID8+IiByZWNvcmQ9ImZ1bGwiIDw/cGhwIGVjaG8gJHN0YXR1c0NhbGxiYWNrID8+PgogICAgICAgIDxOdW1iZXIgc3RhdHVzQ2FsbGJhY2tFdmVudD0icmluZ2luZyBhbnN3ZXJlZCBjb21wbGV0ZWQiCiAgICAgICAgICAgICAgICBzdGF0dXNDYWxsYmFjaz0iPD9waHAgZWNobyBUV0lMSU9fU1RBVFVTX0NBTExCQUNLX1VSTCA/PiIKICAgICAgICAgICAgICAgIHN0YXR1c0NhbGxiYWNrTWV0aG9kPSJHRVQiCiAgICAgICAgPjw/cGhwIGVjaG8gJHRlbCA/PjwvTnVtYmVyPgogICAgPC9EaWFsPgo8L1Jlc3BvbnNlPgoK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PFJlc3BvbnNlPgogICAgPERpYWwgY2FsbGVySWQ9Ijw/cGhwIGVjaG8gJGNhbGxlcklkID8+Ij4KICAgICAgICA8Q29uZmVyZW5jZSBiZWVwPSJmYWxzZSIgd2FpdFVybD0iIiBzdGFydENvbmZlcmVuY2VPbkVudGVyPSJ0cnVlIiBlbmRDb25mZXJlbmNlT25FeGl0PSJ0cnVlIiA8P3BocCBlY2hvICRzdGF0dXNDYWxsYmFjaz8+ICByZWNvcmQ9InJlY29yZC1mcm9tLXN0YXJ0IiByZWdpb249ImpwMSI+CiAgICAgICAgICAgIDw/cGhwIGVjaG8gJGNvbmZlcmVuY2VSb29tID8+CiAgICAgICAgPC9Db25mZXJlbmNlPgogICAgPC9EaWFsPgo8L1Jlc3BvbnNlPgoKPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4K</text>
+        <text encoding="base64">PFJlc3BvbnNlPgogICAgPERpYWwgY2FsbGVySWQ9Ijw/cGhwIGVjaG8gJGNhbGxlcklkID8+IiByZWNvcmQ9ImZ1bGwiIDw/cGhwIGVjaG8gJHN0YXR1c0NhbGxiYWNrID8+PgogICAgICAgIDxOdW1iZXIgc3RhdHVzQ2FsbGJhY2tFdmVudD0icmluZ2luZyBhbnN3ZXJlZCBjb21wbGV0ZWQiCiAgICAgICAgICAgICAgICBzdGF0dXNDYWxsYmFjaz0iPD9waHAgZWNobyBUV0lMSU9fU1RBVFVTX0NBTExCQUNLX1VSTCA/PiIKICAgICAgICAgICAgICAgIHN0YXR1c0NhbGxiYWNrTWV0aG9kPSJHRVQiCiAgICAgICAgPjw/cGhwIGVjaG8gJHRlbCA/PjwvTnVtYmVyPgogICAgPC9EaWFsPgo8L1Jlc3BvbnNlPgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgJHRoaXMtPnZpZXdCdWlsZGVyKCktPmxheW91dCgnJyk7CgogICAgICAgICRjYWxsZXJJZCA9IFRXSUxJT19DQUxMRVJfVEVMOwoKICAgICAgICAkc3RhdHVzQ2FsbGJhY2sgPSAiIHN0YXR1c0NhbGxiYWNrPVwiIiAuIFRXSUxJT19TVEFUVVNfQ0FMTEJBQ0tfVVJMIC4gIlwiIHN0YXR1c0NhbGxiYWNrTWV0aG9kPVwiR0VUXCIgIHN0YXR1c0NhbGxiYWNrRXZlbnQ9XCJzdGFydCBlbmQgam9pbiBsZWF2ZSBtdXRlIGhvbGRcIiI7CiAgICAgICAgJHRoaXMtPnNldCgnc3RhdHVzQ2FsbGJhY2snLCAkc3RhdHVzQ2FsbGJhY2spOwoKICAgICAgICAvLyBUT0RPIOmbu+ipseOBp+adpeOBn+WgtOWQiOOBr+OAgeOBk+OBk+OBp+ODquOCr+OCqOOCueODiOOBi+OCiembu+ipseeVquWPt+OCkuaxguOCgeOCiwogICAgICAgICRudW1iZXIgPSAkdGhpcy0+cmVxdWVzdC0+cXVlcnkoJ25hbWUnKTsKICAgICAgICAkZnJvbSA9ICR0aGlzLT5yZXF1ZXN0LT5xdWVyeSgnRnJvbScpOyAjIFR3aWxpb+OBrueZuuS/oeiAheeVquWPtwogICAgICAgICRpc0ZvcnR1bmVUZWxsZXIgPSAkdGhpcy0+cmVxdWVzdC0+cXVlcnkoJ2lzRm9ydHVuZVRlbGxlcicpOwoKCiAgICAgICAgJGJvb2tpbmcgPSAkdGhpcy0+Z2V0Qm9va2luZyggJG51bWJlciA9PSBudWxsID8gJGZyb20gOiAkbnVtYmVyICwgJGlzRm9ydHVuZVRlbGxlcik7CiAgICAgICAgaWYgKCRib29raW5nID09IG51bGwpIHsKICAgICAgICAgICAgJHRoaXMtPnNldEFjdGlvbigibm9Cb29raW5nIik7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgLy8g5q6L44KK44Od44Kk44Oz44OI44GM6Laz44KK44Gm44GE44KL44GL44OB44Kn44OD44KvCiAgICAgICAgaWYgKCAhJGlzRm9ydHVuZVRlbGxlciAmJiAhJHRoaXMtPmNhblBlcmZvcm1Nb3JlVGhhbjYwU2VjKCRib29raW5nKSl7CiAgICAgICAgICAgICR0aGlzLT5zZXRBY3Rpb24oIm5vTW9uZXkiKTsKICAgICAgICAgICAgLy8g5LqI57SE44KS57WC5LqG44Gr44GZ44KLCiAgICAgICAgICAgICR0aGlzLT5jaGFuZ2VTdGF0dXMoJGJvb2tpbmctPmlkLCBTQ0hFRFVMRV9TVEFUVVNfV0FJVElORywgQk9PS0lOR19TVEFUVVNfQU5BTFlTSVNfQ09NUExFVEUpOwogICAgICAgICAgICAvLyDku5bjga7kuojntITjgYzjgYLjgovjgYvmpJzntKLjgILjgYLjgozjgbDpgJrnn6UKICAgICAgICAgICAgJHNjaGVkdWxlID0gJHRoaXMtPnNlYXJjaFdhaXRpbmdzKCRib29raW5nLT5pZCk7CiAgICAgICAgICAgIGlmKCRzY2hlZHVsZSl7CiAgICAgICAgICAgICAgICAkdGhpcy0+bm90aWNlVG9HZXRSZWFkeVRvRm9ydHVuZXRlbGxlcigkc2NoZWR1bGUsICdjYW5jZWwnKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgICRudW1iZXIgPSAkYm9va2luZy0+aWQ7CiAgICAgICAgJGNhbGxTaWQgPSAkdGhpcy0+cmVxdWVzdC0+cXVlcnkoJ0NhbGxTaWQnKTsKICAgICAgICAvLyDjg6bjg7zjgrbjg7zjgYzpgJroqbHjgpLplovlp4vjgZfjgIHljaDjgYTluKvjgbjpm7voqbHlj5fjgZHlj5bjgornlKjpgJrnn6XjgpLpgIHjgosKICAgICAgICBpZighJGlzRm9ydHVuZVRlbGxlcil7CiAgICAgICAgICAgIC8vIOmghueVquW+heOBoeOBruS6iOe0hOOCueODhuODvOOCv+OCueOCkuWNoOOBhOW4q+mbu+ipseW+heOBoeOBq+WkieabtAogICAgICAgICAgICAkdGhpcy0+Y2hhbmdlU3RhdHVzKCRib29raW5nLT5pZCwgU0NIRURVTEVfU1RBVFVTX1dBSVRJTkcsIEJPT0tJTkdfU1RBVFVTX1dBSVRfRk9SX0ZPUlRVTkVURUxMRVIpOwogICAgICAgICAgICAkdGhpcy0+bm90aWNlQ2FsbGluZ1RvRm9ydHVuZXRlbGxlcigkYm9va2luZyk7CiAgICAgICAgICAgICRjYWxsTG9ncyA9IFRhYmxlUmVnaXN0cnk6OmdldCgnQ2FsbExvZ3MnKTsKICAgICAgICAgICAgJGVudGl0eSA9ICRjYWxsTG9ncy0+bmV3RW50aXR5KCk7CiAgICAgICAgICAgICRlbnRpdHktPnVzZXJfdGVsID0gJG51bWJlcjsKICAgICAgICAgICAgJGVudGl0eS0+Zm9ydHVuZXRlbGxlcl90ZWwgPSAkYm9va2luZy0+c2NoZWR1bGUtPmZvcnR1bmV0ZWxsZXJfaWQ7CiAgICAgICAgICAgICRlbnRpdHktPmNhbGxfc2lkID0gJGNhbGxTaWQ7IC8vY2FsbF9zaWTjgpLjg6rjgq/jgqjjgrnjg4jjgYvjgonlj5blvpcKICAgICAgICAgICAgJGNhbGxMb2dzLT5zYXZlKCRlbnRpdHkpOwogICAgICAgIH0KCiAgICAgICAgJHRoaXMtPmxvZygiVHdpbGlvIGRpYWwgY2FsbGVySWQ6ICIuJGNhbGxlcklkICwnZGVidWcnKTsKCiAgICAgICAgJHRoaXMtPnNldCgnY2FsbGVySWQnLCAkY2FsbGVySWQpOwogICAgICAgICR0aGlzLT5zZXQoJ2NvbmZlcmVuY2VSb29tJywgJG51bWJlcik7Cg==</text>
+        <text encoding="base64">PFJlc3BvbnNlPgogICAgPERpYWwgY2FsbGVySWQ9Ijw/cGhwIGVjaG8gJGNhbGxlcklkID8+Ij4KICAgICAgICA8Q29uZmVyZW5jZSBiZWVwPSJmYWxzZSIgd2FpdFVybD0iIiBzdGFydENvbmZlcmVuY2VPbkVudGVyPSJ0cnVlIiBlbmRDb25mZXJlbmNlT25FeGl0PSJ0cnVlIiA8P3BocCBlY2hvICRzdGF0dXNDYWxsYmFjaz8+ICByZWNvcmQ9InJlY29yZC1mcm9tLXN0YXJ0IiByZWdpb249ImpwMSI+CiAgICAgICAgICAgIDw/cGhwIGVjaG8gJGNvbmZlcmVuY2VSb29tID8+CiAgICAgICAgPC9Db25mZXJlbmNlPgogICAgPC9EaWFsPgo8L1Jlc3BvbnNlPgoKPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRjYWxsLT5zaWQ7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgJHRoaXMtPnZpZXdCdWlsZGVyKCktPmxheW91dCgnJyk7CgogICAgICAgICRjYWxsZXJJZCA9IFRXSUxJT19DQUxMRVJfVEVMOwoKICAgICAgICAkc3RhdHVzQ2FsbGJhY2sgPSAiIHN0YXR1c0NhbGxiYWNrPVwiIiAuIFRXSUxJT19TVEFUVVNfQ0FMTEJBQ0tfVVJMIC4gIlwiIHN0YXR1c0NhbGxiYWNrTWV0aG9kPVwiR0VUXCIgIHN0YXR1c0NhbGxiYWNrRXZlbnQ9XCJzdGFydCBlbmQgam9pbiBsZWF2ZSBtdXRlIGhvbGRcIiI7CiAgICAgICAgJHRoaXMtPnNldCgnc3RhdHVzQ2FsbGJhY2snLCAkc3RhdHVzQ2FsbGJhY2spOwoKICAgICAgICAvLyBUT0RPIOmbu+ipseOBp+adpeOBn+WgtOWQiOOBr+OAgeOBk+OBk+OBp+ODquOCr+OCqOOCueODiOOBi+OCiembu+ipseeVquWPt+OCkuaxguOCgeOCiwogICAgICAgICRudW1iZXIgPSAkdGhpcy0+cmVxdWVzdC0+cXVlcnkoJ25hbWUnKTsKICAgICAgICAkZnJvbSA9ICR0aGlzLT5yZXF1ZXN0LT5xdWVyeSgnRnJvbScpOyAjIFR3aWxpb+OBrueZuuS/oeiAheeVquWPtwogICAgICAgICRpc0ZvcnR1bmVUZWxsZXIgPSAkdGhpcy0+cmVxdWVzdC0+cXVlcnkoJ2lzRm9ydHVuZVRlbGxlcicpOwoKCiAgICAgICAgJGJvb2tpbmcgPSAkdGhpcy0+Z2V0Qm9va2luZyggJG51bWJlciA9PSBudWxsID8gJGZyb20gOiAkbnVtYmVyICwgJGlzRm9ydHVuZVRlbGxlcik7CiAgICAgICAgaWYgKCRib29raW5nID09IG51bGwpIHsKICAgICAgICAgICAgJHRoaXMtPnNldEFjdGlvbigibm9Cb29raW5nIik7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgLy8g5q6L44KK44Od44Kk44Oz44OI44GM6Laz44KK44Gm44GE44KL44GL44OB44Kn44OD44KvCiAgICAgICAgaWYgKCAhJGlzRm9ydHVuZVRlbGxlciAmJiAhJHRoaXMtPmNhblBlcmZvcm1Nb3JlVGhhbjYwU2VjKCRib29raW5nKSl7CiAgICAgICAgICAgICR0aGlzLT5zZXRBY3Rpb24oIm5vTW9uZXkiKTsKICAgICAgICAgICAgLy8g5LqI57SE44KS57WC5LqG44Gr44GZ44KLCiAgICAgICAgICAgICR0aGlzLT5jaGFuZ2VTdGF0dXMoJGJvb2tpbmctPmlkLCBTQ0hFRFVMRV9TVEFUVVNfV0FJVElORywgQk9PS0lOR19TVEFUVVNfQU5BTFlTSVNfQ09NUExFVEUpOwogICAgICAgICAgICAvLyDku5bjga7kuojntITjgYzjgYLjgovjgYvmpJzntKLjgILjgYLjgozjgbDpgJrnn6UKICAgICAgICAgICAgJHNjaGVkdWxlID0gJHRoaXMtPnNlYXJjaFdhaXRpbmdzKCRib29raW5nLT5pZCk7CiAgICAgICAgICAgIGlmKCRzY2hlZHVsZSl7CiAgICAgICAgICAgICAgICAkdGhpcy0+bm90aWNlVG9HZXRSZWFkeVRvRm9ydHVuZXRlbGxlcigkc2NoZWR1bGUsICdjYW5jZWwnKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgICRudW1iZXIgPSAkYm9va2luZy0+aWQ7CiAgICAgICAgJGNhbGxTaWQgPSAkdGhpcy0+cmVxdWVzdC0+cXVlcnkoJ0NhbGxTaWQnKTsKICAgICAgICAvLyDjg6bjg7zjgrbjg7zjgYzpgJroqbHjgpLplovlp4vjgZfjgIHljaDjgYTluKvjgbjpm7voqbHlj5fjgZHlj5bjgornlKjpgJrnn6XjgpLpgIHjgosKICAgICAgICBpZighJGlzRm9ydHVuZVRlbGxlcil7CiAgICAgICAgICAgIC8vIOmghueVquW+heOBoeOBruS6iOe0hOOCueODhuODvOOCv+OCueOCkuWNoOOBhOW4q+mbu+ipseW+heOBoeOBq+WkieabtAogICAgICAgICAgICAkdGhpcy0+Y2hhbmdlU3RhdHVzKCRib29raW5nLT5pZCwgU0NIRURVTEVfU1RBVFVTX1dBSVRJTkcsIEJPT0tJTkdfU1RBVFVTX1dBSVRfRk9SX0ZPUlRVTkVURUxMRVIpOwogICAgICAgICAgICAkdGhpcy0+bm90aWNlQ2FsbGluZ1RvRm9ydHVuZXRlbGxlcigkYm9va2luZyk7CiAgICAgICAgICAgICRjYWxsTG9ncyA9IFRhYmxlUmVnaXN0cnk6OmdldCgnQ2FsbExvZ3MnKTsKICAgICAgICAgICAgJGVudGl0eSA9ICRjYWxsTG9ncy0+bmV3RW50aXR5KCk7CiAgICAgICAgICAgICRlbnRpdHktPnVzZXJfdGVsID0gJG51bWJlcjsKICAgICAgICAgICAgJGVudGl0eS0+Zm9ydHVuZXRlbGxlcl90ZWwgPSAkYm9va2luZy0+c2NoZWR1bGUtPmZvcnR1bmV0ZWxsZXJfaWQ7CiAgICAgICAgICAgICRlbnRpdHktPmNhbGxfc2lkID0gJGNhbGxTaWQ7IC8vY2FsbF9zaWTjgpLjg6rjgq/jgqjjgrnjg4jjgYvjgonlj5blvpcKICAgICAgICAgICAgJGNhbGxMb2dzLT5zYXZlKCRlbnRpdHkpOwogICAgICAgIH0KCiAgICAgICAgJHRoaXMtPmxvZygiVHdpbGlvIGRpYWwgY2FsbGVySWQ6ICIuJGNhbGxlcklkICwnZGVidWcnKTsKCiAgICAgICAgJHRoaXMtPnNldCgnY2FsbGVySWQnLCAkY2FsbGVySWQpOwogICAgICAgICR0aGlzLT5zZXQoJ2NvbmZlcmVuY2VSb29tJywgJG51bWJlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TODO</last-search>
+      <last-search>dial3</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
+      <last-pattern>dial3</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1522,7 +1522,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmljZURlZmF1bHREaWZmXD4=</entry>
         <entry encoding="base64">XDxwcmljZUFkZERpZmZcPg==</entry>
         <entry encoding="base64">XDxsb3NzQ3V0SnVkZ2VSYXRlXD4=</entry>
         <entry encoding="base64">XDxsb3NzQ3V0UmF0ZVw+</entry>
@@ -1542,10 +1541,9 @@
         <entry encoding="base64">XDxkaWFsM1w+</entry>
         <entry>getPro</entry>
         <entry>TODO</entry>
+        <entry>dial3</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/PRODUCT_CODE/productCode/g</entry>
-        <entry>9</entry>
         <entry>%s/ドテン/チャンネルブレイクアウト/</entry>
         <entry>258,308d</entry>
         <entry>277</entry>
@@ -1563,6 +1561,8 @@
         <entry>%y</entry>
         <entry>188</entry>
         <entry>1</entry>
+        <entry encoding="base64">JzwsJz4yMjg=</entry>
+        <entry>228</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
