@@ -75,12 +75,12 @@
       <file name="/timeline_picks [newspicks@production-cluster.cluster-ci9znf4p6ffv.ap-northeast-1.rds.amazonaws.com]" timestamp="1528056857539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1529571558981">
-        <mark key="'" line="168" column="20" />
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="184" column="0" />
-        <mark key="^" line="177" column="21" />
-        <mark key="." line="184" column="0" />
+      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1529575682657">
+        <mark key="'" line="177" column="35" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="^" line="177" column="55" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/rest/src/main/resources/application.yml" timestamp="1529487870213">
         <mark key="[" line="4" column="52" />
@@ -233,10 +233,6 @@
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Shell/BotShell.php" timestamp="1529545343617">
         <mark key="'" line="22" column="7" />
-        <mark key="[" line="53" column="52" />
-        <mark key="]" line="53" column="52" />
-        <mark key="^" line="54" column="31" />
-        <mark key="." line="53" column="52" />
       </file>
       <file name="$USER_HOME$/git/orasp/pubspec.yaml" timestamp="1520992816748">
         <mark key="[" line="11" column="2" />
@@ -624,11 +620,11 @@
         <mark key="^" line="43" column="17" />
         <mark key="." line="43" column="17" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1529459094625">
-        <mark key="[" line="95" column="86" />
-        <mark key="]" line="95" column="86" />
-        <mark key="^" line="95" column="86" />
-        <mark key="." line="95" column="86" />
+      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1529575654251">
+        <mark key="[" line="112" column="56" />
+        <mark key="]" line="112" column="74" />
+        <mark key="^" line="112" column="74" />
+        <mark key="." line="112" column="74" />
       </file>
       <file name="/Dummy.txt" timestamp="1529478983453">
         <mark key="[" line="0" column="0" />
@@ -1424,8 +1420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="11" filename="/Dummy.txt" />
-      <jump line="83" column="77" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="388" column="0" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="611" column="38" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="315" column="20" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
@@ -1524,6 +1518,8 @@
       <jump line="35" column="13" filename="$USER_HOME$/git/utel/app/src/Shell/BotShell.php" />
       <jump line="22" column="7" filename="$USER_HOME$/git/utel/app/src/Shell/BotShell.php" />
       <jump line="1" column="0" filename="$USER_HOME$/git/utel/resetLibrary.sh" />
+      <jump line="179" column="12" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
+      <jump line="178" column="35" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1547,54 +1543,52 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5hbmRXaGU=</text>
+        <text>&quot;http://utel.ajio.net/twilio/dialToFortuneTeller?conferenceRoom=&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb29tX251bWJlclw+</text>
+        <text>utel.a</text>
       </register>
-      <register name="0" type="4">
-        <text>cd app 
-rm -rf composer.lock vendor
-composer install</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZGVmaW5lKCdUV0lMSU9fRElBTF9UT19GT1JUVU5FX1RFTExFUicsJ2h0dHA6Ly91dGVsLmFqaW8ubmV0L3R3aWxpby9kaWFsVG9Gb3J0dW5lVGVsbGVyP2NvbmZlcmVuY2VSb29tPScpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFRPRE8gVVJM44KS5a6a576p5YyWCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBsb3dQb2ludCgpCg==</text>
+        <text encoding="base64">dXNlIENha2VcT1JNXFRhYmxlUmVnaXN0cnk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ewogICAgICAgICR0aGlzLT52aWV3QnVpbGRlcigpLT5sYXlvdXQoJycpOwogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzYXlMb3dQb2ludCgpCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBsb3dQb2ludCgpCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ewogICAgICAgICR0aGlzLT52aWV3QnVpbGRlcigpLT5sYXlvdXQoJycpOwogICAgICAgICRjbGllbnQgPSBuZXcgQ2xpZW50KFRXSUxJT19TSUQsIFRXSUxJT19UT0tFTik7CiAgICAgICAgJGNhbGxTaWQgPSAkdGhpcy0+cmVxdWVzdC0+cXVlcnkoJ2NhbGxTaWQnKTsKICAgICAgICAkY2FsbCA9ICRjbGllbnQtPmNhbGxzKCRjYWxsU2lkKQogICAgICAgICAgICAtPnVwZGF0ZShhcnJheSgKICAgICAgICAgICAgICAgICAgICAibWV0aG9kIiA9PiAiUE9TVCIsCiAgICAgICAgICAgICAgICAgICAgInVybCIgPT4gImh0dHA6Ly91dGVsLmFqaW8ubmV0L3R3aWxpby9sb3dQb2ludCIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKTsKICAgICAgICBwcmludCgkY2FsbC0+dG8pOwogICAgfQ==</text>
+        <text encoding="base64">ewogICAgICAgICR0aGlzLT52aWV3QnVpbGRlcigpLT5sYXlvdXQoJycpOwogICAgfQ==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxTYXkgbGFuZ3VhZ2U9ImphLUpQIiB2b2ljZT0iYWxpY2UiPuaOpee2muOBl+OBvuOBmTwvU2F5Pgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzYXlMb3dQb2ludCgpCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">KFsnc3RhcnRfdGltZSA+PScgPT4gZGF0ZSgnWS1tLWQgSDppOnMnLCBzdHJ0b3RpbWUoIi02MCBzZWNvbmRzIikpIF0p</text>
+        <text encoding="base64">ewogICAgICAgICR0aGlzLT52aWV3QnVpbGRlcigpLT5sYXlvdXQoJycpOwogICAgICAgICRjbGllbnQgPSBuZXcgQ2xpZW50KFRXSUxJT19TSUQsIFRXSUxJT19UT0tFTik7CiAgICAgICAgJGNhbGxTaWQgPSAkdGhpcy0+cmVxdWVzdC0+cXVlcnkoJ2NhbGxTaWQnKTsKICAgICAgICAkY2FsbCA9ICRjbGllbnQtPmNhbGxzKCRjYWxsU2lkKQogICAgICAgICAgICAtPnVwZGF0ZShhcnJheSgKICAgICAgICAgICAgICAgICAgICAibWV0aG9kIiA9PiAiUE9TVCIsCiAgICAgICAgICAgICAgICAgICAgInVybCIgPT4gImh0dHA6Ly91dGVsLmFqaW8ubmV0L3R3aWxpby9sb3dQb2ludCIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKTsKICAgICAgICBwcmludCgkY2FsbC0+dG8pOwogICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgIDxTYXkgbGFuZ3VhZ2U9ImphLUpQIiB2b2ljZT0iYWxpY2UiPuaOpee2muOBl+OBvuOBmTwvU2F5Pgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlcnMuaXNOb3RFbXB0eSgpICYmIHVzZXJzWzBdLnNlcmlhbCA9PSBzZXJpYWxLZXkpIHsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">KFsnc3RhcnRfdGltZSA+PScgPT4gZGF0ZSgnWS1tLWQgSDppOnMnLCBzdHJ0b3RpbWUoIi02MCBzZWNvbmRzIikpIF0p</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb29tX251bWJlclw+</last-search>
+      <last-search>utel.a</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb29tX251bWJlclw+</last-pattern>
+      <last-pattern>utel.a</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1602,7 +1596,6 @@ composer install</text>
     </search>
     <history>
       <history-search>
-        <entry>20</entry>
         <entry>VO</entry>
         <entry encoding="base64">XDxjYWxsZXJJZFw+</entry>
         <entry>Room</entry>
@@ -1622,6 +1615,7 @@ composer install</text>
         <entry>Key</entry>
         <entry>coinman</entry>
         <entry encoding="base64">XDxyb29tX251bWJlclw+</entry>
+        <entry>utel.a</entry>
       </history-search>
       <history-cmd>
         <entry>210</entry>
