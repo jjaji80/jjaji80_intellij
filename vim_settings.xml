@@ -75,12 +75,12 @@
       <file name="/timeline_picks [newspicks@production-cluster.cluster-ci9znf4p6ffv.ap-northeast-1.rds.amazonaws.com]" timestamp="1528056857539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1529543631025">
+      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1529571558981">
         <mark key="'" line="168" column="20" />
-        <mark key="[" line="350" column="0" />
-        <mark key="]" line="350" column="0" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
         <mark key="^" line="177" column="21" />
-        <mark key="." line="350" column="0" />
+        <mark key="." line="184" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/rest/src/main/resources/application.yml" timestamp="1529487870213">
         <mark key="[" line="4" column="52" />
@@ -612,7 +612,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1529563584602">
+      <file name="/dummy.sql" timestamp="1529570470621">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -804,10 +804,6 @@
         <mark key="]" line="103" column="75" />
         <mark key="." line="103" column="75" />
         <mark key="^" line="103" column="72" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/model/src/main/java/model/Ticker.kt" timestamp="1529479513250">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="24" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_login.ctp" timestamp="1526450320382">
         <mark key="[" line="28" column="49" />
@@ -1025,9 +1021,10 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Template/Twilio/dial_to_fortune_teller.ctp" timestamp="1529542208557">
+      <file name="$USER_HOME$/git/utel/app/src/Template/Twilio/dial_to_fortune_teller.ctp" timestamp="1529571432345">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="51" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/lib/capture_video.js" timestamp="1522460062059">
         <mark key="[" line="2" column="29" />
@@ -1548,7 +1545,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>ResultIntDto(result = 2)</text>
+        <text encoding="base64">LT5hbmRXaGU=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb29tX251bWJlclw+</text>
@@ -1557,34 +1554,34 @@
         <text>REQUEST_URI</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlcnMuaXNOb3RFbXB0eSgpICYmIHVzZXJzWzBdLnNlcmlhbCA9PSBzZXJpYWxLZXkpIHsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBsb3dQb2ludCgpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhcnQgPSBkYXRlKCdZLW0tZCBIOmk6cycpOwogICAgICAgICRlbmQgPSBkYXRlKCdZLW0tZCBIOmk6cycsc3RydG90aW1lKGRhdGUoJHN0YXJ0KSkgKyA1OSk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ewogICAgICAgICR0aGlzLT52aWV3QnVpbGRlcigpLT5sYXlvdXQoJycpOwogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzYXlMb3dQb2ludCgpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcm9vbV9udW1iZXIgPSAkdGhpcy0+Um9vbU51bWJlcnMtPmdldCgkY2FsbF9sb2ctPnJvb21fbnVtYmVyX2lkKTsKICAgICAgICAgICAgICAgICAgICAkdGhpcy0+VHdpbGlvLT5tYWtlQm90KCRyb29tX251bWJlci0+dGVsLCAiY2hpbWUiKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ewogICAgICAgICR0aGlzLT52aWV3QnVpbGRlcigpLT5sYXlvdXQoJycpOwogICAgICAgICRjbGllbnQgPSBuZXcgQ2xpZW50KFRXSUxJT19TSUQsIFRXSUxJT19UT0tFTik7CiAgICAgICAgJGNhbGxTaWQgPSAkdGhpcy0+cmVxdWVzdC0+cXVlcnkoJ2NhbGxTaWQnKTsKICAgICAgICAkY2FsbCA9ICRjbGllbnQtPmNhbGxzKCRjYWxsU2lkKQogICAgICAgICAgICAtPnVwZGF0ZShhcnJheSgKICAgICAgICAgICAgICAgICAgICAibWV0aG9kIiA9PiAiUE9TVCIsCiAgICAgICAgICAgICAgICAgICAgInVybCIgPT4gImh0dHA6Ly91dGVsLmFqaW8ubmV0L3R3aWxpby9sb3dQb2ludCIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKTsKICAgICAgICBwcmludCgkY2FsbC0+dG8pOwogICAgfQ==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxTYXkgbGFuZ3VhZ2U9ImphLUpQIiB2b2ljZT0iYWxpY2UiPuaOpee2muOBl+OBvuOBmTwvU2F5Pgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">KFsnc3RhcnRfdGltZSA+PScgPT4gZGF0ZSgnWS1tLWQgSDppOnMnLCBzdHJ0b3RpbWUoIi02MCBzZWNvbmRzIikpIF0p</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzdGF0dXNDYWxsYmFjazIoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVHdpbGlv44K144O844OQ44O844GL44KJ44CB44Kk44OZ44Oz44OI55m655Sf5pmC44Gr5ZG844Gw44KM44G+44GZCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICBpZiAodXNlcnMuaXNOb3RFbXB0eSgpICYmIHVzZXJzWzBdLnNlcmlhbCA9PSBzZXJpYWxLZXkpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1623,7 +1620,6 @@
         <entry encoding="base64">XDxyb29tX251bWJlclw+</entry>
       </history-search>
       <history-cmd>
-        <entry>385</entry>
         <entry>210</entry>
         <entry>36</entry>
         <entry>22</entry>
@@ -1642,6 +1638,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>23,49y</entry>
         <entry>457</entry>
+        <entry>252</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
