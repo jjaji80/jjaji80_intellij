@@ -1264,12 +1264,12 @@
         <mark key="^" line="0" column="65" />
         <mark key="." line="0" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1529624450142">
-        <mark key="'" line="1740" column="20" />
-        <mark key="[" line="1749" column="46" />
-        <mark key="]" line="1751" column="42" />
-        <mark key="." line="1751" column="42" />
-        <mark key="^" line="1751" column="42" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1529625524950">
+        <mark key="'" line="1749" column="42" />
+        <mark key="[" line="1755" column="54" />
+        <mark key="]" line="1757" column="43" />
+        <mark key="." line="1757" column="43" />
+        <mark key="^" line="1757" column="43" />
       </file>
       <file name="$USER_HOME$/git/orasp/lib/main.dart" timestamp="1521097556064">
         <mark key="[" line="11" column="3" />
@@ -1469,7 +1469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="6" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_card.ctp" />
       <jump line="23" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="39" column="312" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
       <jump line="35" column="5" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
@@ -1569,6 +1568,7 @@
       <jump line="1698" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="1738" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="1740" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="1749" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1592,7 +1592,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2FsbF9sb2dzIA==</text>
+        <text>CF193db39d591e7cb5c0d3e0478f339723</text>
       </register>
       <register name="/" type="4">
         <text>cakephp</text>
