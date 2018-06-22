@@ -390,6 +390,9 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" timestamp="1529632784205">
+        <mark key="'" line="145" column="20" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Config/const.php" timestamp="1524642983247">
         <mark key="[" line="48" column="23" />
         <mark key="]" line="48" column="24" />
@@ -1469,9 +1472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="39" column="312" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
-      <jump line="35" column="5" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
       <jump line="29" column="49" filename="$USER_HOME$/git/utel/app/composer.json" />
       <jump line="25" column="2" filename="$USER_HOME$/git/manganews-web-master/app/Config/routes.php" />
       <jump line="86" column="0" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacySelfController.java" />
@@ -1569,6 +1569,9 @@
       <jump line="1738" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="1740" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="1749" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="166" column="35" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
+      <jump line="120" column="49" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
+      <jump line="145" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitflyerApi.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1595,7 +1598,7 @@
         <text>CF193db39d591e7cb5c0d3e0478f339723</text>
       </register>
       <register name="/" type="4">
-        <text>cakephp</text>
+        <text encoding="base64">XDx0YXJnZXREYXRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZHJvcCB0YWJsZSByZV9mb3J0dW5ldGVsbGVyX3N0b3JlczsK</text>
@@ -1635,9 +1638,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cakephp</last-search>
+      <last-search encoding="base64">XDx0YXJnZXREYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern>cakephp</last-pattern>
+      <last-pattern encoding="base64">XDx0YXJnZXREYXRlXD4=</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1645,7 +1648,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Room</entry>
         <entry>token</entry>
         <entry encoding="base64">XDxkaWFsM1w+</entry>
         <entry>getPro</entry>
@@ -1665,6 +1667,7 @@
         <entry>utel.a</entry>
         <entry>通話開始</entry>
         <entry>cakephp</entry>
+        <entry encoding="base64">XDx0YXJnZXREYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>22</entry>
