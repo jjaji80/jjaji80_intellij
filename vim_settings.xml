@@ -369,6 +369,10 @@
       <file name="/shops [ora@ora.seizen-seiri.net]" timestamp="1529968512602">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Controller/MypageController.php" timestamp="1530010514349">
+        <mark key="[" line="430" column="34" />
+        <mark key="]" line="430" column="48" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PushbulletProperties.kt" timestamp="1520567527754">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="6" column="24" />
@@ -1568,8 +1572,8 @@
       <register name="/" type="4">
         <text>nor</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSB0aGFua3NfbWFpbHMKd2hlcmUgYW5hbHlzaXNfcmVzdWx0X2lkIGlzIG51bGw7Cg==</text>
+      <register name="0" type="4">
+        <text>$analysisResult</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VsZQo=</text>
@@ -1602,7 +1606,7 @@
         <text encoding="base64">ewogICAgICAgICR0aGlzLT52aWV3QnVpbGRlcigpLT5sYXlvdXQoJycpOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
-        <text>214</text>
+        <text>430</text>
       </register>
     </registers>
     <search>
@@ -1638,7 +1642,6 @@
         <entry>nor</entry>
       </history-search>
       <history-cmd>
-        <entry>22</entry>
         <entry>39</entry>
         <entry>227</entry>
         <entry>313,388y</entry>
@@ -1658,6 +1661,7 @@
         <entry>w</entry>
         <entry>1</entry>
         <entry>214</entry>
+        <entry>430</entry>
       </history-cmd>
       <history-expr />
       <history-input />
