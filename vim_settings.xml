@@ -326,6 +326,7 @@
         <mark key="^" line="20" column="84" />
         <mark key="." line="21" column="35" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Locale/ja_JP/default.po" timestamp="1530004822911" />
       <file name="/accounts [ora@localhost]" timestamp="1524811030075">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1241,12 +1242,12 @@
         <mark key="^" line="0" column="65" />
         <mark key="." line="0" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1530003721502">
-        <mark key="'" line="1779" column="0" />
-        <mark key="[" line="1825" column="16" />
-        <mark key="]" line="1821" column="33" />
-        <mark key="." line="1819" column="53" />
-        <mark key="^" line="1819" column="53" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1530004851939">
+        <mark key="'" line="1795" column="21" />
+        <mark key="[" line="1828" column="36" />
+        <mark key="]" line="1829" column="46" />
+        <mark key="." line="1829" column="46" />
+        <mark key="^" line="1829" column="46" />
       </file>
       <file name="$USER_HOME$/git/orasp/lib/main.dart" timestamp="1521097556064">
         <mark key="[" line="11" column="3" />
@@ -1439,7 +1440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="28" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacySelfController.java" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
       <jump line="2" column="19" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
       <jump line="30" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -1539,6 +1539,7 @@
       <jump line="1" column="13" filename="86f63129-4c41-4d5e-96d0-2df4a3fc496d/schema/ora/table/settings.sql" />
       <jump line="1754" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="1779" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="1795" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
