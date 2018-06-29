@@ -102,7 +102,8 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PasswordReminderController.kt" timestamp="1524448571468">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PasswordReminderController.kt" timestamp="1530230728112">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="65" column="23" />
         <mark key="]" line="65" column="30" />
         <mark key="." line="65" column="30" />
@@ -966,6 +967,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="27" />
       </file>
+      <file name="86f63129-4c41-4d5e-96d0-2df4a3fc496d/schema/ora/table/settings.sql" timestamp="1529972337893">
+        <mark key="'" line="23" column="13" />
+        <mark key="[" line="36" column="2" />
+        <mark key="]" line="36" column="20" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803310709__add_cash.sql" timestamp="1522491159552">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="38" />
@@ -1284,6 +1290,11 @@
         <mark key="^" line="2" column="52" />
         <mark key="." line="2" column="52" />
       </file>
+      <file name="757fa693-3e11-4a4b-993d-f658036d9754/schema/ora/table/users.sql" timestamp="1530230549628">
+        <mark key="'" line="1" column="13" />
+        <mark key="[" line="28" column="2" />
+        <mark key="]" line="28" column="23" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/LogService.java" timestamp="1519951265581">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -1400,8 +1411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="6" column="19" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
       <jump line="36" column="155" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="432" column="17" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="440" column="64" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -1500,6 +1509,8 @@
       <jump line="1795" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console_1.sql" />
       <jump line="30" column="37" filename="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/aboutPay.html" />
+      <jump line="1" column="13" filename="757fa693-3e11-4a4b-993d-f658036d9754/schema/ora/table/users.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PasswordReminderController.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1526,10 +1537,10 @@
         <text>1.0</text>
       </register>
       <register name="/" type="4">
-        <text>creditcard.png</text>
+        <text>valid</text>
       </register>
       <register name="0" type="4">
-        <text>●</text>
+        <text encoding="base64">aXNfdmFsaWQgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDil4/jg4bjgq3jgrnjg4jjg4bjgq3jgrnjg4jjga/jg4bjgq3jgrnjg4jjg4bjgq3jgrnjg4jjgIHjgq/jg6zjgrjjg4Pjg4jjgqvjg7zjg4njga7og4zpnaLjgavoqJjovInjgZXjgozjgabjgYTjgosz5qGB44Gu55Wq5Y+377yI44Oh44Kk44Oz44Kr44O844OJ55Wq5Y+344Gu44GZ44GQ5Y+z5YG044Gr44GC44KK44G+44GZ77yJCiAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4K</text>
@@ -1566,9 +1577,9 @@
       </register>
     </registers>
     <search>
-      <last-search>creditcard.png</last-search>
+      <last-search>valid</last-search>
       <last-offset />
-      <last-pattern>creditcard.png</last-pattern>
+      <last-pattern>valid</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1576,7 +1587,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getPro</entry>
         <entry>TODO</entry>
         <entry>dial3</entry>
         <entry>post</entry>
@@ -1596,6 +1606,7 @@
         <entry encoding="base64">XDx0YXJnZXREYXRlXD4=</entry>
         <entry>nor</entry>
         <entry>creditcard.png</entry>
+        <entry>valid</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
