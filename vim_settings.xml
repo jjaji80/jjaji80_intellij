@@ -599,7 +599,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1530254727300">
+      <file name="/dummy.sql" timestamp="1530255955549">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -664,11 +664,11 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86f63129-4c41-4d5e-96d0-2df4a3fc496d/console.sql" timestamp="1530255080310">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="32" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="32" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86f63129-4c41-4d5e-96d0-2df4a3fc496d/console.sql" timestamp="1530255899631">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/bbs/reply.html" timestamp="1522647874990">
         <mark key="[" line="29" column="37" />
@@ -748,7 +748,7 @@
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="74" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1530254582898">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1530255967917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1590,7 +1590,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text>accounts set is_premium=0;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludG1hcHBpbmdcPg==</text>
