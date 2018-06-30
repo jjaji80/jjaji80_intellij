@@ -40,10 +40,10 @@
         <mark key="^" line="17" column="66" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" timestamp="1524708075270">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="108" column="36" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="126" column="41" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="107" column="36" />
+        <mark key="." line="119" column="0" />
+        <mark key="^" line="125" column="41" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/.gitignore" timestamp="1524955299386">
         <mark key="[" line="0" column="0" />
@@ -95,6 +95,11 @@
         <mark key="]" line="2" column="25" />
         <mark key="." line="7" column="44" />
         <mark key="^" line="7" column="44" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/util/CryptUtil.kt" timestamp="1530361707169">
+        <mark key="[" line="34" column="95" />
+        <mark key="]" line="34" column="96" />
+        <mark key="." line="34" column="96" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/model/src/main/java/model/Serial.kt" timestamp="1529488895413">
         <mark key="'" line="6" column="18" />
@@ -617,11 +622,11 @@
         <mark key="^" line="112" column="74" />
         <mark key="." line="112" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530233095750">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
+      <file name="/Dummy.txt" timestamp="1530361721565">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/aboutPay.html" timestamp="1530174894407">
         <mark key="'" line="30" column="37" />
@@ -1590,7 +1595,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>accounts set is_premium=0;</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludG1hcHBpbmdcPg==</text>
