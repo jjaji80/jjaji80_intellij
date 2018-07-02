@@ -39,9 +39,10 @@
         <mark key="." line="17" column="66" />
         <mark key="^" line="17" column="66" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" timestamp="1524708075270">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="107" column="36" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" timestamp="1530515022590">
+        <mark key="'" line="58" column="21" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="94" />
         <mark key="." line="119" column="0" />
         <mark key="^" line="125" column="41" />
       </file>
@@ -606,7 +607,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1530491673296">
+      <file name="/dummy.sql" timestamp="1530514739344">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -1484,12 +1485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="501" column="60" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="16" column="19" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
-      <jump line="24" column="19" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
-      <jump line="544" column="56" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="26" column="19" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
-      <jump line="112" column="122" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="578" column="63" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="269" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="28" column="19" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
@@ -1584,6 +1579,12 @@
       <jump line="747" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="171" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="85" column="50" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
+      <jump line="95" column="62" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" />
+      <jump line="35" column="32" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" />
+      <jump line="89" column="33" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" />
+      <jump line="83" column="33" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" />
+      <jump line="62" column="21" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" />
+      <jump line="58" column="21" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1610,17 +1611,10 @@
         <text encoding="base64">SU4g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWxsVG9Gb3J0dW5lVGVsbGVyXD4=</text>
+        <text>amount</text>
       </register>
-      <register name="0" type="4">
-        <text>SELECT *
-FROM bookings AS B
-  INNER JOIN schedules AS S ON S.id = B.schedule_id
-  LEFT JOIN fortunetellers AS F ON F.id = S.fortuneteller_id
-  LEFT JOIN call_logs AS C ON C.booking_id = B.id
-  LEFT JOIN analysis_results AS A ON A.call_log_id = C.id
-  INNER JOIN users AS U ON B.user_id = U.id
-WHERE B.id IN (1837);</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFpZFJlZ2lzdHJhdGlvbkZvcm0uYW1vdW50ID0gcGFpZFJlZ2lzdHJhdGlvblNlcnZpY2UuZ2V0QW1vdW50KHVzZXIgPSB1c2VyKS50aGlyZAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -1657,9 +1651,9 @@ WHERE B.id IN (1837);</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWxsVG9Gb3J0dW5lVGVsbGVyXD4=</last-search>
+      <last-search>amount</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxsVG9Gb3J0dW5lVGVsbGVyXD4=</last-pattern>
+      <last-pattern>amount</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1667,7 +1661,6 @@ WHERE B.id IN (1837);</text>
     </search>
     <history>
       <history-search>
-        <entry>post</entry>
         <entry encoding="base64">XDxmb3J0dW5ldGVsbGVyXD4=</entry>
         <entry encoding="base64">XDxkaWFsVG9Gb3J0dW5lVGVsbGVyXD4=</entry>
         <entry encoding="base64">XDxVc2VyXD4=</entry>
@@ -1687,6 +1680,7 @@ WHERE B.id IN (1837);</text>
         <entry encoding="base64">XDxwcmludG1hcHBpbmdcPg==</entry>
         <entry>analy</entry>
         <entry encoding="base64">XDxjYWxsVG9Gb3J0dW5lVGVsbGVyXD4=</entry>
+        <entry>amount</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
