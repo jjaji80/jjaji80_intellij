@@ -607,7 +607,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1530514739344">
+      <file name="/dummy.sql" timestamp="1530523039997">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -637,6 +637,9 @@
         <mark key="]" line="42" column="86" />
         <mark key="." line="42" column="86" />
         <mark key="^" line="42" column="86" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1530522953815">
+        <mark key="'" line="323" column="87" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/helper/DiedNotification.kt" timestamp="1523594815784">
         <mark key="[" line="8" column="22" />
@@ -1014,11 +1017,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="86f63129-4c41-4d5e-96d0-2df4a3fc496d/schema/ora/table/settings.sql" timestamp="1529972337893">
-        <mark key="'" line="23" column="13" />
-        <mark key="[" line="36" column="2" />
-        <mark key="]" line="36" column="20" />
-      </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803310709__add_cash.sql" timestamp="1522491159552">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="38" />
@@ -1359,11 +1357,6 @@
         <mark key="^" line="2" column="52" />
         <mark key="." line="2" column="52" />
       </file>
-      <file name="757fa693-3e11-4a4b-993d-f658036d9754/schema/ora/table/users.sql" timestamp="1530230549628">
-        <mark key="'" line="1" column="13" />
-        <mark key="[" line="28" column="2" />
-        <mark key="]" line="28" column="23" />
-      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/LogService.java" timestamp="1519951265581">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -1485,11 +1478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="578" column="63" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="269" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="28" column="19" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
-      <jump line="577" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="211" column="104" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="18" column="14" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
       <jump line="336" column="35" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="381" column="8" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
@@ -1585,6 +1573,11 @@
       <jump line="83" column="33" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" />
       <jump line="62" column="21" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" />
       <jump line="58" column="21" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" />
+      <jump line="95" column="32" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="327" column="43" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="66" column="89" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="150" column="24" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="323" column="87" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1611,7 +1604,7 @@
         <text>64</text>
       </register>
       <register name="/" type="4">
-        <text>amount</text>
+        <text>body</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGFpZFJlZ2lzdHJhdGlvbkZvcm0uYW1vdW50ID0gcGFpZFJlZ2lzdHJhdGlvblNlcnZpY2UuZ2V0QW1vdW50KHVzZXIgPSB1c2VyKS50aGlyZAo=</text>
@@ -1651,9 +1644,9 @@
       </register>
     </registers>
     <search>
-      <last-search>amount</last-search>
+      <last-search>body</last-search>
       <last-offset />
-      <last-pattern>amount</last-pattern>
+      <last-pattern>body</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1661,7 +1654,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3J0dW5ldGVsbGVyXD4=</entry>
         <entry encoding="base64">XDxkaWFsVG9Gb3J0dW5lVGVsbGVyXD4=</entry>
         <entry encoding="base64">XDxVc2VyXD4=</entry>
         <entry>api</entry>
@@ -1681,6 +1673,7 @@
         <entry>analy</entry>
         <entry encoding="base64">XDxjYWxsVG9Gb3J0dW5lVGVsbGVyXD4=</entry>
         <entry>amount</entry>
+        <entry>body</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
