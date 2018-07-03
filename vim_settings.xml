@@ -656,9 +656,9 @@
       <file name="/users [coinman@red-mine.net]" timestamp="1530059928630">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora_android/app/proguard-rules.pro" timestamp="1530232989666">
+      <file name="$USER_HOME$/git/ora_android/app/proguard-rules.pro" timestamp="1530596943465">
         <mark key="'" line="21" column="1" />
-        <mark key="[" line="20" column="38" />
+        <mark key="[" line="21" column="2" />
         <mark key="]" line="21" column="24" />
         <mark key="^" line="21" column="24" />
         <mark key="." line="21" column="24" />
@@ -935,6 +935,11 @@
         <mark key="]" line="1" column="44" />
         <mark key="^" line="1" column="44" />
         <mark key="." line="1" column="44" />
+      </file>
+      <file name="$USER_HOME$/git/utelAndroid/app/build.gradle" timestamp="1530597106334">
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="25" />
+        <mark key="." line="39" column="25" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Mypage/index.ctp" timestamp="1524646672409">
         <mark key="[" line="1" column="43" />
@@ -1269,12 +1274,12 @@
         <mark key="^" line="0" column="65" />
         <mark key="." line="0" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1530525130413">
-        <mark key="'" line="1832" column="0" />
-        <mark key="[" line="1844" column="7" />
-        <mark key="]" line="1844" column="8" />
-        <mark key="." line="1844" column="8" />
-        <mark key="^" line="1844" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1530596442935">
+        <mark key="'" line="1846" column="7" />
+        <mark key="[" line="1841" column="7" />
+        <mark key="]" line="1841" column="7" />
+        <mark key="." line="1841" column="7" />
+        <mark key="^" line="1841" column="27" />
       </file>
       <file name="$USER_HOME$/git/orasp/lib/main.dart" timestamp="1521097556064">
         <mark key="[" line="11" column="3" />
@@ -1347,6 +1352,12 @@
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" timestamp="1530497206797">
         <mark key="'" line="85" column="50" />
+      </file>
+      <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1530597012062">
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="^" line="181" column="10" />
+        <mark key="." line="169" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1528328968128">
         <mark key="[" line="0" column="0" />
@@ -1478,9 +1489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="35" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
-      <jump line="381" column="8" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
-      <jump line="412" column="25" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="460" column="35" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="461" column="36" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="493" column="27" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
@@ -1578,6 +1586,9 @@
       <jump line="150" column="24" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="323" column="87" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="1832" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="1846" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="411" column="13" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
+      <jump line="169" column="16" filename="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1601,10 +1612,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>.id</text>
+        <text>users</text>
       </register>
       <register name="/" type="4">
-        <text>body</text>
+        <text>setWebViewClient</text>
       </register>
       <register name="0" type="4">
         <text>SELECT *
@@ -1617,43 +1628,43 @@ FROM bookings AS B
 WHERE A.id =6380;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LnNldFdlYlZpZXdDbGllbnQobmV3IFdlYlZpZXdDbGllbnQoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gdXNlcnMgd2hlcmUgaWQgPCA0ODsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">5oyH57SL6KqN6Ki844Gu6Kit5a6a44GM5aSW44KM44KLCg==</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gdXNlcnMgd2hlcmUgaWQgPCA0ODsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvYWRlci5sb2FkKCJodHRwczovL3d3dy51Z3RvcC5jb20vc3BpbGwuc2h0bWwiKQo=</text>
+        <text encoding="base64">5oyH57SL6KqN6Ki844Gu6Kit5a6a44GM5aSW44KM44KLCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWIK</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvYWRlci5sb2FkKCJodHRwczovL3d3dy51Z3RvcC5jb20vc3BpbGwuc2h0bWwiKQo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWJWaWV3TG9hZGVyLgo=</text>
+        <text encoding="base64">ICAgICAgICB3ZWIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDil4/jg4bjgq3jgrnjg4jjg4bjgq3jgrnjg4jjga/jg4bjgq3jgrnjg4jjg4bjgq3jgrnjg4jjgIHjgq/jg6zjgrjjg4Pjg4jjgqvjg7zjg4njga7og4zpnaLjgavoqJjovInjgZXjgozjgabjgYTjgosz5qGB44Gu55Wq5Y+377yI44Oh44Kk44Oz44Kr44O844OJ55Wq5Y+344Gu44GZ44GQ5Y+z5YG044Gr44GC44KK44G+44GZ77yJCiAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4K</text>
+        <text encoding="base64">ICAgICAgICB3ZWJWaWV3TG9hZGVyLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDil4/jg4bjgq3jgrnjg4jjg4bjgq3jgrnjg4jjga/jg4bjgq3jgrnjg4jjg4bjgq3jgrnjg4jjgIHjgq/jg6zjgrjjg4Pjg4jjgqvjg7zjg4njga7og4zpnaLjgavoqJjovInjgZXjgozjgabjgYTjgosz5qGB44Gu55Wq5Y+377yI44Oh44Kk44Oz44Kr44O844OJ55Wq5Y+344Gu44GZ44GQ5Y+z5YG044Gr44GC44KK44G+44GZ77yJCiAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZHJvcCBjcmVhdGUgdGFibGUgbmV3X3RhYmxlICgKICBjb2wgaW50IG5vdCBudWxsCik7Cg==</text>
+        <text encoding="base64">c2VsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>body</last-search>
+      <last-search>setWebViewClient</last-search>
       <last-offset />
-      <last-pattern>body</last-pattern>
+      <last-pattern>setWebViewClient</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1661,7 +1672,6 @@ WHERE A.id =6380;</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaWFsVG9Gb3J0dW5lVGVsbGVyXD4=</entry>
         <entry encoding="base64">XDxVc2VyXD4=</entry>
         <entry>api</entry>
         <entry>ser</entry>
@@ -1681,6 +1691,7 @@ WHERE A.id =6380;</text>
         <entry encoding="base64">XDxjYWxsVG9Gb3J0dW5lVGVsbGVyXD4=</entry>
         <entry>amount</entry>
         <entry>body</entry>
+        <entry>setWebViewClient</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
