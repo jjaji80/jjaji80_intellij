@@ -1099,6 +1099,9 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="9" column="55" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/UserController.java" timestamp="1530655845895">
+        <mark key="'" line="9" column="47" />
+      </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Twilio/dial2.ctp" timestamp="1529306698586">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1357,8 +1360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="448" column="83" filename="$USER_HOME$/git/utel/app/src/Template/Mypage/index.ctp" />
-      <jump line="449" column="37" filename="$USER_HOME$/git/utel/app/src/Template/Mypage/index.ctp" />
       <jump line="165" column="20" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="168" column="20" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="11" column="33" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/UserController.kt" />
@@ -1457,6 +1458,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="129" column="33" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="159" column="61" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
+      <jump line="0" column="12" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/UserController.java" />
+      <jump line="9" column="47" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/UserController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1483,7 +1486,7 @@
         <text encoding="base64">NDk3MiA=</text>
       </register>
       <register name="/" type="4">
-        <text>news_id</text>
+        <text>news.add</text>
       </register>
       <register name="0" type="4">
         <text>SELECT B.*
@@ -1530,9 +1533,9 @@ WHERE U.id= 4972 order by B.id desc;</text>
       </register>
     </registers>
     <search>
-      <last-search>news_id</last-search>
+      <last-search>news.add</last-search>
       <last-offset />
-      <last-pattern>news_id</last-pattern>
+      <last-pattern>news.add</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1540,7 +1543,6 @@ WHERE U.id= 4972 order by B.id desc;</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb29tX251bWJlclw+</entry>
         <entry>utel.a</entry>
         <entry>通話開始</entry>
         <entry>cakephp</entry>
@@ -1557,9 +1559,10 @@ WHERE U.id= 4972 order by B.id desc;</text>
         <entry>show</entry>
         <entry>dial</entry>
         <entry>タイト</entry>
-        <entry>news</entry>
         <entry encoding="base64">XDxuZXdzX2lkXD4=</entry>
         <entry>news_id</entry>
+        <entry>news</entry>
+        <entry>news.add</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
