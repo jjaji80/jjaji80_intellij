@@ -487,6 +487,9 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/system/VersionChecker.java" timestamp="1530672673448">
+        <mark key="'" line="15" column="38" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/api/VironAuthtype.kt" timestamp="1520336714836">
         <mark key="[" line="9" column="40" />
         <mark key="]" line="9" column="40" />
@@ -1178,7 +1181,7 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources/applicationContext.xml" timestamp="1521516530789">
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources/applicationContext.xml" timestamp="1530672699042">
         <mark key="[" line="57" column="39" />
         <mark key="]" line="57" column="43" />
         <mark key="." line="57" column="43" />
@@ -1363,7 +1366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="20" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="11" column="33" filename="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/UserController.kt" />
       <jump line="8" column="11" filename="$USER_HOME$/git/coinman_parent/model/src/main/java/model/User.kt" />
       <jump line="19" column="11" filename="$USER_HOME$/git/coinman_parent/model/src/main/java/model/User.kt" />
@@ -1463,6 +1465,7 @@
       <jump line="0" column="12" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/UserController.java" />
       <jump line="9" column="47" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/UserController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Pick.java" />
+      <jump line="15" column="38" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/system/VersionChecker.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1489,7 +1492,7 @@
         <text encoding="base64">NDk3MiA=</text>
       </register>
       <register name="/" type="4">
-        <text>like</text>
+        <text encoding="base64">XDxQcm9wZXJ0eVw+</text>
       </register>
       <register name="0" type="4">
         <text>SELECT B.*
@@ -1536,9 +1539,9 @@ WHERE U.id= 4972 order by B.id desc;</text>
       </register>
     </registers>
     <search>
-      <last-search>like</last-search>
+      <last-search encoding="base64">XDxQcm9wZXJ0eVw+</last-search>
       <last-offset />
-      <last-pattern>like</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9wZXJ0eVw+</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1546,7 +1549,6 @@ WHERE U.id= 4972 order by B.id desc;</text>
     </search>
     <history>
       <history-search>
-        <entry>通話開始</entry>
         <entry>cakephp</entry>
         <entry encoding="base64">XDx0YXJnZXREYXRlXD4=</entry>
         <entry>nor</entry>
@@ -1566,6 +1568,7 @@ WHERE U.id= 4972 order by B.id desc;</text>
         <entry>news</entry>
         <entry>news.add</entry>
         <entry>like</entry>
+        <entry encoding="base64">XDxQcm9wZXJ0eVw+</entry>
       </history-search>
       <history-cmd>
         <entry>227</entry>
