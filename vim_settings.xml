@@ -572,7 +572,7 @@
         <mark key="^" line="112" column="74" />
         <mark key="." line="112" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530599902312">
+      <file name="/Dummy.txt" timestamp="1530671529519">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
@@ -1532,7 +1532,7 @@ WHERE U.id= 4972 order by B.id desc;</text>
         <text encoding="base64">ICAgICAgICB3ZWJWaWV3TG9hZGVyLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>52</text>
       </register>
     </registers>
     <search>
@@ -1568,7 +1568,6 @@ WHERE U.id= 4972 order by B.id desc;</text>
         <entry>like</entry>
       </history-search>
       <history-cmd>
-        <entry>39</entry>
         <entry>227</entry>
         <entry>313,388y</entry>
         <entry>2</entry>
@@ -1588,6 +1587,7 @@ WHERE U.id= 4972 order by B.id desc;</text>
         <entry>430</entry>
         <entry>w</entry>
         <entry>1</entry>
+        <entry>52</entry>
       </history-cmd>
       <history-expr />
       <history-input />
