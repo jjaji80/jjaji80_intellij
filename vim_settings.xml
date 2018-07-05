@@ -546,11 +546,11 @@
         <mark key="^" line="112" column="74" />
         <mark key="." line="112" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530671529519">
+      <file name="/Dummy.txt" timestamp="1530766144941">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="16" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1530654844880">
         <mark key="'" line="463" column="122" />
@@ -1137,11 +1137,11 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources/applicationContext.xml" timestamp="1530672699042">
-        <mark key="[" line="57" column="39" />
-        <mark key="]" line="57" column="43" />
-        <mark key="." line="57" column="43" />
-        <mark key="^" line="57" column="43" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources/applicationContext.xml" timestamp="1530765862620">
+        <mark key="[" line="61" column="8" />
+        <mark key="]" line="61" column="8" />
+        <mark key="." line="61" column="8" />
+        <mark key="^" line="61" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/Appcelerator_Studio_Workspace/orasp/app/lib/capture_video_ios.js" timestamp="1522460438675">
         <mark key="[" line="48" column="57" />
@@ -1436,53 +1436,46 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">NDk3MiA=</text>
+        <text>0.2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm9wZXJ0eVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>SELECT B.*
-FROM bookings AS B
-  INNER JOIN schedules AS S ON S.id = B.schedule_id
-  LEFT JOIN fortunetellers AS F ON F.id = S.fortuneteller_id
-  LEFT JOIN call_logs AS C ON C.booking_id = B.id
-  LEFT JOIN analysis_results AS A ON A.call_log_id = C.id
-  INNER JOIN users AS U ON B.user_id = U.id
-WHERE U.id= 4972 order by B.id desc;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8cHJvcCBrZXk9ImhpYmVybmF0ZS50ZW1wLnVzZV9qZGJjX21ldGFkYXRhX2RlZmF1bHRzIj5mYWxzZTwvcHJvcD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnIK</text>
+        <text encoding="base64">5rih6YKK5qeY44Gu5L+u5q2j5Y+N5pigCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SW9uLndpdGjjgYzlpLHmlZfjgZnjgovjgZPjgajjgYzjgYLjgovjga7jgafjgIHkuIDlrprlm57mlbDnubDjgorov5TjgZflrp/ooYzjgZnjgosK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LnNldFdlYlZpZXdDbGllbnQobmV3IFdlYlZpZXdDbGllbnQoKSk7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">SW9uLndpdGjjgYzlpLHmlZfjgZnjgovjgZPjgajjgYzjgYLjgovjga7jgafjgIHkuIDlrprlm57mlbDnubDjgorov5TjgZflrp/ooYzjgZnjgosK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gdXNlcnMgd2hlcmUgaWQgPCA0ODsK</text>
+        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LnNldFdlYlZpZXdDbGllbnQobmV3IFdlYlZpZXdDbGllbnQoKSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">5oyH57SL6KqN6Ki844Gu6Kit5a6a44GM5aSW44KM44KLCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvYWRlci5sb2FkKCJodHRwczovL3d3dy51Z3RvcC5jb20vc3BpbGwuc2h0bWwiKQo=</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gdXNlcnMgd2hlcmUgaWQgPCA0ODsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWIK</text>
+        <text encoding="base64">5oyH57SL6KqN6Ki844Gu6Kit5a6a44GM5aSW44KM44KLCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWJWaWV3TG9hZGVyLgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvYWRlci5sb2FkKCJodHRwczovL3d3dy51Z3RvcC5jb20vc3BpbGwuc2h0bWwiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>52</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1535,9 +1528,9 @@ WHERE U.id= 4972 order by B.id desc;</text>
         <entry>99</entry>
         <entry>214</entry>
         <entry>430</entry>
-        <entry>w</entry>
         <entry>1</entry>
         <entry>52</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
