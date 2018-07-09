@@ -9,11 +9,11 @@
         <mark key="." line="4" column="55" />
         <mark key="^" line="4" column="55" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201804090428__add_file_size_message_attachment.sql" timestamp="1523258992175">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="22" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201804090428__add_file_size_message_attachment.sql" timestamp="1531174651517">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
         <mark key="^" line="1" column="22" />
-        <mark key="." line="1" column="22" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="/room_numbers [cakephp@www.elsa-online.net]" timestamp="1531171208116">
         <mark key="[" line="0" column="0" />
@@ -34,9 +34,8 @@
         <mark key="^" line="17" column="66" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" timestamp="1530515022590">
-        <mark key="'" line="58" column="21" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="94" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="94" />
         <mark key="." line="119" column="0" />
         <mark key="^" line="125" column="41" />
       </file>
@@ -88,32 +87,17 @@
         <mark key="." line="7" column="44" />
         <mark key="^" line="7" column="44" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/util/CryptUtil.kt" timestamp="1530864037326">
-        <mark key="'" line="44" column="33" />
-        <mark key="[" line="50" column="72" />
-        <mark key="]" line="50" column="72" />
-        <mark key="." line="50" column="72" />
-        <mark key="^" line="50" column="72" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/model/src/main/java/model/Serial.kt" timestamp="1529488895413">
-        <mark key="'" line="6" column="18" />
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="10" column="28" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="10" column="28" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/util/CryptUtil.kt" timestamp="1531175353555">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="109" />
+        <mark key="." line="52" column="72" />
+        <mark key="^" line="52" column="72" />
       </file>
       <file name="$USER_HOME$/git/ora-mobile/oramobile/pubspec.yaml" timestamp="1520991735905">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PasswordReminderController.kt" timestamp="1530230728112">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="65" column="23" />
-        <mark key="]" line="65" column="30" />
-        <mark key="." line="65" column="30" />
-        <mark key="^" line="65" column="30" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/Controller/Component/CommonComponent.php" timestamp="1524723380271">
         <mark key="[" line="2" column="0" />
@@ -208,13 +192,6 @@
         <mark key="^" line="57" column="4" />
         <mark key="." line="57" column="3" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitFlyerProperties.kt" timestamp="1529373541501">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="24" column="45" />
-        <mark key="^" line="24" column="45" />
-        <mark key="." line="24" column="45" />
-      </file>
       <file name="$USER_HOME$/git/hms/config/routes.rb" timestamp="1525248617705">
         <mark key="[" line="22" column="39" />
         <mark key="]" line="22" column="39" />
@@ -232,6 +209,9 @@
         <mark key="]" line="171" column="86" />
         <mark key="." line="171" column="86" />
         <mark key="^" line="171" column="87" />
+      </file>
+      <file name="/a.sql" timestamp="1531174816848">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/users [cakephp@www.elsa-online.net]" timestamp="1531171205688">
         <mark key="[" line="0" column="0" />
@@ -317,6 +297,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/test/kotlin/ora/leadlife/co/jp/util/CryptUtilTest.kt" timestamp="1531175495559">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="15" column="32" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/market_data/src/coinman/service/RsiService.kt" timestamp="1521934034133">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="69" />
@@ -341,6 +327,9 @@
         <mark key="^" line="16" column="49" />
         <mark key="." line="16" column="49" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d509a180-2094-4afe-bade-e57e3d1418d6/console.sql" timestamp="1531174774364">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/PushbulletProperties.kt" timestamp="1520567527754">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="6" column="24" />
@@ -364,6 +353,12 @@
         <mark key="]" line="25" column="68" />
         <mark key="^" line="10" column="55" />
         <mark key="." line="25" column="55" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/test/kotlin/ora/leadlife/co/jp/util/CryptUtil.kt" timestamp="1531174274583">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="16" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/PickService.java" timestamp="1520256925069">
         <mark key="[" line="19" column="13" />
@@ -449,6 +444,9 @@
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="41" />
       </file>
+      <file name="/schema_version [ora_test@localhost]" timestamp="1531174689178">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/utel/app/src/Controller/AppController.php" timestamp="1529545200127">
         <mark key="[" line="456" column="54" />
         <mark key="]" line="457" column="47" />
@@ -491,13 +489,6 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/system/VersionChecker.java" timestamp="1530767507024">
-        <mark key="'" line="15" column="38" />
-        <mark key="[" line="54" column="16" />
-        <mark key="]" line="55" column="23" />
-        <mark key="^" line="55" column="23" />
-        <mark key="." line="55" column="23" />
-      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/api/VironAuthtype.kt" timestamp="1520336714836">
         <mark key="[" line="9" column="40" />
         <mark key="]" line="9" column="40" />
@@ -524,13 +515,6 @@
         <mark key="]" line="13" column="3" />
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
-      </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman_web/src/main/kotlin/coinman_web/coinman_web/controller/UserController.kt" timestamp="1529563750335">
-        <mark key="'" line="14" column="33" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="50" column="21" />
-        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/SharedAccountController.kt" timestamp="1522653609400">
         <mark key="[" line="37" column="36" />
@@ -568,7 +552,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1530841078903">
+      <file name="/dummy.sql" timestamp="1531174689733">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -586,18 +570,11 @@
         <mark key="^" line="112" column="74" />
         <mark key="." line="112" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530767786111">
+      <file name="/Dummy.txt" timestamp="1531175430606">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/aboutPay.html" timestamp="1530174894407">
-        <mark key="'" line="30" column="37" />
-        <mark key="[" line="42" column="84" />
-        <mark key="]" line="42" column="86" />
-        <mark key="." line="42" column="86" />
-        <mark key="^" line="42" column="86" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/helper/DiedNotification.kt" timestamp="1523594815784">
         <mark key="[" line="8" column="22" />
@@ -610,13 +587,6 @@
         <mark key="]" line="20" column="28" />
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
-      </file>
-      <file name="$USER_HOME$/git/ora_android/app/proguard-rules.pro" timestamp="1530596943465">
-        <mark key="'" line="21" column="1" />
-        <mark key="[" line="21" column="2" />
-        <mark key="]" line="21" column="24" />
-        <mark key="^" line="21" column="24" />
-        <mark key="." line="21" column="24" />
       </file>
       <file name="/users [coinman@red-mine.net]" timestamp="1531171220750">
         <mark key="[" line="0" column="0" />
@@ -662,6 +632,10 @@
         <mark key="]" line="2" column="41" />
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/test/kotlin/ora/leadlife/co/jp/service/UserServiceTest.kt" timestamp="1531174236507">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironAuthtypeListDto.kt" timestamp="1520338459340">
         <mark key="[" line="18" column="37" />
@@ -711,7 +685,7 @@
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="74" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1530255967917">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1531174702212">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -851,13 +825,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="12" column="46" />
-      </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/entity/hibernate/Pick.java" timestamp="1530767037857">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="22" />
-        <mark key="^" line="33" column="21" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/docs/category_about_me.md" timestamp="1521011191829">
         <mark key="[" line="0" column="0" />
@@ -1099,20 +1066,13 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Template/Mypage/index.ctp" timestamp="1529459341427">
-        <mark key="'" line="451" column="37" />
-        <mark key="[" line="451" column="170" />
-        <mark key="]" line="453" column="28" />
-        <mark key="^" line="453" column="28" />
-        <mark key="." line="453" column="28" />
-      </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/DailyBenefitData.kt" timestamp="1520436161532">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="4" column="4" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1529563458671">
+      <file name="/fragment.kt" timestamp="1531175344173">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
@@ -1196,13 +1156,6 @@
         <mark key="^" line="0" column="65" />
         <mark key="." line="0" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1530610634374">
-        <mark key="'" line="1884" column="56" />
-        <mark key="[" line="1888" column="7" />
-        <mark key="]" line="1888" column="9" />
-        <mark key="." line="1888" column="9" />
-        <mark key="^" line="1888" column="9" />
-      </file>
       <file name="$USER_HOME$/git/orasp/lib/main.dart" timestamp="1521097556064">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="11" column="1" />
@@ -1268,13 +1221,6 @@
         <mark key="]" line="52" column="7" />
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
-      </file>
-      <file name="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" timestamp="1530599809332">
-        <mark key="'" line="300" column="4" />
-        <mark key="[" line="606" column="73" />
-        <mark key="]" line="606" column="73" />
-        <mark key="." line="606" column="73" />
-        <mark key="^" line="606" column="73" />
       </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1530597012062">
         <mark key="[" line="169" column="0" />
@@ -1512,43 +1458,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>URLEncoder</text>
+        <text>1.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlS2V5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGV4dDIgPSB0ZXh0LnJlcGxhY2UoIisiLCAiX19fX18iKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZW1haWwgPSAiamphamk4MCsyMDE4MDcxMDA3MDJAZ21haWwuY29tIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SGliZXJuYXRl44Gu5a6a576p5aSJ5pu0Cg==</text>
+        <text encoding="base64">IGphdmEubmlvLmNoYXJzZXQuVW5zdXBwb3J0ZWRDaGFyc2V0RXhjZXB0aW9uOiBVVEZfOAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBlbWFpbCA9ICJqamFqaTgwQGdtYWlsLmNvbSIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">5rih6YKK5qeY44Gu5L+u5q2j5Y+N5pigCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciAK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnIK</text>
+        <text encoding="base64">SGliZXJuYXRl44Gu5a6a576p5aSJ5pu0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SW9uLndpdGjjgYzlpLHmlZfjgZnjgovjgZPjgajjgYzjgYLjgovjga7jgafjgIHkuIDlrprlm57mlbDnubDjgorov5TjgZflrp/ooYzjgZnjgosK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LnNldFdlYlZpZXdDbGllbnQobmV3IFdlYlZpZXdDbGllbnQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">5rih6YKK5qeY44Gu5L+u5q2j5Y+N5pigCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
