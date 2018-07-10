@@ -306,10 +306,11 @@
       <file name="/accounts [ora@localhost]" timestamp="1531185374663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1531209759406">
-        <mark key="[" line="473" column="0" />
-        <mark key="]" line="475" column="16" />
-        <mark key="." line="473" column="0" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1531264624380">
+        <mark key="'" line="382" column="11" />
+        <mark key="[" line="385" column="18" />
+        <mark key="]" line="385" column="19" />
+        <mark key="." line="385" column="19" />
         <mark key="^" line="473" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/list.html" timestamp="1522655938410">
@@ -618,11 +619,11 @@
         <mark key="^" line="112" column="74" />
         <mark key="." line="112" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531209729847">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-        <mark key="^" line="1" column="16" />
+      <file name="/Dummy.txt" timestamp="1531264651112">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+        <mark key="^" line="1" column="4" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/aboutPay.html" timestamp="1530174894407">
         <mark key="'" line="30" column="37" />
@@ -1450,10 +1451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="18" filename="$USER_HOME$/git/coinman_parent/model/src/main/java/model/Serial.kt" />
-      <jump line="20" column="15" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
-      <jump line="65" column="21" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
-      <jump line="5" column="13" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
       <jump line="6" column="16" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
       <jump line="10" column="10" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
       <jump line="59" column="21" filename="$USER_HOME$/git/coinman_parent/coinman_web/pom.xml" />
@@ -1550,6 +1547,10 @@
       <jump line="205" column="7" filename="$USER_HOME$/git/manganews-web-master/app/Controller/LoginController.php" />
       <jump line="259" column="37" filename="$USER_HOME$/git/manganews-web-master/app/Controller/LoginController.php" />
       <jump line="457" column="31" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="438" column="15" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="433" column="20" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="448" column="20" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="382" column="11" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1573,10 +1574,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text encoding="base64">Zml4ZWQg</text>
       </register>
       <register name="/" type="4">
-        <text>ペイパル</text>
+        <text>31</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Q3J5cHRVdGlsVGVzdCA=</text>
@@ -1612,13 +1613,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>197,474d</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ペイパル</last-search>
+      <last-search>31</last-search>
       <last-offset />
-      <last-pattern>ペイパル</last-pattern>
+      <last-pattern>31</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1626,7 +1627,6 @@
     </search>
     <history>
       <history-search>
-        <entry>amount</entry>
         <entry>body</entry>
         <entry>setWebViewClient</entry>
         <entry>show</entry>
@@ -1646,6 +1646,7 @@
         <entry encoding="base64">XDzliIdcPg==</entry>
         <entry encoding="base64">XDzjgJFcPg==</entry>
         <entry>ペイパル</entry>
+        <entry>31</entry>
       </history-search>
       <history-cmd>
         <entry>167,216d</entry>
@@ -1663,11 +1664,11 @@
         <entry>430</entry>
         <entry>1</entry>
         <entry>52</entry>
-        <entry>w</entry>
         <entry>196,474</entry>
         <entry>196,474d</entry>
         <entry>196</entry>
         <entry>197,474d</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
