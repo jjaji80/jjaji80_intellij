@@ -1145,6 +1145,10 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/social.properties" timestamp="1531181902300">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="11" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/AboutMeTemplateController.kt" timestamp="1523957604458">
         <mark key="[" line="13" column="24" />
         <mark key="]" line="13" column="41" />
@@ -1544,8 +1548,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlS2V5XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZW1haWwgPSAiamphamk4MCsyMDE4MDcxMDA3MDJAZ21haWwuY29tIgo=</text>
+      <register name="0" type="4">
+        <text>facebook.key</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">SnNvbkJhY2tSZWZlcmVuY2Ug44Gu5a6a576p6L+95YqgCg==</text>
