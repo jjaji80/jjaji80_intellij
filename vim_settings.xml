@@ -91,10 +91,8 @@
         <mark key="^" line="7" column="44" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/util/CryptUtil.kt" timestamp="1531381006898">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="46" />
-        <mark key="." line="52" column="72" />
-        <mark key="^" line="52" column="72" />
+        <mark key="." line="53" column="72" />
+        <mark key="^" line="53" column="72" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/model/src/main/java/model/Serial.kt" timestamp="1529488895413">
         <mark key="'" line="6" column="18" />
@@ -623,7 +621,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1531385194973">
+      <file name="/dummy.sql" timestamp="1531634935908">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -760,6 +758,12 @@
         <mark key="]" line="9" column="14" />
         <mark key="^" line="9" column="14" />
         <mark key="." line="9" column="14" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201807150311__add_apple_base64_to_payment.sql" timestamp="1531635158330">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="44" />
+        <mark key="." line="0" column="44" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/sharedAccount/index.html" timestamp="1524800985169">
         <mark key="[" line="15" column="51" />
@@ -1626,7 +1630,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>4.0</text>
+        <text>base64</text>
       </register>
       <register name="/" type="4">
         <text>cla</text>
