@@ -357,10 +357,10 @@
         <mark key="." line="385" column="19" />
         <mark key="^" line="473" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/AccountForAppleController.kt" timestamp="1531904169005">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/AccountForAppleController.kt" timestamp="1531905753831">
         <mark key="'" line="25" column="8" />
-        <mark key="[" line="18" column="50" />
-        <mark key="]" line="18" column="56" />
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="32" />
         <mark key="." line="18" column="56" />
         <mark key="^" line="18" column="56" />
       </file>
@@ -1751,8 +1751,8 @@
       <register name="/" type="4">
         <text>comple</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuc2luZ2xldG9uTWFwKCJyZXN1bHQiLCBoZWFkZXIgKyByZXN1bHQpCg==</text>
+      <register name="0" type="4">
+        <text>accountForApple</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlci5pZAo=</text>
