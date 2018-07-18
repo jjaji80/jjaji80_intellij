@@ -357,12 +357,12 @@
         <mark key="." line="385" column="19" />
         <mark key="^" line="473" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/AccountForAppleController.kt" timestamp="1531905753831">
-        <mark key="'" line="25" column="8" />
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="16" column="32" />
-        <mark key="." line="18" column="56" />
-        <mark key="^" line="18" column="56" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/AccountForAppleController.kt" timestamp="1531906626665">
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="26" column="50" />
+        <mark key="." line="26" column="50" />
+        <mark key="^" line="26" column="50" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/list.html" timestamp="1522655938410">
         <mark key="[" line="25" column="112" />
@@ -1746,7 +1746,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>userService.findById(id.toLong())</text>
       </register>
       <register name="/" type="4">
         <text>comple</text>
