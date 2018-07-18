@@ -308,11 +308,11 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1531813943034">
-        <mark key="[" line="43" column="33" />
-        <mark key="]" line="43" column="33" />
-        <mark key="." line="43" column="33" />
-        <mark key="^" line="40" column="37" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1531903377966">
+        <mark key="[" line="42" column="41" />
+        <mark key="]" line="42" column="50" />
+        <mark key="." line="42" column="50" />
+        <mark key="^" line="42" column="50" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/dto/AppleJsonDto.kt" timestamp="1531834668284">
         <mark key="[" line="5" column="48" />
@@ -357,10 +357,12 @@
         <mark key="." line="385" column="19" />
         <mark key="^" line="473" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/AccountForAppleController.kt" timestamp="1531894205763">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/AccountForAppleController.kt" timestamp="1531904169005">
+        <mark key="'" line="25" column="8" />
+        <mark key="[" line="18" column="50" />
+        <mark key="]" line="18" column="56" />
+        <mark key="." line="18" column="56" />
+        <mark key="^" line="18" column="56" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/list.html" timestamp="1522655938410">
         <mark key="[" line="25" column="112" />
@@ -926,9 +928,9 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageAttachmentController.kt" timestamp="1523947769990">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="24" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/MessageAttachmentController.kt" timestamp="1531904058393">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="55" />
         <mark key="^" line="14" column="24" />
         <mark key="." line="14" column="24" />
       </file>
@@ -1621,8 +1623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
-      <jump line="85" column="50" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
       <jump line="95" column="62" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" />
       <jump line="35" column="32" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" />
       <jump line="89" column="33" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" />
@@ -1721,6 +1721,8 @@
       <jump line="156" column="62" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" />
       <jump line="83" column="66" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" />
       <jump line="67" column="35" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PasswordReminderController.kt" />
+      <jump line="20" column="23" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/AccountForAppleController.kt" />
+      <jump line="24" column="8" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/AccountForAppleController.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1744,43 +1746,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text>comple</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYXBwbGVUcmFuc2FjdGlvbklkOkxvbmc/ID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuc2luZ2xldG9uTWFwKCJyZXN1bHQiLCBoZWFkZXIgKyByZXN1bHQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKDEuLjEwKS5mb3JFYWNoIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlci5pZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBub3dNYXggPQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaGVhZGVyICsgcmVzdWx0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LmFwcAo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGxpc3QgPSBtdXRhYmxlTGlzdE9mPEludD4oKQo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdCA9IDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcHJvZHVjdF9pZDogU3RyaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
