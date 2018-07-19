@@ -806,6 +806,12 @@
       <file name="/settings [ora@localhost]" timestamp="1530673268704">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" timestamp="1531989033604">
+        <mark key="[" line="103" column="71" />
+        <mark key="]" line="103" column="74" />
+        <mark key="." line="103" column="74" />
+        <mark key="^" line="103" column="74" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/_login.ctp" timestamp="1526450320382">
         <mark key="[" line="28" column="49" />
         <mark key="]" line="28" column="55" />
@@ -1586,7 +1592,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>http</text>
+        <text>116.9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRSb29tRW1wdHlcPg==</text>
