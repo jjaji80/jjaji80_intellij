@@ -651,8 +651,8 @@
         <mark key="^" line="112" column="74" />
         <mark key="." line="112" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532061152381">
-        <mark key="[" line="1" column="15" />
+      <file name="/Dummy.txt" timestamp="1532063324521">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="11" />
@@ -1467,11 +1467,11 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/FollowService.java" timestamp="1532062104452">
-        <mark key="[" line="163" column="71" />
-        <mark key="]" line="163" column="74" />
-        <mark key="." line="163" column="74" />
-        <mark key="^" line="163" column="74" />
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/FollowService.java" timestamp="1532063164629">
+        <mark key="[" line="163" column="65" />
+        <mark key="]" line="163" column="73" />
+        <mark key="." line="163" column="73" />
+        <mark key="^" line="163" column="73" />
       </file>
       <file name="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/WebViewLoader.kt" timestamp="1530232327024">
         <mark key="[" line="27" column="173" />
@@ -1616,7 +1616,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>countByFrom</text>
+        <text>findByFrom</text>
       </register>
       <register name="/" type="4">
         <text>follo</text>
