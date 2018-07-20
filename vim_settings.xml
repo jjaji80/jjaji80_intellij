@@ -105,13 +105,6 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PasswordReminderController.kt" timestamp="1531902027117">
-        <mark key="'" line="67" column="35" />
-        <mark key="[" line="65" column="23" />
-        <mark key="]" line="65" column="30" />
-        <mark key="." line="65" column="30" />
-        <mark key="^" line="65" column="30" />
-      </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201807170716__add_apple_transaction_id_to_payment.sql" timestamp="1531822635708">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="28" />
@@ -331,13 +324,6 @@
       <file name="/accounts [ora@localhost]" timestamp="1531823906737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/AccountForAppleController.kt" timestamp="1531906626665">
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="26" column="46" />
-        <mark key="]" line="26" column="50" />
-        <mark key="." line="26" column="50" />
-        <mark key="^" line="26" column="50" />
-      </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/list.html" timestamp="1522655938410">
         <mark key="[" line="25" column="112" />
         <mark key="]" line="25" column="115" />
@@ -382,13 +368,6 @@
         <mark key="]" line="16" column="49" />
         <mark key="^" line="16" column="49" />
         <mark key="." line="16" column="49" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Payment.kt" timestamp="1531893419147">
-        <mark key="'" line="11" column="18" />
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="40" column="33" />
-        <mark key="^" line="40" column="33" />
-        <mark key="." line="40" column="33" />
       </file>
       <file name="/shops [ora@ora.seizen-seiri.net]" timestamp="1531823960368">
         <mark key="[" line="0" column="0" />
@@ -449,6 +428,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="12" column="39" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/UsersController.php" timestamp="1532056095675">
+        <mark key="'" line="381" column="18" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Column.kt" timestamp="1520317175171">
         <mark key="[" line="36" column="80" />
@@ -777,13 +759,6 @@
         <mark key="^" line="0" column="65" />
         <mark key="." line="0" column="65" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/repository/PaymentRepository.kt" timestamp="1531888570768">
-        <mark key="'" line="18" column="46" />
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="21" />
-        <mark key="." line="16" column="21" />
-        <mark key="^" line="16" column="21" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42312fad-7e2b-4dd3-9d10-9706c90e75b1/console.sql" timestamp="1529620547308">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="24" />
@@ -975,13 +950,6 @@
         <mark key="]" line="1" column="34" />
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" timestamp="1531893842159">
-        <mark key="'" line="83" column="66" />
-        <mark key="[" line="82" column="75" />
-        <mark key="]" line="83" column="66" />
-        <mark key="." line="83" column="66" />
-        <mark key="^" line="83" column="66" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/impl/NewsFacadeImpl.java" timestamp="1520254886554">
         <mark key="[" line="170" column="29" />
@@ -1468,7 +1436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="43" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="66" column="89" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="150" column="24" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="323" column="87" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
@@ -1568,6 +1535,7 @@
       <jump line="527" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="301" column="101" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="548" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
+      <jump line="381" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/UsersController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1594,7 +1562,7 @@
         <text>116.9</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRSb29tRW1wdHlcPg==</text>
+        <text>follo</text>
       </register>
       <register name="0" type="4">
         <text>accountForApple</text>
@@ -1634,17 +1602,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRSb29tRW1wdHlcPg==</last-search>
+      <last-search>follo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRSb29tRW1wdHlcPg==</last-pattern>
+      <last-pattern>follo</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWZhdWx0X2dyYXBoX3ZlcnNpb25cPg==</entry>
         <entry encoding="base64">XDzliIdcPg==</entry>
         <entry encoding="base64">XDzjgJFcPg==</entry>
         <entry>ペイパル</entry>
@@ -1664,6 +1631,7 @@
         <entry encoding="base64">XDxnZXRBbm5vdW5jZVRpbWVcPg==</entry>
         <entry encoding="base64">XDxnZXRDYWxsU3RhcnREYXRhXD4=</entry>
         <entry encoding="base64">XDxzZXRSb29tRW1wdHlcPg==</entry>
+        <entry>follo</entry>
       </history-search>
       <history-cmd>
         <entry>228</entry>
