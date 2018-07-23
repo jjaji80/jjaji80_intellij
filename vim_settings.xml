@@ -105,13 +105,6 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PasswordReminderController.kt" timestamp="1531902027117">
-        <mark key="'" line="67" column="35" />
-        <mark key="[" line="65" column="23" />
-        <mark key="]" line="65" column="30" />
-        <mark key="." line="65" column="30" />
-        <mark key="^" line="65" column="30" />
-      </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201807170716__add_apple_transaction_id_to_payment.sql" timestamp="1531822635708">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="28" />
@@ -331,13 +324,6 @@
       <file name="/accounts [ora@localhost]" timestamp="1531823906737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/AccountForAppleController.kt" timestamp="1531906626665">
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="26" column="46" />
-        <mark key="]" line="26" column="50" />
-        <mark key="." line="26" column="50" />
-        <mark key="^" line="26" column="50" />
-      </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/list.html" timestamp="1522655938410">
         <mark key="[" line="25" column="112" />
         <mark key="]" line="25" column="115" />
@@ -382,13 +368,6 @@
         <mark key="]" line="16" column="49" />
         <mark key="^" line="16" column="49" />
         <mark key="." line="16" column="49" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Payment.kt" timestamp="1531893419147">
-        <mark key="'" line="11" column="18" />
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="40" column="33" />
-        <mark key="^" line="40" column="33" />
-        <mark key="." line="40" column="33" />
       </file>
       <file name="/shops [ora@ora.seizen-seiri.net]" timestamp="1531823960368">
         <mark key="[" line="0" column="0" />
@@ -717,13 +696,6 @@
       <file name="/accounts [ora@ora.seizen-seiri.net]" timestamp="1532189436434">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" timestamp="1532061771430">
-        <mark key="'" line="814" column="14" />
-        <mark key="[" line="816" column="43" />
-        <mark key="]" line="816" column="48" />
-        <mark key="^" line="816" column="41" />
-        <mark key="." line="816" column="41" />
-      </file>
       <file name="/fragment.java" timestamp="1531291071203">
         <mark key="[" line="0" column="70" />
         <mark key="]" line="0" column="70" />
@@ -789,13 +761,6 @@
         <mark key="]" line="0" column="65" />
         <mark key="^" line="0" column="65" />
         <mark key="." line="0" column="65" />
-      </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/repository/PaymentRepository.kt" timestamp="1531888570768">
-        <mark key="'" line="18" column="46" />
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="21" />
-        <mark key="." line="16" column="21" />
-        <mark key="^" line="16" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/42312fad-7e2b-4dd3-9d10-9706c90e75b1/console.sql" timestamp="1529620547308">
         <mark key="[" line="0" column="23" />
@@ -992,13 +957,6 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" timestamp="1531893842159">
-        <mark key="'" line="83" column="66" />
-        <mark key="[" line="82" column="75" />
-        <mark key="]" line="83" column="66" />
-        <mark key="." line="83" column="66" />
-        <mark key="^" line="83" column="66" />
-      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/impl/NewsFacadeImpl.java" timestamp="1520254886554">
         <mark key="[" line="170" column="29" />
         <mark key="]" line="171" column="24" />
@@ -1098,6 +1056,7 @@
       <file name="/followers [newspicks@localhost]" timestamp="1532060138267">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/BereaveService.kt" timestamp="1532343769117" />
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/SmartPhoneController.kt" timestamp="1523698023110">
         <mark key="[" line="15" column="40" />
         <mark key="]" line="15" column="44" />
