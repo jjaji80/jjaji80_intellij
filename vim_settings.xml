@@ -39,7 +39,7 @@
         <mark key="." line="17" column="66" />
         <mark key="^" line="17" column="66" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" timestamp="1531797622642">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" timestamp="1532585246240">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="94" />
         <mark key="." line="119" column="0" />
@@ -282,14 +282,6 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1532516222919">
-        <mark key="a" line="740" column="46" />
-        <mark key="'" line="749" column="54" />
-        <mark key="[" line="740" column="101" />
-        <mark key="]" line="740" column="111" />
-        <mark key="." line="740" column="111" />
-        <mark key="^" line="740" column="111" />
-      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1531903377966">
         <mark key="[" line="45" column="41" />
         <mark key="]" line="45" column="50" />
@@ -332,6 +324,7 @@
       <file name="/accounts [ora@localhost]" timestamp="1531823906737">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/AccountForAppleController.kt" timestamp="1532586235605" />
       <file name="$USER_HOME$/git/coinman_parent/bitFlyer.properties" timestamp="1532516299146">
         <mark key="[" line="35" column="39" />
         <mark key="]" line="35" column="40" />
@@ -1592,7 +1585,7 @@
         <text>20</text>
       </register>
       <register name="/" type="4">
-        <text>readCon</text>
+        <text>iphone</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGllZF9jb25maXJtZWQgICAgICAgICAgICAgICA=</text>
@@ -1632,17 +1625,16 @@
       </register>
     </registers>
     <search>
-      <last-search>readCon</last-search>
+      <last-search>iphone</last-search>
       <last-offset />
-      <last-pattern>readCon</last-pattern>
+      <last-pattern>iphone</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cla</entry>
         <entry encoding="base64">XDxwYXltZW50U2VydmljZVw+</entry>
         <entry>tran</entry>
         <entry>app</entry>
@@ -1662,6 +1654,7 @@
         <entry>0.8</entry>
         <entry>&quot;5&quot;</entry>
         <entry>readCon</entry>
+        <entry>iphone</entry>
       </history-search>
       <history-cmd>
         <entry>449</entry>
