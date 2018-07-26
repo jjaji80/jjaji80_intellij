@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Account.kt" timestamp="1532601476627">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="20" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/market_data/src/coinman/interceptor/BigOrderInterceptor.kt" timestamp="1524034020506">
         <mark key="[" line="4" column="44" />
         <mark key="]" line="4" column="55" />
@@ -39,7 +44,7 @@
         <mark key="." line="17" column="66" />
         <mark key="^" line="17" column="66" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" timestamp="1532585246240">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" timestamp="1532601445183">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="94" />
         <mark key="." line="119" column="0" />
@@ -322,7 +327,7 @@
         <mark key="^" line="20" column="84" />
         <mark key="." line="21" column="35" />
       </file>
-      <file name="/accounts [ora@localhost]" timestamp="1531823906737">
+      <file name="/accounts [ora@localhost]" timestamp="1532601309176">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/AccountForAppleController.kt" timestamp="1532597132565" />
@@ -377,7 +382,7 @@
         <mark key="^" line="16" column="49" />
         <mark key="." line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/FreeMigrationController.kt" timestamp="1532597194499" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/FreeMigrationController.kt" timestamp="1532601434390" />
       <file name="/shops [ora@ora.seizen-seiri.net]" timestamp="1531823960368">
         <mark key="[" line="0" column="0" />
       </file>
@@ -618,7 +623,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1532597808947">
+      <file name="/dummy.sql" timestamp="1532601311008">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -641,6 +646,11 @@
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="11" />
+      </file>
+      <file name="86f63129-4c41-4d5e-96d0-2df4a3fc496d/schema/ora/table/accounts.sql" timestamp="1532405476873">
+        <mark key="'" line="39" column="42" />
+        <mark key="[" line="44" column="2" />
+        <mark key="]" line="44" column="30" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/helper/DiedNotification.kt" timestamp="1523594815784">
         <mark key="[" line="8" column="22" />
@@ -978,7 +988,7 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" timestamp="1532594854372" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" timestamp="1532601564869" />
       <file name="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/impl/NewsFacadeImpl.java" timestamp="1520254886554">
         <mark key="[" line="170" column="29" />
         <mark key="]" line="171" column="24" />
@@ -1472,7 +1482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="0" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="543" column="10" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="558" column="14" filename="$USER_HOME$/git/p1-doc/要件定義/01_main.md" />
       <jump line="1841" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
@@ -1572,6 +1581,7 @@
       <jump line="752" column="13" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="740" column="46" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="749" column="54" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Account.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1598,10 +1608,10 @@
         <text>lastUsedAccountId</text>
       </register>
       <register name="/" type="4">
-        <text>iphone</text>
+        <text>isP</text>
       </register>
       <register name="0" type="4">
-        <text>lastUsedAccountId</text>
+        <text>isPremium</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxtZXRhIG5hbWU9Imxhc3RVc2VkQWNjb3VudElkIiBjb250ZW50PSIiCg==</text>
@@ -1634,13 +1644,13 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>iphone</last-search>
+      <last-search>isP</last-search>
       <last-offset />
-      <last-pattern>iphone</last-pattern>
+      <last-pattern>isP</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1648,7 +1658,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXltZW50U2VydmljZVw+</entry>
         <entry>tran</entry>
         <entry>app</entry>
         <entry>15</entry>
@@ -1668,6 +1677,7 @@
         <entry>&quot;5&quot;</entry>
         <entry>readCon</entry>
         <entry>iphone</entry>
+        <entry>isP</entry>
       </history-search>
       <history-cmd>
         <entry>449</entry>
@@ -1686,10 +1696,10 @@
         <entry>256</entry>
         <entry>236</entry>
         <entry>124,136d</entry>
-        <entry>1</entry>
         <entry>33,56d</entry>
         <entry>164</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
