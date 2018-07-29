@@ -35,12 +35,12 @@
         <mark key="." line="17" column="66" />
         <mark key="^" line="17" column="66" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" timestamp="1532682097305">
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaidRegistrationController.kt" timestamp="1532832711957">
         <mark key="'" line="98" column="47" />
-        <mark key="[" line="118" column="4" />
-        <mark key="]" line="119" column="21" />
-        <mark key="." line="119" column="21" />
-        <mark key="^" line="119" column="21" />
+        <mark key="[" line="77" column="40" />
+        <mark key="]" line="77" column="40" />
+        <mark key="." line="77" column="40" />
+        <mark key="^" line="77" column="28" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/coinman/.gitignore" timestamp="1524955299386">
         <mark key="[" line="0" column="0" />
@@ -493,6 +493,11 @@
       <file name="/payments [ora@localhost]" timestamp="1532827616876">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/withdrawal/accountDeactivationProcedure.html" timestamp="1532833601100">
+        <mark key="[" line="96" column="79" />
+        <mark key="]" line="96" column="79" />
+        <mark key="." line="96" column="79" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/admin/AdminUserController.kt" timestamp="1521472476642">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="21" column="41" />
@@ -622,11 +627,11 @@
         <mark key="^" line="112" column="74" />
         <mark key="." line="112" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532830999028">
+      <file name="/Dummy.txt" timestamp="1532833626757">
         <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="15" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+        <mark key="^" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/helper/DiedNotification.kt" timestamp="1523594815784">
         <mark key="[" line="8" column="22" />
@@ -878,6 +883,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/aboutPayIOS.html" timestamp="1532833125939">
+        <mark key="[" line="64" column="120" />
+        <mark key="]" line="64" column="133" />
+        <mark key="." line="64" column="135" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaymentController.kt" timestamp="1532686313854">
         <mark key="'" line="22" column="46" />
         <mark key="[" line="29" column="80" />
@@ -986,10 +996,6 @@
         <mark key="]" line="11" column="34" />
         <mark key="^" line="11" column="34" />
         <mark key="." line="11" column="34" />
-      </file>
-      <file name="$USER_HOME$/git/hti_mobile/app/lib/json.js" timestamp="1532695611803">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="48" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/web/src/main/resources/application.yml" timestamp="1520748542457">
         <mark key="[" line="20" column="2" />
@@ -1158,11 +1164,11 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1532780241104">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
+      <file name="/fragment.kt" timestamp="1532832623362">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/resources-devel/social.properties" timestamp="1531289369393">
         <mark key="[" line="4" column="0" />
@@ -1571,43 +1577,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>46006316</text>
+        <text>1.0</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXJpID0gVVJJKCJodHRwczovL3NhbmRib3guaXR1bmVzLmFwcGxlLmNvbS92ZXJpZnlSZWNlaXB0IikK</text>
+      <register name="0" type="4">
+        <text>ja-jp/HT202039</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cK</text>
+        <text encoding="base64">QXBwbGXjga7liJ3lm57msbrmuIjjgafjga7jgrXjg7zjg5Djg7zpgKPli5UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2Cg==</text>
+        <text encoding="base64">X2JsYW5rIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXltZW50U2VydmljZQo=</text>
+        <text encoding="base64">QXBwbGXjga7liJ3lm57msbrmuIjjgafjga7jgrXjg7zjg5Djg7zpgKPli5UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gY2FsYyBhbW91bnRGcm9tQXBwbGUoKXsKICAgICAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2Cg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmdW4gY2FsYyBhbW91bnRGcm9tQXBwbGUK</text>
+        <text encoding="base64">ICAgICAgICBwYXltZW50U2VydmljZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGNhbGNBbW91Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdW4gY2FsYyBhbW91bnRGcm9tQXBwbGUoKXsKICAgICAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihwYXltZW50Rm9ybS5hcHApCg==</text>
+        <text encoding="base64">ICAgICAgICBmdW4gY2FsYyBhbW91bnRGcm9tQXBwbGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
