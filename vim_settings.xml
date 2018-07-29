@@ -282,10 +282,10 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1532853788569">
-        <mark key="'" line="196" column="12" />
-        <mark key="[" line="468" column="29" />
-        <mark key="]" line="468" column="80" />
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1532882183605">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="345" column="0" />
+        <mark key="]" line="345" column="51" />
         <mark key="^" line="468" column="80" />
         <mark key="." line="468" column="80" />
       </file>
@@ -382,6 +382,13 @@
         <mark key="]" line="16" column="49" />
         <mark key="^" line="16" column="49" />
         <mark key="." line="16" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" timestamp="1532885444936">
+        <mark key="'" line="14" column="31" />
+        <mark key="[" line="129" column="48" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+        <mark key="^" line="91" column="27" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Payment.kt" timestamp="1532824137704">
         <mark key="'" line="0" column="0" />
@@ -1179,7 +1186,7 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1532850469355">
+      <file name="/fragment.kt" timestamp="1532884869740">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="15" />
@@ -1477,36 +1484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="80" filename="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" />
-      <jump line="457" column="31" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
-      <jump line="438" column="15" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
-      <jump line="433" column="20" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
-      <jump line="448" column="20" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
-      <jump line="382" column="11" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
-      <jump line="1879" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="1889" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="1844" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="1903" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="1891" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="32" column="9" filename="$USER_HOME$/git/utel/app/webroot/js/admin/common.js" />
-      <jump line="67" column="16" filename="$USER_HOME$/git/utel/app/webroot/js/admin/common.js" />
-      <jump line="245" column="2" filename="$USER_HOME$/git/manganews-web-master/app/Controller/LoginController.php" />
-      <jump line="259" column="34" filename="$USER_HOME$/git/manganews-web-master/app/Controller/LoginController.php" />
-      <jump line="191" column="34" filename="$USER_HOME$/git/manganews-web-master/app/Controller/LoginController.php" />
-      <jump line="205" column="34" filename="$USER_HOME$/git/manganews-web-master/app/Controller/LoginController.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/git/tools.manga-news.jp-master/docker/web-manganews/app/Config/Env/Development/bootstrap.php" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/console.sql" />
-      <jump line="164" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/console.sql" />
-      <jump line="158" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7fc10d66-6b74-4783-a8f1-54aa5b381e5d/console.sql" />
-      <jump line="809" column="40" filename="$APPLICATION_CONFIG_DIR$/consoles/db/cc7a5954-c882-4228-8b1a-d5f5838e0bd4/console.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="41" column="11" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/_news_info.ctp" />
-      <jump line="17" column="34" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaymentController.kt" />
-      <jump line="11" column="18" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Payment.kt" />
-      <jump line="14" column="6" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" />
-      <jump line="28" column="22" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" />
-      <jump line="15" column="47" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PaymentController.kt" />
-      <jump line="58" column="47" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" />
       <jump line="81" column="27" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" />
       <jump line="131" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
@@ -1577,6 +1554,36 @@
       <jump line="196" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="14" column="19" filename="$USER_HOME$/git/coinman_parent/slack/src/main/kotlin/coinman/SlackMessage.kt" />
       <jump line="20" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/BitFlyerProperties.kt" />
+      <jump line="35" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="482" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="609" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="611" column="76" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="612" column="32" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="618" column="4" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="799" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="580" column="15" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="64" column="30" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
+      <jump line="601" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
+      <jump line="17" column="33" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
+      <jump line="16" column="27" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
+      <jump line="787" column="21" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="32" column="98" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="54" column="0" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="110" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
+      <jump line="55" column="39" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
+      <jump line="57" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
+      <jump line="40" column="35" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
+      <jump line="103" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
+      <jump line="106" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
+      <jump line="117" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
+      <jump line="129" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
+      <jump line="132" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
+      <jump line="29" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
+      <jump line="79" column="17" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
+      <jump line="74" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
+      <jump line="120" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
+      <jump line="14" column="31" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/HighLowService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1600,52 +1607,52 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>0.1</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">cmVhZEJvYXJkVGFyZ2V0U2l6ZSA=</text>
+        <text encoding="base64">XDxtYWtlU2VsbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyDliKnnorrmnIDlsI/jg5Hjg7zjgrvjg7Pjg4bjg7zjgrgKQml0Rmx5ZXJQcm9wZXJ0aWVzLmNsb3NlTWluPTAuMgojIOWIqeeiuuacgOWkp+ODkeODvOOCu+ODs+ODhuODvOOCuApCaXRGbHllclByb3BlcnRpZXMuY2xvc2VNYXg9Mi4wCiMg5Yip56K65Ymy5ZCI44OR44O844K744Oz44OG44O844K4CkJpdEZseWVyUHJvcGVydGllcy5jbG9zZVBlcj0wLjEK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcG9zaXRpb25MaXN0ID0gYXBpLm9wZW5Qb3NpdGlvbnMucG9zaXRpb25MaXN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYWJzKHBvc2l0aW9uLnByaWNlIC0gaXQuaGlnaCkgPCAxMDApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcG9zaXRpb25MaXN0ID0gYXBpLm9wZW5Qb3NpdGlvbnMucG9zaXRpb25MaXN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZihhY2Nlc3NLZXkuaXNOb3RFbXB0eSgpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNlbmRBYmxlUHVzaDogU2VuZGFibGVQdXNoID0gU2VuZGFibGVOb3RlUHVzaCgiY29pbm1hbiIsIG5vdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGl0LmhpZ2ggPiBub3cucHJpY2UgKiAxLjI1KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uYXRwcnljZS5rb25maWcuUHJvcGVydHlHcm91cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uYXRwcnljZS5rb25maWcuc3RyaW5nVHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50ZXIrKwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBzbGFja0JvdFRva2VuIGJ5IHN0cmluZ1R5cGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UHVzaGJ1bGxldFByb3BlcnRpZXMua2V5PW8ua3FJcVVLendZenZxdHF2SUN6TmZHa3pjZlIwSURkYzgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">cmVhZEJvYXJkVGFyZ2V0U2l6ZSA=</last-search>
+      <last-search encoding="base64">XDxtYWtlU2VsbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">cmVhZEJvYXJkVGFyZ2V0U2l6ZSA=</last-pattern>
+      <last-pattern encoding="base64">XDxtYWtlU2VsbFw+</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1653,14 +1660,6 @@
     </search>
     <history>
       <history-search>
-        <entry>comple</entry>
-        <entry>add</entry>
-        <entry encoding="base64">XDxnZXRBbm5vdW5jZVRpbWVcPg==</entry>
-        <entry encoding="base64">XDxnZXRDYWxsU3RhcnREYXRhXD4=</entry>
-        <entry encoding="base64">XDxzZXRSb29tRW1wdHlcPg==</entry>
-        <entry>follo</entry>
-        <entry>checkTy</entry>
-        <entry>de</entry>
         <entry>chan</entry>
         <entry>0.8</entry>
         <entry>&quot;5&quot;</entry>
@@ -1673,6 +1672,14 @@
         <entry>log</entry>
         <entry>1000</entry>
         <entry encoding="base64">cmVhZEJvYXJkVGFyZ2V0U2l6ZSA=</entry>
+        <entry>rest</entry>
+        <entry>losCu</entry>
+        <entry>it</entry>
+        <entry>nowPri</entry>
+        <entry encoding="base64">XDxub3dcPg==</entry>
+        <entry>return</entry>
+        <entry encoding="base64">XDxleGlzdFw+</entry>
+        <entry encoding="base64">XDxtYWtlU2VsbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>23,49y</entry>
@@ -1693,8 +1700,8 @@
         <entry>164</entry>
         <entry>19</entry>
         <entry>101</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
