@@ -1134,11 +1134,11 @@
         <mark key="^" line="4" column="52" />
         <mark key="." line="4" column="52" />
       </file>
-      <file name="$USER_HOME$/git/p1/npc/src/test/kotlin/net/p1/npc/judge/JudgeServiceTest.kt" timestamp="1532936737864">
-        <mark key="[" line="31" column="50" />
-        <mark key="]" line="31" column="50" />
-        <mark key="." line="31" column="50" />
-        <mark key="^" line="31" column="53" />
+      <file name="$USER_HOME$/git/p1/npc/src/test/kotlin/net/p1/npc/judge/JudgeServiceTest.kt" timestamp="1532938185407">
+        <mark key="[" line="31" column="63" />
+        <mark key="]" line="31" column="7" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="31" column="7" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Note.kt" timestamp="1520317146238">
         <mark key="[" line="36" column="103" />
@@ -1698,34 +1698,34 @@
         <text>suit = Suit.CLUB,number = 1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaGFuZER0byA9IEhhbmREdG8oc3VpdCA9IFN1aXQuQ0xVQixudW1iZXIgPSAxKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaGFuZER0byA9IEhhbmREdG8oc3VpdCA9IFN1aXQuQ0xVQixudW1iZXIgPSAxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBqdWRnZVNlcnZpY2UgPSBjb250ZXh0LmdldEJlYW4oSnVkZ2VTZXJ2aWNlOjpjbGFzcy5qYXZhKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBqdWRnZVNlcnZpY2UgPSAK</text>
+        <text encoding="base64">ICAgIHZhbCBqdWRnZVNlcnZpY2UgPSBjb250ZXh0LmdldEJlYW4oSnVkZ2VTZXJ2aWNlOjpjbGFzcy5qYXZhKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvIEJsdWZmCg==</text>
+        <text encoding="base64">ICAgIHZhbCBqdWRnZVNlcnZpY2UgPSAK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2MK</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIEJsdWZmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2MK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9naWNMaXN0ID0gbXV0YWJsZUxpc3RPZjxKdWRnZUxvZ2ljPigpCiAgICAgICAgbG9naWNMaXN0LmFkZEFsbChhcnJheU9mKGhhbmRMb2dpYyxwb3NpdGlvbkxvZ2ljKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
