@@ -1461,6 +1461,12 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/Blog/_title.ctp" timestamp="1532948809186">
+        <mark key="[" line="271" column="93" />
+        <mark key="]" line="271" column="100" />
+        <mark key="." line="271" column="100" />
+        <mark key="^" line="271" column="100" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/slack/src/main/kotlin/coinman/SlackProperties.kt" timestamp="1532852622041">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="6" column="38" />
@@ -1634,13 +1640,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>['url']</text>
+        <text>amazon</text>
       </register>
       <register name="/" type="4">
         <text>logic</text>
       </register>
-      <register name="0" type="4">
-        <text>$arr[1][['url']]</text>
+      <register name="0" type="2">
+        <text encoding="base64">CTxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9ImFtYXpvbl9hcGlfdXJsIiB2YWx1ZT0iPD9waHAgZWNobyAkdGhpcy0+SHRtbC0+dXJsKCcvYmxvZy9nZXRfYW1hem9uX2xpbmsvJywgdHJ1ZSk7ID8+Ij4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQl2YXJfZHVtcCgkYXJyWzFdWyd1cmwnXSk7ZGllKCk7Cg==</text>
