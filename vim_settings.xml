@@ -30,6 +30,7 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/git/tools.manga-news.jp-master/App/Ro/Blogs/List.php" timestamp="1532847212679" />
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/AboutMeConfiguration.kt" timestamp="1524049778847">
         <mark key="[" line="17" column="60" />
         <mark key="]" line="17" column="66" />
@@ -622,7 +623,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1532926030928">
+      <file name="/dummy.sql" timestamp="1532944204502">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -648,6 +649,12 @@
       </file>
       <file name="$USER_HOME$/git/p1/core/src/test/kotlin/net/p1/core/CoreApplicationTests.kt" timestamp="1532936482866">
         <mark key="[" line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1532945715273">
+        <mark key="'" line="935" column="2" />
+        <mark key="[" line="967" column="27" />
+        <mark key="]" line="967" column="27" />
+        <mark key="." line="967" column="27" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/helper/DiedNotification.kt" timestamp="1523594815784">
         <mark key="[" line="8" column="22" />
@@ -769,7 +776,7 @@
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="74" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1532926044604">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1532944746050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -1153,6 +1160,7 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" timestamp="1532943071467" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1529489237726">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
@@ -1503,11 +1511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="32" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" />
-      <jump line="133" column="51" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" />
-      <jump line="122" column="20" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" />
-      <jump line="66" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" />
-      <jump line="70" column="3" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/pom.xml" />
       <jump line="76" column="51" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" />
       <jump line="65" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/757fa693-3e11-4a4b-993d-f658036d9754/console.sql" />
@@ -1603,6 +1606,11 @@
       <jump line="6" column="18" filename="$USER_HOME$/git/p1/logic/pom.xml" />
       <jump line="13" column="0" filename="$USER_HOME$/git/p1/npc/src/main/kotlin/net/p1/npc/judge/JudgeService.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/p1/npc/src/main/kotlin/net/p1/npc/NpcApplication.kt" />
+      <jump line="813" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="816" column="9" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="878" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="879" column="4" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="935" column="2" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1626,40 +1634,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>FOLD</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
         <text>logic</text>
       </register>
       <register name="0" type="4">
-        <text>suit = Suit.CLUB,number = 1</text>
+        <text>$arr[1][['url']]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkYXJyKTtkaWUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaGFuZER0byA9IEhhbmREdG8oc3VpdCA9IFN1aXQuQ0xVQixudW1iZXIgPSAxKQo=</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQl2YXJfZHVtcCgkaXNibik7ZGllKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBqdWRnZVNlcnZpY2UgPSBjb250ZXh0LmdldEJlYW4oSnVkZ2VTZXJ2aWNlOjpjbGFzcy5qYXZhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBqdWRnZVNlcnZpY2UgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvIEJsdWZmCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkcmVzcG9uc2UK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1701,7 +1709,6 @@
         <entry>logic</entry>
       </history-search>
       <history-cmd>
-        <entry>23,49y</entry>
         <entry>457</entry>
         <entry>252</entry>
         <entry>99</entry>
@@ -1720,6 +1727,7 @@
         <entry>19</entry>
         <entry>101</entry>
         <entry>1</entry>
+        <entry>969</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
