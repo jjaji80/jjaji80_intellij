@@ -692,8 +692,8 @@
       <file name="$USER_HOME$/git/p1/core/src/test/kotlin/net/p1/core/CoreApplicationTests.kt" timestamp="1532936482866">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1532947425322">
-        <mark key="'" line="935" column="2" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1532955944621">
+        <mark key="'" line="850" column="27" />
         <mark key="[" line="971" column="34" />
         <mark key="]" line="971" column="34" />
         <mark key="." line="971" column="34" />
@@ -1230,9 +1230,9 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" timestamp="1532949783324">
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" timestamp="1532955796591">
         <mark key="a" line="189" column="47" />
-        <mark key="'" line="27" column="23" />
+        <mark key="'" line="159" column="12" />
         <mark key="[" line="189" column="66" />
         <mark key="]" line="189" column="74" />
         <mark key="." line="189" column="74" />
@@ -1609,12 +1609,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="62" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" />
-      <jump line="83" column="66" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/service/PaymentService.kt" />
-      <jump line="67" column="35" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/PasswordReminderController.kt" />
-      <jump line="20" column="23" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/AccountForAppleController.kt" />
-      <jump line="24" column="8" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/AccountForAppleController.kt" />
-      <jump line="64" column="8" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="511" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="512" column="18" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="531" column="33" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
@@ -1709,6 +1703,12 @@
       <jump line="758" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="31" column="19" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
       <jump line="761" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="186" column="9" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
+      <jump line="159" column="12" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
+      <jump line="817" column="34" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="839" column="34" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="849" column="27" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="850" column="27" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1735,7 +1735,7 @@
         <text>url</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFubmVsQnJlYWtPdXRTaXplXD4=</text>
+        <text encoding="base64">XDxhc2luXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWdldF9hbWF6b25fbGlua19hamF4KHVybCwgZmQpLnRoZW4oZnVuY3Rpb24gKHJlc3VsdCkgewo=</text>
@@ -1775,9 +1775,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFubmVsQnJlYWtPdXRTaXplXD4=</last-search>
+      <last-search encoding="base64">XDxhc2luXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFubmVsQnJlYWtPdXRTaXplXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhc2luXD4=</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1785,8 +1785,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isP</entry>
-        <entry>logg</entry>
         <entry>debu</entry>
         <entry>TEXT</entry>
         <entry>log</entry>
@@ -1805,6 +1803,8 @@
         <entry encoding="base64">XDxhbWF6b25fYXBpX3VybFw+</entry>
         <entry encoding="base64">XDxjaGFubmVsQnJlYWtPdXRUYXJnZXRcPg==</entry>
         <entry encoding="base64">XDxjaGFubmVsQnJlYWtPdXRTaXplXD4=</entry>
+        <entry encoding="base64">XDxnZXRfY29taW5hdmlfbGlua1w+</entry>
+        <entry encoding="base64">XDxhc2luXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>457</entry>
