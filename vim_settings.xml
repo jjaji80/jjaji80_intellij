@@ -503,6 +503,9 @@
       <file name="/payments [ora@localhost]" timestamp="1533021852932">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacySelfController.java" timestamp="1533033107788">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/admin/AdminUserController.kt" timestamp="1521472476642">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="21" column="41" />
@@ -653,12 +656,6 @@
       <file name="$USER_HOME$/git/p1/core/src/test/kotlin/net/p1/core/CoreApplicationTests.kt" timestamp="1532936482866">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1532955944621">
-        <mark key="'" line="850" column="27" />
-        <mark key="[" line="971" column="34" />
-        <mark key="]" line="971" column="34" />
-        <mark key="." line="971" column="34" />
-      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/helper/DiedNotification.kt" timestamp="1523594815784">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="48" />
@@ -697,12 +694,6 @@
         <mark key="]" line="29" column="52" />
         <mark key="^" line="31" column="24" />
         <mark key="." line="31" column="32" />
-      </file>
-      <file name="$USER_HOME$/git/p1/npc/src/main/kotlin/net/p1/npc/NpcApplication.kt" timestamp="1533015724959">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/git/test4/pubspec.yaml" timestamp="1520992045533">
         <mark key="[" line="10" column="0" />
@@ -1523,7 +1514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="527" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="301" column="101" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="548" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="381" column="18" filename="$USER_HOME$/git/manganews-web-master/app/Controller/UsersController.php" />
@@ -1623,6 +1613,7 @@
       <jump line="295" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="39" column="19" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
       <jump line="310" column="94" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacySelfController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1649,7 +1640,7 @@
         <text>url</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcmRlckluY3JlYXNlUmF0ZVw+</text>
+        <text>cover</text>
       </register>
       <register name="0" type="4">
         <text>利確割合パーセンテージ</text>
@@ -1689,9 +1680,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcmRlckluY3JlYXNlUmF0ZVw+</last-search>
+      <last-search>cover</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcmRlckluY3JlYXNlUmF0ZVw+</last-pattern>
+      <last-pattern>cover</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1699,7 +1690,6 @@
     </search>
     <history>
       <history-search>
-        <entry>1000</entry>
         <entry encoding="base64">cmVhZEJvYXJkVGFyZ2V0U2l6ZSA=</entry>
         <entry>rest</entry>
         <entry>losCu</entry>
@@ -1719,6 +1709,7 @@
         <entry>hata</entry>
         <entry encoding="base64">XDxkZWZhdWx0U2l6ZVw+</entry>
         <entry encoding="base64">XDxvcmRlckluY3JlYXNlUmF0ZVw+</entry>
+        <entry>cover</entry>
       </history-search>
       <history-cmd>
         <entry>457</entry>
