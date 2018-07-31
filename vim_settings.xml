@@ -279,6 +279,13 @@
         <mark key="^" line="3" column="91" />
         <mark key="." line="3" column="91" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" timestamp="1533028801262">
+        <mark key="'" line="310" column="94" />
+        <mark key="[" line="751" column="38" />
+        <mark key="]" line="752" column="17" />
+        <mark key="^" line="752" column="17" />
+        <mark key="." line="752" column="17" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/SecurityConfig.kt" timestamp="1531903377966">
         <mark key="[" line="45" column="41" />
         <mark key="]" line="45" column="50" />
@@ -323,6 +330,13 @@
         <mark key="]" line="18" column="21" />
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/git/coinman_parent/bitFlyer.properties" timestamp="1533028927074">
+        <mark key="'" line="39" column="19" />
+        <mark key="[" line="44" column="2" />
+        <mark key="]" line="44" column="12" />
+        <mark key="." line="45" column="30" />
+        <mark key="^" line="45" column="30" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/list.html" timestamp="1522655938410">
         <mark key="[" line="25" column="112" />
@@ -612,7 +626,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1533005351283">
+      <file name="/dummy.sql" timestamp="1533028404853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1509,9 +1523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="511" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
-      <jump line="512" column="18" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
-      <jump line="531" column="33" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="527" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="301" column="101" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="548" column="21" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
@@ -1609,6 +1620,9 @@
       <jump line="839" column="34" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="849" column="27" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="850" column="27" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
+      <jump line="295" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
+      <jump line="39" column="19" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
+      <jump line="310" column="94" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1635,10 +1649,10 @@
         <text>url</text>
       </register>
       <register name="/" type="4">
-        <text>hata</text>
+        <text encoding="base64">XDxvcmRlckluY3JlYXNlUmF0ZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>xoxb-355421791061-VbDph5KB2s7Tnqdn9DBgNCLI</text>
+        <text>利確割合パーセンテージ</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1675,9 +1689,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hata</last-search>
+      <last-search encoding="base64">XDxvcmRlckluY3JlYXNlUmF0ZVw+</last-search>
       <last-offset />
-      <last-pattern>hata</last-pattern>
+      <last-pattern encoding="base64">XDxvcmRlckluY3JlYXNlUmF0ZVw+</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1685,8 +1699,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TEXT</entry>
-        <entry>log</entry>
         <entry>1000</entry>
         <entry encoding="base64">cmVhZEJvYXJkVGFyZ2V0U2l6ZSA=</entry>
         <entry>rest</entry>
@@ -1705,6 +1717,8 @@
         <entry encoding="base64">XDxnZXRfY29taW5hdmlfbGlua1w+</entry>
         <entry encoding="base64">XDxhc2luXD4=</entry>
         <entry>hata</entry>
+        <entry encoding="base64">XDxkZWZhdWx0U2l6ZVw+</entry>
+        <entry encoding="base64">XDxvcmRlckluY3JlYXNlUmF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>457</entry>
