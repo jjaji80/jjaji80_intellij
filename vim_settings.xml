@@ -1353,12 +1353,12 @@
         <mark key="^" line="0" column="65" />
         <mark key="." line="0" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1533105345331">
-        <mark key="'" line="1938" column="8" />
-        <mark key="[" line="1950" column="49" />
-        <mark key="]" line="1954" column="0" />
-        <mark key="^" line="1954" column="0" />
-        <mark key="." line="1954" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1533106491980">
+        <mark key="'" line="1942" column="0" />
+        <mark key="[" line="1955" column="0" />
+        <mark key="]" line="1956" column="26" />
+        <mark key="^" line="1956" column="26" />
+        <mark key="." line="1956" column="26" />
       </file>
       <file name="$USER_HOME$/git/orasp/lib/main.dart" timestamp="1521097556064">
         <mark key="[" line="11" column="3" />
@@ -1618,7 +1618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="752" column="13" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="740" column="46" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="749" column="54" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Account.kt" />
@@ -1718,6 +1717,7 @@
       <jump line="25" column="48" filename="$USER_HOME$/git/manganews-web-master/app/Controller/TagController.php" />
       <jump line="219" column="14" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="1938" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="1942" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
