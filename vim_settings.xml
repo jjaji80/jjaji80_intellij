@@ -791,6 +791,9 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
       </file>
+      <file name="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" timestamp="1533197168423">
+        <mark key="'" line="376" column="4" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironAuthtypeListDto.kt" timestamp="1520338459340">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="19" column="37" />
@@ -1649,8 +1652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="31" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="157" column="30" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="181" column="16" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="189" column="19" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="196" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -1749,6 +1750,8 @@
       <jump line="284" column="53" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
       <jump line="166" column="11" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
       <jump line="69" column="32" filename="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" />
+      <jump line="131" column="24" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
+      <jump line="376" column="4" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/Main.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1775,7 +1778,7 @@
         <text>1.0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcGVuXD4=</text>
+        <text>bitFlyer</text>
       </register>
       <register name="0" type="4">
         <text>CbOR0fO/Xkv71i3SIjTfEfYFzUvz2/X7mxgQXAMR4PU=</text>
@@ -1815,17 +1818,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcGVuXD4=</last-search>
+      <last-search>bitFlyer</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcGVuXD4=</last-pattern>
+      <last-pattern>bitFlyer</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGFubmVsQnJlYWtPdXRUYXJnZXRcPg==</entry>
         <entry encoding="base64">XDxjaGFubmVsQnJlYWtPdXRTaXplXD4=</entry>
         <entry encoding="base64">XDxnZXRfY29taW5hdmlfbGlua1w+</entry>
         <entry encoding="base64">XDxhc2luXD4=</entry>
@@ -1845,6 +1847,7 @@
         <entry encoding="base64">XDxpZ25vcmVfdGFnc1w+</entry>
         <entry encoding="base64">XDxpZ25vcmVfdGFnc19mb3JfZG9jb21vXD4=</entry>
         <entry encoding="base64">XDxvcGVuXD4=</entry>
+        <entry>bitFlyer</entry>
       </history-search>
       <history-cmd>
         <entry>457</entry>
