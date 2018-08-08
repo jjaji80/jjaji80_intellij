@@ -139,11 +139,11 @@
         <mark key="^" line="28" column="16" />
         <mark key="." line="28" column="16" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/index.html" timestamp="1533711478390">
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/paidRegistration/index.html" timestamp="1533742902468">
         <mark key="'" line="40" column="22" />
-        <mark key="[" line="33" column="76" />
-        <mark key="]" line="33" column="76" />
-        <mark key="." line="33" column="76" />
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
         <mark key="^" line="33" column="75" />
       </file>
       <file name="$USER_HOME$/git/p1/npc/src/main/kotlin/net/p1/npc/judge/PositionService.kt" timestamp="1532932138619">
@@ -368,13 +368,6 @@
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/AccountForAppleController.kt" timestamp="1533710379618">
-        <mark key="'" line="30" column="52" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="87" />
-        <mark key="^" line="30" column="52" />
-        <mark key="." line="30" column="52" />
-      </file>
       <file name="$USER_HOME$/git/coinman_parent/bitFlyer.properties" timestamp="1533194661844">
         <mark key="'" line="39" column="19" />
         <mark key="[" line="3" column="29" />
@@ -382,11 +375,11 @@
         <mark key="." line="45" column="30" />
         <mark key="^" line="45" column="30" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1533708163915">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1533743130753">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a9e76d02-e6db-400e-a796-8444fed1f1ad/console.sql" timestamp="1529489237726">
         <mark key="[" line="0" column="0" />
@@ -697,7 +690,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1533718862746">
+      <file name="/dummy.sql" timestamp="1533743117314">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -721,11 +714,11 @@
         <mark key="^" line="112" column="74" />
         <mark key="." line="112" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533716053070">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="12" />
-        <mark key="." line="3" column="12" />
-        <mark key="^" line="3" column="12" />
+      <file name="/Dummy.txt" timestamp="1533743013091">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+        <mark key="^" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/git/p1/core/src/test/kotlin/net/p1/core/CoreApplicationTests.kt" timestamp="1532936482866">
         <mark key="[" line="12" column="24" />
@@ -800,7 +793,7 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="/accounts [ora@ora.seizen-seiri.net]" timestamp="1533708152802">
+      <file name="/accounts [ora@ora.seizen-seiri.net]" timestamp="1533743115900">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1531291071203">
@@ -1789,7 +1782,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MzExMDIg</text>
+        <text>テスト</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY29taW5hdmlfbGlua1w+</text>
@@ -1798,34 +1791,34 @@
         <text encoding="base64">ICAgIHZhbCBsb2dnZXI6IExvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKENyeXB0VXRpbDo6Y2xhc3MuamF2YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">5pyI6aGN6LK755So44Gu5ZCN56ew5aSJ5pu0KOOCouOCq+OCpuODs+ODiOaVsOOBq+OCiOOBo+OBpuWIh+OCiuabv+OBiOOCiykK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gdGg6aWY9IiR7bmFtZU9mQXBwbGVQYXlDb3VudGVyID09IDF9Ij4KICAgICAgICAgICAg5pyJ5paZ5Lya5ZOh5paZ6YeRCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9zcGFuPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9zcGFuPgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gdGg6aWY9IiR7bmFtZU9mQXBwbGVQYXlDb3VudGVyICE9IDF9Ij4K</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyh0ZXh0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHByaXZhdGVLZXkgPSAibGVhZGxpZmUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">5pyI6aGN6LK755So44Gu5ZCN56ew5aSJ5pu0KOOCouOCq+OCpuODs+ODiOaVsOOBq+OCiOOBo+OBpuWIh+OCiuabv+OBiOOCiykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
