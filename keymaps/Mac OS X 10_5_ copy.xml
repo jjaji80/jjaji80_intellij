@@ -17,6 +17,9 @@
   <action id="Console.TableResult.Transpose">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="t" />
   </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="z" />
+  </action>
   <action id="Debugger.ForceEarlyReturn">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl r" />
   </action>
