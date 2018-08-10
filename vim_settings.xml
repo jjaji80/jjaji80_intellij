@@ -72,10 +72,10 @@
         <mark key="." line="8" column="41" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1533857550968">
+      <file name="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" timestamp="1533890755177">
         <mark key="'" line="165" column="20" />
-        <mark key="[" line="241" column="20" />
-        <mark key="]" line="241" column="26" />
+        <mark key="[" line="87" column="25" />
+        <mark key="]" line="87" column="39" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/rest/src/main/resources/application.yml" timestamp="1529487870213">
         <mark key="[" line="4" column="52" />
@@ -1693,9 +1693,7 @@
         <text encoding="base64">XDxhc2luXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>var isbn10 = isbn13to10(isbn13);
-
-	get_cominavi_link_ajax($('#cominavi_api_url').val() + &quot;?isbn=&quot; + isbn10).then(function (result) {</text>
+        <text>Bookings.status</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCXZhciBwcm9kdWN0X2h0bWwgPSAiIgo=</text>
