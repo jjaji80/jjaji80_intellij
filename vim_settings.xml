@@ -1182,8 +1182,8 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" timestamp="1533887424677">
-        <mark key="'" line="137" column="98" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" timestamp="1533888216859">
+        <mark key="'" line="192" column="59" />
         <mark key="[" line="79" column="109" />
         <mark key="]" line="80" column="35" />
         <mark key="^" line="80" column="35" />
@@ -1564,9 +1564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="19" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
-      <jump line="761" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="159" column="12" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
       <jump line="817" column="34" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="839" column="34" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
       <jump line="849" column="27" filename="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" />
@@ -1664,6 +1661,9 @@
       <jump line="136" column="44" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
       <jump line="113" column="24" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
       <jump line="131" column="98" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
+      <jump line="70" column="48" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
+      <jump line="75" column="22" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
+      <jump line="192" column="59" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1690,7 +1690,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxib29rTGlua0hUTUxcPg==</text>
+        <text encoding="base64">XDxhc2luXD4=</text>
       </register>
       <register name="0" type="4">
         <text>var isbn10 = isbn13to10(isbn13);
@@ -1732,9 +1732,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxib29rTGlua0hUTUxcPg==</last-search>
+      <last-search encoding="base64">XDxhc2luXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxib29rTGlua0hUTUxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhc2luXD4=</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1742,7 +1742,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZ25vcmVfdGFnc19mb3JfZG9jb21vXD4=</entry>
         <entry encoding="base64">XDxvcGVuXD4=</entry>
         <entry>bitFlyer</entry>
         <entry>31020</entry>
@@ -1762,6 +1761,7 @@
         <entry encoding="base64">XDxkaWFsVG9Gb3J0dW5lVGVsbGVyXD4=</entry>
         <entry encoding="base64">XDxnZXRfY29taW5hdmlfbGlua19hamF4XD4=</entry>
         <entry encoding="base64">XDxib29rTGlua0hUTUxcPg==</entry>
+        <entry encoding="base64">XDxhc2luXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>99</entry>
