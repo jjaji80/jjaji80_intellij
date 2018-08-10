@@ -1186,12 +1186,12 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" timestamp="1533896564388">
-        <mark key="'" line="80" column="95" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="25" />
-        <mark key="^" line="94" column="39" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" timestamp="1533900389850">
+        <mark key="'" line="64" column="8" />
+        <mark key="[" line="98" column="164" />
+        <mark key="]" line="98" column="164" />
+        <mark key="^" line="98" column="164" />
+        <mark key="." line="98" column="164" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/UserService.java" timestamp="1532062162923">
         <mark key="[" line="597" column="43" />
@@ -1568,7 +1568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="19" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
       <jump line="310" column="94" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/LegacySelfController.java" />
       <jump line="297" column="21" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -1668,6 +1667,7 @@
       <jump line="269" column="46" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/SchedulesController.php" />
       <jump line="271" column="75" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/SchedulesController.php" />
       <jump line="61" column="47" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/SchedulesController.php" />
+      <jump line="64" column="8" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1694,10 +1694,10 @@
         <text encoding="base64">Y29taW5hdmlSZXN1bHQuc2l6ZSgpID4gMCAm</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>boook</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlkYXRhVHlwZTogJ2pzb24nLAo=</text>
+      <register name="0" type="4">
+        <text>https://mechacomi.jp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkkcmVzdWx0WydkdW1tJ10gPSAiIjsK</text>
@@ -1734,9 +1734,9 @@
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>boook</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>boook</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1744,8 +1744,6 @@
     </search>
     <history>
       <history-search>
-        <entry>31020</entry>
-        <entry encoding="base64">XDxzdGFydFw+</entry>
         <entry>logg</entry>
         <entry>[[</entry>
         <entry>URL</entry>
@@ -1764,6 +1762,8 @@
         <entry encoding="base64">XDxhc2luXD4=</entry>
         <entry>first</entry>
         <entry>delete</entry>
+        <entry>bookst</entry>
+        <entry>boook</entry>
       </history-search>
       <history-cmd>
         <entry>99</entry>
