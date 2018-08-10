@@ -1182,12 +1182,12 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" timestamp="1533884383655">
-        <mark key="'" line="189" column="4" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="30" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="61" column="41" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" timestamp="1533886067755">
+        <mark key="'" line="202" column="4" />
+        <mark key="[" line="101" column="41" />
+        <mark key="]" line="102" column="26" />
+        <mark key="^" line="102" column="26" />
+        <mark key="." line="102" column="26" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/UserService.java" timestamp="1532062162923">
         <mark key="[" line="597" column="43" />
@@ -1564,8 +1564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="737" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="742" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="753" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="755" column="128" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="758" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -1664,6 +1662,8 @@
       <jump line="1898" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="177" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
       <jump line="190" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
+      <jump line="182" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
+      <jump line="196" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1687,43 +1687,45 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>console.log(</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfY29taW5hdmlfbGlua19hamF4XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>$('#l_top_image_div').html</text>
+        <text>var isbn10 = isbn13to10(isbn13);
+
+	get_cominavi_link_ajax($('#cominavi_api_url').val() + &quot;?isbn=&quot; + isbn10).then(function (result) {</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZ2V0X2NvbWluYXZpX2xpbmsoaXNibjEzKTsK</text>
+        <text encoding="base64">CQkJCXZhciBwcm9kdWN0X2h0bWwgPSAiIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZhcgo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQlpZihjb20pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9zcGFuPgo=</text>
+        <text encoding="base64">CWdldF9jb21pbmF2aV9saW5rKGlzYm4xMyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg5pyJ5paZ5qmf6IO95pyI6aGN6LK755SoIOOCouOCq+OCpuODs+ODiDxzcGFuIHRoOnRleHQ9IiR7bmFtZU9mQXBwbGVQYXlDb3VudGVyfSI+PC9zcGFuPuOBpOebrgogICAgICAgICAgICA8c3BhbiB0aDppZj0iJHtudWxsU2hvcCAhPSB0cnVlfSI+CiAgICAgICAgICAgICAo57S55LuL44Kz44O844OJ44GC44KKKQo=</text>
+        <text encoding="base64">CQkJZ2V0X2NvbWluYXZpX2xpbmsoaXNibjEzKTsK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLS8qQHRoeW1lc1ZhciBpZD0ibmFtZU9mQXBwbGVQYXlDb3VudGVyIiB0eXBlPSJqYXZhLmxhbmcuSW50ZWdlciIqLy0tPgo=</text>
+        <text encoding="base64">CXZhcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXBkYXRlIGlzc3VlcwpzZXQgZHVlX2RhdGUgPSAoc2VsZWN0IFYuZWZmZWN0aXZlX2RhdGUKICAgIC0tIOS4i+OBq+OCguOCs+ODlOODmuOBjOW/heimgQogICAgICAgICAgICAgICAgZnJvbSBpc3N1ZXMKICAgICAgICAgICAgICAgICAgICAgICAgIGFzIEkKICAgICAgICAgICAgICAgICAgICAgICBpbm5lciBqb2luIGlzc3VlX3JlbGF0aW9ucyBhcyBJUiBvbiBJLmlkID0gSVIuaXNzdWVfdG9faWQKICAgICAgICAgICAgICAgICAgICAgICBpbm5lciBqb2luIGlzc3VlcyBhcyBJMiBvbiBJMi5pZCA9IElSLmlzc3VlX2Zyb21faWQKICAgICAgICAgICAgICAgICAgICAgICBpbm5lciBqb2luIHZlcnNpb25zIGFzIFYgb24gSTIuZml4ZWRfdmVyc2lvbl9pZCA9IFYuaWQKICAgICAgICAgICAgICAgIHdoZXJlCiAgICAgICAgICAgICAgICAgICAgLS0gdXRlbAogICAgICAgICAgICAgICAgICAgIEkucHJvamVjdF9pZCA9IDMxOQogICAgICAgICAgICAgICAgICAgIC0tIHAtdXRlbAogICAgICAgICAgICAgICAgICBhbmQgSTIucHJvamVjdF9pZCA9IDMyMQogICAgICAgICAgICAgICAgICBBTkQgSTIuZml4ZWRfdmVyc2lvbl9pZCBJUyBOT1QgTlVMTAogICAgICAgICAgICAgICAgICBBTkQgSTIuc3RhdHVzX2lkIE5PVCBJTiAoNiwgNSwgMywgOSwgMTAsIDExKQogICAgICAgICAgICAgICAgICBBTkQgSS5zdGF0dXNfaWQgTk9UIElOICg2LCA1LCAzLCA5LCAxMCwgMTEpCiAgICAgICAgICAgICAgICAgICAgLS0g44GT44GT44Gv44CB5LiL44Gr44Kz44OU44Oa5LiN6KaBCiAgICAgICAgICAgICAgICAgIGFuZCBpc3N1ZXMuaWQgPSBJLmlkKQp3aGVyZSBpc3N1ZXMuaWQgaW4gKHNlbGVjdCBJLmlkCiAgICAgICAgICAgICAgICAgICAgZnJvbSBpc3N1ZXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBJCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gaXNzdWVfcmVsYXRpb25zIGFzIElSIG9uIEkuaWQgPSBJUi5pc3N1ZV90b19pZAogICAgICAgICAgICAgICAgICAgICAgICAgICBpbm5lciBqb2luIGlzc3VlcyBhcyBJMiBvbiBJMi5pZCA9IElSLmlzc3VlX2Zyb21faWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiB2ZXJzaW9ucyBhcyBWIG9uIEkyLmZpeGVkX3ZlcnNpb25faWQgPSBWLmlkCiAgICAgICAgICAgICAgICAgICAgd2hlcmUKICAgICAgICAgICAgICAgICAgICAgICAgLS0gdXRlbAogICAgICAgICAgICAgICAgICAgICAgICBJLnByb2plY3RfaWQgPSAzMTkKICAgICAgICAgICAgICAgICAgICAgICAgLS0gcC11dGVsCiAgICAgICAgICAgICAgICAgICAgICBhbmQgSTIucHJvamVjdF9pZCA9IDMyMQogICAgICAgICAgICAgICAgICAgICAgQU5EIEkyLmZpeGVkX3ZlcnNpb25faWQgSVMgTk9UIE5VTEwKICAgICAgICAgICAgICAgICAgICAgIEFORCBJMi5zdGF0dXNfaWQgTk9UIElOICg2LCA1LCAzLCA5LCAxMCwgMTEpCiAgICAgICAgICAgICAgICAgICAgICBBTkQgSS5zdGF0dXNfaWQgTk9UIElOICg2LCA1LCAzLCA5LCAxMCwgMTEpKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9zcGFuPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg5pyJ5paZ5qmf6IO95pyI6aGN6LK755SoIOOCouOCq+OCpuODs+ODiDxzcGFuIHRoOnRleHQ9IiR7bmFtZU9mQXBwbGVQYXlDb3VudGVyfSI+PC9zcGFuPuOBpOebrgogICAgICAgICAgICA8c3BhbiB0aDppZj0iJHtudWxsU2hvcCAhPSB0cnVlfSI+CiAgICAgICAgICAgICAo57S55LuL44Kz44O844OJ44GC44KKKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
