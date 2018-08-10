@@ -1182,12 +1182,12 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" timestamp="1533886067755">
-        <mark key="'" line="202" column="4" />
-        <mark key="[" line="101" column="41" />
-        <mark key="]" line="102" column="26" />
-        <mark key="^" line="102" column="26" />
-        <mark key="." line="102" column="26" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" timestamp="1533886428764">
+        <mark key="'" line="136" column="98" />
+        <mark key="[" line="119" column="22" />
+        <mark key="]" line="119" column="27" />
+        <mark key="^" line="119" column="27" />
+        <mark key="." line="119" column="27" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/UserService.java" timestamp="1532062162923">
         <mark key="[" line="597" column="43" />
@@ -1564,9 +1564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="753" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="755" column="128" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
-      <jump line="758" column="12" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="31" column="19" filename="$USER_HOME$/git/coinman_parent/bitFlyer.properties" />
       <jump line="761" column="20" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
       <jump line="159" column="12" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
@@ -1664,6 +1661,9 @@
       <jump line="190" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
       <jump line="182" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
       <jump line="196" column="4" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
+      <jump line="136" column="44" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
+      <jump line="113" column="24" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
+      <jump line="131" column="98" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1687,10 +1687,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfY29taW5hdmlfbGlua19hamF4XD4=</text>
+        <text encoding="base64">XDxib29rTGlua0hUTUxcPg==</text>
       </register>
       <register name="0" type="4">
         <text>var isbn10 = isbn13to10(isbn13);
@@ -1732,9 +1732,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfY29taW5hdmlfbGlua19hamF4XD4=</last-search>
+      <last-search encoding="base64">XDxib29rTGlua0hUTUxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfY29taW5hdmlfbGlua19hamF4XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxib29rTGlua0hUTUxcPg==</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1742,7 +1742,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZ25vcmVfdGFnc1w+</entry>
         <entry encoding="base64">XDxpZ25vcmVfdGFnc19mb3JfZG9jb21vXD4=</entry>
         <entry encoding="base64">XDxvcGVuXD4=</entry>
         <entry>bitFlyer</entry>
@@ -1762,6 +1761,7 @@
         <entry>id</entry>
         <entry encoding="base64">XDxkaWFsVG9Gb3J0dW5lVGVsbGVyXD4=</entry>
         <entry encoding="base64">XDxnZXRfY29taW5hdmlfbGlua19hamF4XD4=</entry>
+        <entry encoding="base64">XDxib29rTGlua0hUTUxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>99</entry>
