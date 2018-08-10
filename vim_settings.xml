@@ -89,7 +89,6 @@
         <mark key="." line="16" column="81" />
         <mark key="^" line="16" column="81" />
       </file>
-      <file name="$USER_HOME$/git/utel/docker-compose.yml" timestamp="1533720694538" />
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/dao/UserRepository.kt" timestamp="1529479600740">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="25" />
@@ -319,7 +318,6 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/config/app.php" timestamp="1533803541125" />
       <file name="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/JavaScriptMaker.kt" timestamp="1523673719134">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="61" />
@@ -653,7 +651,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1533856841746">
+      <file name="/dummy.sql" timestamp="1533882888728">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -856,12 +854,12 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1533857249158">
-        <mark key="'" line="1890" column="0" />
-        <mark key="[" line="1890" column="0" />
-        <mark key="]" line="1900" column="18" />
-        <mark key="." line="1891" column="12" />
-        <mark key="^" line="1891" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1533883136496">
+        <mark key="'" line="1898" column="20" />
+        <mark key="[" line="1900" column="19" />
+        <mark key="]" line="1913" column="18" />
+        <mark key="." line="1913" column="18" />
+        <mark key="^" line="1913" column="18" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironDto.kt" timestamp="1520338682874">
         <mark key="[" line="33" column="28" />
@@ -1010,7 +1008,7 @@
         <mark key="^" line="40" column="20" />
         <mark key="." line="40" column="20" />
       </file>
-      <file name="/payments [ora@ora.seizen-seiri.net]" timestamp="1533856821219">
+      <file name="/payments [ora@ora.seizen-seiri.net]" timestamp="1533882884986">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/slide.ctp" timestamp="1524647922565">
@@ -1559,7 +1557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="29" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Blog/_title.ctp" />
       <jump line="189" column="47" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
       <jump line="27" column="23" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
       <jump line="737" column="8" filename="$USER_HOME$/git/coinman_parent/coinman/src/coinman/service/bitflyer/LongService.kt" />
@@ -1659,6 +1656,7 @@
       <jump line="1856" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="1887" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="1890" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="1898" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1731,7 +1729,7 @@
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
