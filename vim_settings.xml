@@ -680,11 +680,11 @@
       <file name="$USER_HOME$/git/p1/core/src/test/kotlin/net/p1/core/CoreApplicationTests.kt" timestamp="1532936482866">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1533892455892">
-        <mark key="[" line="966" column="35" />
-        <mark key="]" line="967" column="22" />
-        <mark key="." line="967" column="22" />
-        <mark key="^" line="967" column="22" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1534112410551">
+        <mark key="[" line="970" column="34" />
+        <mark key="]" line="970" column="35" />
+        <mark key="." line="970" column="35" />
+        <mark key="^" line="970" column="35" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/helper/DiedNotification.kt" timestamp="1523594815784">
         <mark key="[" line="8" column="22" />
@@ -1194,12 +1194,12 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" timestamp="1533907677158">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="98" column="164" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" timestamp="1534112461885">
+        <mark key="'" line="60" column="8" />
+        <mark key="[" line="94" column="92" />
+        <mark key="]" line="94" column="92" />
+        <mark key="^" line="94" column="92" />
+        <mark key="." line="94" column="92" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/UserService.java" timestamp="1532062162923">
         <mark key="[" line="597" column="43" />
@@ -1578,8 +1578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="39" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
-      <jump line="64" column="51" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
       <jump line="92" column="48" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
       <jump line="101" column="39" filename="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" />
       <jump line="66" column="22" filename="$USER_HOME$/git/manganews-web-master/app/Config/routes.php" />
@@ -1678,6 +1676,8 @@
       <jump line="126" column="54" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="87" column="74" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="57" column="27" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
+      <jump line="243" column="3" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
+      <jump line="60" column="8" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1701,10 +1701,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OTE3IA==</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
-        <text>amazon</text>
+        <text>me</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGJ0bi13cmFw</text>
@@ -1744,9 +1744,9 @@
       </register>
     </registers>
     <search>
-      <last-search>amazon</last-search>
+      <last-search>me</last-search>
       <last-offset />
-      <last-pattern>amazon</last-pattern>
+      <last-pattern>me</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1754,8 +1754,6 @@
     </search>
     <history>
       <history-search>
-        <entry>crea</entry>
-        <entry>id</entry>
         <entry encoding="base64">XDxkaWFsVG9Gb3J0dW5lVGVsbGVyXD4=</entry>
         <entry encoding="base64">XDxnZXRfY29taW5hdmlfbGlua19hamF4XD4=</entry>
         <entry encoding="base64">XDxib29rTGlua0hUTUxcPg==</entry>
@@ -1774,6 +1772,8 @@
         <entry>notifi</entry>
         <entry>style.css</entry>
         <entry>amazon</entry>
+        <entry>com</entry>
+        <entry>me</entry>
       </history-search>
       <history-cmd>
         <entry>99</entry>
