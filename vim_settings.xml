@@ -84,6 +84,12 @@
         <mark key="." line="16" column="81" />
         <mark key="^" line="16" column="81" />
       </file>
+      <file name="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" timestamp="1534120595212">
+        <mark key="[" line="389" column="0" />
+        <mark key="]" line="389" column="0" />
+        <mark key="." line="389" column="0" />
+        <mark key="^" line="390" column="30" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/dao/UserRepository.kt" timestamp="1529479600740">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="25" />
@@ -1701,7 +1707,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>4.0</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>me</text>
@@ -1710,34 +1716,34 @@
         <text encoding="base64">aHR0cHM6Ly9tZWNoYWNvbWkuanAvc2QvYXBpL3Blcm1pdF9pdGVtX2xvb2t1cD90eXBlPUlTQk4mdmFsdWU9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">44OH44OQ44OD44Kw44Oh44OD44K744O844K444KS5pKk5Y67Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgImRhdGE9I3tkYXRhfSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">44Kz44Of44Gq44Gz44GuQVBJ6YCj5pC6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwcmludCAiZGF0YT0je2RhdGF9Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhjb21pbmF2aVJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtc2cucmVwbHkgZGF0YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">44GK5a6i5qeY44Gu5aSJ5pu05Y+N5pigCg==</text>
+        <text encoding="base64">ICAgICAgCW1zZy5yZXBseSBkYXRhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JCQlUT0RPIOimgeODgeOCp+ODg+OCrwo=</text>
+        <text encoding="base64">44OH44OQ44OD44Kw44Oh44OD44K744O844K444KS5pKk5Y67Cg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkkcmVzdWx0WydkdW1tJ10gPSAiIjsK</text>
+        <text encoding="base64">44Kz44Of44Gq44Gz44GuQVBJ6YCj5pC6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXZhciBwcm9kdWN0X2h0bWwgPSAiIgo=</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhjb21pbmF2aVJlc3VsdCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">44GK5a6i5qeY44Gu5aSJ5pu05Y+N5pigCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlpZihjb20pCg==</text>
+        <text encoding="base64">Ly8JCQlUT0RPIOimgeODgeOCp+ODg+OCrwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

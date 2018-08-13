@@ -6,5 +6,8 @@
         <option name="certificatesPath" />
       </configuration>
     </remote-server>
+    <remote-server name="Heroku" type="heroku">
+      <configuration apiKey="ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAtD4oqzdVcTGSlDmY8pROElDnnRza3fqXz5o3JVgAKhmOP5QXcIZcN/bhchvehtP0zaMwLXUrkM3V71Gcjq2LG4pHXXjHWYPvjytiaILkIhKC/FHf3nUWY0noJcAZr3vYLjDoO4iYsUnqOjrCzk11mJczvD7vm+iii/C8mtr+E8VdV2QQyGrTI2lmvTxilgK5WjZ1Iwoaoz+US8PKrN2w7U3Iodn804sOJ274jjHmHntk65yfldUwD71Jly/m1VvyL+Nu/bJwbWQLzTlkftzCdedUU803qSOLxRjiQEotSbl4sXd4e7fmotElv7Em5b3QDj90RHzTFGbZ0UUKNAxYbQ== ajio@ajizaka-junitsu-no-macbook-pro.local" email="jjaji80@gmail.com" password="nmrf79ev" />
+    </remote-server>
   </component>
 </application>
