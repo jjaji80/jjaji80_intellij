@@ -84,12 +84,12 @@
         <mark key="." line="16" column="81" />
         <mark key="^" line="16" column="81" />
       </file>
-      <file name="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" timestamp="1534130647265">
-        <mark key="'" line="482" column="0" />
-        <mark key="[" line="485" column="34" />
-        <mark key="]" line="486" column="25" />
-        <mark key="." line="486" column="25" />
-        <mark key="^" line="486" column="25" />
+      <file name="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" timestamp="1534132270252">
+        <mark key="'" line="488" column="6" />
+        <mark key="[" line="293" column="25" />
+        <mark key="]" line="293" column="32" />
+        <mark key="^" line="293" column="32" />
+        <mark key="." line="293" column="32" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/dao/UserRepository.kt" timestamp="1529479600740">
         <mark key="[" line="2" column="0" />
@@ -1585,11 +1585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4565" column="3" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="4583" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="4738" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
-      <jump line="238" column="9" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
-      <jump line="186" column="9" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
       <jump line="150" column="12" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
       <jump line="1858" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="7" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
@@ -1675,8 +1670,6 @@
       <jump line="442" column="20" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="445" column="0" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="415" column="12" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
-      <jump line="486" column="13" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
-      <jump line="483" column="0" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="500" column="51" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="38" column="49" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="299" column="8" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
@@ -1684,7 +1677,14 @@
       <jump line="477" column="57" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="488" column="13" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="292" column="15" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="489" column="28" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="491" column="20" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="484" column="12" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="485" column="26" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="483" column="30" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="486" column="0" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="482" column="0" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="487" column="6" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1708,7 +1708,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJvamVjdHMg</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQcm9qZWN0c1w+</text>
@@ -1717,34 +1717,34 @@
         <text encoding="base64">ICAgICAgICBtc2cucmVwbHkgcHJvamVjdE5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb2plY3RzID0gW10K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBwcm9qZWN0LmlkCg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1zZy5yZXBseSBwcm9qZWN0cy5sZW5ndGgK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJvamVjdHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBwcm9qZWN0Lm5hbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAidHJhY2tlcl9pZCI6IHRyYWNrZXIK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIGRhdGEucHJvamVjdHMK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByb2plY3RzID0gW10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBwcm9qZWN0LmlkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG1zZy5yZXBseSBwcm9qZWN0cy5sZW5ndGgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWRtaW5lLlByb2plY3RzIHt9LCAoZXJyLCBkYXRhLCBzdGFydCkgLT4K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1761,10 +1761,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlZGl0b3JcPg==</entry>
-        <entry>notifi</entry>
-        <entry>style.css</entry>
-        <entry>amazon</entry>
         <entry>com</entry>
         <entry>me</entry>
         <entry encoding="base64">XDxnZXRLZXlcPg==</entry>
@@ -1780,6 +1776,10 @@
         <entry>for</entry>
         <entry>copy</entry>
         <entry encoding="base64">Zm9yIA==</entry>
+        <entry>print</entry>
+        <entry>getPro</entry>
+        <entry encoding="base64">XDxwcm9qZWN0c1w+</entry>
+        <entry>console</entry>
         <entry encoding="base64">XDxnZXRQcm9qZWN0c1w+</entry>
       </history-search>
       <history-cmd>
