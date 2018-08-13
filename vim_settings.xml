@@ -84,12 +84,12 @@
         <mark key="." line="16" column="81" />
         <mark key="^" line="16" column="81" />
       </file>
-      <file name="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" timestamp="1534132270252">
-        <mark key="'" line="488" column="6" />
-        <mark key="[" line="293" column="25" />
-        <mark key="]" line="293" column="32" />
-        <mark key="^" line="293" column="32" />
-        <mark key="." line="293" column="32" />
+      <file name="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" timestamp="1534144886469">
+        <mark key="'" line="486" column="0" />
+        <mark key="[" line="296" column="4" />
+        <mark key="]" line="296" column="10" />
+        <mark key="." line="296" column="10" />
+        <mark key="^" line="296" column="10" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/dao/UserRepository.kt" timestamp="1529479600740">
         <mark key="[" line="2" column="0" />
@@ -1650,7 +1650,6 @@
       <jump line="311" column="23" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="285" column="71" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="308" column="23" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
-      <jump line="293" column="25" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="348" column="2" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="458" column="5" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="294" column="7" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
@@ -1675,16 +1674,17 @@
       <jump line="299" column="8" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="349" column="47" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="477" column="57" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
-      <jump line="488" column="13" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="292" column="15" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="489" column="28" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="491" column="20" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="484" column="12" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="485" column="26" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
-      <jump line="483" column="30" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="486" column="0" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="482" column="0" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="487" column="6" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="488" column="6" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="293" column="4" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="483" column="0" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1708,60 +1708,59 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>cosole</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRQcm9qZWN0c1w+</text>
+        <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cucmVwbHkgcHJvamVjdE5hbWUK</text>
+        <text encoding="base64">ICAgIGNvc29sZS5sb2coIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09IgogICAgICBwcm9qZWN0cwogICAgICBjb25zb2xlLmxvZyAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyAib29vb29vb29vb29vb29vb29vb29vb29vb29vb29vIgogIGNvbnNvbGUubG9nKHByb2plY3RzKQogIGNvbnNvbGUubG9nICJvb29vb29vb29vb29vb29vb29vb29vb29vb29vb28iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJvamVjdHMpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBwcm9qZWN0Lm5hbWUK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIGRhdGEucHJvamVjdHMK</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb2plY3RzID0gW10K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJvamVjdHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBwcm9qZWN0LmlkCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBwcm9qZWN0Lm5hbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1zZy5yZXBseSBwcm9qZWN0cy5sZW5ndGgK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIGRhdGEucHJvamVjdHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHByb2plY3RzID0gW10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRQcm9qZWN0c1w+</last-search>
+      <last-search encoding="base64">XDwoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRQcm9qZWN0c1w+</last-pattern>
+      <last-pattern encoding="base64">XDwoXD4=</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>com</entry>
         <entry>me</entry>
         <entry encoding="base64">XDxnZXRLZXlcPg==</entry>
         <entry>data</entry>
@@ -1781,6 +1780,7 @@
         <entry encoding="base64">XDxwcm9qZWN0c1w+</entry>
         <entry>console</entry>
         <entry encoding="base64">XDxnZXRQcm9qZWN0c1w+</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>196,474</entry>
