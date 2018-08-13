@@ -84,12 +84,12 @@
         <mark key="." line="16" column="81" />
         <mark key="^" line="16" column="81" />
       </file>
-      <file name="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" timestamp="1534148819381">
-        <mark key="'" line="493" column="6" />
-        <mark key="[" line="293" column="7" />
-        <mark key="]" line="293" column="8" />
-        <mark key="." line="293" column="8" />
-        <mark key="^" line="320" column="85" />
+      <file name="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" timestamp="1534150533725">
+        <mark key="'" line="293" column="4" />
+        <mark key="[" line="489" column="0" />
+        <mark key="]" line="489" column="0" />
+        <mark key="." line="489" column="0" />
+        <mark key="^" line="493" column="57" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/dao/UserRepository.kt" timestamp="1529479600740">
         <mark key="[" line="2" column="0" />
@@ -1585,7 +1585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="1276" column="22" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="1395" column="22" filename="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" />
       <jump line="1" column="13" filename="2bb55724-3ab0-4546-9f9d-5059dc11c83e/schema/cakephp/table/users.sql" />
@@ -1680,11 +1679,12 @@
       <jump line="483" column="0" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="485" column="0" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="486" column="34" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
-      <jump line="293" column="4" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="490" column="15" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="491" column="6" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="494" column="6" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="488" column="0" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="493" column="6" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
+      <jump line="293" column="4" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1708,7 +1708,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>function (){}</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQcm9qZWN0c1w+</text>
@@ -1717,16 +1717,16 @@
         <text encoding="base64">ICAgIGNvc29sZS5sb2coIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjYWxsYmFjaykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09IgogICAgICBwcm9qZWN0cwogICAgICBjb25zb2xlLmxvZyAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyAib29vb29vb29vb29vb29vb29vb29vb29vb29vb29vIgogIGNvbnNvbGUubG9nKHByb2plY3RzKQogIGNvbnNvbGUubG9nICJvb29vb29vb29vb29vb29vb29vb29vb29vb29vb28iCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
@@ -1735,19 +1735,19 @@
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cgIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09IgogICAgICBwcm9qZWN0cwogICAgICBjb25zb2xlLmxvZyAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJvamVjdHMpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyAib29vb29vb29vb29vb29vb29vb29vb29vb29vb29vIgogIGNvbnNvbGUubG9nKHByb2plY3RzKQogIGNvbnNvbGUubG9nICJvb29vb29vb29vb29vb29vb29vb29vb29vb29vb28iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBwcm9qZWN0Lm5hbWUK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIGRhdGEucHJvamVjdHMK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>491</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1801,8 +1801,8 @@
         <entry>287</entry>
         <entry>445</entry>
         <entry>440</entry>
-        <entry>w</entry>
         <entry>491</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
