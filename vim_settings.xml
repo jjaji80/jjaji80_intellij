@@ -807,7 +807,10 @@
         <mark key="^" line="68" column="20" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="/ja.yml" timestamp="1534747055826" />
+      <file name="/ja.yml" timestamp="1534749375268">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="157" column="21" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitFlyerRPCErrorListner.kt" timestamp="1525241283435">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="26" />
@@ -1764,8 +1767,8 @@
       <register name="/" type="4">
         <text>line</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIEIuKiwgUy4qCkZST00gYm9va2luZ3MgQVMgQgogICAgICAgbGVmdCBKT0lOIHNjaGVkdWxlcyBBUyBTIE9OIFMuaWQgPSBCLnNjaGVkdWxlX2lkCiAgICAgICBMRUZUIEpPSU4gZm9ydHVuZXRlbGxlcnMgQVMgRiBPTiBGLmlkID0gUy5mb3J0dW5ldGVsbGVyX2lkCiAgICAgICBMRUZUIEpPSU4gY2FsbF9sb2dzIEFTIEMgT04gQy5ib29raW5nX2lkID0gQi5pZAogICAgICAgTEVGVCBKT0lOIGFuYWx5c2lzX3Jlc3VsdHMgQVMgQSBPTiBBLmNhbGxfbG9nX2lkID0gQy5pZAogICAgICAgSU5ORVIgSk9JTiB1c2VycyBBUyBVIE9OIEIudXNlcl9pZCA9IFUuaWQKV0hFUkUgIyBGLmlkID0gODQgYW5kCiAgICBVLmlkID0gMjk1MgpvcmRlciBieSBCLmlkIGRlc2M7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBoZWlnaHQ6IOi6q+mVtwogICAgICAgIGJpcnRoZGF5OiDoqpXnlJ/ml6UKICAgICAgICBib2R5X3R5cGU6IOS9k+ezuwogICAgICAgIGNvbnN0ZWxsYXRpb246IOaYn+W6pwogICAgICAgIGNoYXJhY3Rlcjog44K/44Kk44OXCiAgICAgICAgYmxvb2RfdHlwZTog6KGA5ray5Z6LCiAgICAgICAgYWxjb2hvbF9zdHJlbmd0aDog44GK6YWS44Gu5by344GVCiAgICAgICAgYmlydGhwbGFjZTog5Ye66Lqr5ZywCiAgICAgICAgY2lnYXJldHRlOiDjgr/jg5DjgrMKICAgICAgICBob2JieTog6Laj5ZGzCiAgICAgICAgc3BlY2lhbF9za2lsbDog54m55oqACiAgICAgICAgdGVsOiDpm7voqbHnlarlj7cKICAgICAgICBsaW5lX2lkOiBMSU5FIElECiAgICAgICAgbWFpbDog44Oh44O844Or44Ki44OJ44Os44K5CiAgICAgICAgZmFjZWJvb2s6IGZhY2Vib29rCiAgICAgICAgaW5zdGFncmFtOiBpbnN0YWdyYW0KICAgICAgICB0d2l0dGVyOiB0d2l0dGVyCiAgICAgICAgYmxvZzogYmxvZwogICAgICAgIG1lc3NhZ2U6IOODoeODg+OCu+ODvOOCuA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">44CQ6KaB5pyb44CR44Ki44OX44Oq44Kt44Oj44OD44K344Ol44KS5pS55ZaE44GZ44KL44Gf44KB44Gu5pa9562WCmZpeGVkICMzMTAxMSBAMS4wCg==</text>
