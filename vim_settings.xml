@@ -388,8 +388,8 @@
         <mark key="^" line="12" column="43" />
         <mark key="." line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/git/ex2/app/controllers/pop.rb" timestamp="1534832629501">
-        <mark key="'" line="78" column="12" />
+      <file name="$USER_HOME$/git/ex2/app/controllers/pop.rb" timestamp="1534833870448">
+        <mark key="'" line="14" column="4" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/market_data/src/coinman/service/RsiService.kt" timestamp="1521934034133">
         <mark key="[" line="15" column="0" />
@@ -1645,9 +1645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="22" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
-      <jump line="192" column="59" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
-      <jump line="79" column="95" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
       <jump line="213" column="5" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/SchedulesController.php" />
       <jump line="269" column="46" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/SchedulesController.php" />
       <jump line="271" column="75" filename="$USER_HOME$/git/utel/app/src/Controller/Admin/SchedulesController.php" />
@@ -1745,6 +1742,9 @@
       <jump line="161" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" />
       <jump line="19" column="4" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
       <jump line="78" column="12" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
+      <jump line="26" column="4" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
+      <jump line="13" column="13" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
+      <jump line="14" column="4" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1771,7 +1771,7 @@
         <text>id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlcnJvcnNcPg==</text>
+        <text encoding="base64">XDxsb2dnZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LS0gdXRlbOOBruaLheW9k+S4reOBp3AtdXRlbOOBruaWsOimj+OCkuaLheW9k+S4reOBq+WkieOBiOOCiwp1cGRhdGUgaXNzdWVzCnNldCBzdGF0dXNfaWQgPSAyCndoZXJlIGlzc3Vlcy5pZCBpbiAoc2VsZWN0IEkxLmlkCiAgICAtLSBwLXV0ZWzjga7jg4HjgrHjg4Pjg4gKICAgICAgICAgICAgICAgICAgICBmcm9tIGlzc3VlcyBJMQogICAgICAgICAgICAgICAgICAgIHdoZXJlIEkxLnByb2plY3RfaWQgPSAzMjEKICAgICAgICAgICAgICAgICAgICAgICAgLS0g5paw6KaP44Gu44G/CiAgICAgICAgICAgICAgICAgICAgICBhbmQgSTEuc3RhdHVzX2lkID0gMQogICAgICAgICAgICAgICAgICAgICAgYW5kIGV4aXN0cygKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdCAqCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcm9tIGlzc3VlX3JlbGF0aW9ucyBJUgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gaXNzdWVzIEkyIG9uIEkyLmlkID0gSVIuaXNzdWVfdG9faWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZXJlIEkxLmlkID0gSVIuaXNzdWVfZnJvbV9pZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmQgSTIucHJvamVjdF9pZCA9IDMxOQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tIOaLheW9k+S4reOBruOBvwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmQgKEkyLnN0YXR1c19pZCA9IDIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkpOwoK</text>
@@ -1811,9 +1811,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlcnJvcnNcPg==</last-search>
+      <last-search encoding="base64">XDxsb2dnZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlcnJvcnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dnZXJcPg==</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1821,7 +1821,6 @@
     </search>
     <history>
       <history-search>
-        <entry>created</entry>
         <entry>Por</entry>
         <entry>Proje</entry>
         <entry>limit</entry>
@@ -1841,6 +1840,7 @@
         <entry encoding="base64">XDx0YXJnZXRCb2FyZFNpemVcPg==</entry>
         <entry>line</entry>
         <entry encoding="base64">XDxlcnJvcnNcPg==</entry>
+        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>197,474d</entry>
