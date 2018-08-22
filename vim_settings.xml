@@ -698,11 +698,11 @@
         <mark key="^" line="112" column="74" />
         <mark key="." line="112" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534849480525">
+      <file name="/Dummy.txt" timestamp="1534913212097">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/p1/core/src/test/kotlin/net/p1/core/CoreApplicationTests.kt" timestamp="1532936482866">
         <mark key="[" line="12" column="24" />
@@ -1313,12 +1313,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="9" column="55" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1533953739378">
+      <file name="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" timestamp="1534913170537">
         <mark key="'" line="57" column="27" />
-        <mark key="[" line="57" column="45" />
-        <mark key="]" line="57" column="47" />
-        <mark key="." line="57" column="47" />
-        <mark key="^" line="57" column="67" />
+        <mark key="[" line="57" column="37" />
+        <mark key="]" line="57" column="38" />
+        <mark key="." line="57" column="38" />
+        <mark key="^" line="57" column="38" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Template/Twilio/dial2.ctp" timestamp="1529306698586">
         <mark key="[" line="0" column="0" />
@@ -1643,11 +1643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="15" filename="/blog.amazon.js" />
-      <jump line="98" column="164" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
-      <jump line="244" column="3" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
-      <jump line="81" column="0" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
-      <jump line="65" column="71" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Blog/_title.ctp" />
       <jump line="215" column="23" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Blog/_title.ctp" />
       <jump line="49" column="10" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Blog/_title.ctp" />
       <jump line="0" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Blog/_title.ctp" />
@@ -1656,7 +1651,6 @@
       <jump line="214" column="12" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Blog/_title.ctp" />
       <jump line="126" column="54" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="87" column="74" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
-      <jump line="57" column="27" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="243" column="3" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
       <jump line="60" column="8" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
       <jump line="429" column="8" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
@@ -1743,6 +1737,12 @@
       <jump line="5" column="0" filename="$USER_HOME$/git/ex2/db/schema.rb" />
       <jump line="123" column="22" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
       <jump line="94" column="20" filename="$USER_HOME$/git/manganews-web-master/app/webroot/js/blog.amazon.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
+      <jump line="99" column="23" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
+      <jump line="200" column="24" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
+      <jump line="201" column="23" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
+      <jump line="244" column="15" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
+      <jump line="57" column="27" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1769,49 +1769,49 @@
         <text>対象データ変更</text>
       </register>
       <register name="/" type="4">
-        <text>seco</text>
+        <text>style.css</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LS0gdXRlbOOBruaLheW9k+S4reOBp3AtdXRlbOOBruaWsOimj+OCkuaLheW9k+S4reOBq+WkieOBiOOCiwp1cGRhdGUgaXNzdWVzCnNldCBzdGF0dXNfaWQgPSAyCndoZXJlIGlzc3Vlcy5pZCBpbiAoc2VsZWN0IEkxLmlkCiAgICAtLSBwLXV0ZWzjga7jg4HjgrHjg4Pjg4gKICAgICAgICAgICAgICAgICAgICBmcm9tIGlzc3VlcyBJMQogICAgICAgICAgICAgICAgICAgIHdoZXJlIEkxLnByb2plY3RfaWQgPSAzMjEKICAgICAgICAgICAgICAgICAgICAgICAgLS0g5paw6KaP44Gu44G/CiAgICAgICAgICAgICAgICAgICAgICBhbmQgSTEuc3RhdHVzX2lkID0gMQogICAgICAgICAgICAgICAgICAgICAgYW5kIGV4aXN0cygKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdCAqCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcm9tIGlzc3VlX3JlbGF0aW9ucyBJUgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gaXNzdWVzIEkyIG9uIEkyLmlkID0gSVIuaXNzdWVfdG9faWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZXJlIEkxLmlkID0gSVIuaXNzdWVfZnJvbV9pZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmQgSTIucHJvamVjdF9pZCA9IDMxOQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tIOaLheW9k+S4reOBruOBvwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmQgKEkyLnN0YXR1c19pZCA9IDIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkpOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQl2YXIgc2Vjb25kVXJsID0gIi8iOwo=</text>
+        <text encoding="base64">44Kz44Of44Gq44Gz44Gu44Oq44Oz44Kv5aSJ5pu0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlmb3IodmFyIGkgPSAwIDsgaSA8IHRtcC5sZW5ndGgtMTsgaSsrKXsKCQkJCQkJc2Vjb25kVXJsID0gc2Vjb25kVXJsICsKCQkJCQl9Cg==</text>
+        <text encoding="base64">CQkJCQl2YXIgc2Vjb25kVXJsID0gIi8iOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQl2YXIgc2Vjb25kVXJsID0gCg==</text>
+        <text encoding="base64">CQkJCQlmb3IodmFyIGkgPSAwIDsgaSA8IHRtcC5sZW5ndGgtMTsgaSsrKXsKCQkJCQkJc2Vjb25kVXJsID0gc2Vjb25kVXJsICsKCQkJCQl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0IEkxLioKICAgIC0tIHAtdXRlbOOBruODgeOCseODg+ODiApmcm9tIGlzc3VlcyBJMQp3aGVyZSBJMS5wcm9qZWN0X2lkID0gMzIxCiAgICAtLSDmlrDopo/jga7jgb8KICBhbmQgSTEuc3RhdHVzX2lkID0gMQogIGFuZCBleGlzdHMoCiAgICAgICAgc2VsZWN0ICoKICAgICAgICBmcm9tIGlzc3VlX3JlbGF0aW9ucyBJUgogICAgICAgICAgICAgICBpbm5lciBqb2luIGlzc3VlcyBJMiBvbiBJMi5pZCA9IElSLmlzc3VlX3RvX2lkCiAgICAgICAgd2hlcmUgSTEuaWQgPSBJUi5pc3N1ZV9mcm9tX2lkCiAgICAgICAgICBhbmQgSTIucHJvamVjdF9pZCA9IDMxOQogICAgICAgICAgICAtLSDmi4XlvZPkuK3jga7jgb8KICAgICAgICAgIGFuZCAoSTIuc3RhdHVzX2lkID0gMikpCg==</text>
+        <text encoding="base64">CQkJCQl2YXIgc2Vjb25kVXJsID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbmQgKEkxLnN0YXR1c19pZCA9IDEgb3IgSTEuc3RhdHVzX2lkID0gMikK</text>
+        <text encoding="base64">c2VsZWN0IEkxLioKICAgIC0tIHAtdXRlbOOBruODgeOCseODg+ODiApmcm9tIGlzc3VlcyBJMQp3aGVyZSBJMS5wcm9qZWN0X2lkID0gMzIxCiAgICAtLSDmlrDopo/jga7jgb8KICBhbmQgSTEuc3RhdHVzX2lkID0gMQogIGFuZCBleGlzdHMoCiAgICAgICAgc2VsZWN0ICoKICAgICAgICBmcm9tIGlzc3VlX3JlbGF0aW9ucyBJUgogICAgICAgICAgICAgICBpbm5lciBqb2luIGlzc3VlcyBJMiBvbiBJMi5pZCA9IElSLmlzc3VlX3RvX2lkCiAgICAgICAgd2hlcmUgSTEuaWQgPSBJUi5pc3N1ZV9mcm9tX2lkCiAgICAgICAgICBhbmQgSTIucHJvamVjdF9pZCA9IDMxOQogICAgICAgICAgICAtLSDmi4XlvZPkuK3jga7jgb8KICAgICAgICAgIGFuZCAoSTIuc3RhdHVzX2lkID0gMikpCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXAK</text>
+        <text encoding="base64">ICBhbmQgKEkxLnN0YXR1c19pZCA9IDEgb3IgSTEuc3RhdHVzX2lkID0gMikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">44CQ44OQ44Kw44CR6ZGR5a6a5a6M5LqG5b6M44CB55S76Z2i44GM5o6o56e744Gn44GN44Gq44GECg==</text>
+        <text encoding="base64">dXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">44CQ6KaB5pyb44CR44Ki44OX44Oq44Kt44Oj44OD44K344Ol44KS5pS55ZaE44GZ44KL44Gf44KB44Gu5pa9562WCmZpeGVkICMzMTAxMSBAMS4wCg==</text>
+        <text encoding="base64">44CQ44OQ44Kw44CR6ZGR5a6a5a6M5LqG5b6M44CB55S76Z2i44GM5o6o56e744Gn44GN44Gq44GECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">44CQ6KaB5pyb44CR44Ki44OX44Oq44Kt44Oj44OD44K344Ol44KS5pS55ZaE44GZ44KL44Gf44KB44Gu5pa9562WCg==</text>
+        <text encoding="base64">44CQ6KaB5pyb44CR44Ki44OX44Oq44Kt44Oj44OD44K344Ol44KS5pS55ZaE44GZ44KL44Gf44KB44Gu5pa9562WCmZpeGVkICMzMTAxMSBAMS4wCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>seco</last-search>
+      <last-search>style.css</last-search>
       <last-offset />
-      <last-pattern>seco</last-pattern>
+      <last-pattern>style.css</last-pattern>
       <last-replace>チャンネルブレイクアウト</last-replace>
       <last-substitute>ドテン</last-substitute>
       <last-dir>1</last-dir>
@@ -1819,8 +1819,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Issues</entry>
-        <entry>forE</entry>
         <entry>for</entry>
         <entry>copy</entry>
         <entry encoding="base64">Zm9yIA==</entry>
@@ -1839,6 +1837,8 @@
         <entry>orders</entry>
         <entry>first</entry>
         <entry>seco</entry>
+        <entry>css</entry>
+        <entry>style.css</entry>
       </history-search>
       <history-cmd>
         <entry>197,474d</entry>
@@ -1858,8 +1858,8 @@
         <entry>440</entry>
         <entry>491</entry>
         <entry>529</entry>
-        <entry>1</entry>
         <entry>627</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
