@@ -703,20 +703,20 @@
         <mark key="^" line="112" column="74" />
         <mark key="." line="112" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534913212097">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1534928810117">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/git/p1/core/src/test/kotlin/net/p1/core/CoreApplicationTests.kt" timestamp="1532936482866">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1534154801244">
-        <mark key="[" line="977" column="0" />
-        <mark key="]" line="977" column="0" />
-        <mark key="." line="977" column="0" />
-        <mark key="^" line="973" column="33" />
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/BlogController.php" timestamp="1534928630657">
+        <mark key="[" line="973" column="38" />
+        <mark key="]" line="973" column="38" />
+        <mark key="." line="973" column="38" />
+        <mark key="^" line="973" column="38" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/helper/DiedNotification.kt" timestamp="1523594815784">
         <mark key="[" line="8" column="22" />
@@ -1783,37 +1783,37 @@
         <text>style.css</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y3JlYXRlZF9hdCAgICAgICAgICA=</text>
+        <text>isset($data['price'])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIFUuaWQgPSA1NTYwCg==</text>
+        <text encoding="base64">Y3Nz44Gu44Kv44Ko44Oq44O844OR44Op44Oh44O844K/5aSJ5pu0Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgIFUuaWQgPSA1NTYwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEIuaWQgPSAyMTk4Cm9yZGVyIGJ5IEIuaWQgZGVzYzsK</text>
+        <text encoding="base64">ICAgICAgIFUuaWQgPSA1NTYwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW4K</text>
+        <text encoding="base64">ICAgIEIuaWQgPSAyMTk4Cm9yZGVyIGJ5IEIuaWQgZGVzYzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">44Kz44Of44Gq44Gz44Gu44Oq44Oz44Kv5aSJ5pu0Cg==</text>
+        <text encoding="base64">aW4K</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQl2YXIgc2Vjb25kVXJsID0gIi8iOwo=</text>
+        <text encoding="base64">44Kz44Of44Gq44Gz44Gu44Oq44Oz44Kv5aSJ5pu0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlmb3IodmFyIGkgPSAwIDsgaSA8IHRtcC5sZW5ndGgtMTsgaSsrKXsKCQkJCQkJc2Vjb25kVXJsID0gc2Vjb25kVXJsICsKCQkJCQl9Cg==</text>
+        <text encoding="base64">CQkJCQl2YXIgc2Vjb25kVXJsID0gIi8iOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQl2YXIgc2Vjb25kVXJsID0gCg==</text>
+        <text encoding="base64">CQkJCQlmb3IodmFyIGkgPSAwIDsgaSA8IHRtcC5sZW5ndGgtMTsgaSsrKXsKCQkJCQkJc2Vjb25kVXJsID0gc2Vjb25kVXJsICsKCQkJCQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0IEkxLioKICAgIC0tIHAtdXRlbOOBruODgeOCseODg+ODiApmcm9tIGlzc3VlcyBJMQp3aGVyZSBJMS5wcm9qZWN0X2lkID0gMzIxCiAgICAtLSDmlrDopo/jga7jgb8KICBhbmQgSTEuc3RhdHVzX2lkID0gMQogIGFuZCBleGlzdHMoCiAgICAgICAgc2VsZWN0ICoKICAgICAgICBmcm9tIGlzc3VlX3JlbGF0aW9ucyBJUgogICAgICAgICAgICAgICBpbm5lciBqb2luIGlzc3VlcyBJMiBvbiBJMi5pZCA9IElSLmlzc3VlX3RvX2lkCiAgICAgICAgd2hlcmUgSTEuaWQgPSBJUi5pc3N1ZV9mcm9tX2lkCiAgICAgICAgICBhbmQgSTIucHJvamVjdF9pZCA9IDMxOQogICAgICAgICAgICAtLSDmi4XlvZPkuK3jga7jgb8KICAgICAgICAgIGFuZCAoSTIuc3RhdHVzX2lkID0gMikpCg==</text>
+        <text encoding="base64">CQkJCQl2YXIgc2Vjb25kVXJsID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
