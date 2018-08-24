@@ -1257,11 +1257,11 @@
         <mark key="." line="5" column="80" />
         <mark key="^" line="5" column="80" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitMexJSONRPC.kt" timestamp="1535152794785">
-        <mark key="[" line="47" column="40" />
-        <mark key="]" line="47" column="40" />
-        <mark key="." line="47" column="40" />
-        <mark key="^" line="46" column="48" />
+      <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitMexJSONRPC.kt" timestamp="1535154287403">
+        <mark key="[" line="45" column="31" />
+        <mark key="]" line="45" column="31" />
+        <mark key="." line="45" column="31" />
+        <mark key="^" line="49" column="43" />
       </file>
       <file name="/schema_version [ora@localhost]" timestamp="1533021856613">
         <mark key="[" line="0" column="0" />
@@ -1835,8 +1835,8 @@
       <register name="/" type="4">
         <text>,</text>
       </register>
-      <register name="0" type="4">
-        <text>bitMexBookData.asks.reverse()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZGVidWcoIlNFTEwgc2l6ZT0gJHtiaXRNZXhCb29rRGF0YS5hc2tzLnNpemV9IikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiaXRNZXhCb29rRGF0YS5iaWRzLmZvckVhY2ggewogICAgICAgICAgICAgICAgICAgICAgICBsb2cuZGVidWcoInNpemUgPSAke2l0LnNpemV9IDogJHtpdC5kZXZpYXRpb259IikKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
@@ -1869,7 +1869,7 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/,/\r,/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1923,8 +1923,8 @@
         <entry>529</entry>
         <entry>627</entry>
         <entry>1</entry>
-        <entry>w</entry>
         <entry>s/,/\r,/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
