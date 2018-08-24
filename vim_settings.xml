@@ -892,6 +892,13 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="11" column="15" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1534924214698">
+        <mark key="'" line="1977" column="13" />
+        <mark key="[" line="1978" column="19" />
+        <mark key="]" line="1980" column="55" />
+        <mark key="." line="1980" column="55" />
+        <mark key="^" line="1980" column="55" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitFlyerJSONRPC.kt" timestamp="1535114132030">
         <mark key="'" line="51" column="20" />
         <mark key="[" line="113" column="0" />
@@ -1043,12 +1050,12 @@
       <file name="/payments [ora@ora.seizen-seiri.net]" timestamp="1535090230470">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitMexBookData.kt" timestamp="1535116563424">
-        <mark key="'" line="2" column="25" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="41" column="62" />
+      <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitMexBookData.kt" timestamp="1535118133662">
+        <mark key="'" line="47" column="36" />
+        <mark key="[" line="49" column="13" />
+        <mark key="]" line="49" column="19" />
+        <mark key="." line="49" column="19" />
+        <mark key="^" line="49" column="19" />
       </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/slide.ctp" timestamp="1524647922565">
         <mark key="[" line="7" column="48" />
@@ -1214,7 +1221,7 @@
         <mark key="." line="5" column="80" />
         <mark key="^" line="5" column="80" />
       </file>
-      <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitMexJSONRPC.kt" timestamp="1535116647381">
+      <file name="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitMexJSONRPC.kt" timestamp="1535118247375">
         <mark key="[" line="37" column="32" />
         <mark key="]" line="37" column="37" />
         <mark key="." line="37" column="37" />
@@ -1481,6 +1488,13 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Template/Layout/default.ctp" timestamp="1534824023474">
+        <mark key="'" line="606" column="51" />
+        <mark key="[" line="101" column="39" />
+        <mark key="]" line="101" column="39" />
+        <mark key="^" line="101" column="52" />
+        <mark key="." line="101" column="39" />
+      </file>
       <file name="$USER_HOME$/git/utelAndroid/app/src/main/java/jp/spiring/elsa/ClientActivity.java" timestamp="1530597012062">
         <mark key="[" line="169" column="0" />
         <mark key="]" line="169" column="0" />
@@ -1539,6 +1553,13 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ora_android/app/src/main/java/jp/co/leadlife/oraandroid/MainActivity.kt" timestamp="1535070258913">
+        <mark key="'" line="113" column="16" />
+        <mark key="[" line="92" column="32" />
+        <mark key="]" line="93" column="29" />
+        <mark key="." line="93" column="29" />
+        <mark key="^" line="93" column="29" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/model/Coincheck1minute.kt" timestamp="1520515238098">
         <mark key="[" line="17" column="27" />
         <mark key="]" line="17" column="31" />
@@ -1596,6 +1617,13 @@
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" timestamp="1534832062093">
+        <mark key="'" line="162" column="20" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="159" column="28" />
+        <mark key="^" line="159" column="28" />
+      </file>
       <file name="$USER_HOME$/git/p1/core/src/main/kotlin/net/p1/core/dto/StatusDto.kt" timestamp="1533018240776">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="6" column="24" />
@@ -1622,7 +1650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="428" column="0" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="431" column="12" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="287" column="38" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="311" column="23" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
@@ -1722,6 +1749,7 @@
       <jump line="8" column="3" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitMexBookData.kt" />
       <jump line="9" column="21" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitMexBookData.kt" />
       <jump line="2" column="25" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitMexBookData.kt" />
+      <jump line="47" column="36" filename="$USER_HOME$/git/coinman_parent/pubnub/src/coinman/BitMexBookData.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1745,13 +1773,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>price: Double,</text>
+        <text encoding="base64">c29ydEJ5RGVzY2VuZGluZyA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwSW50ZW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzaXplOkRvdWJsZT8gPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBiaWRzLnNvcnRCeSB7IGl0LnByaWNlIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LnByaWNlID0gcHJpY2UK</text>
