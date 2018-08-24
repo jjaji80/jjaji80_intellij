@@ -21,6 +21,11 @@
       <file name="/properties [newspicks@localhost]" timestamp="1533800952430">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/ex2/app/views/layouts/application.html.erb" timestamp="1535094741459">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="51" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="/serials [coinman@red-mine.net]" timestamp="1533811160709">
         <mark key="[" line="0" column="0" />
       </file>
@@ -71,6 +76,12 @@
         <mark key="]" line="16" column="81" />
         <mark key="." line="16" column="81" />
         <mark key="^" line="16" column="81" />
+      </file>
+      <file name="$USER_HOME$/git/ex2/app/controllers/backup_controller.rb" timestamp="1535094692416">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+        <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/dao/UserRepository.kt" timestamp="1529479600740">
         <mark key="[" line="2" column="0" />
@@ -571,6 +582,11 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
+      <file name="$USER_HOME$/git/as/slack/src/main/kotlin/jp/co/ajio/slack/SlackProperties.kt" timestamp="1534560040206">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/helper/UploadedImage.kt" timestamp="1524037842560">
         <mark key="[" line="53" column="23" />
         <mark key="]" line="53" column="23" />
@@ -664,7 +680,7 @@
         <mark key="^" line="112" column="74" />
         <mark key="." line="112" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535090327898">
+      <file name="/Dummy.txt" timestamp="1535094840716">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
@@ -1057,6 +1073,12 @@
         <mark key="^" line="11" column="34" />
         <mark key="." line="11" column="34" />
       </file>
+      <file name="$USER_HOME$/git/ex2/app/views/backup/index.html.erb" timestamp="1535094710736">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/web/src/main/resources/application.yml" timestamp="1520748542457">
         <mark key="[" line="20" column="2" />
         <mark key="]" line="27" column="19" />
@@ -1140,6 +1162,11 @@
         <mark key="]" line="34" column="25" />
         <mark key="^" line="34" column="25" />
         <mark key="." line="34" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/ex2/app/controllers/orders_controller.rb" timestamp="1535094688609">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="/followers [newspicks@localhost]" timestamp="1533801164516">
         <mark key="[" line="0" column="0" />
@@ -1719,38 +1746,38 @@
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwSW50ZW50XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLlZJRVciLz4KICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkRFRkFVTFQiLz4KICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkJST1dTQUJMRSIvPgogICAgICAgICAgICAgICAgPGRhdGEgYW5kcm9pZDpzY2hlbWU9InNlaXplbnNlaXJpIi8+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBiZWZvcmVfZmlsdGVyICdjaGVja19sb2dpbicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVudC5yZW1vCg==</text>
+        <text encoding="base64">ICAgIDxsaT48YSBocmVmPSIvYmFja3VwL2luZGV4Ij7jg5Djg4Pjgq/jgqLjg4Pjg5c8L2E+PC9saT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVudC5kZQo=</text>
+        <text encoding="base64">PGgxPkJhY2t1cCNpbmRleDwvaDE+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS0+Cg==</text>
+        <text encoding="base64">ICAgIHAgUmFpbHMucm9vdC50b19zCiAgICBwIFJhaWxzLmVudgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkYXRhIGFuZHJvaWQ6c2NoZW1lPSJzZWl6ZW5zZWlyaSIvPgo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbQo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y3Nz44Gu44Kv44Ko44Oq44O844OR44Op44Oh44O844K/5aSJ5pu0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIFUuaWQgPSA1NTYwCg==</text>
+        <text encoding="base64">ICBkZWYgYmFja3VwCiAgICBwICJvayIKICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIFUuaWQgPSA1NTYwCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEIuaWQgPSAyMTk4Cm9yZGVyIGJ5IEIuaWQgZGVzYzsK</text>
+        <text encoding="base64">ICBkZWYgbWFrZV9iYWNrCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
