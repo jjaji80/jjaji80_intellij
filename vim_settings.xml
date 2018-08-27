@@ -398,8 +398,12 @@
         <mark key="^" line="12" column="43" />
         <mark key="." line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/git/ex2/app/controllers/pop.rb" timestamp="1535407867894">
-        <mark key="'" line="214" column="12" />
+      <file name="$USER_HOME$/git/ex2/app/controllers/pop.rb" timestamp="1535410203622">
+        <mark key="'" line="192" column="11" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="14" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/market_data/src/coinman/service/RsiService.kt" timestamp="1521934034133">
         <mark key="[" line="15" column="0" />
@@ -618,6 +622,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="134" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ex2/mail/hoge.txt" timestamp="1535409839819">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="^" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86f63129-4c41-4d5e-96d0-2df4a3fc496d/console.sql" timestamp="1534232051442">
         <mark key="[" line="7" column="103" />
@@ -1148,6 +1158,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/ex2/app/controllers/application_controller.rb" timestamp="1535409306241">
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="24" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/db/migration/V201803310709__add_cash.sql" timestamp="1522491159552">
         <mark key="[" line="13" column="32" />
@@ -1702,14 +1716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="455" column="57" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
-      <jump line="456" column="9" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
-      <jump line="32" column="11" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
-      <jump line="327" column="47" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
-      <jump line="383" column="16" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
-      <jump line="442" column="20" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
-      <jump line="445" column="0" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
-      <jump line="415" column="12" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="500" column="51" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="38" column="49" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="299" column="8" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
@@ -1799,9 +1805,17 @@
       <jump line="207" column="51" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
       <jump line="211" column="4" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
       <jump line="220" column="12" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
-      <jump line="237" column="12" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
-      <jump line="267" column="11" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
       <jump line="214" column="12" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
+      <jump line="231" column="14" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
+      <jump line="237" column="12" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
+      <jump line="267" column="28" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
+      <jump line="50" column="24" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
+      <jump line="213" column="11" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
+      <jump line="71" column="23" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
+      <jump line="268" column="4" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
+      <jump line="242" column="11" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
+      <jump line="225" column="11" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
+      <jump line="192" column="11" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1825,52 +1839,52 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>B.*, S.*,C.*</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfaXRlbXNfYnlfZ3JvdXBfY29kZVw+</text>
+        <text encoding="base64">XDxnZXRfbWFpbF90eXBlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>CbOR0fO/Xkv71i3SIjTfEfYFzUvz2/X7mxgQXAMR4PU=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiaW1wb3J0LW5hbWUgbWFpbF90eXBlID0gI3ttYWlsX3R5cGV9IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIHAgbWFpbF90eXBlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgYml0TWV4Qm9va0RhdGE9IEJpdE1leEJvb2tEYXRhKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmlkcyA9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXNrcyA9Cg==</text>
+        <text encoding="base64">ICAgIHAoImltcG9ydC1uYW1lIG1haWxfdHlwZSA9ICN7bWFpbF90eXBlfSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhbmQgVS5pZCA9IDU1NjAK</text>
+        <text encoding="base64">ICAgIHAgIk9LIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgIHAgIk9LMiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiB2ZXJzaW9ucyBhcyBWIG9uIEkyLmZpeGVkX3ZlcnNpb25faWQgPSBWLmlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBpbm5lciBqb2luIHZlcnNpb25zIGFzIFYgb24gSTIuZml4ZWRfdmVyc2lvbl9pZCA9IFYuaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgYml0TWV4Qm9va0RhdGE9IEJpdE1leEJvb2tEYXRhKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmlkcyA9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXNrcyA9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YW5kIEkuCg==</text>
+        <text encoding="base64">ICBhbmQgVS5pZCA9IDU1NjAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiaXRNZXhCb29rRGF0YS5iaWRzLmZvckVhY2ggewogICAgICAgICAgICAgICAgICAgICAgICBsb2cuZGVidWcoInNpemUgPSAke2l0LnNpemV9IDogJHtpdC5kZXZpYXRpb259IikKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiB2ZXJzaW9ucyBhcyBWIG9uIEkyLmZpeGVkX3ZlcnNpb25faWQgPSBWLmlkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfaXRlbXNfYnlfZ3JvdXBfY29kZVw+</last-search>
+      <last-search encoding="base64">XDxnZXRfbWFpbF90eXBlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfaXRlbXNfYnlfZ3JvdXBfY29kZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfbWFpbF90eXBlXD4=</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1878,14 +1892,9 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRQcm9qZWN0c1w+</entry>
-        <entry>console</entry>
-        <entry>img</entry>
-        <entry encoding="base64">XDx0YXJnZXRCb2FyZFNpemVcPg==</entry>
         <entry>line</entry>
         <entry encoding="base64">XDxlcnJvcnNcPg==</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
-        <entry encoding="base64">XDxyYWt1dGVuX2dldF9pdGVtc19udW1cPg==</entry>
         <entry>orders</entry>
         <entry>first</entry>
         <entry>seco</entry>
@@ -1898,6 +1907,11 @@
         <entry encoding="base64">XDxjb2xsYXRlcmFsSGlzdG9yeVw+</entry>
         <entry>商品番号</entry>
         <entry encoding="base64">XDxnZXRfaXRlbXNfYnlfZ3JvdXBfY29kZVw+</entry>
+        <entry encoding="base64">XDxyYWt1dGVuX2dldF9pdGVtc19udW1cPg==</entry>
+        <entry encoding="base64">XDxQcm9kdWN0R3JvdXBcPg==</entry>
+        <entry encoding="base64">XDxnZXRfaXRlbXNcPg==</entry>
+        <entry encoding="base64">XDxmdXR1cmVfZ2V0X2l0ZW1zX251bVw+</entry>
+        <entry encoding="base64">XDxnZXRfbWFpbF90eXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>256</entry>
@@ -1918,8 +1932,8 @@
         <entry>529</entry>
         <entry>627</entry>
         <entry>s/,/\r,/g</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
