@@ -398,12 +398,12 @@
         <mark key="^" line="12" column="43" />
         <mark key="." line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/git/ex2/app/controllers/pop.rb" timestamp="1535412057655">
+      <file name="$USER_HOME$/git/ex2/app/controllers/pop.rb" timestamp="1535414111484">
         <mark key="'" line="192" column="11" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="23" column="17" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="94" column="21" />
+        <mark key="]" line="94" column="23" />
+        <mark key="^" line="94" column="23" />
+        <mark key="." line="94" column="23" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/market_data/src/coinman/service/RsiService.kt" timestamp="1521934034133">
         <mark key="[" line="15" column="0" />
@@ -725,11 +725,11 @@
         <mark key="^" line="113" column="74" />
         <mark key="." line="113" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535113444286">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1535414481748">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/git/p1/core/src/test/kotlin/net/p1/core/CoreApplicationTests.kt" timestamp="1532936482866">
         <mark key="[" line="12" column="24" />
@@ -1407,6 +1407,9 @@
         <mark key="." line="13" column="7" />
         <mark key="^" line="25" column="26" />
       </file>
+      <file name="$USER_HOME$/git/ex2/log/development.log" timestamp="1535414143499">
+        <mark key="'" line="497" column="45" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/dao/SerialRepository.kt" timestamp="1529479781704">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="46" />
@@ -1713,7 +1716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="500" column="51" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="38" column="49" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="299" column="8" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
       <jump line="349" column="47" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
@@ -1813,6 +1815,7 @@
       <jump line="242" column="11" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
       <jump line="225" column="11" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
       <jump line="192" column="11" filename="$USER_HOME$/git/ex2/app/controllers/pop.rb" />
+      <jump line="497" column="45" filename="$USER_HOME$/git/ex2/log/development.log" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1836,43 +1839,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>items</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfbWFpbF90eXBlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlciA9IExvZ2dlci5uZXcoJ2xvZy9kZXZlbG9wbWVudC5sb2cnKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoaXRlbXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">5LiL6KiY5Y+X5rOo44Kz44O844OJ44Gu44GK5a6i5qeY44Gu5b2T6YG455Wq5Y+344GMMueCueWIhueZuuihjOOBleOCjOOBpuOBiuOCiuOBvuOBm+OCk+OBp+OBl+OBn+OAgjEwMDAxMTY0ODU2Mwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAjIGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAgbWFpbF90eXBlCg==</text>
+        <text encoding="base64">ICAgIGNvdW50ZXIgPSAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHAoImltcG9ydC1uYW1lIG1haWxfdHlwZSA9ICN7bWFpbF90eXBlfSIpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAgIk9LIgo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHAgIk9LMiIK</text>
+        <text encoding="base64">ICAgIHAgbWFpbF90eXBlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIHAoImltcG9ydC1uYW1lIG1haWxfdHlwZSA9ICN7bWFpbF90eXBlfSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgYml0TWV4Qm9va0RhdGE9IEJpdE1leEJvb2tEYXRhKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmlkcyA9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXNrcyA9Cg==</text>
+        <text encoding="base64">ICAgIHAgIk9LIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhbmQgVS5pZCA9IDU1NjAK</text>
+        <text encoding="base64">ICAgIHAgIk9LMiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
