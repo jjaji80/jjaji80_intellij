@@ -254,11 +254,20 @@
         <mark key="." line="56" column="11" />
         <mark key="^" line="56" column="11" />
       </file>
+      <file name="/custom_fields [redmine_default@red-mine.net]" timestamp="1535938516860">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/custom_values [redmine_default@red-mine.net]" timestamp="1535938568994">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/RankingService.java" timestamp="1519901498649">
         <mark key="[" line="82" column="41" />
         <mark key="]" line="82" column="46" />
         <mark key="." line="82" column="46" />
         <mark key="^" line="82" column="46" />
+      </file>
+      <file name="/custom_field_enumerations [redmine_default@red-mine.net]" timestamp="1535938532508">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/WebConfig.kt" timestamp="1524313200441">
         <mark key="[" line="57" column="3" />
@@ -740,7 +749,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1535935069835">
+      <file name="/dummy.sql" timestamp="1535938705326">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1766,13 +1775,13 @@
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" timestamp="1535933096573">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" timestamp="1535938759837">
         <mark key="'" line="286" column="38" />
         <mark key="j" line="287" column="0" />
-        <mark key="[" line="277" column="7" />
-        <mark key="]" line="277" column="11" />
-        <mark key="^" line="277" column="11" />
-        <mark key="." line="277" column="11" />
+        <mark key="[" line="286" column="63" />
+        <mark key="]" line="286" column="71" />
+        <mark key="." line="286" column="71" />
+        <mark key="^" line="286" column="71" />
       </file>
       <file name="$USER_HOME$/git/p1/core/src/main/kotlin/net/p1/core/dto/StatusDto.kt" timestamp="1533018240776">
         <mark key="[" line="5" column="39" />
@@ -1926,7 +1935,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5uZXIg</text>
+        <text>,CV.value</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -1935,19 +1944,19 @@
         <text>${shopForm.unpaid.planedAmount}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIHRoOmlmPSIke30iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIHRoOmlmPSIke3Nob3BGb3JtLnVucGFpZCAhPW51bGwgfSIK</text>
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuIHRoOmlmPSIke30iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwK</text>
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuIHRoOmlmPSIke3Nob3BGb3JtLnVucGFpZCAhPW51bGwgfSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZCB0aDp0ZXh0PSIke3Nob3BGb3JtLnVucGFpZD8ucGxhbmVkQW1vdW50fSIgY2xhc3M9InRleHQtcmlnaHQiPjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
@@ -1956,13 +1965,13 @@
         <text encoding="base64">ICAgICAgICAgIDx0ZCB0aDp0ZXh0PSIke3Nob3BGb3JtLnVucGFpZD8ucGxhbmVkQW1vdW50fSIgY2xhc3M9InRleHQtcmlnaHQiPjwvdGQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaG9wCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDx0ZCB0aDp0ZXh0PSIke3Nob3BGb3JtLnVucGFpZD8ucGxhbmVkQW1vdW50fSIgY2xhc3M9InRleHQtcmlnaHQiPjwvdGQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaG9wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
