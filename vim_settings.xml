@@ -989,12 +989,12 @@
         <mark key="." line="2065" column="11" />
         <mark key="^" line="2065" column="11" />
       </file>
-      <file name="$USER_HOME$/git/kia-doc/specs/tab.md" timestamp="1536063448990">
-        <mark key="'" line="105" column="3" />
-        <mark key="[" line="123" column="3" />
-        <mark key="]" line="123" column="14" />
-        <mark key="^" line="114" column="5" />
-        <mark key="." line="123" column="3" />
+      <file name="$USER_HOME$/git/kia-doc/specs/tab.md" timestamp="1536067531009">
+        <mark key="'" line="127" column="16" />
+        <mark key="[" line="117" column="6" />
+        <mark key="]" line="117" column="7" />
+        <mark key="^" line="117" column="7" />
+        <mark key="." line="117" column="7" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironDto.kt" timestamp="1520338682874">
         <mark key="[" line="33" column="28" />
@@ -1826,19 +1826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1992" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="1995" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="89" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="1072" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="115" column="11" filename="$USER_HOME$/git/utel/app/config/define.php" />
-      <jump line="200" column="40" filename="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" />
-      <jump line="205" column="37" filename="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" />
-      <jump line="75" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
-      <jump line="71" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Model/Blog.php" />
-      <jump line="73" column="14" filename="$USER_HOME$/git/manganews-web-master/app/Model/Blog.php" />
-      <jump line="74" column="14" filename="$USER_HOME$/git/manganews-web-master/app/Model/Blog.php" />
-      <jump line="76" column="69" filename="$USER_HOME$/git/manganews-web-master/app/Model/Blog.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" />
       <jump line="353" column="38" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="11" column="10" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="414" column="2" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
@@ -1926,6 +1913,19 @@
       <jump line="30" column="29" filename="$USER_HOME$/git/kia-doc/specs/tab.md" />
       <jump line="39" column="22" filename="$USER_HOME$/git/kia-doc/specs/tab.md" />
       <jump line="105" column="3" filename="$USER_HOME$/git/kia-doc/specs/tab.md" />
+      <jump line="43" column="44" filename="$USER_HOME$/git/kia-doc/specs/tab.md" />
+      <jump line="100" column="8" filename="$USER_HOME$/git/kia-doc/specs/tab.md" />
+      <jump line="112" column="19" filename="$USER_HOME$/git/kia-doc/specs/tab.md" />
+      <jump line="126" column="0" filename="$USER_HOME$/git/kia-doc/specs/tab.md" />
+      <jump line="28" column="0" filename="$USER_HOME$/git/kia-doc/specs/tab.md" />
+      <jump line="125" column="13" filename="$USER_HOME$/git/kia-doc/specs/tab.md" />
+      <jump line="107" column="16" filename="$USER_HOME$/git/kia-doc/specs/tab.md" />
+      <jump line="113" column="51" filename="$USER_HOME$/git/kia-doc/specs/tab.md" />
+      <jump line="4" column="1" filename="$USER_HOME$/git/kia-doc/specs/tab.md" />
+      <jump line="109" column="40" filename="$USER_HOME$/git/kia-doc/specs/tab.md" />
+      <jump line="114" column="16" filename="$USER_HOME$/git/kia-doc/specs/tab.md" />
+      <jump line="115" column="49" filename="$USER_HOME$/git/kia-doc/specs/tab.md" />
+      <jump line="127" column="16" filename="$USER_HOME$/git/kia-doc/specs/tab.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1949,52 +1949,52 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>2もしくは3</text>
+        <text>[2:2から2+x](#2:2から2+x)</text>
       </register>
       <register name="/" type="4">
-        <text>有効</text>
+        <text>[</text>
       </register>
       <register name="0" type="4">
-        <text>[②タブ〜②+x]()</text>
+        <text>[通常タブ](#通常タブ)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIyDikaLnlJ/nlKPnrqHnkIYKCjEuIOeUn+eUo+euoeeQhuOCt+OCueODhuODoOOBruODreOCsOOCpOODs+eUu+mdouOCkuWIneacn+ihqOekuuOBqOOBmeOCiwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">77yR77yQ77yOQWR2aXNlcuODouODvOODieWPr+iDveOBquWItumZkOaZgumWk+OBr0RC5YG044Gr5a6a576pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">77yR77yO44Ki44OX44Oq44Gv44GK5a6i5qeY44Oi44O844OJ44GoQWR2aXNlcuODouODvOODieOBp+WLleS9nOOBmeOCiwrvvJLvvI7jgYrlrqLmp5jjg6Ljg7zjg4njga/mjIflrprjgZfjgZ/jgr/jg5bjga7jgb/mk43kvZzlj6/og73jgIFBZHZpc2Vy44Oi44O844OJ44Gv5YWo44Gm44Gu44K/44OW44KS5Yi26ZmQ44Gq44GP5pON5L2c5Y+v6IO9Cu+8k++8juOBiuWuouanmOODouODvOODieOAgeOCouODl+ODquODouODvOODieOBr+imluimmueahOOBq+OCj+OBi+OCiuOChOOBmeOBj+OBmeOCiwrvvJTvvI7jgqLjg5fjg6rotbfli5XmmYLjga9EZWZhdWx044Gn44GK5a6i5qeY44Oi44O844OJ44Go44GZ44KLCu+8le+8juOBiuWuouanmOODouODvOODieaZguOBrkRlZmF1bHTjgr/jg5bjga9EQuWBtOOBq+Wumue+qQrvvJbvvI7jgYrlrqLmp5jjg6Ljg7zjg4npgbjmip7mmYLjgavmk43kvZzjgafjgY3jgovjgr/jg5bjga/lpInmm7Tlj6/og70K77yX77yOQWR2aXNlcuODouODvOODiemBuOaKnuaZguOBq+ODreOCsOOCpOODs+ODkeOCueODr+ODvOODieOBjOaxguOCgeOCieOCjOOCiwrvvJjvvI5BZHZpc2Vy44Oi44O844OJ44Gv44Oi44O844OJ5YiH5pu/5pmC44GL44KJ44Gu5Yi26ZmQ5pmC6ZaT5YaF44Gu44G/5pyJ5Yq5Cu+8me+8jkFkdmlzZXLjg6Ljg7zjg4njga/liLbpmZDmmYLplpPjgpLpgY7jgY7jgovjgajorablkYrjg6Hjg4Pjgrvjg7zjgrjooajnpLrlvozjgYrlrqLmp5jjg6Ljg7zjg4njgavoh6rli5XliIfmm78K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyMjIyA0OjIreCsxCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">NC4g5LiA5a6a5pmC6ZaTCg==</text>
+        <text encoding="base64">MS4g5Yid5pyf55S76Z2i44Gv5L2V44KC6ZaL44GL44Gq44GECjIuIFvpgJrluLjjgr/jg5ZdKCPpgJrluLjjgr/jg5Yp44Gu44K/44OW44Gu6Zmk5aSW5p2h5Lu25Y+K44Gz44CBW+mAmuW4uOOCv+ODll0oI+mAmuW4uOOCv+ODlinjga7kuIDoh7RVUkzjgavkuIDoh7TjgZfjgarjgYTloLTlkIjjgIHmnKzjgr/jg5bjgafoqbLlvZNVUkzjgpLplovjgY8K</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">My4g5ZCE44K/44OW44Gr44OH44OV44Kp44Or44OI44Gn44CB44GK5a6i5qeY44Oi44O844OJ44Gn6ZaL44GR44KL44GL44Gp44GG44GL44KS6Kit5a6a5Y+v6IO944Go44GZ44KLCiAgICAxLiDjgqLjg5fjg6rotbfli5XjgYzjgYrlrqLmp5jjg6Ljg7zjg4njga7ngroK</text>
+        <text encoding="base64">IyMjIyDikaLnlJ/nlKPnrqHnkIYKCjEuIOeUn+eUo+euoeeQhuOCt+OCueODhuODoOOBruODreOCsOOCpOODs+eUu+mdouOCkuWIneacn+ihqOekuuOBqOOBmeOCiwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">77yR77yQ77yOQWR2aXNlcuODouODvOODieWPr+iDveOBquWItumZkOaZgumWk+OBr0RC5YG044Gr5a6a576pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDQuICAK</text>
+        <text encoding="base64">77yR77yO44Ki44OX44Oq44Gv44GK5a6i5qeY44Oi44O844OJ44GoQWR2aXNlcuODouODvOODieOBp+WLleS9nOOBmeOCiwrvvJLvvI7jgYrlrqLmp5jjg6Ljg7zjg4njga/mjIflrprjgZfjgZ/jgr/jg5bjga7jgb/mk43kvZzlj6/og73jgIFBZHZpc2Vy44Oi44O844OJ44Gv5YWo44Gm44Gu44K/44OW44KS5Yi26ZmQ44Gq44GP5pON5L2c5Y+v6IO9Cu+8k++8juOBiuWuouanmOODouODvOODieOAgeOCouODl+ODquODouODvOODieOBr+imluimmueahOOBq+OCj+OBi+OCiuOChOOBmeOBj+OBmeOCiwrvvJTvvI7jgqLjg5fjg6rotbfli5XmmYLjga9EZWZhdWx044Gn44GK5a6i5qeY44Oi44O844OJ44Go44GZ44KLCu+8le+8juOBiuWuouanmOODouODvOODieaZguOBrkRlZmF1bHTjgr/jg5bjga9EQuWBtOOBq+Wumue+qQrvvJbvvI7jgYrlrqLmp5jjg6Ljg7zjg4npgbjmip7mmYLjgavmk43kvZzjgafjgY3jgovjgr/jg5bjga/lpInmm7Tlj6/og70K77yX77yOQWR2aXNlcuODouODvOODiemBuOaKnuaZguOBq+ODreOCsOOCpOODs+ODkeOCueODr+ODvOODieOBjOaxguOCgeOCieOCjOOCiwrvvJjvvI5BZHZpc2Vy44Oi44O844OJ44Gv44Oi44O844OJ5YiH5pu/5pmC44GL44KJ44Gu5Yi26ZmQ5pmC6ZaT5YaF44Gu44G/5pyJ5Yq5Cu+8me+8jkFkdmlzZXLjg6Ljg7zjg4njga/liLbpmZDmmYLplpPjgpLpgY7jgY7jgovjgajorablkYrjg6Hjg4Pjgrvjg7zjgrjooajnpLrlvozjgYrlrqLmp5jjg6Ljg7zjg4njgavoh6rli5XliIfmm78K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IVtdKGltZy90YWIucG5nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>有効</last-search>
+      <last-search>[</last-search>
       <last-offset />
-      <last-pattern>有効</last-pattern>
+      <last-pattern>[</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -2002,8 +2002,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BLog</entry>
-        <entry>Blog</entry>
         <entry>rssD</entry>
         <entry encoding="base64">QmxvZ3MtPg==</entry>
         <entry encoding="base64">QmxvZy0+</entry>
@@ -2022,6 +2020,8 @@
         <entry>not exi</entry>
         <entry encoding="base64">XDzmnInlirnmnJ/pmZBcPg==</entry>
         <entry>有効</entry>
+        <entry>]</entry>
+        <entry>[</entry>
       </history-search>
       <history-cmd>
         <entry>734</entry>
