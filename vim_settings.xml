@@ -993,12 +993,12 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1536205368419">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1536293266719">
         <mark key="'" line="2076" column="43" />
-        <mark key="[" line="2078" column="148" />
-        <mark key="]" line="2078" column="148" />
-        <mark key="." line="2078" column="148" />
-        <mark key="^" line="2078" column="148" />
+        <mark key="[" line="2076" column="0" />
+        <mark key="]" line="2076" column="116" />
+        <mark key="." line="2076" column="114" />
+        <mark key="^" line="2076" column="114" />
       </file>
       <file name="$USER_HOME$/git/kia-doc/specs/tab.md" timestamp="1536231245846">
         <mark key="'" line="172" column="9" />
@@ -1964,13 +1964,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>nceRoom</text>
+        <text>uf_id=1651;</text>
       </register>
       <register name="/" type="4">
         <text>MON</text>
       </register>
-      <register name="0" type="4">
-        <text>PAYMENT_INSERT_ANALYSIS</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBtb25leV9tYW5hZ2VtZW50cyB3aGVyZSB1c2VkX2Ftb3VudD0yMTAwIGFuZCBpbnNlcnRfdHlwZT0xIGFuZCB1c2VyX3R5cGU9J3VzZXInIGFuZCB0b3RhbF9hbW91bnQ9MjEwMDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
