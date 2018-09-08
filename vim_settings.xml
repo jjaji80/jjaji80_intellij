@@ -258,8 +258,12 @@
       <file name="/custom_values [redmine_default@red-mine.net]" timestamp="1535942994324">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/redsync/education/Mission.txt" timestamp="1536446406894">
-        <mark key="[" line="0" column="9" />
+      <file name="$USER_HOME$/redsync/education/Mission.txt" timestamp="1536448329901">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+        <mark key="^" line="29" column="17" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/RankingService.java" timestamp="1519901498649">
         <mark key="[" line="82" column="41" />
@@ -627,6 +631,10 @@
         <mark key="]" line="21" column="41" />
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="41" />
+      </file>
+      <file name="$USER_HOME$/redsync/education/Wiki.txt" timestamp="1536447181643">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="9" />
       </file>
       <file name="$USER_HOME$/git/utel/app/src/Controller/AppController.php" timestamp="1535419149277">
         <mark key="'" line="384" column="33" />
@@ -1825,8 +1833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="697" column="24" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
-      <jump line="12" column="33" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="417" column="0" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="422" column="20" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/BlogsComponent.php" />
       <jump line="176" column="16" filename="$USER_HOME$/git/manganews-web-master/app/Controller/NewsController.php" />
@@ -1925,6 +1931,8 @@
       <jump line="2075" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="2081" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="2083" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="4" column="0" filename="$USER_HOME$/redsync/education/Mission.txt" />
+      <jump line="29" column="0" filename="$USER_HOME$/redsync/education/Mission.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1948,46 +1956,46 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>06</text>
+        <text>か</text>
       </register>
       <register name="/" type="4">
         <text>MON</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBtb25leV9tYW5hZ2VtZW50cwp3aGVyZSB1Zl9pZCA9IDE2MDYKICBhbmQgdXNlcl90eXBlID0gJ3VzZXInOwo=</text>
+        <text encoding="base64">IHt7PnRvY319Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMjIOWIneacn+eUu+mdouOBq+mWouOBl+OBpgoKMS4gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMjIOWJjeaPkOadoeS7tgoKMS4gW+WQjOaZguODreOCsOOCpOODs10oI+WQjOaZguODreOCsOOCpOODsynjga7liY3mj5DmnaHku7bjgavlkIzjgZgK</text>
+        <text encoding="base64">MS4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Mi4gCg==</text>
+        <text encoding="base64">ICAgIDEuIAo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">44GX44GL44GX44CB44Gd44KM44GMCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMg5ZCM5LiA44Om44O844K244O85Yi25b6hCgoxLiBb6YCa5bi444K/44OWXSgj6YCa5bi444K/44OWKeOBruOCv+ODluOBq+ODreOCsOOCpOODs+WHpueQhuOCkuihjOOBo+OBn+WgtOWQiOOBr+OAgeS7luaWueOBruOCv+ODluOBjOWIpeOBruOCouOCq+OCpuODs+ODiOOBp+ODreOCsOOCpOODs+OBleOCjOOBpuOBhOOCi+WgtOWQiOOBr+OAgeODreOCsOOCouOCpuODiOWHpueQhuOCkuihjOOBhgo=</text>
+        <text encoding="base64">ICAgIDEuIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">44OH44O844K/6YCj5YuV5L6LCg==</text>
+        <text encoding="base64">IyMjIOWIneacn+eUu+mdouOBq+mWouOBl+OBpgoKMS4gCg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2041,8 +2049,8 @@
         <entry>667,720</entry>
         <entry>667,720d</entry>
         <entry>128</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
