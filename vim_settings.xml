@@ -1804,6 +1804,14 @@
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" timestamp="1536463046174">
+        <mark key="'" line="147" column="13" />
+        <mark key="j" line="287" column="0" />
+        <mark key="[" line="304" column="48" />
+        <mark key="]" line="304" column="49" />
+        <mark key="." line="304" column="49" />
+        <mark key="^" line="304" column="58" />
+      </file>
       <file name="$USER_HOME$/git/p1/core/src/main/kotlin/net/p1/core/dto/StatusDto.kt" timestamp="1533018240776">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="6" column="24" />
@@ -1956,7 +1964,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>かかる</text>
+        <text>now()</text>
       </register>
       <register name="/" type="4">
         <text>入力</text>
