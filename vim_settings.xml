@@ -109,6 +109,13 @@
       <file name="/shop_pay_history_payments [ora@ora.seizen-seiri.net]" timestamp="1535711631658">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" timestamp="1536574106433">
+        <mark key="'" line="298" column="41" />
+        <mark key="[" line="324" column="35" />
+        <mark key="]" line="324" column="35" />
+        <mark key="." line="324" column="35" />
+        <mark key="^" line="324" column="35" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/dao/src/main/java/coinman/dao/UserRepository.kt" timestamp="1529479600740">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="25" />
@@ -1856,7 +1863,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="51" filename="$USER_HOME$/git/manganews-web-master/app/View/Layouts/default.ctp" />
       <jump line="2003" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="2015" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="2019" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
@@ -1956,6 +1962,7 @@
       <jump line="38" column="0" filename="$USER_HOME$/redsync/education/Mission.txt" />
       <jump line="39" column="6" filename="$USER_HOME$/redsync/education/Mission.txt" />
       <jump line="108" column="0" filename="$USER_HOME$/redsync/education/Mission.txt" />
+      <jump line="298" column="41" filename="$USER_HOME$/git/redminebot2/scripts/redmine.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1969,8 +1976,8 @@
           <key char="65535" code="91" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="i" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
@@ -1979,34 +1986,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>入力</text>
+        <text>bug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">ICAgICAgcmVkbWluZS5Jc3N1ZShyb29tKS51cGRhdGUgYXR0cmlidXRlcywgKGVyciAsIGRhdGEgLCBzdGFydCkgLT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">5bqX6IiX566h55CGOjo66KGo56S66aCG5bqP44KS6L+95Yqg44GX44CB5bqX6IiX5pel6KiI44Gn5pel5LuY44CB44Gd44Gu6aCG5bqP44Gn44Oc44K/44Oz5LiA44Gk44Gn44K944O844OI44Gn44GN44KL44KI44GG44Gr44GZ44KLCg==</text>
+        <text encoding="base64">ICAgICAgICBtc2cucmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93LnNsaXBfY291bnRfcmFua19zYXZlZCwK</text>
+        <text encoding="base64">5bqX6IiX566h55CGOjo66KGo56S66aCG5bqP44KS6L+95Yqg44GX44CB5bqX6IiX5pel6KiI44Gn5pel5LuY44CB44Gd44Gu6aCG5bqP44Gn44Oc44K/44Oz5LiA44Gk44Gn44K944O844OI44Gn44GN44KL44KI44GG44Gr44GZ44KLCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">44K/44K544KvKOS7leS6i+ODu+WLieW8t+OBquOBqSnjgpLku4rml6XjgYvjgonlh7rmnaXjgarjgYTkurrjga/jgIHmmI7ml6XjgavjgarjgaPjgabjgoLlh7rmnaXjgb7jgZvjgpPjgIIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm93LnNsaXBfY291bnRfcmFua19zYXZlZCwK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">44K/44K544KvKOS7leS6i+ODu+WLieW8t+OBquOBqSnjgpLku4rml6XjgYvjgonlh7rmnaXjgarjgYTkurrjga/jgIHmmI7ml6XjgavjgarjgaPjgabjgoLlh7rmnaXjgb7jgZvjgpPjgIIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">44GX44GL44GX44CBCg==</text>
+        <text encoding="base64">44K/44K544KvKOS7leS6i+ODu+WLieW8t+OBquOBqSnjgpLku4rml6XjgYvjgonlh7rmnaXjgarjgYTkurrjga/jgIHmmI7ml6XjgavjgarjgaPjgabjgoLlh7rmnaXjgb7jgZvjgpPjgIIK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">44GX44GL44GX44CBCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -2015,16 +2022,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMjIOWJjeaPkAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>入力</last-search>
+      <last-search>bug</last-search>
       <last-offset />
-      <last-pattern>入力</last-pattern>
+      <last-pattern>bug</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -2032,7 +2039,6 @@
     </search>
     <history>
       <history-search>
-        <entry>News</entry>
         <entry encoding="base64">XDxCbG9nXD4=</entry>
         <entry>this</entry>
         <entry>style</entry>
@@ -2052,6 +2058,7 @@
         <entry>me</entry>
         <entry>方向</entry>
         <entry>入力</entry>
+        <entry>bug</entry>
       </history-search>
       <history-cmd>
         <entry>734</entry>
