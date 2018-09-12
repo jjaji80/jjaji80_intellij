@@ -801,10 +801,10 @@
         <mark key="^" line="30" column="27" />
         <mark key="." line="30" column="27" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1536629704459">
+      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1536728592858">
         <mark key="'" line="130" column="14" />
-        <mark key="[" line="41" column="14" />
-        <mark key="]" line="41" column="36" />
+        <mark key="[" line="148" column="14" />
+        <mark key="]" line="148" column="45" />
         <mark key="^" line="172" column="0" />
         <mark key="." line="172" column="0" />
       </file>
@@ -1992,7 +1992,7 @@
         <text>All co</text>
       </register>
       <register name="0" type="4">
-        <text>( *</text>
+        <text>BOOKING_STATUS_ANALYSIS_COMPLETE</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">KiAKKiAK</text>
