@@ -1979,7 +1979,7 @@
         <text>hogehoge'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kTWFpbFw+</text>
+        <text>12</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDx0aD7jg6bjg7zjgrbjg7wgLyDjgqLjgqvjgqbjg7Pjg4g8L3RoPgo=</text>
@@ -2019,17 +2019,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kTWFpbFw+</last-search>
+      <last-search>12</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kTWFpbFw+</last-pattern>
+      <last-pattern>12</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>[</entry>
         <entry>not ex</entry>
         <entry>tab.pn</entry>
         <entry>INSERT</entry>
@@ -2049,6 +2048,7 @@
         <entry>Contr</entry>
         <entry encoding="base64">XDxtYWtlTWFpbEJvZHlcPg==</entry>
         <entry encoding="base64">XDxzZW5kTWFpbFw+</entry>
+        <entry>12</entry>
       </history-search>
       <history-cmd>
         <entry>734</entry>
