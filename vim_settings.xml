@@ -809,7 +809,7 @@
         <mark key="^" line="30" column="27" />
         <mark key="." line="30" column="27" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1536815218304">
+      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1537170249761">
         <mark key="'" line="130" column="14" />
         <mark key="[" line="148" column="14" />
         <mark key="]" line="148" column="45" />
@@ -1884,7 +1884,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="22" filename="$USER_HOME$/git/utel/app/config/define.php" />
       <jump line="42" column="22" filename="$USER_HOME$/git/utel/app/config/define.php" />
       <jump line="43" column="22" filename="$USER_HOME$/git/utel/app/config/define.php" />
       <jump line="85" column="14" filename="$USER_HOME$/git/utel/app/config/define.php" />
@@ -1909,7 +1908,6 @@
       <jump line="104" column="51" filename="$USER_HOME$/git/utel/app/config/define.php" />
       <jump line="107" column="23" filename="$USER_HOME$/git/utel/app/config/define.php" />
       <jump line="120" column="21" filename="$USER_HOME$/git/utel/app/config/define.php" />
-      <jump line="130" column="14" filename="$USER_HOME$/git/utel/app/config/define.php" />
       <jump line="2046" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="2065" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="2093" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
@@ -1984,6 +1982,8 @@
       <jump line="268" column="6" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="303" column="18" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="3" column="0" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/BookingsController.php" />
+      <jump line="46" column="28" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="130" column="14" filename="$USER_HOME$/git/utel/app/config/define.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2010,7 +2010,7 @@
         <text>LeaveRunner</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGFzc1w+</text>
+        <text>BOOKIN</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhciBuYW1lID0gImNvbXBsZXRlZCI7Cg==</text>
@@ -2050,17 +2050,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGFzc1w+</last-search>
+      <last-search>BOOKIN</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGFzc1w+</last-pattern>
+      <last-pattern>BOOKIN</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>(*</entry>
         <entry>\(\*</entry>
         <entry>\( \*</entry>
         <entry>( *</entry>
@@ -2080,6 +2079,7 @@
         <entry encoding="base64">XDx0cnVlXD4=</entry>
         <entry>comple</entry>
         <entry encoding="base64">XDxjbGFzc1w+</entry>
+        <entry>BOOKIN</entry>
       </history-search>
       <history-cmd>
         <entry>440</entry>
