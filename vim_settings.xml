@@ -648,6 +648,12 @@
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="41" />
       </file>
+      <file name="$USER_HOME$/git/utel/app/src/Controller/AppController.php" timestamp="1537289538975">
+        <mark key="[" line="92" column="41" />
+        <mark key="]" line="92" column="40" />
+        <mark key="^" line="92" column="40" />
+        <mark key="." line="92" column="40" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Bereave.kt" timestamp="1520317119550">
         <mark key="[" line="32" column="58" />
         <mark key="]" line="37" column="25" />
@@ -2034,7 +2040,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpc0JsYWNrKCRpZCkK</text>
       </register>
       <register name=":" type="4">
-        <text>39</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -2044,7 +2050,7 @@
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -2088,8 +2094,8 @@
         <entry>w</entry>
         <entry>15</entry>
         <entry>40</entry>
-        <entry>1</entry>
         <entry>39</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
