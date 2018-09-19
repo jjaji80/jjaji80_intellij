@@ -1720,7 +1720,8 @@
       <file name="/PHP Console" timestamp="1536141228694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/DashboardController.php" timestamp="1537342319117">
+      <file name="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/DashboardController.php" timestamp="1537347398705">
+        <mark key="'" line="30" column="49" />
         <mark key="[" line="35" column="11" />
         <mark key="]" line="35" column="28" />
       </file>
@@ -1895,11 +1896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2102" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="0" column="5" filename="$USER_HOME$/redsync/education/Mission.txt" />
-      <jump line="68" column="34" filename="$USER_HOME$/redsync/education/Mission.txt" />
-      <jump line="69" column="27" filename="$USER_HOME$/redsync/education/Mission.txt" />
-      <jump line="70" column="17" filename="$USER_HOME$/redsync/education/Mission.txt" />
       <jump line="71" column="18" filename="$USER_HOME$/redsync/education/Mission.txt" />
       <jump line="72" column="14" filename="$USER_HOME$/redsync/education/Mission.txt" />
       <jump line="84" column="38" filename="$USER_HOME$/redsync/education/Mission.txt" />
@@ -1995,6 +1991,11 @@
       <jump line="316" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" />
       <jump line="39" column="22" filename="$USER_HOME$/git/utel/app/config/define.php" />
       <jump line="130" column="14" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="42" column="49" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/DashboardController.php" />
+      <jump line="33" column="39" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/DashboardController.php" />
+      <jump line="7" column="2" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/DashboardController.php" />
+      <jump line="22" column="7" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/DashboardController.php" />
+      <jump line="30" column="49" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/DashboardController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2021,7 +2022,7 @@
         <text>1,2,7</text>
       </register>
       <register name="/" type="4">
-        <text>BOOKI</text>
+        <text encoding="base64">XDxzdGFydERhdGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBpc3N1ZXMgUAp3aGVyZSBQLnByb2plY3RfaWQ9MzIxCmFuZCBQLnN0YXR1c19pZCBpbigxLDIsNykKYW5kIGV4aXN0cygKICAgIHNlbGVjdCAqIGZyb20gaXNzdWVzIFUKICAgIGlubmVyIGpvaW4gaXNzdWVfcmVsYXRpb25zIFVSIG9uIFUuaWQgPSBVUi5pc3N1ZV90b19pZAogICAgd2hlcmUgVS5wcm9qZWN0X2lkPTMxOQogICAgYW5kIFUuc3RhdHVzX2lkIGluKDMsNSkKICAgIGFuZCBVUi5pc3N1ZV9mcm9tX2lkPVAuaWQKICAgICAgICAgICk7Cg==</text>
@@ -2061,9 +2062,9 @@
       </register>
     </registers>
     <search>
-      <last-search>BOOKI</last-search>
+      <last-search encoding="base64">XDxzdGFydERhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern>BOOKI</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydERhdGVcPg==</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -2071,7 +2072,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcGVudF9kYXlzXD4=</entry>
         <entry encoding="base64">XDxDYWxsTG9nc1w+</entry>
         <entry encoding="base64">XDxkaWFsVG9Gb3J0dW5lVGVsbGVyXD4=</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZWRWYWx1ZVw+</entry>
@@ -2091,6 +2091,7 @@
         <entry encoding="base64">XDxmZXBwb3N0XD4=</entry>
         <entry>pagecon</entry>
         <entry>BOOKI</entry>
+        <entry encoding="base64">XDxzdGFydERhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>627</entry>
