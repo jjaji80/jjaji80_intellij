@@ -809,8 +809,8 @@
         <mark key="^" line="30" column="27" />
         <mark key="." line="30" column="27" />
       </file>
-      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1537320650147">
-        <mark key="'" line="80" column="14" />
+      <file name="$USER_HOME$/git/utel/app/config/define.php" timestamp="1537346405003">
+        <mark key="'" line="130" column="14" />
         <mark key="[" line="148" column="14" />
         <mark key="]" line="148" column="45" />
         <mark key="^" line="172" column="0" />
@@ -1895,7 +1895,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2093" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="2102" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="0" column="5" filename="$USER_HOME$/redsync/education/Mission.txt" />
       <jump line="68" column="34" filename="$USER_HOME$/redsync/education/Mission.txt" />
@@ -1968,7 +1967,6 @@
       <jump line="303" column="18" filename="$USER_HOME$/git/utel/app/src/Controller/TwilioController.php" />
       <jump line="3" column="0" filename="$USER_HOME$/git/utel/app/src/Controller/Fortuneteller/BookingsController.php" />
       <jump line="46" column="28" filename="$USER_HOME$/git/utel/app/config/define.php" />
-      <jump line="130" column="14" filename="$USER_HOME$/git/utel/app/config/define.php" />
       <jump line="1819" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="2166" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="2171" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
@@ -1995,6 +1993,8 @@
       <jump line="2178" column="33" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="315" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" />
       <jump line="316" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" />
+      <jump line="39" column="22" filename="$USER_HOME$/git/utel/app/config/define.php" />
+      <jump line="130" column="14" filename="$USER_HOME$/git/utel/app/config/define.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2021,7 +2021,7 @@
         <text>1,2,7</text>
       </register>
       <register name="/" type="4">
-        <text>pagecon</text>
+        <text>BOOKI</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBpc3N1ZXMgUAp3aGVyZSBQLnByb2plY3RfaWQ9MzIxCmFuZCBQLnN0YXR1c19pZCBpbigxLDIsNykKYW5kIGV4aXN0cygKICAgIHNlbGVjdCAqIGZyb20gaXNzdWVzIFUKICAgIGlubmVyIGpvaW4gaXNzdWVfcmVsYXRpb25zIFVSIG9uIFUuaWQgPSBVUi5pc3N1ZV90b19pZAogICAgd2hlcmUgVS5wcm9qZWN0X2lkPTMxOQogICAgYW5kIFUuc3RhdHVzX2lkIGluKDMsNSkKICAgIGFuZCBVUi5pc3N1ZV9mcm9tX2lkPVAuaWQKICAgICAgICAgICk7Cg==</text>
@@ -2061,9 +2061,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pagecon</last-search>
+      <last-search>BOOKI</last-search>
       <last-offset />
-      <last-pattern>pagecon</last-pattern>
+      <last-pattern>BOOKI</last-pattern>
       <last-replace>\r,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -2071,7 +2071,6 @@
     </search>
     <history>
       <history-search>
-        <entry>days_from_base</entry>
         <entry encoding="base64">XDxzcGVudF9kYXlzXD4=</entry>
         <entry encoding="base64">XDxDYWxsTG9nc1w+</entry>
         <entry encoding="base64">XDxkaWFsVG9Gb3J0dW5lVGVsbGVyXD4=</entry>
@@ -2091,6 +2090,7 @@
         <entry encoding="base64">XDxjcmVhdGVPcmRlclw+</entry>
         <entry encoding="base64">XDxmZXBwb3N0XD4=</entry>
         <entry>pagecon</entry>
+        <entry>BOOKI</entry>
       </history-search>
       <history-cmd>
         <entry>627</entry>
