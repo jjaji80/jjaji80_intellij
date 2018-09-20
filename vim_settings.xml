@@ -1022,9 +1022,9 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1537413806316">
-        <mark key="'" line="2222" column="7" />
-        <mark key="[" line="2243" column="19" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1537421701309">
+        <mark key="'" line="2243" column="19" />
+        <mark key="[" line="2254" column="19" />
         <mark key="]" line="2243" column="19" />
         <mark key="." line="2243" column="19" />
         <mark key="^" line="2253" column="13" />
@@ -1896,7 +1896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="23" filename="$USER_HOME$/redsync/education/Mission.txt" />
       <jump line="100" column="24" filename="$USER_HOME$/redsync/education/Mission.txt" />
       <jump line="102" column="38" filename="$USER_HOME$/redsync/education/Mission.txt" />
       <jump line="120" column="8" filename="$USER_HOME$/redsync/education/Mission.txt" />
@@ -1996,6 +1995,7 @@
       <jump line="307" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" />
       <jump line="2219" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="2222" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="2243" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
