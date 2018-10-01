@@ -852,12 +852,12 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1538364342690">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1538381644776">
         <mark key="'" line="2300" column="10" />
-        <mark key="[" line="2259" column="31" />
-        <mark key="]" line="2259" column="38" />
-        <mark key="." line="2266" column="19" />
-        <mark key="^" line="2266" column="19" />
+        <mark key="[" line="2329" column="0" />
+        <mark key="]" line="2340" column="11" />
+        <mark key="." line="2329" column="8" />
+        <mark key="^" line="2329" column="14" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironDto.kt" timestamp="1520338682874">
         <mark key="[" line="33" column="28" />
@@ -1781,43 +1781,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>10357232</text>
+        <text>count</text>
       </register>
       <register name="/" type="4">
         <text>size</text>
       </register>
-      <register name="0" type="4">
-        <text>10357232</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSB1c2VycyBVCndoZXJlIFUuY3JlYXRlZF9hdCA8ICcyMDE3LTEwLTAzJwogIGFuZCBleGlzdHMoc2VsZWN0ICoKICAgICAgICAgICAgIGZyb20gbW9uZXlfbWFuYWdlbWVudHMgTQogICAgICAgICAgICAgd2hlcmUgTS51Zl9pZCA9IFUuaWQKICAgICAgICAgICAgICAgYW5kIE0udXNlcl90eXBlID0gJ3VzZXInCiAgICAgICAgICAgICAgIGFuZCBNLnVzZWRfYW1vdW50ID0gMjEwMAogICAgICAgICAgICAgICBhbmQgTS5jcmVhdGVkX2F0ID49ICcyMDE3LTEwLTAzIDAwOjAwOjAwJwojICAgICAgICAgICAgICAgIGFuZCBNLmNyZWF0ZWRfYXQgPD0gJzIwMTctMTAtMDMgMjM6NTk6NTknCiAgICAgICAgICAgICAgIGFuZCBNLmluc2VydF90eXBlID0gMQogICAgICAgICAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">5rih6YKK5qeY44Gu5aSJ5pu05Y+N5pigCg==</text>
+        <text encoding="base64">YW5kIGlkPTQxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">5rih6YKK5qeY44Gu5aSJ5pu05Y+N5pigCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8P3BocCBlY2hvICRkYXRhWyJzaXplIl0/Pgo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZigkcG9zaXRpb249PSkK</text>
+        <text encoding="base64">CQk8P3BocCBlY2hvICRkYXRhWyJzaXplIl0/Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlhYWEK</text>
+        <text encoding="base64">CQlpZigkcG9zaXRpb249PSkK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWFiYwo=</text>
+        <text encoding="base64">CQlhYWEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWFiYwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBuZXdzU2l6ZSgpCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1830,7 +1830,7 @@
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
