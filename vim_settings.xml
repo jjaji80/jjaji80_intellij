@@ -677,8 +677,8 @@
         <mark key="." line="973" column="38" />
         <mark key="^" line="973" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538295135976">
-        <mark key="[" line="1" column="13" />
+      <file name="/Dummy.txt" timestamp="1538363958986">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
         <mark key="^" line="0" column="15" />
@@ -852,12 +852,12 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1537957263551">
-        <mark key="'" line="2380" column="0" />
-        <mark key="[" line="2324" column="0" />
-        <mark key="]" line="2346" column="1" />
-        <mark key="." line="2389" column="15" />
-        <mark key="^" line="2389" column="15" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1538364342690">
+        <mark key="'" line="2300" column="10" />
+        <mark key="[" line="2259" column="31" />
+        <mark key="]" line="2259" column="38" />
+        <mark key="." line="2266" column="19" />
+        <mark key="^" line="2266" column="19" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironDto.kt" timestamp="1520338682874">
         <mark key="[" line="33" column="28" />
@@ -1658,8 +1658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="16" filename="$USER_HOME$/git/utel/app/src/Controller/CartController.php" />
-      <jump line="138" column="15" filename="$USER_HOME$/git/utel/app/src/Controller/CartController.php" />
       <jump line="123" column="31" filename="$USER_HOME$/git/utel/app/src/Controller/CartController.php" />
       <jump line="113" column="19" filename="$USER_HOME$/git/utel/app/src/Controller/CartController.php" />
       <jump line="151" column="18" filename="$USER_HOME$/git/utel/app/src/Controller/CartController.php" />
@@ -1758,6 +1756,8 @@
       <jump line="21" column="56" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/left.ctp" />
       <jump line="9" column="35" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/left.ctp" />
       <jump line="20" column="39" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/left.ctp" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="2296" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1781,13 +1781,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
+        <text>10357232</text>
       </register>
       <register name="/" type="4">
         <text>size</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBSb3V0ZXI6OmNvbm5lY3QoJy9jYXRlZ29yeS86dGFnJywgYXJyYXkoJ2NvbnRyb2xsZXInID0+ICdUYWcnLCAnYWN0aW9uJyA9PiAnbGlzdE5ld3MnKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>10357232</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">5rih6YKK5qeY44Gu5aSJ5pu05Y+N5pigCg==</text>
