@@ -852,12 +852,12 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1538381644776">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1538382696701">
         <mark key="'" line="2300" column="10" />
-        <mark key="[" line="2329" column="0" />
-        <mark key="]" line="2340" column="11" />
-        <mark key="." line="2329" column="8" />
-        <mark key="^" line="2329" column="14" />
+        <mark key="[" line="2329" column="7" />
+        <mark key="]" line="2329" column="9" />
+        <mark key="." line="2329" column="9" />
+        <mark key="^" line="2329" column="9" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironDto.kt" timestamp="1520338682874">
         <mark key="[" line="33" column="28" />
@@ -1781,7 +1781,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>count</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>size</text>
