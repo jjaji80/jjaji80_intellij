@@ -860,12 +860,12 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1538545227791">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1538546846440">
         <mark key="'" line="2493" column="13" />
-        <mark key="[" line="2513" column="34" />
-        <mark key="]" line="2514" column="34" />
-        <mark key="." line="2514" column="34" />
-        <mark key="^" line="2514" column="34" />
+        <mark key="[" line="2506" column="8" />
+        <mark key="]" line="2506" column="12" />
+        <mark key="." line="2506" column="12" />
+        <mark key="^" line="2506" column="12" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironDto.kt" timestamp="1520338682874">
         <mark key="[" line="33" column="28" />
@@ -1806,207 +1806,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>id = 29</text>
+        <text>uid = '19128752'</text>
       </register>
       <register name="/" type="4">
         <text>#cate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IFUuaWQsIChzZWxlY3QgTS51c2VkX2Ftb3VudAogICAgICAgICAgICAgIGZyb20gbW9uZXlfbWFuYWdlbWVudHMgTQogICAgICAgICAgICAgIHdoZXJlIE0udWZfaWQgPSBVLmlkCiAgICAgICAgICAgICAgICBhbmQgTS51c2VyX3R5cGUgPSAndXNlcicKICAgICAgICAgICAgICBvcmRlciBieSBNLmlkCiAgICAgICAgICAgICAgbGltaXQgMSkgYXMgdWEKZnJvbSB1c2VycyBVCndoZXJlIFUuaWQgaW4gKAogICAgOCwKICAgIDExLAogICAgMTcsCiAgICAyNiwKICAgIDI5LAogICAgMzAsCiAgICAzOCwKICAgIDQ0LAogICAgNDksCiAgICA1MCwKICAgIDUxLAogICAgNTIsCiAgICA1NiwKICAgIDU3LAogICAgNjAsCiAgICA2MSwKICAgIDYyLAogICAgNjQsCiAgICA2OCwKICAgIDcxLAogICAgNzIsCiAgICA3MywKICAgIDc1LAogICAgODMsCiAgICA4NywKICAgIDg4LAogICAgODksCiAgICA5MCwKICAgIDk2LAogICAgMTEzLAogICAgMTE4LAogICAgMTI1LAogICAgMTI2LAogICAgMTI3LAogICAgMTMyLAogICAgMTM2LAogICAgMTM4LAogICAgMTQxLAogICAgMTQyLAogICAgMTQ0LAogICAgMTQ1LAogICAgMTQ2LAogICAgMTQ5LAogICAgMTUwLAogICAgMTU4LAogICAgMTYyLAogICAgMTY0LAogICAgMTY1LAogICAgMTY2LAogICAgMTY4LAogICAgMTY5LAogICAgMTc3LAogICAgMTc5LAogICAgMTgxLAogICAgMTg2LAogICAgMTg5LAogICAgMTkyLAogICAgMjAwLAogICAgMjAzLAogICAgMjA1LAogICAgMjA3LAogICAgMjA4LAogICAgMjE1LAogICAgMjIxLAogICAgMjI1LAogICAgMjI3LAogICAgMjMwLAogICAgMjM0LAogICAgMjM5LAogICAgMjQyLAogICAgMjQzLAogICAgMjQ0LAogICAgMjQ1LAogICAgMjQ3LAogICAgMjU1LAogICAgMjU4LAogICAgMjYxLAogICAgMjYyLAogICAgMjYzLAogICAgMjY3LAogICAgMjcwLAogICAgMjc1LAogICAgMjgyLAogICAgMjg3LAogICAgMjg5LAogICAgMjkwLAogICAgMjk5LAogICAgMzAyLAogICAgMzA1LAogICAgMzA2LAogICAgMzA5LAogICAgMzExLAogICAgMzEyLAogICAgMzE2LAogICAgMzE4LAogICAgMzIyLAogICAgMzMzLAogICAgMzM2LAogICAgMzM3LAogICAgMzM4LAogICAgMzQwLAogICAgMzQxLAogICAgMzQzLAogICAgMzQ1LAogICAgMzQ4LAogICAgMzU4LAogICAgMzgxLAogICAgNDIwLAogICAgNTQyLAogICAgODE0LAogICAgODIwLAogICAgODI0LAogICAgOTAwLAogICAgMTIwNSwKICAgIDEyNzYsCiAgICAxMjk5LAogICAgMTQwMiwKICAgIDE1NTEsCiAgICAyMTI3LAogICAgMjE5NywKICAgIDIyMTEsCiAgICAyMjIyLAogICAgMjIyMywKICAgIDIyMjksCiAgICAyMjkwLAogICAgMjM5MiwKICAgIDI1NjQsCiAgICAyOTAzLAogICAgMjk0MSwKICAgIDMyNDUsCiAgICAzMjg3LAogICAgMzUxMCwKICAgIDM1ODAsCiAgICAzNjIxLAogICAgMzYyNSwKICAgIDM3MTMsCiAgICAzNzI2LAogICAgMzkwMywKICAgIDM5MTgsCiAgICAzOTM0LAogICAgMzk0NiwKICAgIDM5NzMsCiAgICAzOTkzLAogICAgNDAzMCwKICAgIDQxNzMsCiAgICA0MjU3LAogICAgNDI1OSwKICAgIDQyNzUsCiAgICA0NDAwLAogICAgNDQyNSwKICAgIDQ0MzcsCiAgICA0NDk5LAogICAgNDUwNywKICAgIDQ1MDgsCiAgICA0NTIyLAogICAgNDY3MiwKICAgIDQ3NjAsCiAgICA0NzYxLAogICAgNDc2MywKICAgIDQ3ODUsCiAgICA0ODA5LAogICAgNDg1MywKICAgIDQ4OTIsCiAgICA1MDM1KQpoYXZpbmcgdWEgPSAyMTAwOwoK</text>
+        <text encoding="base64">ICAgICAgIGNvbmNhdCgnaHR0cHM6Ly93d3cuZWxzYS1vbmxpbmUubmV0L2FkbWluL3VzZXJzL3BheW1lbnQtbG9nLycsIGlkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YW5kCg==</text>
+        <text encoding="base64">IyAgICAgICAgICAgICAgICAgYW5kIE0uaW5zZXJ0X3R5cGU9MQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1aWQ9ICcxMjIyNzczMicK</text>
+        <text encoding="base64">YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">YW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YW5kIAo=</text>
+        <text encoding="base64">ICB1aWQ9ICcxMjIyNzczMicK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YW5kCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2hlcmUK</text>
+        <text encoding="base64">YW5kIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>(
-    8,
-    11,
-    17,
-    26,
-    29,
-    30,
-    38,
-    44,
-    49,
-    50,
-    51,
-    52,
-    56,
-    57,
-    60,
-    61,
-    62,
-    64,
-    68,
-    71,
-    72,
-    73,
-    75,
-    83,
-    87,
-    88,
-    89,
-    90,
-    96,
-    113,
-    118,
-    125,
-    126,
-    127,
-    132,
-    136,
-    138,
-    141,
-    142,
-    144,
-    145,
-    146,
-    149,
-    150,
-    158,
-    162,
-    164,
-    165,
-    166,
-    168,
-    169,
-    177,
-    179,
-    181,
-    186,
-    189,
-    192,
-    200,
-    203,
-    205,
-    207,
-    208,
-    215,
-    221,
-    225,
-    227,
-    230,
-    234,
-    239,
-    242,
-    243,
-    244,
-    245,
-    247,
-    255,
-    258,
-    261,
-    262,
-    263,
-    267,
-    270,
-    275,
-    282,
-    287,
-    289,
-    290,
-    299,
-    302,
-    305,
-    306,
-    309,
-    311,
-    312,
-    316,
-    318,
-    322,
-    333,
-    336,
-    337,
-    338,
-    340,
-    341,
-    343,
-    345,
-    348,
-    358,
-    381,
-    420,
-    542,
-    814,
-    820,
-    824,
-    900,
-    1205,
-    1276,
-    1299,
-    1402,
-    1551,
-    2127,
-    2197,
-    2211,
-    2222,
-    2223,
-    2229,
-    2290,
-    2392,
-    2564,
-    2903,
-    2941,
-    3245,
-    3287,
-    3510,
-    3580,
-    3621,
-    3625,
-    3713,
-    3726,
-    3903,
-    3918,
-    3934,
-    3946,
-    3973,
-    3993,
-    4030,
-    4173,
-    4257,
-    4259,
-    4275,
-    4400,
-    4425,
-    4437,
-    4499,
-    4507,
-    4508,
-    4522,
-    4672,
-    4760,
-    4761,
-    4763,
-    4785,
-    4809,
-    4853,
-    4892,
-    5035)</text>
+      <register name="8" type="2">
+        <text encoding="base64">YW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhhdgo=</text>
+        <text encoding="base64">d2hlcmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
