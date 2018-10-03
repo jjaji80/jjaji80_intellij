@@ -681,9 +681,11 @@
         <mark key="." line="973" column="38" />
         <mark key="^" line="973" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538563488692">
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="/Dummy.txt" timestamp="1538566901112">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+        <mark key="^" line="1" column="16" />
       </file>
       <file name="&lt;228da665-9498-4c6b-9894-7dc525c5de67&gt;/abcgolf.co.jp/public_html/cgi-bin/smart/admin.cgi" timestamp="1537864160643">
         <mark key="'" line="0" column="0" />
@@ -1422,6 +1424,12 @@
         <mark key="^" line="98" column="14" />
         <mark key="." line="98" column="14" />
       </file>
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1538566872267">
+        <mark key="[" line="167" column="12" />
+        <mark key="]" line="167" column="15" />
+        <mark key="^" line="167" column="15" />
+        <mark key="." line="167" column="15" />
+      </file>
       <file name="$USER_HOME$/git/orasp/lib/main.dart" timestamp="1521097556064">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="11" column="1" />
@@ -1805,7 +1813,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>DESC</text>
+        <text>1 == 1</text>
       </register>
       <register name="/" type="4">
         <text>#cate</text>
@@ -1814,37 +1822,37 @@
         <text encoding="base64">c2VsZWN0ICoKICAgICAgICBmcm9tIG1vbmV5X21hbmFnZW1lbnRzIE0KICAgICAgICB3aGVyZSBNLmluc2VydF90eXBlID0gJ3VzZXInCiAgICAgICAgICBhbmQgTS51Zl9pZCA9IFUuaWQKICAgICAgICAgIGFuZCBNLmluc2VydF90eXBlID0gMgogICAgICAgICAgYW5kIE0uY3JlYXRlZF9hdCA+ICcyMDE4LzA5LzE1IDAwOjAwOjAwJw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXBkYXRlU2VhcmNoSW5kZXjjgpLmraLjgoHjgosK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhbmQgTS51Zl9pZCA9IFUuaWQK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBhbmQgTS51Zl9pZCA9IFUuaWQK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbmQgTS5pbnNlcnRfdHlwZSAhPSAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YW5kIHVpZD0nbGlseScK</text>
+        <text encoding="base64">ICBhbmQgTS5pbnNlcnRfdHlwZSAhPSAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YW5kIHVpZD0nbGlseScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgICAgICAgYW5kIE0uaW5zZXJ0X3R5cGU9MQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YQo=</text>
+        <text encoding="base64">IyAgICAgICAgICAgICAgICAgYW5kIE0uaW5zZXJ0X3R5cGU9MQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>87</text>
       </register>
     </registers>
     <search>
@@ -1880,9 +1888,6 @@
         <entry>#cate</entry>
       </history-search>
       <history-cmd>
-        <entry>416</entry>
-        <entry>233</entry>
-        <entry>667,720</entry>
         <entry>667,720d</entry>
         <entry>128</entry>
         <entry>10</entry>
@@ -1899,7 +1904,10 @@
         <entry>1</entry>
         <entry>%d</entry>
         <entry>79</entry>
+        <entry>331</entry>
+        <entry>170</entry>
         <entry>w</entry>
+        <entry>87</entry>
       </history-cmd>
       <history-expr />
       <history-input />
