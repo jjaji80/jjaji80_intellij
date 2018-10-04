@@ -682,7 +682,7 @@
         <mark key="." line="973" column="38" />
         <mark key="^" line="973" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538625488390">
+      <file name="/Dummy.txt" timestamp="1538637861038">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
@@ -1426,7 +1426,7 @@
         <mark key="^" line="98" column="14" />
         <mark key="." line="98" column="14" />
       </file>
-      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1538566872267">
+      <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/service/NewsService.java" timestamp="1538638115245">
         <mark key="[" line="167" column="12" />
         <mark key="]" line="167" column="15" />
         <mark key="^" line="167" column="15" />
@@ -1811,7 +1811,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PiAnMjAxNy8wOC8wMScgYW5kIFUuY3JlYXRlZF9hdCA8ICcyMDE4LzA4LzE4Jw==</text>
+        <text>1.0</text>
       </register>
       <register name="/" type="4">
         <text>2300</text>
@@ -1820,37 +1820,37 @@
         <text encoding="base64">c2VsZWN0IFUuaWQsIChzZWxlY3QgdXNlZF9hbW91bnQKICAgICAgICAgICBmcm9tIG1vbmV5X21hbmFnZW1lbnRzIE0KICAgICAgICAgICB3aGVyZSBNLnVmX2lkID0gVS5pZAogICAgICAgICAgICAgYW5kIE0udXNlcl90eXBlPSd1c2VyJwogICAgICAgICAgICAgYW5kIGluc2VydF90eXBlICE9IDAKICAgICAgICAgICBvcmRlciBieSBpZCBkZXNjCiAgICAgICAgICAgbGltaXQgMSkgYXMgbGFzdApmcm9tIHVzZXJzIFUKd2hlcmUgZXhpc3RzKAogICAgICAgIHNlbGVjdCAqCiAgICAgICAgZnJvbSBtb25leV9tYW5hZ2VtZW50cyBNCiAgICAgICAgd2hlcmUgTS51c2VyX3R5cGUgPSAndXNlcicKICAgICAgICAgIGFuZCBNLnVmX2lkID0gVS5pZAogICAgICAgICAgYW5kIE0uaW5zZXJ0X3R5cGUgPSA1CiAgICAgICAgICBhbmQgTS51c2VkX2Ftb3VudCA9IDIzMDAKICAgICAgICAgICkKYW5kIFUuY3JlYXRlZF9hdCA8ICcyMDE3LzEwLzAxJwo7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aGF2aW5nIGxhc3QgIT0gMjMwMAo=</text>
+        <text encoding="base64">5qyh44Oa44O844K45qmf6IO944KS44Gk44GR44KLCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aGF2aW5nIGxhc3QgIT0gMjMwMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW5uZXIgam9pbiB1c2VycyBVIG9uIE0udWZfaWQ9VS5pZAo=</text>
+        <text encoding="base64">aGF2aW5nIGxhc3QgIT0gMjMwMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
+        <text encoding="base64">aW5uZXIgam9pbiB1c2VycyBVIG9uIE0udWZfaWQ9VS5pZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aGF2aW5nIGxhc3QgIT0gMjMwMAo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RHluYW1vREIg5o6l57aa6YOo5YiG44KS5Zue6YG/Cg==</text>
+        <text encoding="base64">aGF2aW5nIGxhc3QgIT0gMjMwMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDAK</text>
+        <text encoding="base64">RHluYW1vREIg5o6l57aa6YOo5YiG44KS5Zue6YG/Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aGF2aW5nIAo=</text>
+        <text encoding="base64">ICAgIDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGUK</text>
+        <text encoding="base64">aGF2aW5nIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>205</text>
       </register>
     </registers>
     <search>
@@ -1886,8 +1886,6 @@
         <entry>2300</entry>
       </history-search>
       <history-cmd>
-        <entry>15</entry>
-        <entry>40</entry>
         <entry>39</entry>
         <entry>151</entry>
         <entry>143</entry>
@@ -1906,6 +1904,8 @@
         <entry>34</entry>
         <entry>31</entry>
         <entry>w</entry>
+        <entry>37</entry>
+        <entry>205</entry>
       </history-cmd>
       <history-expr />
       <history-input />
