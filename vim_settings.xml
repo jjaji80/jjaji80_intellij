@@ -870,12 +870,12 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1538627455496">
-        <mark key="'" line="2786" column="11" />
-        <mark key="[" line="4152" column="0" />
-        <mark key="]" line="4152" column="0" />
-        <mark key="." line="4152" column="0" />
-        <mark key="^" line="4135" column="16" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1539051379443">
+        <mark key="'" line="4192" column="6" />
+        <mark key="[" line="4823" column="11" />
+        <mark key="]" line="4823" column="23" />
+        <mark key="." line="4823" column="23" />
+        <mark key="^" line="4823" column="23" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/config/VironDto.kt" timestamp="1520338682874">
         <mark key="[" line="33" column="28" />
@@ -1698,16 +1698,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2380" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="63" column="63" filename="$USER_HOME$/git/manganews-web-master/app/Config/routes.php" />
-      <jump line="41" column="7" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/SummaryController.java" />
-      <jump line="215" column="20" filename="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/repository/categorize/RankingRepository.java" />
-      <jump line="131" column="40" filename="$USER_HOME$/git/manganews-server/manganews-api/src/main/java/com/newspicks/api/controller/legacy/SummaryController.java" />
-      <jump line="87" column="22" filename="$USER_HOME$/git/manganews-web-master/app/Controller/Component/NewsComponent.php" />
-      <jump line="21" column="56" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/left.ctp" />
       <jump line="9" column="35" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/left.ctp" />
       <jump line="20" column="39" filename="$USER_HOME$/git/manganews-web-master/app/View/Elements/Topnews/left.ctp" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="2296" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="2346" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="2264" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
@@ -1798,6 +1790,14 @@
       <jump line="4068" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="4074" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="2786" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="4188" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="4194" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="2788" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="3440" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="4731" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="4183" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
+      <jump line="4192" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1821,28 +1821,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text encoding="base64">PCAwOw==</text>
       </register>
       <register name="/" type="4">
-        <text>2300</text>
+        <text encoding="base64">XDwxMjEwMTAzNlw+</text>
       </register>
       <register name="0" type="4">
-        <text>画像をタップすると削除できます。</text>
+        <text>not id in (18,28,33,39,1192)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">5qyh44Oa44O844K45qmf6IO944KS44Gk44GR44KLCg==</text>
+        <text encoding="base64">dXBkYXRlIHVzZXJzIHNldCByZW1pbmRlcl9iYXNlX2RhdGUgPSBudWxsCndoZXJlIHVzZXJzLmlkIGluICgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aGF2aW5nIGxhc3QgIT0gMjMwMAo=</text>
+        <text encoding="base64">dXBkYXRlIHVzZXJzIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aGF2aW5nIGxhc3QgIT0gMjMwMAo=</text>
+        <text encoding="base64">d2hlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5uZXIgam9pbiB1c2VycyBVIG9uIE0udWZfaWQ9VS5pZAo=</text>
+        <text encoding="base64">5qyh44Oa44O844K45qmf6IO944KS44Gk44GR44KLCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
+        <text encoding="base64">aGF2aW5nIGxhc3QgIT0gMjMwMAo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
@@ -1851,30 +1851,29 @@
         <text encoding="base64">aGF2aW5nIGxhc3QgIT0gMjMwMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RHluYW1vREIg5o6l57aa6YOo5YiG44KS5Zue6YG/Cg==</text>
+        <text encoding="base64">aW5uZXIgam9pbiB1c2VycyBVIG9uIE0udWZfaWQ9VS5pZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDAK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aGF2aW5nIAo=</text>
+        <text encoding="base64">aGF2aW5nIGxhc3QgIT0gMjMwMAo=</text>
       </register>
       <register name=":" type="4">
-        <text>37</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>2300</last-search>
+      <last-search encoding="base64">XDwxMjEwMTAzNlw+</last-search>
       <last-offset />
-      <last-pattern>2300</last-pattern>
+      <last-pattern encoding="base64">XDwxMjEwMTAzNlw+</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>BASE</entry>
         <entry>catego</entry>
         <entry>\/news</entry>
         <entry encoding="base64">XDxmaW5kTmV3c1JhbmtpbmdCeVRhZ1w+</entry>
@@ -1894,6 +1893,7 @@
         <entry>update</entry>
         <entry>case</entry>
         <entry>2300</entry>
+        <entry encoding="base64">XDwxMjEwMTAzNlw+</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
@@ -1903,7 +1903,6 @@
         <entry>183</entry>
         <entry>29</entry>
         <entry encoding="base64">JzwsJz5zL14vIw==</entry>
-        <entry>1</entry>
         <entry>%d</entry>
         <entry>79</entry>
         <entry>331</entry>
@@ -1916,6 +1915,7 @@
         <entry>205</entry>
         <entry>w</entry>
         <entry>37</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
