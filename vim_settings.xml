@@ -922,8 +922,8 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1540155249260">
-        <mark key="'" line="5596" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" timestamp="1540194481450">
+        <mark key="'" line="5596" column="20" />
         <mark key="[" line="5606" column="16" />
         <mark key="]" line="5606" column="19" />
         <mark key="." line="5606" column="19" />
@@ -1852,8 +1852,8 @@
       <jump line="5578" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="5591" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="5598" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="5596" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="13" column="17" filename="$USER_HOME$/git/ex2/app/models/order.rb" />
+      <jump line="5596" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1877,7 +1877,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>1.0</text>
+        <text>6648</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWtlX3JhbmRvbV9pZFw+</text>
