@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/utel/Dockerfile" timestamp="1541765277966">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="26" />
+      </file>
       <file name="$USER_HOME$/git/coinman_parent/market_data/src/coinman/interceptor/BigOrderInterceptor.kt" timestamp="1524034020506">
         <mark key="[" line="4" column="44" />
         <mark key="]" line="4" column="55" />
@@ -1970,8 +1974,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxvbkluamVjdENvdW50XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>($args['_p'] || 1)  *</text>
+      <register name="0" type="2">
+        <text encoding="base64">RlJPTSB1YnVudHU6MTYuMDQKUlVOIGFwdC1nZXQgdXBkYXRlIFwKJiYgIGFwdC1nZXQgaW5zdGFsbCAteSBcCiAgICAgICAgY29tcG9zZXIgXAogICAgICAgIGN1cmwgXAogICAgICAgIHBocCBcCiAgICAgICAgcGhwLXhtbCBcCiAgICAgICAgcGhwLWludGwgXAogICAgICAgIHBocC1tYnN0cmluZyBcCiAgICAgICAgcGhwLW15c3FsIFwKICAgICAgICB1bnppcCBcCiAgICAgICAgcGhwLWN1cmwgXAogICAgICAgIHBocC1zcWxpdGUzIFwKICAgICAgICBwaHA3LjAtemlwIFwKICAgICAgICB6aXAKUlVOIG1rZGlyIC9jb2RlCldPUktESVIgL2NvZGUKQUREIC4gL2NvZGUvCiNSVU4gL2NvZGUvcmVzZXRMaWJyYXJ5LnNoCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgICRyZXN1bHRzWyd0b3RhbEl0ZW1zJ10gPSAkc2l6ZSArIDE7Cg==</text>
@@ -2004,7 +2008,7 @@
         <text encoding="base64">ICAgICAgdmFyX2R1bXAoJHBhZ2VyT3B0aW9ucyk7ZGllKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%y</text>
       </register>
     </registers>
     <search>
@@ -2040,7 +2044,6 @@
         <entry encoding="base64">XDxvbkluamVjdENvdW50XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>39</entry>
         <entry>151</entry>
         <entry>143</entry>
         <entry>114</entry>
@@ -2060,6 +2063,7 @@
         <entry>%d</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>%y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
