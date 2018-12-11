@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/Account.kt" timestamp="1544504127632" />
       <file name="$USER_HOME$/git/coinman_parent/market_data/src/coinman/interceptor/BigOrderInterceptor.kt" timestamp="1524034020506">
         <mark key="[" line="4" column="44" />
         <mark key="]" line="4" column="55" />
@@ -627,11 +628,11 @@
         <mark key="^" line="19" column="103" />
         <mark key="." line="19" column="86" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/form/SensorStatusForm.kt" timestamp="1544501219560">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="21" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="13" column="21" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/form/SensorStatusForm.kt" timestamp="1544504490027">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="21" />
+        <mark key="^" line="17" column="21" />
+        <mark key="." line="17" column="21" />
       </file>
       <file name="$USER_HOME$/git/coinman_parent/.gitignore" timestamp="1524955345116">
         <mark key="[" line="5" column="15" />
@@ -754,11 +755,11 @@
         <mark key="." line="973" column="38" />
         <mark key="^" line="973" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544500711232">
+      <file name="/Dummy.txt" timestamp="1544504771028">
         <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="15" />
+        <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="15" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="&lt;228da665-9498-4c6b-9894-7dc525c5de67&gt;/abcgolf.co.jp/public_html/cgi-bin/smart/admin.cgi" timestamp="1537864160643">
         <mark key="'" line="0" column="0" />
@@ -1937,7 +1938,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>sensitivity</text>
+        <text>1.0</text>
       </register>
       <register name="/" type="4">
         <text>sensivity</text>
@@ -1946,34 +1947,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIi9qcy8qKiIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">44K744Oz44K144O86YCj5YuV44Gu5Z+65pys5qmf6IO96ZaL55m6Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">44K/44Kk44OI44Or44GrI+OBjOOBguOCi+WgtOWQiOOAgVR3aXR0ZXLjg5zjgr/jg7PjgpLmirzjgZnjgajjgY1VUkzjgqjjg7PjgrPjg7zjg4njgYzjgarjgZXjgozjgZrjgIEj5Lul6ZmN44GM5raI44GI44KL5LiN5YW35ZCI44GM5Ye644Gm44GE44KL44Gu44Gn44CMJTIz44CN44GM5Ye644KL44KI44GG44Gr6Kit5a6aCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">44K/44Kk44OI44Or44GrI+OBjOOBguOCi+WgtOWQiOOAgVR3aXR0ZXLjg5zjgr/jg7PjgpLmirzjgZnjgajjgY1VUkzjgqjjg7PjgrPjg7zjg4njgYzjgarjgZXjgozjgZrjgIEj5Lul6ZmN44GM5raI44GI44KL5LiN5YW35ZCI44GM5Ye644Gm44GE44KL44Gu44Gn44CMJTIz44CN44GM5Ye644KL44KI44GG44Gr6Kit5a6aCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWRpc3BsYXk6IGlubGluZTsK</text>
+        <text encoding="base64">44K/44Kk44OI44Or44GrI+OBjOOBguOCi+WgtOWQiOOAgVR3aXR0ZXLjg5zjgr/jg7PjgpLmirzjgZnjgajjgY1VUkzjgqjjg7PjgrPjg7zjg4njgYzjgarjgZXjgozjgZrjgIEj5Lul6ZmN44GM5raI44GI44KL5LiN5YW35ZCI44GM5Ye644Gm44GE44KL44Gu44Gn44CMJTIz44CN44GM5Ye644KL44KI44GG44Gr6Kit5a6aCg==</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">5bem44Oh44OL44Ol44O844Gu44K/44Kw44KS5YWo44Gm6KGo56S644CC44K544Kv44Ot44O844Or44OQ44O844KS6L+95Yqg44CCCg==</text>
+        <text encoding="base64">CWRpc3BsYXk6IGlubGluZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJPD9waHAgdmFyX2R1bXAoJHRoaXMtPm5hbWUpOz8+CgkJCTw/cGhwIHZhcl9kdW1wKCR0aGlzLT5hY3Rpb24pOz8+CgkJCTw/cGhwIGRpZSgpOz8+Cg==</text>
+        <text encoding="base64">5bem44Oh44OL44Ol44O844Gu44K/44Kw44KS5YWo44Gm6KGo56S644CC44K544Kv44Ot44O844Or44OQ44O844KS6L+95Yqg44CCCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CTw/cGhwIHZhcl9kdW1wKCR0aGlzLT5uYW1lKTs/PgoJCTw/cGhwIHZhcl9kdW1wKCR0aGlzLT5hY3Rpb24pOz8+Cgk8P3BocCBkaWUoKTs/Pgo=</text>
+        <text encoding="base64">CQkJPD9waHAgdmFyX2R1bXAoJHRoaXMtPm5hbWUpOz8+CgkJCTw/cGhwIHZhcl9kdW1wKCR0aGlzLT5hY3Rpb24pOz8+CgkJCTw/cGhwIGRpZSgpOz8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8P3BocCBlY2hvICR0aGlzLT5lbGVtZW50KCdfcmlnaHQnKTsgPz4K</text>
+        <text encoding="base64">CTw/cGhwIHZhcl9kdW1wKCR0aGlzLT5uYW1lKTs/PgoJCTw/cGhwIHZhcl9kdW1wKCR0aGlzLT5hY3Rpb24pOz8+Cgk8P3BocCBkaWUoKTs/Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
