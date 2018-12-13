@@ -405,6 +405,7 @@
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/layout.html" timestamp="1544675730460" />
       <file name="$USER_HOME$/git/manganews-server/manganews-core/src/main/java/com/newspicks/news/ranking/SimpleRankings.java" timestamp="1538287407304">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="14" column="10" />
@@ -423,6 +424,10 @@
         <mark key="]" line="0" column="35" />
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/login/input.html" timestamp="1544675727990">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="37" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/resources/templates/diedConfirmation/list.html" timestamp="1522655938410">
         <mark key="[" line="25" column="112" />
@@ -460,11 +465,11 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="47" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/api/SensorController.kt" timestamp="1544598683254">
-        <mark key="[" line="36" column="25" />
-        <mark key="]" line="36" column="29" />
-        <mark key="." line="36" column="29" />
-        <mark key="^" line="36" column="29" />
+      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/api/SensorController.kt" timestamp="1544676914304">
+        <mark key="[" line="31" column="68" />
+        <mark key="]" line="31" column="68" />
+        <mark key="." line="31" column="68" />
+        <mark key="^" line="38" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0b9d9b49-6fbd-4654-81a0-83552d779e55/console.sql" timestamp="1535406744685">
         <mark key="[" line="0" column="27" />
@@ -514,12 +519,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" timestamp="1544606420731">
-        <mark key="'" line="28" column="13" />
-        <mark key="[" line="32" column="37" />
-        <mark key="]" line="32" column="63" />
-        <mark key="^" line="27" column="167" />
-        <mark key="." line="27" column="167" />
+      <file name="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" timestamp="1544678476103">
+        <mark key="'" line="59" column="24" />
+        <mark key="[" line="59" column="42" />
+        <mark key="]" line="59" column="42" />
+        <mark key="." line="59" column="42" />
+        <mark key="^" line="59" column="55" />
       </file>
       <file name="$USER_HOME$/git/manganews-server/manganews-service/src/main/java/com/newspicks/service/news/PickService.java" timestamp="1520256925069">
         <mark key="[" line="19" column="13" />
@@ -789,8 +794,8 @@
         <mark key="." line="973" column="38" />
         <mark key="^" line="973" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544598655479">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1544678545457">
+        <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="15" />
@@ -907,6 +912,10 @@
         <mark key="]" line="3" column="26" />
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/manganews-web-master/app/Controller/FeedController.php" timestamp="1544093123502">
+        <mark key="[" line="521" column="0" />
+        <mark key="]" line="523" column="5" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/admin/AdminSettingController.kt" timestamp="1521471930298">
         <mark key="[" line="8" column="30" />
@@ -1880,16 +1889,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5557" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="59" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" />
-      <jump line="5558" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="245" column="27" filename="$USER_HOME$/git/utel/app/config/app.php" />
-      <jump line="328" column="10" filename="$USER_HOME$/git/utel/app/config/app.php" />
-      <jump line="329" column="37" filename="$USER_HOME$/git/utel/app/config/app.php" />
-      <jump line="331" column="36" filename="$USER_HOME$/git/utel/app/config/app.php" />
-      <jump line="357" column="9" filename="$USER_HOME$/git/utel/app/config/app.php" />
-      <jump line="5559" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="5561" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="5572" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="5578" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="13" column="17" filename="$USER_HOME$/git/ex2/app/models/order.rb" />
@@ -1980,6 +1979,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" />
       <jump line="13" column="3" filename="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" />
       <jump line="28" column="13" filename="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" />
+      <jump line="64" column="18" filename="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" />
+      <jump line="55" column="26" filename="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" />
+      <jump line="65" column="4" filename="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" />
+      <jump line="63" column="2" filename="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" />
+      <jump line="60" column="9" filename="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" />
+      <jump line="76" column="30" filename="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" />
+      <jump line="81" column="24" filename="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" />
+      <jump line="89" column="12" filename="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" />
+      <jump line="79" column="83" filename="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" />
+      <jump line="59" column="24" filename="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2003,52 +2012,52 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>account_input.png</text>
+        <text>th</text>
       </register>
       <register name="/" type="4">
-        <text>img</text>
+        <text>cht</text>
       </register>
-      <register name="0" type="4">
-        <text>/images/sensor/sensor02.png</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxpbWcgYWx0PSLjgrDjg6njg5UiIHNyYz0iLi9hc3NldHMvaW1hZ2VzL3NlbnNvci9ncmFwaC5wbmciIHdpZHRoPSIxMDAlIiB0aDpzcmM9IkB7L2ltYWdlcy9zZW5zb3IvZ3JhcGgucG5nfSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">ICAgICAgbG9hZF9kYXRhKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coY2hhcnRfdXJsKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBASnNvbkZvcm1hdChwYXR0ZXJuID0gInl5eXkvTU0vZGQgSEg6bW06c3MiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coY2hhcnRfdXJsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8obm93LnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coY2hhcnRfdXJsKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coY2hhcnRfdXJsKQo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZ3NvbiA9IEdzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coIj09PT09PT09PSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCI9PT09PT09PT0iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2hhcnRfdXJsICs9ICJ8IjsK</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>img</last-search>
+      <last-search>cht</last-search>
       <last-offset />
-      <last-pattern>img</last-pattern>
+      <last-pattern>cht</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -2056,7 +2065,6 @@
     </search>
     <history>
       <history-search>
-        <entry>users</entry>
         <entry>limit</entry>
         <entry encoding="base64">XDxfcXVlcnlcPg==</entry>
         <entry encoding="base64">XDxvbkluamVjdENvdW50XD4=</entry>
@@ -2076,9 +2084,9 @@
         <entry>code</entry>
         <entry>,</entry>
         <entry>img</entry>
+        <entry>cht</entry>
       </history-search>
       <history-cmd>
-        <entry>79</entry>
         <entry>331</entry>
         <entry>170</entry>
         <entry>87</entry>
@@ -2096,8 +2104,9 @@
         <entry encoding="base64">JzwsJz41MjI=</entry>
         <entry>11</entry>
         <entry>18</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>64,80d</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
