@@ -172,6 +172,9 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="/ora.sensors [ora@ora.seizen-seiri.net]" timestamp="1544679180723">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/manganews-web-master/app/webroot/css/style.css" timestamp="1544082848700">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="834" column="16" />
@@ -412,9 +415,9 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1544522374636">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1544679236984">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="2" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -757,7 +760,7 @@
         <mark key="^" line="16" column="68" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1544523221649">
+      <file name="/dummy.sql" timestamp="1544679221543">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1330,6 +1333,9 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="35" />
       </file>
+      <file name="/ora.sensor_logs [ora@ora.seizen-seiri.net]" timestamp="1544679220994">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/p1/npc/src/test/kotlin/net/p1/npc/judge/JudgeServiceTest.kt" timestamp="1532938185407">
         <mark key="[" line="31" column="63" />
         <mark key="]" line="31" column="7" />
@@ -1820,11 +1826,6 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/repository/SensorRepository.kt" timestamp="1544516988768">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/git/utel/doc/refound.puml" timestamp="1540280862041">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="13" column="21" />
@@ -2051,7 +2052,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2hhcnRfdXJsICs9ICJ8IjsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>54</text>
       </register>
     </registers>
     <search>
@@ -2087,7 +2088,6 @@
         <entry>cht</entry>
       </history-search>
       <history-cmd>
-        <entry>331</entry>
         <entry>170</entry>
         <entry>87</entry>
         <entry>255</entry>
@@ -2107,6 +2107,7 @@
         <entry>1</entry>
         <entry>64,80d</entry>
         <entry>w</entry>
+        <entry>54</entry>
       </history-cmd>
       <history-expr />
       <history-input />
