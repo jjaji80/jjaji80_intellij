@@ -1352,12 +1352,12 @@
         <mark key="^" line="36" column="39" />
         <mark key="." line="36" column="39" />
       </file>
-      <file name="$USER_HOME$/git/ranking/pom.xml" timestamp="1546753199311">
+      <file name="$USER_HOME$/git/ranking/pom.xml" timestamp="1546757325787">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="29" />
-        <mark key="^" line="18" column="29" />
-        <mark key="." line="18" column="29" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="80" column="20" />
+        <mark key="^" line="80" column="20" />
+        <mark key="." line="80" column="20" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/NoteAttachment.kt" timestamp="1520317249746">
         <mark key="[" line="33" column="94" />
@@ -1749,7 +1749,7 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/git/ranking/src/main/kotlin/net/ajio/ranking/servise/TwitterService.kt" timestamp="1546753137774">
+      <file name="$USER_HOME$/git/ranking/src/main/kotlin/net/ajio/ranking/servise/TwitterService.kt" timestamp="1546757200687">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -2047,7 +2047,7 @@
         <text>emu</text>
       </register>
       <register name="/" type="4">
-        <text>kot</text>
+        <text>serialization</text>
       </register>
       <register name="0" type="4">
         <text>appengine-maven-plugin</text>
@@ -2087,9 +2087,9 @@
       </register>
     </registers>
     <search>
-      <last-search>kot</last-search>
+      <last-search>serialization</last-search>
       <last-offset />
-      <last-pattern>kot</last-pattern>
+      <last-pattern>serialization</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -2097,7 +2097,6 @@
     </search>
     <history>
       <history-search>
-        <entry>right</entry>
         <entry>tag</entry>
         <entry>compa</entry>
         <entry>action</entry>
@@ -2117,6 +2116,7 @@
         <entry encoding="base64">XDxncmFwaF9pbWFnZVw+</entry>
         <entry>mysql</entry>
         <entry>kot</entry>
+        <entry>serialization</entry>
       </history-search>
       <history-cmd>
         <entry>170</entry>
