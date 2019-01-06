@@ -1360,7 +1360,8 @@
         <mark key="^" line="36" column="39" />
         <mark key="." line="36" column="39" />
       </file>
-      <file name="$USER_HOME$/git/ranking/pom.xml" timestamp="1546736394871">
+      <file name="$USER_HOME$/git/ranking/pom.xml" timestamp="1546737705692">
+        <mark key="'" line="65" column="24" />
         <mark key="[" line="61" column="21" />
         <mark key="]" line="68" column="0" />
         <mark key="^" line="68" column="0" />
@@ -1891,11 +1892,11 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/git/ranking/src/main/resources/application.properties" timestamp="1546736321814">
-        <mark key="[" line="2" column="71" />
-        <mark key="]" line="2" column="104" />
-        <mark key="^" line="2" column="104" />
-        <mark key="." line="2" column="104" />
+      <file name="$USER_HOME$/git/ranking/src/main/resources/application.properties" timestamp="1546737991340">
+        <mark key="[" line="2" column="105" />
+        <mark key="]" line="2" column="118" />
+        <mark key="^" line="2" column="118" />
+        <mark key="." line="2" column="118" />
       </file>
       <file name="$USER_HOME$/git/ex2/docker-compose.yml" timestamp="1521792150789">
         <mark key="[" line="9" column="0" />
@@ -1917,11 +1918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/git/utel/doc/refound.puml" />
-      <jump line="5566" column="30" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="5596" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="5589" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
-      <jump line="5610" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="5598" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2bb55724-3ab0-4546-9f9d-5059dc11c83e/console.sql" />
       <jump line="290" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/099fe9de-4bc4-4139-a942-da80cce39b66/console.sql" />
       <jump line="30" column="1" filename="$USER_HOME$/git/manganews-web-master/app/Controller/AppController.php" />
@@ -2017,6 +2013,11 @@
       <jump line="59" column="29" filename="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" />
       <jump line="94" column="82" filename="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" />
       <jump line="109" column="10" filename="$USER_HOME$/git/ora/src/main/resources/templates/api/sensor/test.html" />
+      <jump line="68" column="0" filename="$USER_HOME$/git/ranking/pom.xml" />
+      <jump line="53" column="21" filename="$USER_HOME$/git/ranking/pom.xml" />
+      <jump line="54" column="24" filename="$USER_HOME$/git/ranking/pom.xml" />
+      <jump line="62" column="69" filename="$USER_HOME$/git/ranking/pom.xml" />
+      <jump line="65" column="24" filename="$USER_HOME$/git/ranking/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2040,10 +2041,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>INSTANCE_CONNECTION_NAME</text>
+        <text>my-smart-password</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncmFwaF9pbWFnZVw+</text>
+        <text>mysql</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHZhciBjaGFydCA9IG5ldyBnb29nbGUudmlzdWFsaXphdGlvbi5MaW5lQ2hhcnQoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2dyYXBoX2ltYWdlJykpOwo=</text>
@@ -2083,17 +2084,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncmFwaF9pbWFnZVw+</last-search>
+      <last-search>mysql</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncmFwaF9pbWFnZVw+</last-pattern>
+      <last-pattern>mysql</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWtlQm90XD4=</entry>
         <entry encoding="base64">XDxzYXlKb2luRm9ydHVuZXRlbGxlclw+</entry>
         <entry>right</entry>
         <entry>tag</entry>
@@ -2113,6 +2113,7 @@
         <entry encoding="base64">XDxub3dcPg==</entry>
         <entry>date</entry>
         <entry encoding="base64">XDxncmFwaF9pbWFnZVw+</entry>
+        <entry>mysql</entry>
       </history-search>
       <history-cmd>
         <entry>170</entry>
