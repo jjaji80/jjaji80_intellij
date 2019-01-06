@@ -1360,6 +1360,12 @@
         <mark key="^" line="36" column="39" />
         <mark key="." line="36" column="39" />
       </file>
+      <file name="$USER_HOME$/git/ranking/pom.xml" timestamp="1546736394871">
+        <mark key="[" line="61" column="21" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/model/NoteAttachment.kt" timestamp="1520317249746">
         <mark key="[" line="33" column="94" />
         <mark key="]" line="34" column="25" />
@@ -1885,6 +1891,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/git/ranking/src/main/resources/application.properties" timestamp="1546736321814">
+        <mark key="[" line="2" column="71" />
+        <mark key="]" line="2" column="104" />
+        <mark key="^" line="2" column="104" />
+        <mark key="." line="2" column="104" />
+      </file>
       <file name="$USER_HOME$/git/ex2/docker-compose.yml" timestamp="1521792150789">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -2028,7 +2040,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zml4ZWQg</text>
+        <text>INSTANCE_CONNECTION_NAME</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncmFwaF9pbWFnZVw+</text>
