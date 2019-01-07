@@ -816,7 +816,7 @@
         <mark key="." line="973" column="38" />
         <mark key="^" line="973" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546738561735">
+      <file name="/Dummy.txt" timestamp="1546853431914">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
@@ -1723,6 +1723,13 @@
         <mark key="." line="7" column="40" />
         <mark key="^" line="7" column="18" />
       </file>
+      <file name="$USER_HOME$/git/ranking-zan/.gitignore" timestamp="1546853424541">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+      </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/AppleReceiptDto.kt" timestamp="1531812924660">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="30" />
@@ -1958,8 +1965,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="28" filename="$USER_HOME$/git/manganews-web-master/app/Controller/UsersController.php" />
-      <jump line="9" column="6" filename="$USER_HOME$/git/manganews-web-master/app/Controller/UsersController.php" />
       <jump line="41" column="35" filename="$USER_HOME$/git/manganews-web-master/app/Controller/UsersController.php" />
       <jump line="42" column="35" filename="$USER_HOME$/git/manganews-web-master/app/Controller/UsersController.php" />
       <jump line="43" column="35" filename="$USER_HOME$/git/manganews-web-master/app/Controller/UsersController.php" />
@@ -2058,6 +2063,8 @@
       <jump line="23" column="0" filename="$USER_HOME$/git/ranking/src/main/resources/templates/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/git/ora/src/main/resources/templates/admin/shop/index.html" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-core/4.0.7/twitter4j-core-4.0.7-sources.jar!/twitter4j/User.java" />
+      <jump line="1" column="2" filename="$USER_HOME$/git/ranking-zan/.gitignore" />
+      <jump line="0" column="2" filename="$USER_HOME$/git/ranking-zan/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2084,7 +2091,7 @@
         <text encoding="base64">fSI+PC8=</text>
       </register>
       <register name="/" type="4">
-        <text>getUR</text>
+        <text>mvn</text>
       </register>
       <register name="0" type="4">
         <text>真 三國無双 漸 ユーザーランキング from Twitter</text>
@@ -2124,9 +2131,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getUR</last-search>
+      <last-search>mvn</last-search>
       <last-offset />
-      <last-pattern>getUR</last-pattern>
+      <last-pattern>mvn</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -2134,7 +2141,6 @@
     </search>
     <history>
       <history-search>
-        <entry>code</entry>
         <entry>,</entry>
         <entry>img</entry>
         <entry>cht</entry>
@@ -2154,6 +2160,7 @@
         <entry>#</entry>
         <entry>getUr</entry>
         <entry>getUR</entry>
+        <entry>mvn</entry>
       </history-search>
       <history-cmd>
         <entry>255</entry>
