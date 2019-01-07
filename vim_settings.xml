@@ -848,11 +848,12 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/git/ranking-zan/src/main/resources/templates/index.html" timestamp="1546856316291">
-        <mark key="[" line="41" column="58" />
-        <mark key="]" line="41" column="58" />
-        <mark key="^" line="41" column="48" />
-        <mark key="." line="41" column="58" />
+      <file name="$USER_HOME$/git/ranking-zan/src/main/resources/templates/index.html" timestamp="1546858487138">
+        <mark key="'" line="33" column="5" />
+        <mark key="[" line="30" column="2" />
+        <mark key="]" line="30" column="2" />
+        <mark key="." line="30" column="2" />
+        <mark key="^" line="29" column="2" />
       </file>
       <file name="$USER_HOME$/git/ora/src/main/kotlin/ora/leadlife/co/jp/controller/rest/UsersController.kt" timestamp="1520316815711">
         <mark key="[" line="16" column="27" />
@@ -1978,7 +1979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="35" filename="$USER_HOME$/git/manganews-web-master/app/Controller/UsersController.php" />
       <jump line="42" column="35" filename="$USER_HOME$/git/manganews-web-master/app/Controller/UsersController.php" />
       <jump line="43" column="35" filename="$USER_HOME$/git/manganews-web-master/app/Controller/UsersController.php" />
       <jump line="44" column="35" filename="$USER_HOME$/git/manganews-web-master/app/Controller/UsersController.php" />
@@ -2078,6 +2078,7 @@
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-core/4.0.7/twitter4j-core-4.0.7-sources.jar!/twitter4j/User.java" />
       <jump line="1" column="2" filename="$USER_HOME$/git/ranking-zan/.gitignore" />
       <jump line="0" column="2" filename="$USER_HOME$/git/ranking-zan/.gitignore" />
+      <jump line="30" column="5" filename="$USER_HOME$/git/ranking-zan/src/main/resources/templates/index.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2101,7 +2102,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InZpZXdGbGFnIiB0eXBlPSIqLy0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>padding-left: 20px&quot;</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
         <text>mvn</text>
@@ -2110,37 +2111,37 @@
         <text encoding="base64">ICAgIDxiciAvPgogICAgPGJyIC8+CiAgICA8YnIgLz4KICAgIDxiciAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj48aSBjbGFzcz0iZmEgZmEtZ29vZ2xlLXBsdXMtc3F1YXJlIj48L2k+PC9zcGFuPgo=</text>
+        <text encoding="base64">ICA8bWV0YSBjb250ZW50PSJ3aWR0aD0xMjQyIiBuYW1lPSJ2aWV3cG9ydCIgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj48aSBjbGFzcz0iZmEgZmEtZmFjZWJvb2stc3F1YXJlIj48L2k+PC9zcGFuPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj48aSBjbGFzcz0iZmEgZmEtdHdpdHRlci1zcXVhcmUiPjwvaT48L3NwYW4+CiAgICAgICAgICAgICAgPHNwYW4+PGkgY2xhc3M9ImZhIGZhLWdvb2dsZS1wbHVzLXNxdWFyZSI+PC9pPjwvc3Bhbj4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPnw8L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj48aSBjbGFzcz0iZmEgZmEtZ29vZ2xlLXBsdXMtc3F1YXJlIj48L2k+PC9zcGFuPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4+PGkgY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tY29tbWVudCI+PC9pPiAyIGNvbW1lbnRzPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj48aSBjbGFzcz0iZmEgZmEtZmFjZWJvb2stc3F1YXJlIj48L2k+PC9zcGFuPgo=</text>
       </register>
       <register name="u" type="4">
         <text>u</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPnw8L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3Bhbj48aSBjbGFzcz0iZmEgZmEtdHdpdHRlci1zcXVhcmUiPjwvaT48L3NwYW4+CiAgICAgICAgICAgICAgPHNwYW4+PGkgY2xhc3M9ImZhIGZhLWdvb2dsZS1wbHVzLXNxdWFyZSI+PC9pPjwvc3Bhbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPjxzcGFuPjxpIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLWNhbGVuZGFyIj48L2k+IDIgZGF5cywgOCBob3VycyA8L3NwYW4+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPnw8L2xpPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwIGNsYXNzPSJ0ZXh0LXJpZ2h0Ij5CeSBGcmFuY2lzY288L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4+PGkgY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tY29tbWVudCI+PC9pPiAyIGNvbW1lbnRzPC9zcGFuPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS0vKkB0aHltZXNWYXIgaWQ9InVzZXIiIHR5cGU9InR3aXR0ZXI0ai5Vc2VyIiovLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPnw8L2xpPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2192,10 +2193,10 @@
         <entry>18</entry>
         <entry>64,80d</entry>
         <entry>54</entry>
-        <entry>w</entry>
         <entry>59,94d</entry>
         <entry>23</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
